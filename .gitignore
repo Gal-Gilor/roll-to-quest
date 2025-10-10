@@ -218,3 +218,6 @@ __marimo__/
 # AI Editors
 .cursor/
 CLAUDE.md
+
+# data folder
+data/
