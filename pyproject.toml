@@ -1,0 +1,56 @@
+[tool.poetry]
+name = "roll-to-quest"
+version = "0.1"
+description = "Example scripts playground"
+authors = ["Gal Gilor <gilorgal2010@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.14"
+pydantic = "^2.12.0"
+pydantic-settings = "^2.11.0"
+fastapi = "^0.118.3"
+uvicorn = "^0.37.0"
+aiohttp = "^3.13.0"
+jinja2 = "^3.1.6"
+google-genai = "^1.42.0"
+google-cloud-storage = "^3.4.1"
+gcloud-aio-storage = "^9.6.0"
+transformers = "^4.57.0"
+sentence-transformers = "^5.1.1"
+peft = "^0.17.1"
+accelerate = "^1.10.1"
+torch = {version = "^2.6.0", source = "pytorch-cu124"}
+pinecone = "^7.3.0"
+
+
+[[tool.poetry.source]]
+name = "pytorch-cu124"
+url = "https://download.pytorch.org/whl/cu124"
+priority = "explicit"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.30.1"
+black = "^25.9.0"
+ruff = "^0.14.0"
+isort = "^6.1.0"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 94
+fix = true
+select = ["E", "F", "I"]
+
+[tool.ruff.lint.isort]
+force-single-line = true
+
+[tool.ruff.format]
+quote-style = "double"
+line-ending = "auto"
+docstring-code-format = true
+
+
