@@ -1,3 +1,55 @@
+"""Async Google Cloud Storage utilities for bucket and blob operations.
+
+This module provides async wrappers around the `gcloud-aio-storage` library for
+interacting with Google Cloud Storage (GCS). It simplifies common operations like
+uploading, downloading, listing, and deleting blobs while maintaining async/await
+compatibility for high-performance applications.
+
+Key Features:
+    - Asynchronous for non-blocking I/O operations
+    - Custom AsyncStorageBucket class with useful methods:
+        - upload_blob
+        - download_blob
+        - list_blobs
+        - blob_exists
+        - delete_blob
+        - get_blob_metadata
+
+Authentication:
+    Requires Google Cloud credentials. The gcloud-aio-storage library automatically
+    uses Application Default Credentials (ADC), which discovers credentials by checking
+    in this order:
+    1. GOOGLE_APPLICATION_CREDENTIALS environment variable (path to service account JSON)
+    2. Attached service account (when running on GCE, Cloud Run, Cloud Functions, etc.)
+    3. User credentials from gcloud CLI (gcloud auth application-default login)
+
+Common Use Cases:
+    - Upload processed data to GCS buckets
+    - Download training data or model artifacts
+    - Check blob existence before expensive operations
+    - List and filter blobs by prefix
+    - Retrieve blob metadata (size, content-type, etc.)
+
+Example Usage:
+    >>> # Get a bucket instance
+    >>> bucket = await get_storage_bucket("my-bucket")
+    >>>
+    >>> # Upload a file
+    >>> await bucket.upload_blob("local/file.txt", "remote/path/file.txt")
+    >>>
+    >>> # Download a file
+    >>> await bucket.download_blob("remote/path/file.txt", "local/output.txt")
+    >>>
+    >>> # List blobs with prefix
+    >>> blobs = await bucket.list_blobs(prefix="data/")
+    >>>
+    >>> # Check if blob exists
+    >>> exists = await bucket.blob_exists("remote/path/file.txt")
+
+URL Utilities:
+    - extract_file_path_from_gsutil_url: Parse gs:// URLs to extract file paths
+"""
+
 from pathlib import Path
 from typing import Optional
 from urllib.parse import urlparse

@@ -1,3 +1,62 @@
+"""Markdown document splitter based on header hierarchy.
+
+This module provides the MarkdownSplitter class for parsing Markdown documents
+and splitting them into semantic sections based on header levels (# through #####).
+It maintains hierarchical relationships between sections and tracks sibling headers
+at the same level.
+
+Key Features:
+    - Header-based splitting: Splits on # through ##### headers
+    - Hierarchy preservation: Tracks parent-child relationships up to 5 levels
+    - Sibling tracking: Identifies headers at the same level with same parent
+    - Code block handling: Correctly ignores # in code blocks (```...```)
+    - Flexible input: Accepts strings or file paths
+    - Structured output: Returns Section objects with rich metadata
+
+Header Pattern:
+    Valid Markdown headers must match: `^(#+)\s+(.+)$`
+    Examples:
+        - Valid: "# Title", "## Subtitle", "### Section"
+        - Invalid: "#Title" (no space), "######### Too many" (>5 levels)
+
+Section Metadata:
+    Each Section contains:
+    - section_header: Header text without # markers
+    - section_text: Content between this header and next
+    - header_level: Level 1-5 (1 for #, 2 for ##, etc.)
+    - metadata: SectionMetadata with:
+        - parents: Dict mapping levels to parent headers (e.g., {"h1": "Main", "h2": "Sub"})
+        - siblings: List of headers at same level with same parent
+        - token_count: Number of tokens in section
+        - other metadata fields
+
+Use Cases:
+    - Document preprocessing for embedding generation
+    - Creating hierarchical document outlines
+    - Splitting long documents for LLM context windows
+    - Building document navigation structures
+
+Example Usage:
+    >>> splitter = MarkdownSplitter()
+    >>> text = '''
+    ... # Introduction
+    ... Welcome to the guide.
+    ... ## Setup
+    ... Install the package.
+    ... ## Usage
+    ... Run the script.
+    ... '''
+    >>> sections = splitter.split_text(text)
+    >>> sections[0].section_header
+    'Introduction'
+    >>> sections[1].metadata.parents
+    {'h1': 'Introduction'}
+    >>> sections[1].metadata.siblings
+    ['Usage']
+    >>>
+    >>> # Or split directly from file
+    >>> sections = MarkdownSplitter.from_file("document.md")
+"""
 import os
 import re
 from pathlib import Path

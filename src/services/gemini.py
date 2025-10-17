@@ -1,3 +1,34 @@
+"""Google GenAI client utilities with automatic retry and error handling.
+
+This module provides functions for interacting with Google's `google-genai` SDK,
+including content generation and embedding creation, with built-in retry logic
+for handling transient API errors (e.g., rate limits, server errors).
+
+Key Features:
+    - Automatic retry with exponential backoff for transient errors
+    - Configurable jitter to prevent thundering herd issues
+    - Retry only on specific HTTP status codes (500, 503, 429)
+    - Async-friendly content generation and embedding functions
+
+Retry Strategy:
+    - Retryable status codes: 500 (Server Error), 503 (Service Unavailable), 429 (Rate Limit)
+    - Default: 5 retries with exponential backoff (1s, 2s, 4s, 8s, 16s)
+    - Optional jitter: ±50% randomization to avoid synchronized retries
+    - Non-retryable errors: Raised immediately (e.g., 400 Bad Request, 401 Unauthorized)
+
+Usage:
+    The retry decorator can be applied to any function that may raise APIError:
+
+    >>> @retry_transient_errors(max_retries=3)
+    ... async def my_api_call():
+    ...     return await client.models.generate_content(...)
+
+    Or use the provided convenience functions:
+
+    >>> response = await generate_content_async("What is Python?")
+    >>> embeddings = await generate_embeddings_async("Hello world")
+"""
+
 import functools
 import random
 import time
@@ -59,10 +90,13 @@ def retry_transient_errors(
 
                 except APIError as e:
                     last_exception = e
+                    # Only retry on transient server errors and rate limits
                     is_retryable = e.status_code in (500, 503, 429)
                     has_retries_left = attempt < max_retries
 
                     if is_retryable and has_retries_left:
+                        # Apply jitter: randomize wait time between 50% and 100% of delay
+                        # This prevents synchronized retries from multiple clients
                         wait_time = (
                             delay * (0.5 + random.random() / 2) if use_jitter else delay
                         )
@@ -71,8 +105,10 @@ def retry_transient_errors(
                             f"{attempt}/{max_retries}. Retrying in {wait_time:.2f}s..."
                         )
                         time.sleep(wait_time)
+                        # Exponential backoff: double the delay for next attempt
                         delay *= backoff_factor
                     else:
+                        # Either non-retryable error or out of retries
                         raise
 
             # This line is reached only if all retries exhausted without success
