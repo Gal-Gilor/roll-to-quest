@@ -23,6 +23,8 @@ peft = "^0.17.1"
 accelerate = "^1.10.1"
 torch = {version = "^2.6.0", source = "pytorch-cu124"}
 pinecone = "^7.3.0"
+pytest = "^8.4.2"
+pytest-asyncio = "^1.2.0"
 
 
 [[tool.poetry.source]]
@@ -52,5 +54,8 @@ force-single-line = true
 quote-style = "double"
 line-ending = "auto"
 docstring-code-format = true
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
 
 
