@@ -207,6 +207,7 @@ class MarkdownSplitter:
             if not header_stack:  # Top level
                 document_outline[header_text] = current_node
                 current_path_stack = [header_text]
+
             else:
                 current_parent = document_outline
                 for path_element in current_path_stack:
