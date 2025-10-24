@@ -41,7 +41,9 @@ Example Usage:
     python -m src.scripts.chunk_documents --filepath /path/to/files
 
     # Process single file with custom output location
-    python -m src.scripts.chunk_documents --filepath data --filename doc.txt --output data/output
+    python -m src.scripts.chunk_documents \
+        --filepath data --filename doc.txt \
+        --output data/output
 
     # With poetry
     poetry run python -m src.scripts.chunk_documents
@@ -221,7 +223,9 @@ def parse_arguments() -> argparse.Namespace:
             - output: Output directory for chunked JSON files
     """
     parser = argparse.ArgumentParser(
-        description="Chunk text documents (.txt, .md) using MarkdownSplitter and save as JSONL.",
+        description=(
+            "Chunk text documents (.txt, .md) using MarkdownSplitter and save as JSONL."
+        ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=dedent(
             """

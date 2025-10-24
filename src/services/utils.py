@@ -1,6 +1,6 @@
 """Utility functions for batch processing, async file streaming, and template rendering.
 
-This module provides reusable utilities for common operations in data processing pipelines:
+This module provides utilities for common operations in the data processing pipeline:
 - Batching iterables into fixed-size chunks for efficient processing
 - Streaming large JSONL files line-by-line without loading into memory
 - Asynchronous Jinja2 template rendering
@@ -14,8 +14,9 @@ Key Features:
 Typical Use Cases:
     - Processing large JSONL files in manageable batches
     - Streaming document chunks for embedding generation
-    - Rendering prompts from templates for LLM API calls
+    - Rendering prompts using Jinja2 templates (asynchronously)
 """
+
 import itertools
 import json
 from pathlib import Path
@@ -123,9 +124,7 @@ async def read_chunks_in_batches(
         raise ValueError(f"end_line must be at least 1, got {end_line}")
 
     if start_line is not None and end_line is not None and start_line > end_line:
-        raise ValueError(
-            f"start_line ({start_line}) must be <= end_line ({end_line})"
-        )
+        raise ValueError(f"start_line ({start_line}) must be <= end_line ({end_line})")
 
     current_batch: list[dict[str, Any]] = []
     line_number = 0
@@ -162,8 +161,7 @@ async def read_chunks_in_batches(
 
             except json.JSONDecodeError as e:
                 error_msg = (
-                    f"Failed to parse JSON at line {line_number} "
-                    f"in {file_path}: {e}"
+                    f"Failed to parse JSON at line {line_number} " f"in {file_path}: {e}"
                 )
 
                 # In strict mode, fail fast on invalid JSON

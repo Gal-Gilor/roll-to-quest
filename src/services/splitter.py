@@ -57,6 +57,7 @@ Example Usage:
     >>> # Or split directly from file
     >>> sections = MarkdownSplitter.from_file("document.md")
 """
+
 import os
 import re
 from pathlib import Path
@@ -164,7 +165,7 @@ class MarkdownSplitter:
                        (e.g., "# Header 1", "## Header 2", etc.).
 
         Returns:
-            Dict: A nested dictionary representing the document structure where each node contains:
+            Dict: A nested dictionary representing a document where each node contains:
                 - content (str): The text content under the header
                 - level (int): The header level (1 for H1, 2 for H2, etc.)
                 - children (Dict): Nested headers under this header
@@ -293,11 +294,11 @@ class MarkdownSplitter:
     def _create_sections_from_outline(
         self, outline: Dict, parent_headers: Dict[str, Optional[str]] = None
     ) -> List[Section]:
-        """Convert a document outline into a flat list of Section objects with hierarchy information.
+        """Convert a document outline into Section objects with hierarchy information.
 
         Traverses the hierarchical document outline and creates Section objects and maintain
-        the parent-child relationships and sibling connections. Recursively processes the outline
-        to handle nested headers of any depth
+        the parent-child relationships and sibling connections.
+        Recursively processes the outline to handle nested headers of any depth
 
         Args:
             outline (Dict): A nested dictionary representing the document structure.

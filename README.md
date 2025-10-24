@@ -30,20 +30,22 @@ This repository includes tools for processing tabletop RPG source materials into
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/roll-to-quest.git
+git clone https://github.com/Gal-Gilor/roll-to-quest.git
 cd roll-to-quest
 
 # Install dependencies
 poetry install
-
-# Set up environment variables
-cp .env.example .env
-# Edit .env with your API keys and configuration
 ```
 
 ### Environment Configuration
 
-Create a `.env` file with the following variables:
+Copy the provided `.env.example` template and configure it with your credentials:
+
+```bash
+cp .env.example .env
+```
+
+Then edit `.env` with the following variables:
 
 ```env
 GOOGLE_CLOUD_PROJECT=your-project-id
