@@ -87,3 +87,43 @@ def temp_file(tmp_path):
     file_path = tmp_path / "test_file.txt"
     file_path.write_text("This is test content")
     return file_path
+
+
+@pytest.fixture
+def sample_valid_triplet():
+    """Single valid triplet for unit testing."""
+    return {
+        "anchor": "What is a fireball spell?",
+        "positive": "Fireball is a 3rd-level evocation spell that deals fire damage.",
+        "negative": "Lightning bolt is a 3rd-level evocation spell that deals lightning damage.",
+    }
+
+
+@pytest.fixture
+def sample_invalid_triplets():
+    """Collection of invalid triplets for validation testing."""
+    return [
+        {"anchor": "test", "positive": "text"},  # Missing negative field
+        {"anchor": "", "positive": "text", "negative": "text"},  # Empty anchor
+        {"anchor": "text", "positive": "   ", "negative": "text"},  # Whitespace positive
+        {"positive": "text", "negative": "text"},  # Missing anchor field
+        {"anchor": None, "positive": "text", "negative": "text"},  # Null anchor
+    ]
+
+
+@pytest.fixture
+def sample_triplets_with_duplicates():
+    """Triplets with intentional duplicates for duplicate detection testing."""
+    return [
+        {"anchor": "Q1", "positive": "P1", "negative": "N1"},
+        {"anchor": "Q2", "positive": "P2", "negative": "N2"},
+        {"anchor": "Q1", "positive": "P1", "negative": "N1"},  # Exact duplicate of first
+        {"anchor": "Q3", "positive": "P3", "negative": "N3"},
+    ]
+
+
+@pytest.fixture
+def temp_triplets_jsonl(tmp_path):
+    """Create temporary JSONL file with sample triplets."""
+    file_path = tmp_path / "triplets.jsonl"
+    return file_path
