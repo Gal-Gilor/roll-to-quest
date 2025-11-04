@@ -127,3 +127,72 @@ def temp_triplets_jsonl(tmp_path):
     """Create temporary JSONL file with sample triplets."""
     file_path = tmp_path / "triplets.jsonl"
     return file_path
+
+
+@pytest.fixture
+def temp_data_dir(tmp_path):
+    """Create a temporary data directory for test files."""
+    data_dir = tmp_path / "data"
+    data_dir.mkdir()
+    return data_dir
+
+
+@pytest.fixture
+def valid_triplets_file(temp_data_dir):
+    """Create a JSONL file with valid triplets."""
+    import json
+
+    file_path = temp_data_dir / "valid_triplets.jsonl"
+
+    triplets = [
+        {
+            "anchor": "What is Python?",
+            "positive": "Python is a high-level programming language.",
+            "negative": "Java is an object-oriented programming language.",
+        },
+        {
+            "anchor": "How do you create a list?",
+            "positive": "Use square brackets: my_list = [1, 2, 3]",
+            "negative": "Use curly braces: my_set = {1, 2, 3}",
+        },
+        {
+            "anchor": "What is a dictionary?",
+            "positive": "A dictionary is a key-value data structure in Python.",
+            "negative": "A list is an ordered collection of items.",
+        },
+    ]
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        for triplet in triplets:
+            f.write(json.dumps(triplet) + "\n")
+
+    return file_path
+
+
+@pytest.fixture
+def mixed_validity_file(temp_data_dir):
+    """Create a JSONL file with both valid and invalid triplets."""
+    import json
+
+    file_path = temp_data_dir / "mixed_triplets.jsonl"
+
+    lines = [
+        json.dumps({"anchor": "Q1", "positive": "P1", "negative": "N1"}),
+        json.dumps({"anchor": "Q2", "positive": "P2"}),  # Missing 'negative'
+        json.dumps({"anchor": "Q3", "positive": "P3", "negative": "N3"}),
+        json.dumps({"anchor": "", "positive": "P4", "negative": "N4"}),  # Empty anchor
+        json.dumps({"anchor": "Q5", "positive": "P5", "negative": "N5"}),
+    ]
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+    return file_path
+
+
+@pytest.fixture
+def empty_file(temp_data_dir):
+    """Create an empty JSONL file."""
+    file_path = temp_data_dir / "empty.jsonl"
+    file_path.touch()
+    return file_path
