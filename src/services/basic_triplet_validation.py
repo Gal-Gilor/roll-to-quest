@@ -19,9 +19,7 @@ from src.settings import logger
 from src.triplet_generation.models import Triplet
 
 
-async def validate_triplets_file(
-    file_path: str | Path, batch_size: int = 100
-) -> dict:
+async def validate_triplets_file(file_path: str | Path, batch_size: int = 100) -> dict:
     """Validate a JSONL file containing triplets.
 
     Performs basic validation checks:
