@@ -2,20 +2,20 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)
-![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
 ![Poetry](https://img.shields.io/badge/poetry-2.0.1-blue)
+![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)
 
-A playground for experimenting with D&D-related applications and developing custom scripts for personal use. While built primarily for my own D&D projects, this repository contains utilities that other developers may find useful and easily adaptable for their own needs.
+A playground for D&D-related applications and custom scripts. Built for personal use, but the utilities may be useful for other projects.
 
-This project is part of a suite of tools for document processing and embedding model development, alongside [Gemini Scribe](https://github.com/Gal-Gilor/gemini-scribe) (PDF to Markdown conversion) and [Markdown MCP](https://github.com/Gal-Gilor/markdown-mcp) (production-grade MCP server for Markdown chunking).
+Part of a document processing toolchain with [Gemini Scribe](https://github.com/Gal-Gilor/gemini-scribe) (PDF to Markdown) and [Markdown MCP](https://github.com/Gal-Gilor/markdown-mcp) (MCP server for Markdown chunking).
 
 ## What's Inside
 
-This repository includes tools for processing tabletop RPG source materials into structured, machine-learning-ready formats:
+Tools for creating D&D 5e training datasets for embedding models. The process can be adapted to other domains.
 
-- **Document Chunking**: Split Markdown documents into semantic sections based on header hierarchy, with code-aware parsing that preserves parent-child relationships and sibling headers
-- **Triplet Generation**: Generate training triplets (anchor, positive, negative) for fine-tuning embedding models using Google Gemini
-- **Async Cloud Storage**: Utilities for working with Google Cloud Storage
+- **Document Chunking**: Split Markdown documents into semantic sections based on header hierarchy (H1-H5), preserving parent-child relationships and sibling context
+- **Pair Generation**: Create anchor-positive training pairs from chunks using Google Gemini, where anchors are natural language queries and positives are the source text
+- **Cloud Storage**: Async utilities for reading and writing to Google Cloud Storage
 
 ## Quick Start
 
@@ -72,21 +72,21 @@ poetry run python -m src.scripts.chunk_documents
 poetry run python -m src.scripts.chunk_documents --filepath data --filename my_document.md
 ```
 
-**Output**: JSONL files with sections containing headers, content, hierarchy metadata, and parent/sibling relationships.
+Output: JSONL files with headers, content, hierarchy metadata, and parent/sibling relationships.
 
-### 2. Generate Training Triplets
+### 2. Generate Training Pairs
 
-Create anchor-positive-negative triplets for embedding model fine-tuning:
+Create anchor-positive pairs from chunked documents:
 
 ```bash
-# Generate triplets from chunked documents
-poetry run python -m src.scripts.generate_triplets document_chunks.jsonl
+# Generate pairs from chunked documents
+poetry run python -m src.scripts.generate_pairs document_chunks.jsonl
 
 # Process a specific range of lines (useful for large files)
-poetry run python -m src.scripts.generate_triplets document_chunks.jsonl --start-line 1 --end-line 100
+poetry run python -m src.scripts.generate_pairs document_chunks.jsonl --start-line 1 --end-line 100
 ```
 
-**Output**: JSONL file with triplets ready for model training.
+Output: JSONL file with anchor-positive pairs for model training.
 
 ## Development
 
@@ -106,19 +106,16 @@ poetry run pytest tests/test_splitters.py
 ### Code Quality
 
 ```bash
-# Format code
-poetry run black src/ tests/
-
 # Lint and auto-fix
-poetry run ruff check src/ tests/
+poetry run ruff check src/ tests/ --fix
 
-# Sort imports
-poetry run isort src/ tests/
+# Format code
+poetry run ruff format src/ tests/
 ```
 
 ## Architecture
 
-The project follows a simple pipeline architecture:
+Pipeline:
 
 ```
 PDF Source Materials (use Gemini Scribe for conversion)
@@ -127,80 +124,56 @@ Markdown Documents (.txt, .md)
     ↓
 chunk_documents.py → Semantic sections with metadata
     ↓
-generate_triplets.py → Training triplets (anchor, positive, negative)
-    ↓
-Fine-tune embedding models
+generate_pairs.py → Anchor-positive pairs (JSONL)
 ```
 
 ### Key Components
 
-- **`src/settings.py`**: Centralized configuration using pydantic-settings
-- **`src/services/splitter.py`**: Markdown document splitter with hierarchy tracking
-- **`src/triplet_generation/`**: Async triplet generation using Gemini API
-- **`src/services/cloud_storage.py`**: Async Google Cloud Storage wrapper
-- **`src/templates/`**: Jinja2 templates for prompt engineering
+- `src/settings.py` - Configuration using pydantic-settings
+- `src/services/splitter.py` - Markdown splitter with hierarchy tracking
+- `src/pair_generation/` - Async pair generation using Gemini API
+- `src/services/cloud_storage.py` - Async Google Cloud Storage wrapper
+- `src/templates/` - Jinja2 templates for prompts
 
 ## Use Cases
 
-While designed for D&D content, these utilities are adaptable for:
+These utilities work with any Markdown content:
 
-- Processing any Markdown documentation with header hierarchies
-- Creating training data for domain-specific embedding models
-- Building hierarchical document navigation systems
-- Splitting long-form content for RAG (Retrieval-Augmented Generation) applications
+- Processing documentation with header hierarchies
+- Creating training data for embedding models
+- Building document navigation systems
+- Splitting content for RAG applications
 
 ## Related Projects
 
 ### [Gemini Scribe](https://github.com/Gal-Gilor/gemini-scribe)
 
-A FastAPI service for converting PDF documents to clean Markdown using Google Gemini. Gemini Scribe works seamlessly with Roll-to-Quest as a preprocessing step:
+FastAPI service for converting PDFs to Markdown using Google Gemini. Use it as a preprocessing step:
 
-**Workflow:**
 ```
 PDF Source Materials
     ↓
 Gemini Scribe → Clean Markdown files
     ↓
-Roll-to-Quest → Chunked sections → Training triplets
+Roll-to-Quest → Chunked sections → Anchor-positive pairs
 ```
 
-**Key Features:**
-- PDF to Markdown conversion using Gemini
-- Google Cloud Storage integration
-- High-performance async processing
-- Docker containerization for easy deployment
-- Google Cloud Run ready
-
-If you're working with PDF source materials (like D&D rulebooks), use Gemini Scribe to convert them to Markdown first, then process them with Roll-to-Quest's chunking and triplet generation utilities.
+Features: PDF to Markdown conversion, Google Cloud Storage integration, async processing, Docker support, Cloud Run ready.
 
 ### [Markdown MCP](https://github.com/Gal-Gilor/markdown-mcp)
 
-A production-grade Model Context Protocol (MCP) server that provides LLMs with tools to chunk Markdown documents into hierarchical sections. This server demonstrates how to extend language model capabilities through the MCP standard.
+MCP server that gives LLMs tools to chunk Markdown into hierarchical sections.
 
-**What is MCP?**
+MCP (Model Context Protocol) lets LLMs access external tools and data sources. This server implements the protocol for document processing.
 
-The Model Context Protocol enables LLMs to securely access external tools and data sources. Markdown MCP implements this protocol to give language models sophisticated document processing capabilities.
+Features: Hierarchical splitting (H1-H5), parent-child relationships, sibling tracking, code-aware parsing, Pydantic models, FastAPI async server.
 
-**Key Features:**
-- Hierarchical Markdown splitting (H1 → H2 → H3 → H4 → H5)
-- Preserves parent-child header relationships
-- Detects and tracks sibling headers
-- Code-aware processing (ignores `#` in code blocks)
-- Type-safe Pydantic models
-- FastAPI-based high-performance async server
-
-**Use Case:**
-
-While Roll-to-Quest includes standalone Markdown chunking utilities for direct Python use, Markdown MCP packages similar functionality as an MCP server, allowing any MCP-compatible language model to perform document chunking through a standardized protocol interface.
-
-**Comparison:**
-- **Roll-to-Quest**: Python library approach - import and use directly in your code
-- **Markdown MCP**: Server approach - expose chunking capabilities to LLMs via MCP protocol
+Roll-to-Quest provides the same chunking as a Python library. Markdown MCP exposes it via MCP protocol for LLM integration.
 
 ## Contributing
 
-This is primarily a personal project, but feel free to fork, modify, and adapt the code for your own needs. If you find bugs or have suggestions, issues and pull requests are welcome!
+Personal project. Fork and adapt as needed. Issues and PRs welcome.
 
 ## Disclaimer
 
-This repository is for personal use and experimentation. The code is provided as-is, and while I've included tests and documentation, it's designed primarily for my own workflow. Adapt and use at your own discretion.
+Provided as-is for personal use. Adapt at your own discretion.
