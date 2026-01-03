@@ -1,3 +1,19 @@
+---
+license: cc-by-4.0
+language:
+  - en
+task_categories:
+  - text-retrieval
+  - text-ranking
+tags:
+  - dnd
+  - dungeons-and-dragons
+  - anchor-positive
+pretty_name: "D&D 5e SRD Anchor-Positive Pairs"
+size_categories:
+  - 10K<n<100K
+---
+
 # D&D 5e SRD Anchor-Positive Pairs
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -226,24 +242,17 @@ You must:
 ## Limitations
 
 ### Scope
-- SRD only: Limited to the System Reference Document (core D&D 5e subset)
-- No supplements: Excludes Xanathar's Guide, Tasha's Cauldron, and other expansions
-- Static snapshot: Based on SRD v5.2.1; does not include post-release errata
+- **SRD only**: Core D&D 5e subset (excludes Xanathar's, Tasha's, etc.)
+- **Static snapshot**: Based on SRD v5.2.1
 
 ### Data Quality
-- LLM-generated questions: Anchors created by Gemini 2.5 Flash may occasionally have unnatural phrasing
-- Automatic filtering: Empty/short chunks (<50 chars) automatically skipped via two-layer filtering (code + template)
-- Semantic boundaries: Some positives may be truncated at header boundaries
-- Query pattern coverage: Generated questions may not represent the full diversity of real player queries
-- Quality control: Template-level filtering instructs Gemini to skip chunks lacking sufficient information
-
-### Dataset Format
-This dataset contains only anchor-positive pairs for embedding model training.
+- **LLM-generated anchors**: May have occasional phrasing issues
+- **Header-based chunking**: Some passages truncated at section boundaries
+- **Filtering**: Chunks <50 chars automatically skipped
 
 ### Known Biases
-- Question types reflect prompt template design patterns
-- SRD content emphasizes combat mechanics over roleplay elements
-- Generated queries skew toward explicit rule lookups vs. interpretive questions
+- SRD emphasizes combat mechanics over roleplay
+- Queries favor explicit rule lookups over interpretive questions
 
 ## Contact & Contributions
 
