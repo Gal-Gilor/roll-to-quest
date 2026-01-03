@@ -34,9 +34,7 @@ priority = "explicit"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.30.1"
-black = "^25.9.0"
 ruff = "^0.14.0"
-isort = "^6.1.0"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
@@ -45,6 +43,8 @@ build-backend = "poetry.core.masonry.api"
 [tool.ruff]
 line-length = 94
 fix = true
+
+[tool.ruff.lint]
 select = ["E", "F", "I"]
 
 [tool.ruff.lint.isort]
