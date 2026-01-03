@@ -8,7 +8,6 @@ task_categories:
 tags:
   - dnd
   - dungeons-and-dragons
-  - anchor-positive
 pretty_name: "D&D 5e SRD Anchor-Positive Pairs"
 size_categories:
   - 10K<n<100K
@@ -68,7 +67,7 @@ for pair in pairs.select(range(5)):
 
 | Metric | Value |
 |--------|-------|
-| Total Pairs | 11,278 |
+| Total Pairs | 11,267 |
 | File Size | 7.8 MB |
 | Source Chunks | 2,126 |
 | Avg. Anchor Length | 55 characters |
