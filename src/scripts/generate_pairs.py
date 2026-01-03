@@ -136,35 +136,47 @@ async def main(
     batch_count = 0
     total_pairs = 0
 
-    # Stream processing: Open output file once and write results as they're generated
-    # This avoids loading all pairs into memory before writing
-    async with aiofiles.open(output_path, mode="w", encoding="utf-8") as f:
-        # Read chunks in batches using async streaming (memory efficient)
-        async for batch in read_chunks_in_batches(
-            file_path, start_line=start_line, end_line=end_line
-        ):
-            batch_count += 1
-            # Generate pairs for all chunks in batch concurrently
-            pairs = await generate_pairs_from_chunks(batch, template=template, client=client)
-
-            # Write each pair as a separate line in JSONL format
-            for pair in pairs:
-                await f.write(json.dumps(pair.model_dump()) + "\n")
-
-            total_pairs += len(pairs)
-
-            # Log progress every 10 batches to track long-running jobs
-            if batch_count % 10 == 0:
-                logger.info(
-                    f"Processed {batch_count} batches, {total_pairs} pairs generated so far"
+    try:
+        # Stream processing: Open output file once and write results as they're generated
+        # This avoids loading all pairs into memory before writing
+        async with aiofiles.open(output_path, mode="w", encoding="utf-8") as f:
+            # Read chunks in batches using async streaming (memory efficient)
+            async for batch in read_chunks_in_batches(
+                file_path, start_line=start_line, end_line=end_line
+            ):
+                batch_count += 1
+                # Generate pairs for all chunks in batch concurrently
+                pairs = await generate_pairs_from_chunks(
+                    batch, template=template, client=client
                 )
 
-    logger.info(f"Total: {batch_count} batches processed, {total_pairs} pairs generated")
+                # Write each pair as a separate line in JSONL format
+                for pair in pairs:
+                    await f.write(json.dumps(pair.model_dump()) + "\n")
 
-    logger.info(f"Pairs saved to: {output_path}")
-    process_end_time = time()
+                total_pairs += len(pairs)
 
-    return f"Processing completed in {process_end_time - process_start_time:.2f} seconds."
+                # Log progress every 10 batches to track long-running jobs
+                if batch_count % 10 == 0:
+                    logger.info(
+                        f"Processed {batch_count} batches, {total_pairs} pairs generated so far"
+                    )
+
+        logger.info(f"Total: {batch_count} batches processed, {total_pairs} pairs generated")
+        logger.info(f"Pairs saved to: {output_path}")
+        process_end_time = time()
+
+        return f"Processing completed in {process_end_time - process_start_time:.2f} seconds."
+
+    except (IOError, OSError, PermissionError) as e:
+        logger.error(f"File operation failed: {e}")
+        sys.exit(1)
+    except json.JSONDecodeError as e:
+        logger.error(f"Invalid JSON in input file: {e}")
+        sys.exit(1)
+    except Exception as e:
+        logger.error(f"Unexpected error during processing: {e}", exc_info=True)
+        sys.exit(1)
 
 
 if __name__ == "__main__":
@@ -190,6 +202,13 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
+
+    # Validate filename to prevent path traversal attacks
+    if "/" in args.filename or "\\" in args.filename or ".." in args.filename:
+        parser.error(
+            f"Invalid filename: {args.filename}. "
+            "Filename must not contain path separators or '..'."
+        )
 
     # Validate line range arguments
     if args.start_line is not None and args.start_line < 1:

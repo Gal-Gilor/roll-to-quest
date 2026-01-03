@@ -24,6 +24,8 @@ class Config(BaseSettings):
     PINECONE_API_KEY: str
     PINECONE_INDEX_HOST: str
 
+    HF_TOKEN: str | None = None  # HuggingFace Hub token for dataset uploads
+
     model_config = SettingsConfigDict(env_file=".env")
 
 
