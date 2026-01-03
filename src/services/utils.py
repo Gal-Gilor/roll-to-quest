@@ -160,9 +160,7 @@ async def read_chunks_in_batches(
                     current_batch = []
 
             except json.JSONDecodeError as e:
-                error_msg = (
-                    f"Failed to parse JSON at line {line_number} " f"in {file_path}: {e}"
-                )
+                error_msg = f"Failed to parse JSON at line {line_number} in {file_path}: {e}"
 
                 # In strict mode, fail fast on invalid JSON
                 # In lenient mode, log and continue (useful for partially corrupted files)

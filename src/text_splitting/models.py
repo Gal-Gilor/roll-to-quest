@@ -14,7 +14,8 @@ class Figure(BaseModel):
         None, description="A highly detailed description of the figure."
     )
     relevant_section: str | None = Field(
-        None, description="available, the header of the section where the figure is located."
+        None,
+        description="available, the header of the section where the figure is located.",
     )
 
 
@@ -25,7 +26,8 @@ class Table(BaseModel):
     caption: str | None = Field(None, description="If exists, the caption of the table.")
     table: str | None = Field(None, description="Markdown formatted table")
     relevant_section: str | None = Field(
-        None, description="If exists, the header of the section where the table is located."
+        None,
+        description="If exists, the header of the section where the table is located.",
     )
 
 

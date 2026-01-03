@@ -95,7 +95,7 @@ def sample_valid_triplet():
     return {
         "anchor": "What is a fireball spell?",
         "positive": "Fireball is a 3rd-level evocation spell that deals fire damage.",
-        "negative": "Lightning bolt is a 3rd-level evocation spell that deals lightning damage.",
+        "negative": "Lightning bolt is a 3rd-level evocation spell dealing lightning damage.",
     }
 
 
@@ -105,7 +105,11 @@ def sample_invalid_triplets():
     return [
         {"anchor": "test", "positive": "text"},  # Missing negative field
         {"anchor": "", "positive": "text", "negative": "text"},  # Empty anchor
-        {"anchor": "text", "positive": "   ", "negative": "text"},  # Whitespace positive
+        {
+            "anchor": "text",
+            "positive": "   ",
+            "negative": "text",
+        },  # Whitespace positive
         {"positive": "text", "negative": "text"},  # Missing anchor field
         {"anchor": None, "positive": "text", "negative": "text"},  # Null anchor
     ]
@@ -117,7 +121,11 @@ def sample_triplets_with_duplicates():
     return [
         {"anchor": "Q1", "positive": "P1", "negative": "N1"},
         {"anchor": "Q2", "positive": "P2", "negative": "N2"},
-        {"anchor": "Q1", "positive": "P1", "negative": "N1"},  # Exact duplicate of first
+        {
+            "anchor": "Q1",
+            "positive": "P1",
+            "negative": "N1",
+        },  # Exact duplicate of first
         {"anchor": "Q3", "positive": "P3", "negative": "N3"},
     ]
 

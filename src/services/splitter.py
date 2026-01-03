@@ -425,6 +425,7 @@ class MarkdownSplitter:
                 return splitter.split_text(f.read())
         except Exception as e:
             logger.error(
-                f"Failed to split the Markdown file: {path}. Error: {str(e)}", exc_info=True
+                f"Failed to split the Markdown file: {path}. Error: {str(e)}",
+                exc_info=True,
             )
             raise

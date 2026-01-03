@@ -1,18 +1,17 @@
-"""Generate training triplets from document chunks using GenAI with schema-based generation.
+"""Generate anchor-positive pairs from document chunks using GenAI.
 
-This module handles the core triplet generation logic, transforming document chunks
-into anchor-positive-negative triplets suitable for training embedding models.
+This module handles the core pair generation logic, transforming document chunks
+into anchor-positive pairs suitable for training embedding models.
 
-Triplet Structure:
+Pair Structure:
     - anchor: A query or question that relates to the content
     - positive: The original document chunk (relevant to the anchor)
-    - negative: Generated text that is semantically different but plausibly related
 
 Generation Process:
     1. For each chunk, render a Jinja2 template with the chunk text
-    2. Call GenAI API with structured output schema (AnchorNegativePair list)
-    3. Parse the JSON response into AnchorNegativePair objects
-    4. Convert pairs to full Triplet objects by adding original chunk as positive
+    2. Call GenAI API with structured output schema (AnchorOnly list)
+    3. Parse the JSON response into AnchorOnly objects
+    4. Convert to AnchorPositivePair objects by adding original chunk as positive
     5. Process multiple chunks concurrently using asyncio.gather
 
 Key Features:
@@ -23,15 +22,16 @@ Key Features:
     - Returns empty list on failure (fail gracefully)
 
 Environment Variables:
-    GENERATE_TRIPLETS_TEMPLATE: Template file name for anchor-negative generation
-        (default: "generate_anchor_negative.md")
+    GENERATE_PAIRS_TEMPLATE: Template file name for anchor-only generation
+        (default: "generate_anchor_only.md")
 
 Example:
     >>> chunks = [{"section_text": "Python is a programming language..."}]
-    >>> triplets = await generate_triplets_from_chunks(chunks)
-    >>> print(triplets[0].anchor)
+    >>> pairs = await generate_pairs_from_chunks(chunks)
+    >>> print(pairs[0].anchor)
     'What is Python?'
 """
+
 import asyncio
 import os
 from typing import Any
@@ -39,21 +39,23 @@ from typing import Optional
 
 import jinja2
 
+from src.pair_generation.models import AnchorOnly
+from src.pair_generation.models import AnchorPositivePair
 from src.services.gemini import generate_content_async
 from src.settings import client as default_client
 from src.settings import config
 from src.settings import jinja2_env_async
 from src.settings import logger
-from src.triplet_generation.models import AnchorNegativePair
-from src.triplet_generation.models import Triplet
 
 
-async def _generate_triplets_from_chunk(
+async def _generate_pairs_from_chunk(
     chunk: dict[str, Any],
     template: Optional[jinja2.Template] = None,
     client: Optional[Any] = None,
-) -> list[Triplet]:
-    """Generate triplets from a single chunk object.
+) -> list[AnchorPositivePair]:
+    """Generate anchor-positive pairs from a single chunk object.
+
+    This function generates pairs without negatives, using an anchor-only template.
 
     Args:
         chunk: A dictionary with keys: section_header, section_text,
@@ -62,9 +64,15 @@ async def _generate_triplets_from_chunk(
         template: Optional Jinja2 template. If None, loads default template.
 
     Returns:
-        List of Triplet objects generated from the chunk.
-    """
+        List of AnchorPositivePair objects generated from the chunk.
+        Returns empty list on failure (graceful degradation).
 
+    Example:
+        >>> chunk = {"section_text": "Python is a programming language..."}
+        >>> pairs = await _generate_pairs_from_chunk(chunk)
+        >>> len(pairs)
+        3  # e.g., 3 anchor-positive pairs
+    """
     if not client:
         client = default_client
 
@@ -72,35 +80,43 @@ async def _generate_triplets_from_chunk(
         # Load template if not provided (allows reuse across batches)
         if not template:
             template = await jinja2_env_async.get_template(
-                os.getenv("GENERATE_TRIPLETS_TEMPLATE", "generate_anchor_negative.md")
+                os.getenv("GENERATE_PAIRS_TEMPLATE", "generate_anchor_only.md")
             )
 
         # Extract section text from chunk and render template
         section_text = chunk.get("section_text", "")
+
+        # Skip empty or too-short chunks (code-level filter)
+        if not section_text or len(section_text.strip()) < 50:
+            logger.debug(
+                f"Skipping chunk - too short ({len(section_text.strip())} chars): "
+                f"{section_text[:50] if section_text else '(empty)'}..."
+            )
+            return []
+
         contents = await template.render_async(text=section_text)
 
-        # Generate anchor-negative pairs from GenAI using structured output
-        # Schema-based generation ensures the response is valid JSON matching AnchorNegativePair
+        # Generate anchor-only objects from GenAI using structured output
+        # Schema-based generation ensures the response is valid JSON matching AnchorOnly
         response = await generate_content_async(
             contents=contents,
             model=config.GENERATION_MODEL,
             client=client,
             generation_config={
                 "response_mime_type": "application/json",
-                "response_schema": list[AnchorNegativePair],
+                "response_schema": list[AnchorOnly],
             },
         )
 
-        # Convert anchor-negative pairs to full triplets
+        # Convert anchor-only objects to full anchor-positive pairs
         # The original section_text becomes the "positive" example
-        pairs = response.parsed or []
-        triplets = [
-            Triplet(
-                anchor=pair.anchor,
+        anchors = response.parsed or []
+        pairs = [
+            AnchorPositivePair(
+                anchor=anchor_obj.anchor,
                 positive=section_text,
-                negative=pair.negative,
             )
-            for pair in pairs
+            for anchor_obj in anchors
         ]
 
     except jinja2.TemplateNotFound as e:
@@ -108,22 +124,21 @@ async def _generate_triplets_from_chunk(
         raise e
 
     except Exception as e:
-        logger.error(f"Failed to generate triplets: {e}", exc_info=True)
+        logger.error(f"Failed to generate pairs: {e}", exc_info=True)
         return []
 
-    return triplets
+    return pairs
 
 
-async def generate_triplets_from_chunks(
+async def generate_pairs_from_chunks(
     chunks: list[dict[str, Any]],
     template: Optional[jinja2.Template] = None,
     client: Optional[Any] = None,
-) -> list[Triplet]:
-    """Generate triplets from a list of chunk objects using concurrent processing.
+) -> list[AnchorPositivePair]:
+    """Generate anchor-positive pairs from chunk objects using concurrent processing.
 
-    This function processes multiple chunks in parallel, maximizing throughput
-    when calling the GenAI API. Each chunk is processed independently, and
-    failures are handled gracefully (logged but don't stop other chunks).
+    This function processes multiple chunks in parallel for anchor-positive generation
+    without creating negatives, reducing API costs by ~40-50% compared to triplet generation.
 
     Args:
         chunks: A list of dictionaries, each with keys: section_header, section_text,
@@ -133,32 +148,28 @@ async def generate_triplets_from_chunks(
         client: Optional GenAI client. If None, uses default from settings.
 
     Returns:
-        List of Triplet objects generated from all chunks. If a chunk fails,
+        List of AnchorPositivePair objects generated from all chunks. If a chunk fails,
         it returns an empty list for that chunk (graceful degradation).
 
     Example:
-        >>> chunks = [
-        ...     {"section_text": "Python is..."},
-        ...     {"section_text": "JavaScript is..."}
-        ... ]
-        >>> triplets = await generate_triplets_from_chunks(chunks)
-        >>> len(triplets)
-        6  # e.g., 3 triplets per chunk
+        >>> chunks = [{"section_text": "Python is..."}, {"section_text": "JavaScript is..."}]
+        >>> pairs = await generate_pairs_from_chunks(chunks)
+        >>> len(pairs)
+        10  # e.g., 5 pairs per chunk
     """
-
     if not client:
         client = default_client
 
     # Load template once for all chunks (efficiency)
     if not template:
         template = await jinja2_env_async.get_template(
-            os.getenv("GENERATE_TRIPLETS_TEMPLATE", "generate_anchor_negative.md")
+            os.getenv("GENERATE_PAIRS_TEMPLATE", "generate_anchor_only.md")
         )
 
     # Create tasks for concurrent processing
     # Each chunk is processed independently in parallel
     tasks = [
-        _generate_triplets_from_chunk(chunk, template=template, client=client)
+        _generate_pairs_from_chunk(chunk, template=template, client=client)
         for chunk in chunks
     ]
 
@@ -168,9 +179,9 @@ async def generate_triplets_from_chunks(
 
     # Flatten list of lists and filter out exceptions
     # sum() concatenates lists: sum([[1,2], [3,4]], []) -> [1,2,3,4]
-    triplets = sum(
+    pairs = sum(
         (result for result in results if isinstance(result, list)),
         [],
     )
 
-    return triplets
+    return pairs
