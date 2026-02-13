@@ -4,123 +4,78 @@ This module provides functions for interacting with Google's `google-genai` SDK,
 including content generation and embedding creation, with built-in retry logic
 for handling transient API errors (e.g., rate limits, server errors).
 
-Key Features:
-    - Automatic retry with exponential backoff for transient errors
-    - Configurable jitter to prevent thundering herd issues
-    - Retry only on specific HTTP status codes (500, 503, 429)
-    - Async-friendly content generation and embedding functions
-
 Retry Strategy:
-    - Retryable status codes: 500 (Server Error), 503 (Service Unavailable), 429 (Rate Limit)
-    - Default: 5 retries with exponential backoff (1s, 2s, 4s, 8s, 16s)
-    - Optional jitter: ±50% randomization to avoid synchronized retries
-    - Non-retryable errors: Raised immediately (e.g., 400 Bad Request, 401 Unauthorized)
+    Uses google.api_core.retry_async.AsyncRetry with exponential backoff and jitter.
+    - Retryable status codes: 429 (Rate Limit), 500 (Server Error), 503 (Service Unavailable)
+    - Non-retryable errors raised immediately (e.g., 400, 401)
+    - Default: 120s timeout, 1s initial delay, 2x backoff, 60s max delay
 
 Usage:
-    The retry decorator can be applied to any function that may raise APIError:
-
-    >>> @retry_transient_errors(max_retries=3)
+    >>> @gemini_async_retry(timeout=120.0)
     ... async def my_api_call():
     ...     return await client.models.generate_content(...)
-
-    Or use the provided convenience functions:
 
     >>> response = await generate_content_async("What is Python?")
     >>> embeddings = await generate_embeddings_async("Hello world")
 """
 
-import functools
-import random
-import time
-from typing import Any
-from typing import Callable
 from typing import Optional
-from typing import TypeVar
 from typing import Union
 
 from google import genai
+from google.api_core.retry_async import AsyncRetry
 from google.genai.errors import APIError
 
 from src.settings import client as default_client
 from src.settings import config
 from src.settings import logger
 
-F = TypeVar("F", bound=Callable[..., Any])
+RETRYABLE_STATUS_CODES = (429, 500, 503)
 
 
-def retry_transient_errors(
-    max_retries: int = 3,
+def _is_retryable(exception: Exception) -> bool:
+    """Return True if the exception is a transient API error worth retrying."""
+    return isinstance(exception, APIError) and exception.status_code in RETRYABLE_STATUS_CODES
+
+
+def gemini_async_retry(
     initial_delay: float = 1.0,
     backoff_factor: float = 2.0,
-    use_jitter: bool = True,
-) -> Callable[[F], F]:
-    """Decorator to retry functions on transient API errors with exponential backoff.
+    max_delay: float = 60.0,
+    timeout: float = 120.0,
+) -> AsyncRetry:
+    """Create an AsyncRetry decorator for transient API errors.
 
-    Implements exponential backoff with optional jitter for API calls that may fail
-    with transient errors. Only retries on specific HTTP status codes (500, 503, 429).
-    All other errors are raised immediately.
+    Uses exponential backoff with jitter. Only retries on HTTP status codes
+    429 (Rate Limit), 500 (Server Error), and 503 (Service Unavailable).
 
     Args:
-        max_retries: Maximum number of retry attempts. Defaults to 3.
         initial_delay: Initial delay in seconds before first retry. Defaults to 1.0.
         backoff_factor: Multiplicative factor for exponential delay growth. Defaults to 2.0.
-        use_jitter: Whether to add random jitter (±50%) to delays. Defaults to True.
+        max_delay: Maximum delay between retries in seconds. Defaults to 60.0.
+        timeout: Total timeout in seconds before giving up. Defaults to 120.0.
 
     Returns:
-        Callable[[F], F]: Decorator that preserves the original function signature.
+        AsyncRetry: Decorator that retries the wrapped async function.
 
     Raises:
-        APIError: Re-raised if max retries exceeded or if status code is not retryable.
+        APIError: Re-raised if timeout exceeded or if status code is not retryable.
 
     Examples:
-        >>> @retry_transient_errors(max_retries=5, initial_delay=2.0)
-        ... def call_gemini():
-        ...     return client.generate_content("Hello")
+        >>> @gemini_async_retry(timeout=120.0)
+        ... async def call_gemini():
+        ...     return await client.generate_content("Hello")
     """
-
-    def decorator(func: F) -> F:
-        @functools.wraps(func)
-        def wrapper(*args: Any, **kwargs: Any) -> Any:
-            delay = initial_delay
-            last_exception: Optional[APIError] = None
-
-            for attempt in range(1, max_retries + 1):
-                try:
-                    return func(*args, **kwargs)
-
-                except APIError as e:
-                    last_exception = e
-                    # Only retry on transient server errors and rate limits
-                    is_retryable = e.status_code in (500, 503, 429)
-                    has_retries_left = attempt < max_retries
-
-                    if is_retryable and has_retries_left:
-                        # Apply jitter: randomize wait time between 50% and 100% of delay
-                        # This prevents synchronized retries from multiple clients
-                        wait_time = (
-                            delay * (0.5 + random.random() / 2) if use_jitter else delay
-                        )
-                        logger.warning(
-                            f"Transient error (status {e.status_code}) on attempt "
-                            f"{attempt}/{max_retries}. Retrying in {wait_time:.2f}s..."
-                        )
-                        time.sleep(wait_time)
-                        # Exponential backoff: double the delay for next attempt
-                        delay *= backoff_factor
-                    else:
-                        # Either non-retryable error or out of retries
-                        raise
-
-            # This line is reached only if all retries exhausted without success
-            if last_exception:
-                raise last_exception
-
-        return wrapper  # type: ignore[return-value]
-
-    return decorator
+    return AsyncRetry(
+        predicate=_is_retryable,
+        initial=initial_delay,
+        multiplier=backoff_factor,
+        maximum=max_delay,
+        timeout=timeout,
+    )
 
 
-@retry_transient_errors(max_retries=5)
+@gemini_async_retry()
 async def generate_embeddings_async(
     contents: str | list[str],
     model: Optional[str] = None,
@@ -162,7 +117,7 @@ async def generate_embeddings_async(
         return None
 
 
-@retry_transient_errors(max_retries=5)
+@gemini_async_retry()
 async def generate_content_async(
     contents: str | list[str],
     model: Optional[str] = None,
