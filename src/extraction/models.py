@@ -53,8 +53,7 @@ class Subclass(BaseModel):
     name: str | None = Field(
         default=None,
         description=(
-            "Subclass name (e.g., 'Life Domain', 'Champion', "
-            "'Path of the Berserker')"
+            "Subclass name (e.g., 'Life Domain', 'Champion', 'Path of the Berserker')"
         ),
     )
     parent_class: DndClass | None = Field(
@@ -319,11 +318,11 @@ class Feature(BaseModel):
     )
     source_type: str | None = Field(
         default=None,
+        max_length=300,
         description=(
-            "What this feature belongs to. Examples: 'Class (Rogue)', 'Race (Elf)', "
-            "'Magic Item (Deck of Many Things)', 'Monster (Dragon)', 'Game Mechanic'. "
-            "Leave null if not clearly attributed to a specific class, race, item, "
-            "or monster."
+            "Concise attribution label. Examples: 'Class (Rogue)', 'Race (Elf)', "
+            "'Magic Item (Deck of Many Things)'. "
+            "Leave null if not clearly attributed."
         ),
     )
 
@@ -626,6 +625,9 @@ class GameplayEntities(BaseModel):
     - Race traits and ability score increases
     - Subclass descriptions and features
 
+    Return empty lists for entity types not present in the text.
+    Do not force-fit unrelated content.
+
     Schema size: ~11,300 chars (42.1% of full ExtractedEntities)
     """
 
@@ -648,6 +650,9 @@ class EquipmentEntities(BaseModel):
     - Vehicle stats and capacity
     - Adventuring gear (Backpack, Rope, Torches, etc.)
 
+    Return empty lists for entity types not present in the text.
+    Do not force-fit unrelated content.
+
     Schema size: ~5,400 chars (20.1% of full ExtractedEntities)
     """
 
@@ -668,6 +673,9 @@ class CharacterEntities(BaseModel):
     - Class/race features
     - Combat action descriptions
 
+    Return empty lists for entity types not present in the text.
+    Do not force-fit unrelated content.
+
     Schema size: ~3,332 chars (12.4% of full ExtractedEntities)
     """
 
@@ -687,6 +695,9 @@ class DescriptorEntities(BaseModel):
     - Creature size mechanics
     - Creature type descriptions
     - School of magic descriptions
+
+    Return empty lists for entity types not present in the text.
+    Do not force-fit unrelated content.
 
     These entities become nodes in the knowledge graph for player queries.
     """
@@ -709,6 +720,9 @@ class WorldEntities(BaseModel):
     - Environment/terrain types
     - Creature senses
     - Movement types
+
+    Return empty lists for entity types not present in the text.
+    Do not force-fit unrelated content.
 
     Schema size: ~3,251 chars (12.1% of full ExtractedEntities)
     """

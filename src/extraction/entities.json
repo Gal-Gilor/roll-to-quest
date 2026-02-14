@@ -1,0 +1,282 @@
+{
+  "entities": {
+    "Class": {
+      "properties": {
+        "name": "string",
+        "hit_die": "string",
+        "primary_ability": "string",
+        "saving_throw_proficiencies": "array",
+        "armor_proficiencies": "array",
+        "weapon_proficiencies": "array",
+        "spellcasting_ability": "string",
+        "subclasses": "array"
+      }
+    },
+    "Race": {
+      "properties": {
+        "name": "string",
+        "size": "string",
+        "speed": "integer",
+        "ability_score_increase": "object",
+        "age": "string",
+        "lifespan": "integer",
+        "languages": "array",
+        "darkvision": "integer",
+        "traits": "array"
+      }
+    },
+    "Spell": {
+      "properties": {
+        "name": "string",
+        "level": "integer",
+        "school": "string",
+        "casting_time": "string",
+        "range": "string",
+        "components": "array",
+        "duration": "string",
+        "concentration": "boolean",
+        "ritual": "boolean",
+        "description": "string",
+        "classes": "array",
+        "damage_type": "string",
+        "attack_type": "string",
+        "save_type": "string",
+        "higher_levels": "string",
+        "material_component_description": "string"
+      }
+    },
+    "Monster": {
+      "properties": {
+        "name": "string",
+        "type": "string",
+        "size": "string",
+        "alignment": "string",
+        "armor_class": "integer",
+        "hit_points": "integer",
+        "hit_dice": "string",
+        "speed": "object",
+        "strength": "integer",
+        "dexterity": "integer",
+        "constitution": "integer",
+        "intelligence": "integer",
+        "wisdom": "integer",
+        "charisma": "integer",
+        "challenge_rating": "float",
+        "experience_points": "integer",
+        "saving_throws": "object",
+        "skills": "object",
+        "damage_resistances": "array",
+        "damage_immunities": "array",
+        "damage_vulnerabilities": "array",
+        "condition_immunities": "array",
+        "senses": "object",
+        "languages": "array",
+        "special_abilities": "array",
+        "actions": "array",
+        "legendary_actions": "array",
+        "reactions": "array"
+      }
+    },
+    "Weapon": {
+      "properties": {
+        "name": "string",
+        "category": "string",
+        "cost": "string",
+        "damage_dice": "string",
+        "damage_type": "string",
+        "weight": "float",
+        "properties": "array",
+        "range": "string"
+      }
+    },
+    "Armor": {
+      "properties": {
+        "name": "string",
+        "category": "string",
+        "armor_class": "string",
+        "strength_requirement": "integer",
+        "stealth_disadvantage": "boolean",
+        "weight": "float",
+        "cost": "string",
+        "armor_type": "string",
+        "dex_bonus_max": "integer"
+      }
+    },
+    "MagicItem": {
+      "properties": {
+        "name": "string",
+        "type": "string",
+        "rarity": "string",
+        "requires_attunement": "boolean",
+        "description": "string"
+      }
+    },
+    "Feature": {
+      "properties": {
+        "name": "string",
+        "description": "string",
+        "level_requirement": "integer",
+        "source_type": "string"
+      }
+    },
+    "Condition": {
+      "properties": {
+        "name": "string",
+        "description": "string",
+        "effects": "array"
+      }
+    },
+    "Skill": {
+      "properties": {
+        "name": "string",
+        "description": "string",
+        "ability": "string"
+      }
+    },
+    "DamageType": {
+      "properties": {
+        "name": "string",
+        "description": "string"
+      }
+    },
+    "AbilityScore": {
+      "properties": {
+        "name": "string",
+        "abbreviation": "string",
+        "description": "string"
+      }
+    },
+    "Background": {
+      "properties": {
+        "name": "string",
+        "skill_proficiencies": "array",
+        "tool_proficiencies": "array",
+        "languages": "integer",
+        "equipment": "array",
+        "feature": "string",
+        "description": "string"
+      }
+    },
+    "Action": {
+      "properties": {
+        "name": "string",
+        "action_type": "string",
+        "description": "string"
+      }
+    },
+    "Plane": {
+      "properties": {
+        "name": "string",
+        "description": "string",
+        "traits": "array"
+      }
+    },
+    "Deity": {
+      "properties": {
+        "name": "string",
+        "alignment": "string",
+        "domains": "array",
+        "symbol": "string",
+        "description": "string"
+      }
+    },
+    "SchoolOfMagic": {
+      "properties": {
+        "name": "string",
+        "description": "string"
+      }
+    },
+    "Alignment": {
+      "properties": {
+        "name": "string",
+        "abbreviation": "string",
+        "description": "string"
+      }
+    },
+    "Language": {
+      "properties": {
+        "name": "string",
+        "script": "string",
+        "typical_speakers": "array"
+      }
+    },
+    "Environment": {
+      "properties": {
+        "name": "string",
+        "description": "string"
+      }
+    },
+    "Size": {
+      "properties": {
+        "name": "string",
+        "space": "string",
+        "description": "string"
+      }
+    },
+    "Sense": {
+      "properties": {
+        "name": "string",
+        "description": "string",
+        "range": "integer"
+      }
+    },
+    "MovementType": {
+      "properties": {
+        "name": "string",
+        "description": "string"
+      }
+    },
+    "SavingThrow": {
+      "properties": {
+        "name": "string"
+      }
+    },
+    "Proficiency": {
+      "properties": {
+        "name": "string",
+        "category": "string"
+      }
+    },
+    "CreatureType": {
+      "properties": {
+        "name": "string",
+        "description": "string"
+      }
+    },
+    "SpellComponent": {
+      "properties": {
+        "name": "string",
+        "type": "string",
+        "cost": "string",
+        "consumed": "boolean"
+      }
+    },
+    "Feat": {
+      "properties": {
+        "name": "string",
+        "description": "string",
+        "prerequisites": "string",
+        "benefits": "array"
+      }
+    },
+    "Tool": {
+      "properties": {
+        "name": "string",
+        "category": "string",
+        "cost": "string",
+        "weight": "float",
+        "description": "string"
+      }
+    },
+    "Vehicle": {
+      "properties": {
+        "name": "string",
+        "type": "string",
+        "cost": "string",
+        "speed": "string",
+        "capacity": "string",
+        "description": "string"
+      }
+    }
+  }
+}

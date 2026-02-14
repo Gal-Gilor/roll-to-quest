@@ -45,13 +45,13 @@ from src.extraction.models import WorldEntities
 from src.services.gemini import gemini_async_retry
 from src.settings import logger
 
-EXTRACTION_MODELS: list[type[BaseModel]] = [
-    GameplayEntities,
-    EquipmentEntities,
-    CharacterEntities,
-    DescriptorEntities,
-    WorldEntities,
-]
+MODEL_TEMPLATES: dict[type[BaseModel], str] = {
+    GameplayEntities: "extract_gameplay.md",
+    EquipmentEntities: "extract_equipment.md",
+    CharacterEntities: "extract_character.md",
+    DescriptorEntities: "extract_descriptor.md",
+    WorldEntities: "extract_world.md",
+}
 
 
 def _format_chunk_text(chunk: dict[str, Any]) -> str:
@@ -93,6 +93,7 @@ async def _extract_with_model(
     contents: str,
     extraction_model: type[BaseModel],
     thinking_budget: int,
+    system_instruction: str,
 ) -> tuple[dict[str, list], dict[str, int]]:
     """Extract entities from content using a single focused Pydantic model.
 
@@ -103,9 +104,10 @@ async def _extract_with_model(
     Args:
         client: Google GenAI client instance.
         model_id: Gemini model identifier (e.g., 'gemini-2.5-flash').
-        contents: Rendered prompt with the chunk text.
+        contents: Rendered per-model prompt with the chunk text.
         extraction_model: One of the 5 focused Pydantic extraction models.
         thinking_budget: Token budget for Gemini's thinking/reasoning.
+        system_instruction: Static system prompt (role, rules, guidelines).
 
     Returns:
         Tuple of (entities_dict, usage_dict). entities_dict maps entity names
@@ -122,6 +124,7 @@ async def _extract_with_model(
             model=model_id,
             contents=contents,
             config={
+                "system_instruction": system_instruction,
                 "response_mime_type": "application/json",
                 "response_json_schema": extraction_model.model_json_schema(),
                 "thinking_config": {"thinking_budget": thinking_budget},
@@ -131,9 +134,8 @@ async def _extract_with_model(
         usage = dict(empty_usage)
         if response.usage_metadata:
             usage["input_tokens"] = response.usage_metadata.prompt_token_count or 0
-            usage["output_tokens"] = (
-                (response.usage_metadata.candidates_token_count or 0)
-                + (response.usage_metadata.thoughts_token_count or 0)
+            usage["output_tokens"] = (response.usage_metadata.candidates_token_count or 0) + (
+                response.usage_metadata.thoughts_token_count or 0
             )
 
         data = json.loads(response.text)
@@ -155,9 +157,10 @@ async def _extract_with_model(
 async def _extract_chunk(
     client: genai.Client,
     model_id: str,
-    contents: str,
+    model_contents: dict[type[BaseModel], str],
     thinking_budget: int,
     limiter: AsyncLimiter,
+    system_instruction: str,
 ) -> tuple[dict[str, list], dict[str, int]]:
     """Extract entities from a single chunk using all 5 focused models in parallel.
 
@@ -168,9 +171,10 @@ async def _extract_chunk(
     Args:
         client: Google GenAI client instance.
         model_id: Gemini model identifier.
-        contents: Rendered prompt with the chunk text.
+        model_contents: Mapping of extraction model to its rendered prompt.
         thinking_budget: Token budget for Gemini's thinking/reasoning.
         limiter: Async rate limiter to throttle API calls.
+        system_instruction: Static system prompt (role, rules, guidelines).
 
     Returns:
         Tuple of (merged_entities, chunk_usage). merged_entities is a flat
@@ -180,24 +184,28 @@ async def _extract_chunk(
 
     async def _limited_extract(
         model: type[BaseModel],
+        contents: str,
     ) -> tuple[dict[str, list], dict[str, int]]:
         retry = gemini_async_retry()
 
         async def _attempt():
             async with limiter:
                 return await _extract_with_model(
-                    client, model_id, contents, model, thinking_budget
+                    client,
+                    model_id,
+                    contents,
+                    model,
+                    thinking_budget,
+                    system_instruction,
                 )
 
         try:
             return await retry(_attempt)()
         except Exception as e:
-            logger.error(
-                f"Extraction failed for {model.__name__} after retries: {e}"
-            )
+            logger.error(f"Extraction failed for {model.__name__} after retries: {e}")
             return {}, {"input_tokens": 0, "output_tokens": 0}
 
-    tasks = [_limited_extract(model) for model in EXTRACTION_MODELS]
+    tasks = [_limited_extract(model, contents) for model, contents in model_contents.items()]
 
     results = await asyncio.gather(*tasks, return_exceptions=True)
 
@@ -218,7 +226,8 @@ async def _extract_chunk(
 async def extract_entities_from_chunks(
     chunks: list[dict[str, Any]],
     client: genai.Client,
-    template: jinja2.Template,
+    system_instruction: str,
+    model_templates: dict[type[BaseModel], jinja2.Template],
     model_id: str,
     thinking_budget: int,
     template_var: Optional[str] = None,
@@ -235,7 +244,8 @@ async def extract_entities_from_chunks(
         chunks: List of chunk dictionaries with keys: section_header,
             section_text, header_level, metadata.
         client: Google GenAI client instance.
-        template: Pre-loaded Jinja2 template for the extraction prompt.
+        system_instruction: Pre-rendered static system prompt string.
+        model_templates: Mapping of extraction model to its Jinja2 template.
         model_id: Gemini model identifier.
         thinking_budget: Token budget for Gemini's thinking/reasoning.
         template_var: Optional template variable name. If None, uses 'text'.
@@ -258,9 +268,17 @@ async def extract_entities_from_chunks(
         chunk: dict[str, Any],
     ) -> Optional[dict[str, Any]]:
         formatted_text = _format_chunk_text(chunk)
-        contents = await template.render_async(**{var_name: formatted_text})
+        model_contents = {
+            model: await tmpl.render_async(**{var_name: formatted_text})
+            for model, tmpl in model_templates.items()
+        }
         entities, usage = await _extract_chunk(
-            client, model_id, contents, thinking_budget, limiter
+            client,
+            model_id,
+            model_contents,
+            thinking_budget,
+            limiter,
+            system_instruction,
         )
 
         total_usage["input_tokens"] += usage["input_tokens"]
@@ -280,9 +298,12 @@ async def extract_entities_from_chunks(
     tasks = [_process_chunk(chunk) for chunk in chunks]
     results = await asyncio.gather(*tasks, return_exceptions=True)
 
-    filtered = [
-        result
-        for result in results
-        if isinstance(result, dict) and result is not None
-    ]
+    filtered = []
+    for i, result in enumerate(results):
+        if isinstance(result, Exception):
+            header = chunks[i].get("section_header", f"chunk {i}")
+            logger.error(f"Chunk '{header}' failed: {result}", exc_info=result)
+        elif isinstance(result, dict):
+            filtered.append(result)
+
     return filtered, total_usage

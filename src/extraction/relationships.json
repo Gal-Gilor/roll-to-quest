@@ -1,0 +1,799 @@
+{
+  "relationships": {
+    "Class": [
+      {
+        "type": "HAS_PROFICIENCY",
+        "target": "Proficiency",
+        "description": "Class grants proficiency in armor, weapons, skills, or tools"
+      },
+      {
+        "type": "USES_ABILITY",
+        "target": "AbilityScore",
+        "description": "Class uses ability score as primary or spellcasting ability"
+      },
+      {
+        "type": "CAN_CAST",
+        "target": "Spell",
+        "description": "Class can cast this spell"
+      },
+      {
+        "type": "HAS_FEATURE",
+        "target": "Feature",
+        "description": "Class grants this feature at certain levels"
+      },
+      {
+        "type": "HAS_SUBCLASS",
+        "target": "Class",
+        "description": "Class has subclass variants"
+      },
+      {
+        "type": "SAVES_WITH",
+        "target": "SavingThrow",
+        "description": "Class has proficiency in saving throw"
+      },
+      {
+        "type": "MULTICLASS_WITH",
+        "target": "Class",
+        "description": "Class can multiclass with this class (prerequisites may apply)"
+      },
+      {
+        "type": "SUGGESTED_BY_BACKGROUND",
+        "target": "Background",
+        "description": "Class is suggested by this background"
+      },
+      {
+        "type": "SYNERGIZES_WITH_RACE",
+        "target": "Race",
+        "description": "Class has good synergy with this race"
+      }
+    ],
+    "Race": [
+      {
+        "type": "HAS_SIZE",
+        "target": "Size",
+        "description": "Race has this size category"
+      },
+      {
+        "type": "SPEAKS",
+        "target": "Language",
+        "description": "Race speaks this language"
+      },
+      {
+        "type": "HAS_TRAIT",
+        "target": "Feature",
+        "description": "Race has this racial trait"
+      },
+      {
+        "type": "INCREASES",
+        "target": "AbilityScore",
+        "description": "Race increases ability score"
+      },
+      {
+        "type": "HAS_SENSE",
+        "target": "Sense",
+        "description": "Race has this sense (e.g., darkvision)"
+      },
+      {
+        "type": "HAS_MOVEMENT",
+        "target": "MovementType",
+        "description": "Race has this movement type"
+      },
+      {
+        "type": "HAS_SUBRACE",
+        "target": "Race",
+        "description": "Race has this subrace variant"
+      }
+    ],
+    "Spell": [
+      {
+        "type": "BELONGS_TO_SCHOOL",
+        "target": "SchoolOfMagic",
+        "description": "Spell belongs to this school of magic"
+      },
+      {
+        "type": "CAST_BY",
+        "target": "Class",
+        "description": "Spell can be cast by this class"
+      },
+      {
+        "type": "DEALS_DAMAGE",
+        "target": "DamageType",
+        "description": "Spell deals this type of damage"
+      },
+      {
+        "type": "REQUIRES_SAVE",
+        "target": "AbilityScore",
+        "description": "Spell requires saving throw against this ability"
+      },
+      {
+        "type": "REQUIRES_COMPONENT",
+        "target": "SpellComponent",
+        "description": "Spell requires this component to cast"
+      },
+      {
+        "type": "INFLICTS_CONDITION",
+        "target": "Condition",
+        "description": "Spell can inflict this condition"
+      },
+      {
+        "type": "COUNTERS_SPELL",
+        "target": "Spell",
+        "description": "Spell can counter or dispel this spell"
+      },
+      {
+        "type": "UPCAST_OF",
+        "target": "Spell",
+        "description": "Spell is an upcast version of this spell"
+      },
+      {
+        "type": "PREREQUISITE_FOR",
+        "target": "Spell",
+        "description": "Spell is a prerequisite for learning this spell"
+      },
+      {
+        "type": "STORED_IN",
+        "target": "MagicItem",
+        "description": "Spell is stored in or granted by this magic item"
+      },
+      {
+        "type": "SUMMONS_CREATURE",
+        "target": "Monster",
+        "description": "Spell summons this monster or creature"
+      }
+    ],
+    "Monster": [
+      {
+        "type": "HAS_TYPE",
+        "target": "CreatureType",
+        "description": "Monster is this creature type"
+      },
+      {
+        "type": "HAS_SIZE",
+        "target": "Size",
+        "description": "Monster has this size category"
+      },
+      {
+        "type": "HAS_ALIGNMENT",
+        "target": "Alignment",
+        "description": "Monster has this alignment"
+      },
+      {
+        "type": "SPEAKS",
+        "target": "Language",
+        "description": "Monster speaks this language"
+      },
+      {
+        "type": "HAS_SENSE",
+        "target": "Sense",
+        "description": "Monster has this sense"
+      },
+      {
+        "type": "RESISTANT_TO",
+        "target": "DamageType",
+        "description": "Monster has resistance to this damage type"
+      },
+      {
+        "type": "IMMUNE_TO_DAMAGE",
+        "target": "DamageType",
+        "description": "Monster is immune to this damage type"
+      },
+      {
+        "type": "VULNERABLE_TO",
+        "target": "DamageType",
+        "description": "Monster is vulnerable to this damage type"
+      },
+      {
+        "type": "IMMUNE_TO_CONDITION",
+        "target": "Condition",
+        "description": "Monster is immune to this condition"
+      },
+      {
+        "type": "HAS_ABILITY",
+        "target": "AbilityScore",
+        "description": "Monster has ability score values"
+      },
+      {
+        "type": "SAVES_WITH",
+        "target": "SavingThrow",
+        "description": "Monster has saving throw bonus"
+      },
+      {
+        "type": "PROFICIENT_IN",
+        "target": "Skill",
+        "description": "Monster is proficient in this skill"
+      },
+      {
+        "type": "HAS_ACTION",
+        "target": "Action",
+        "description": "Monster can perform this action"
+      },
+      {
+        "type": "FOUND_IN",
+        "target": "Environment",
+        "description": "Monster is found in this environment"
+      },
+      {
+        "type": "HAS_MOVEMENT",
+        "target": "MovementType",
+        "description": "Monster has this movement type"
+      },
+      {
+        "type": "CAN_CAST",
+        "target": "Spell",
+        "description": "Monster can cast this spell (innate or learned)"
+      },
+      {
+        "type": "SUMMONS",
+        "target": "Monster",
+        "description": "Monster can summon this monster"
+      },
+      {
+        "type": "PACK_TACTICS_WITH",
+        "target": "Monster",
+        "description": "Monster uses pack tactics with this monster type"
+      },
+      {
+        "type": "VARIANT_OF",
+        "target": "Monster",
+        "description": "Monster is a variant of this monster"
+      }
+    ],
+    "Weapon": [
+      {
+        "type": "HAS_CATEGORY",
+        "target": "WeaponCategory",
+        "description": "Weapon belongs to this category"
+      },
+      {
+        "type": "DEALS_DAMAGE",
+        "target": "DamageType",
+        "description": "Weapon deals this type of damage"
+      },
+      {
+        "type": "REQUIRES_PROFICIENCY",
+        "target": "Proficiency",
+        "description": "Weapon requires this proficiency to use effectively"
+      },
+      {
+        "type": "USED_BY",
+        "target": "Class",
+        "description": "Weapon can be used by this class (via proficiency)"
+      },
+      {
+        "type": "MAGIC_VERSION",
+        "target": "MagicItem",
+        "description": "Weapon has this magic item version"
+      },
+      {
+        "type": "VARIANT_OF",
+        "target": "Weapon",
+        "description": "Weapon is a variant of this weapon"
+      }
+    ],
+    "Armor": [
+      {
+        "type": "HAS_TYPE",
+        "target": "ArmorType",
+        "description": "Armor is of this type"
+      },
+      {
+        "type": "REQUIRES_PROFICIENCY",
+        "target": "Proficiency",
+        "description": "Armor requires this proficiency to use effectively"
+      },
+      {
+        "type": "WORN_BY",
+        "target": "Class",
+        "description": "Armor can be worn by this class (via proficiency)"
+      },
+      {
+        "type": "MAGIC_VERSION",
+        "target": "MagicItem",
+        "description": "Armor has this magic item version"
+      },
+      {
+        "type": "VARIANT_OF",
+        "target": "Armor",
+        "description": "Armor is a variant of this armor"
+      }
+    ],
+    "MagicItem": [
+      {
+        "type": "HAS_RARITY",
+        "target": "Rarity",
+        "description": "Magic item has this rarity level"
+      },
+      {
+        "type": "GRANTS_SPELL",
+        "target": "Spell",
+        "description": "Magic item allows casting of this spell"
+      },
+      {
+        "type": "MODIFIES_ABILITY",
+        "target": "AbilityScore",
+        "description": "Magic item modifies this ability score"
+      },
+      {
+        "type": "PROVIDES_RESISTANCE",
+        "target": "DamageType",
+        "description": "Magic item provides resistance to this damage type"
+      },
+      {
+        "type": "PROVIDES_IMMUNITY",
+        "target": "Condition",
+        "description": "Magic item provides immunity to this condition"
+      },
+      {
+        "type": "BASED_ON_WEAPON",
+        "target": "Weapon",
+        "description": "Magic item is based on this weapon"
+      },
+      {
+        "type": "BASED_ON_ARMOR",
+        "target": "Armor",
+        "description": "Magic item is based on this armor"
+      }
+    ],
+    "Feature": [
+      {
+        "type": "GRANTED_BY_CLASS",
+        "target": "Class",
+        "description": "Feature is granted by this class"
+      },
+      {
+        "type": "GRANTED_BY_RACE",
+        "target": "Race",
+        "description": "Feature is granted by this race"
+      },
+      {
+        "type": "GRANTED_BY_BACKGROUND",
+        "target": "Background",
+        "description": "Feature is granted by this background"
+      },
+      {
+        "type": "GRANTED_BY_FEAT",
+        "target": "Feat",
+        "description": "Feature is granted by this feat"
+      },
+      {
+        "type": "USES_ABILITY",
+        "target": "AbilityScore",
+        "description": "Feature uses this ability score"
+      },
+      {
+        "type": "GRANTS_SPELL",
+        "target": "Spell",
+        "description": "Feature allows casting of this spell"
+      },
+      {
+        "type": "PREREQUISITE_FOR",
+        "target": "Feature",
+        "description": "Feature is a prerequisite for this feature"
+      },
+      {
+        "type": "REPLACES",
+        "target": "Feature",
+        "description": "Feature replaces this feature (e.g., subclass variants)"
+      }
+    ],
+    "Condition": [
+      {
+        "type": "AFFECTS_ABILITY",
+        "target": "AbilityScore",
+        "description": "Condition affects this ability score"
+      },
+      {
+        "type": "PREVENTS_ACTION",
+        "target": "ActionType",
+        "description": "Condition prevents this action type"
+      },
+      {
+        "type": "INFLICTED_BY_SPELL",
+        "target": "Spell",
+        "description": "Condition can be inflicted by this spell"
+      },
+      {
+        "type": "REMOVED_BY_SPELL",
+        "target": "Spell",
+        "description": "Condition can be removed by this spell"
+      },
+      {
+        "type": "LEADS_TO",
+        "target": "Condition",
+        "description": "Condition can lead to this condition (e.g., exhaustion levels)"
+      },
+      {
+        "type": "PREVENTS",
+        "target": "Condition",
+        "description": "Condition prevents this condition from being applied"
+      }
+    ],
+    "Skill": [
+      {
+        "type": "BASED_ON",
+        "target": "AbilityScore",
+        "description": "Skill is based on this ability score"
+      },
+      {
+        "type": "GRANTED_BY_CLASS",
+        "target": "Class",
+        "description": "Skill proficiency can be granted by this class"
+      },
+      {
+        "type": "GRANTED_BY_BACKGROUND",
+        "target": "Background",
+        "description": "Skill proficiency can be granted by this background"
+      },
+      {
+        "type": "ENHANCED_BY_TOOL",
+        "target": "Tool",
+        "description": "Skill can be enhanced or used with this tool"
+      }
+    ],
+    "DamageType": [
+      {
+        "type": "DEALT_BY_SPELL",
+        "target": "Spell",
+        "description": "Damage type is dealt by this spell"
+      },
+      {
+        "type": "DEALT_BY_WEAPON",
+        "target": "Weapon",
+        "description": "Damage type is dealt by this weapon"
+      },
+      {
+        "type": "RESISTED_BY_MONSTER",
+        "target": "Monster",
+        "description": "Damage type is resisted by this monster"
+      }
+    ],
+    "AbilityScore": [
+      {
+        "type": "USED_BY_CLASS",
+        "target": "Class",
+        "description": "Ability score is used as primary/spellcasting by this class"
+      },
+      {
+        "type": "INCREASED_BY_RACE",
+        "target": "Race",
+        "description": "Ability score is increased by this race"
+      },
+      {
+        "type": "USED_BY_SKILL",
+        "target": "Skill",
+        "description": "Ability score is used by this skill"
+      },
+      {
+        "type": "USED_FOR_SAVE",
+        "target": "Spell",
+        "description": "Ability score is used for saving throw against this spell"
+      }
+    ],
+    "Background": [
+      {
+        "type": "GRANTS_SKILL",
+        "target": "Skill",
+        "description": "Background grants proficiency in this skill"
+      },
+      {
+        "type": "GRANTS_TOOL",
+        "target": "Tool",
+        "description": "Background grants proficiency in this tool"
+      },
+      {
+        "type": "GRANTS_LANGUAGE",
+        "target": "Language",
+        "description": "Background grants knowledge of this language"
+      },
+      {
+        "type": "HAS_FEATURE",
+        "target": "Feature",
+        "description": "Background grants this feature"
+      },
+      {
+        "type": "SUGGESTS_CLASS",
+        "target": "Class",
+        "description": "Background suggests this class as a good fit"
+      }
+    ],
+    "Action": [
+      {
+        "type": "HAS_TYPE",
+        "target": "ActionType",
+        "description": "Action is of this type"
+      },
+      {
+        "type": "PERFORMED_BY_MONSTER",
+        "target": "Monster",
+        "description": "Action can be performed by this monster"
+      },
+      {
+        "type": "USES_ABILITY",
+        "target": "AbilityScore",
+        "description": "Action uses this ability score for attack/save"
+      },
+      {
+        "type": "DEALS_DAMAGE",
+        "target": "DamageType",
+        "description": "Action deals this damage type"
+      },
+      {
+        "type": "TRIGGERS",
+        "target": "Action",
+        "description": "Action triggers this action as a reaction"
+      },
+      {
+        "type": "REQUIRES_ACTION",
+        "target": "Action",
+        "description": "Action requires this action as a prerequisite"
+      }
+    ],
+    "Plane": [
+      {
+        "type": "HOME_TO_CREATURE",
+        "target": "CreatureType",
+        "description": "Plane is home to this creature type"
+      },
+      {
+        "type": "RULED_BY_DEITY",
+        "target": "Deity",
+        "description": "Plane is ruled or influenced by this deity"
+      },
+      {
+        "type": "CONTAINS_ENVIRONMENT",
+        "target": "Environment",
+        "description": "Plane contains this environment"
+      }
+    ],
+    "Deity": [
+      {
+        "type": "HAS_ALIGNMENT",
+        "target": "Alignment",
+        "description": "Deity has this alignment"
+      },
+      {
+        "type": "GRANTS_DOMAIN",
+        "target": "Class",
+        "description": "Deity grants domain spells to clerics"
+      },
+      {
+        "type": "WORSHIPPED_BY",
+        "target": "Race",
+        "description": "Deity is commonly worshipped by this race"
+      },
+      {
+        "type": "RESIDES_IN",
+        "target": "Plane",
+        "description": "Deity resides in this plane"
+      },
+      {
+        "type": "ASSOCIATED_WITH_SPELL",
+        "target": "Spell",
+        "description": "Deity is associated with or grants this spell"
+      }
+    ],
+    "SchoolOfMagic": [
+      {
+        "type": "CONTAINS_SPELL",
+        "target": "Spell",
+        "description": "School of magic contains this spell"
+      },
+      {
+        "type": "SPECIALIZED_BY_CLASS",
+        "target": "Class",
+        "description": "School can be specialized in by this class (e.g., wizard)"
+      }
+    ],
+    "Alignment": [
+      {
+        "type": "DESCRIBES_MONSTER",
+        "target": "Monster",
+        "description": "Alignment describes this monster"
+      },
+      {
+        "type": "DESCRIBES_DEITY",
+        "target": "Deity",
+        "description": "Alignment describes this deity"
+      }
+    ],
+    "Language": [
+      {
+        "type": "SPOKEN_BY_RACE",
+        "target": "Race",
+        "description": "Language is spoken by this race"
+      },
+      {
+        "type": "SPOKEN_BY_MONSTER",
+        "target": "Monster",
+        "description": "Language is spoken by this monster"
+      },
+      {
+        "type": "GRANTED_BY_BACKGROUND",
+        "target": "Background",
+        "description": "Language is granted by this background"
+      },
+      {
+        "type": "SHARES_SCRIPT_WITH",
+        "target": "Language",
+        "description": "Language shares the same script with this language"
+      }
+    ],
+    "Environment": [
+      {
+        "type": "INHABITED_BY",
+        "target": "Monster",
+        "description": "Environment is inhabited by this monster"
+      },
+      {
+        "type": "EXISTS_ON",
+        "target": "Plane",
+        "description": "Environment exists on this plane"
+      }
+    ],
+    "Size": [
+      {
+        "type": "DESCRIBES_RACE",
+        "target": "Race",
+        "description": "Size describes this race"
+      },
+      {
+        "type": "DESCRIBES_MONSTER",
+        "target": "Monster",
+        "description": "Size describes this monster"
+      },
+      {
+        "type": "ONE_SIZE_LARGER",
+        "target": "Size",
+        "description": "Size is one category larger than this size"
+      },
+      {
+        "type": "ONE_SIZE_SMALLER",
+        "target": "Size",
+        "description": "Size is one category smaller than this size"
+      }
+    ],
+    "Sense": [
+      {
+        "type": "POSSESSED_BY_RACE",
+        "target": "Race",
+        "description": "Sense is possessed by this race"
+      },
+      {
+        "type": "POSSESSED_BY_MONSTER",
+        "target": "Monster",
+        "description": "Sense is possessed by this monster"
+      }
+    ],
+    "MovementType": [
+      {
+        "type": "USED_BY_RACE",
+        "target": "Race",
+        "description": "Movement type is used by this race"
+      },
+      {
+        "type": "USED_BY_MONSTER",
+        "target": "Monster",
+        "description": "Movement type is used by this monster"
+      }
+    ],
+    "SavingThrow": [
+      {
+        "type": "BASED_ON",
+        "target": "AbilityScore",
+        "description": "Saving throw is based on this ability score"
+      },
+      {
+        "type": "PROFICIENCY_FROM_CLASS",
+        "target": "Class",
+        "description": "Saving throw proficiency is granted by this class"
+      }
+    ],
+    "Proficiency": [
+      {
+        "type": "GRANTED_BY_CLASS",
+        "target": "Class",
+        "description": "Proficiency is granted by this class"
+      },
+      {
+        "type": "GRANTED_BY_BACKGROUND",
+        "target": "Background",
+        "description": "Proficiency is granted by this background"
+      },
+      {
+        "type": "REQUIRED_FOR_WEAPON",
+        "target": "Weapon",
+        "description": "Proficiency is required for this weapon"
+      },
+      {
+        "type": "REQUIRED_FOR_ARMOR",
+        "target": "Armor",
+        "description": "Proficiency is required for this armor"
+      },
+      {
+        "type": "REQUIRED_FOR_TOOL",
+        "target": "Tool",
+        "description": "Proficiency is required for this tool"
+      },
+      {
+        "type": "INCLUDES",
+        "target": "Proficiency",
+        "description": "Proficiency includes this proficiency (e.g., martial includes simple)"
+      }
+    ],
+    "CreatureType": [
+      {
+        "type": "DESCRIBES_MONSTER",
+        "target": "Monster",
+        "description": "Creature type describes this monster"
+      },
+      {
+        "type": "NATIVE_TO_PLANE",
+        "target": "Plane",
+        "description": "Creature type is native to this plane"
+      }
+    ],
+    "SpellComponent": [
+      {
+        "type": "REQUIRED_BY_SPELL",
+        "target": "Spell",
+        "description": "Component is required by this spell"
+      }
+    ],
+    "Feat": [
+      {
+        "type": "REQUIRES_ABILITY",
+        "target": "AbilityScore",
+        "description": "Feat has ability score prerequisite"
+      },
+      {
+        "type": "GRANTS_PROFICIENCY",
+        "target": "Proficiency",
+        "description": "Feat grants this proficiency"
+      },
+      {
+        "type": "GRANTS_FEATURE",
+        "target": "Feature",
+        "description": "Feat grants this feature or ability"
+      },
+      {
+        "type": "GRANTS_SPELL",
+        "target": "Spell",
+        "description": "Feat allows casting of this spell"
+      },
+      {
+        "type": "PREREQUISITE_FOR",
+        "target": "Feat",
+        "description": "Feat is a prerequisite for this feat"
+      }
+    ],
+    "Tool": [
+      {
+        "type": "PROFICIENCY_FROM_BACKGROUND",
+        "target": "Background",
+        "description": "Tool proficiency is granted by this background"
+      },
+      {
+        "type": "PROFICIENCY_FROM_CLASS",
+        "target": "Class",
+        "description": "Tool proficiency is granted by this class"
+      },
+      {
+        "type": "USED_WITH_SKILL",
+        "target": "Skill",
+        "description": "Tool can be used with this skill"
+      }
+    ],
+    "Vehicle": [
+      {
+        "type": "REQUIRES_PROFICIENCY",
+        "target": "Proficiency",
+        "description": "Vehicle requires this proficiency to operate"
+      },
+      {
+        "type": "FOUND_IN",
+        "target": "Environment",
+        "description": "Vehicle is found in this environment"
+      }
+    ]
+  }
+}

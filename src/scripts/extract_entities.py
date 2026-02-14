@@ -17,7 +17,7 @@ Workflow:
 
 Dependencies:
     - Google Gemini credentials (configured in settings)
-    - Jinja2 template for extraction prompt (extract_entities.md)
+    - Jinja2 templates: system prompt + 5 per-model extraction prompts
     - Input chunks in JSONL format
 
 Example Usage:
@@ -49,6 +49,7 @@ import aiofiles
 from aiolimiter import AsyncLimiter
 from tqdm import tqdm
 
+from src.extraction.utils import MODEL_TEMPLATES
 from src.extraction.utils import extract_entities_from_chunks
 from src.services.utils import read_chunks_in_batches
 from src.settings import client
@@ -142,7 +143,13 @@ async def main(
         f"max_rate: {max_rate}/min, thinking_budget: {thinking_budget}"
     )
 
-    template = jinja2_env_async.get_template("extract_entities.md")
+    system_instruction = await jinja2_env_async.get_template(
+        "extract_system.md"
+    ).render_async()
+    model_templates = {
+        model: jinja2_env_async.get_template(template_name)
+        for model, template_name in MODEL_TEMPLATES.items()
+    }
     limiter = AsyncLimiter(max_rate, 60)
 
     process_start_time = time()
@@ -164,7 +171,8 @@ async def main(
             results, _ = await extract_entities_from_chunks(
                 chunks,
                 client=client,
-                template=template,
+                system_instruction=system_instruction,
+                model_templates=model_templates,
                 model_id=generation_model,
                 thinking_budget=thinking_budget,
                 limiter=limiter,
