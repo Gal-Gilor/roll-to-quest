@@ -123,3 +123,20 @@ def test_resolve_entity_type_none_when_unset(fixture_doc):
 def test_resolve_entity_type_missing_node(fixture_doc):
     entity = resolve_entity_type("nonexistent/id", fixture_doc)
     assert entity is None
+
+
+def test_load_real_srd_toc():
+    from pathlib import Path
+    toc_path = Path("data/srd_toc.yaml")
+    assert toc_path.exists(), "data/srd_toc.yaml not yet created"
+    doc = load_toc(toc_path)
+    assert doc.document == "D&D 5e 2024 SRD"
+    assert len(doc.sections) == 12
+    assert find_node_by_id("spells/spell-descriptions", doc) is not None
+    assert find_node_by_id("monsters/monsters-a-z", doc) is not None
+    assert find_node_by_id("magic-items/magic-items-a-z", doc) is not None
+    assert find_node_by_id("classes/barbarian", doc) is not None
+    assert resolve_entity_type("spells/spell-descriptions", doc) == "Spell"
+    assert resolve_chunk_strategy("spells/spell-descriptions", doc) == ChunkStrategy.ENTRY
+    assert resolve_entity_type("monsters/monsters-a-z", doc) == "Monster"
+    assert resolve_chunk_strategy("character-creation/trinkets", doc) == ChunkStrategy.ROW

@@ -1,0 +1,751 @@
+document: "D&D 5e 2024 SRD"
+sections:
+  - id: legal-information
+    title: "Legal Information"
+    page: 1
+    node_type: chapter
+    chunk_strategy: section
+
+  - id: playing-the-game
+    title: "Playing the Game"
+    page: 5
+    node_type: chapter
+    chunk_strategy: section
+    children:
+      - id: playing-the-game/rhythm-of-play
+        title: "Rhythm of Play"
+        page: 5
+        node_type: section
+      - id: playing-the-game/the-six-abilities
+        title: "The Six Abilities"
+        page: 5
+        node_type: section
+      - id: playing-the-game/d20-tests
+        title: "D20 Tests"
+        page: 6
+        node_type: section
+        children:
+          - id: playing-the-game/d20-tests/ability-checks
+            title: "Ability Checks"
+            page: 6
+            node_type: subsection
+          - id: playing-the-game/d20-tests/saving-throws
+            title: "Saving Throws"
+            page: 7
+            node_type: subsection
+          - id: playing-the-game/d20-tests/attack-rolls
+            title: "Attack Rolls"
+            page: 7
+            node_type: subsection
+      - id: playing-the-game/advantage-disadvantage
+        title: "Advantage/Disadvantage"
+        page: 7
+        node_type: section
+      - id: playing-the-game/proficiency
+        title: "Proficiency"
+        page: 8
+        node_type: section
+      - id: playing-the-game/actions
+        title: "Actions"
+        page: 9
+        node_type: section
+        children:
+          - id: playing-the-game/actions/bonus-actions
+            title: "Bonus Actions"
+            page: 10
+            node_type: subsection
+          - id: playing-the-game/actions/reactions
+            title: "Reactions"
+            page: 10
+            node_type: subsection
+      - id: playing-the-game/social-interaction
+        title: "Social Interaction"
+        page: 10
+        node_type: section
+      - id: playing-the-game/exploration
+        title: "Exploration"
+        page: 11
+        node_type: section
+        children:
+          - id: playing-the-game/exploration/vision-and-light
+            title: "Vision and Light"
+            page: 11
+            node_type: subsection
+          - id: playing-the-game/exploration/hiding
+            title: "Hiding"
+            page: 11
+            node_type: subsection
+          - id: playing-the-game/exploration/interacting-with-objects
+            title: "Interacting with Objects"
+            page: 11
+            node_type: subsection
+          - id: playing-the-game/exploration/hazards
+            title: "Hazards"
+            page: 12
+            node_type: subsection
+          - id: playing-the-game/exploration/travel
+            title: "Travel"
+            page: 12
+            node_type: subsection
+      - id: playing-the-game/combat
+        title: "Combat"
+        page: 13
+        node_type: section
+        children:
+          - id: playing-the-game/combat/the-order-of-combat
+            title: "The Order of Combat"
+            page: 13
+            node_type: subsection
+          - id: playing-the-game/combat/movement-and-position
+            title: "Movement and Position"
+            page: 14
+            node_type: subsection
+          - id: playing-the-game/combat/making-an-attack
+            title: "Making an Attack"
+            page: 14
+            node_type: subsection
+          - id: playing-the-game/combat/ranged-attacks
+            title: "Ranged Attacks"
+            page: 15
+            node_type: subsection
+          - id: playing-the-game/combat/melee-attacks
+            title: "Melee Attacks"
+            page: 15
+            node_type: subsection
+          - id: playing-the-game/combat/mounted-combat
+            title: "Mounted Combat"
+            page: 15
+            node_type: subsection
+          - id: playing-the-game/combat/underwater-combat
+            title: "Underwater Combat"
+            page: 16
+            node_type: subsection
+      - id: playing-the-game/damage-and-healing
+        title: "Damage and Healing"
+        page: 16
+        node_type: section
+        children:
+          - id: playing-the-game/damage-and-healing/hit-points
+            title: "Hit Points"
+            page: 16
+            node_type: subsection
+          - id: playing-the-game/damage-and-healing/damage-rolls
+            title: "Damage Rolls"
+            page: 16
+            node_type: subsection
+          - id: playing-the-game/damage-and-healing/critical-hits
+            title: "Critical Hits"
+            page: 16
+            node_type: subsection
+          - id: playing-the-game/damage-and-healing/saving-throws-and-damage
+            title: "Saving Throws and Damage"
+            page: 16
+            node_type: subsection
+          - id: playing-the-game/damage-and-healing/damage-types
+            title: "Damage Types"
+            page: 16
+            node_type: subsection
+          - id: playing-the-game/damage-and-healing/resistance-and-vulnerability
+            title: "Resistance and Vulnerability"
+            page: 17
+            node_type: subsection
+          - id: playing-the-game/damage-and-healing/immunity
+            title: "Immunity"
+            page: 17
+            node_type: subsection
+          - id: playing-the-game/damage-and-healing/healing
+            title: "Healing"
+            page: 17
+            node_type: subsection
+          - id: playing-the-game/damage-and-healing/dropping-to-0-hit-points
+            title: "Dropping to 0 Hit Points"
+            page: 17
+            node_type: subsection
+          - id: playing-the-game/damage-and-healing/temporary-hit-points
+            title: "Temporary Hit Points"
+            page: 18
+            node_type: subsection
+
+  - id: character-creation
+    title: "Character Creation"
+    page: 19
+    node_type: chapter
+    chunk_strategy: section
+    children:
+      - id: character-creation/choose-a-character-sheet
+        title: "Choose a Character Sheet"
+        page: 19
+        node_type: section
+      - id: character-creation/create-your-character
+        title: "Create Your Character"
+        page: 19
+        node_type: section
+      - id: character-creation/level-advancement
+        title: "Level Advancement"
+        page: 23
+        node_type: section
+      - id: character-creation/starting-at-higher-levels
+        title: "Starting at Higher Levels"
+        page: 24
+        node_type: section
+      - id: character-creation/multiclassing
+        title: "Multiclassing"
+        page: 24
+        node_type: section
+      - id: character-creation/trinkets
+        title: "Trinkets"
+        page: 26
+        node_type: section
+        entity_type: Trinket
+        chunk_strategy: row
+
+  - id: classes
+    title: "Classes"
+    page: 28
+    node_type: chapter
+    chunk_strategy: entry
+    children:
+      - id: classes/barbarian
+        title: "Barbarian"
+        page: 28
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/barbarian/path-of-the-berserker
+            title: "Barbarian Subclass: Path of the Berserker"
+            page: 30
+            node_type: entry
+            entity_type: Subclass
+      - id: classes/bard
+        title: "Bard"
+        page: 31
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/bard/spell-list
+            title: "Bard Spell List"
+            page: 33
+            node_type: section
+            entity_type: Spell
+            chunk_strategy: entry
+          - id: classes/bard/college-of-lore
+            title: "Bard Subclass: College of Lore"
+            page: 35
+            node_type: entry
+            entity_type: Subclass
+      - id: classes/cleric
+        title: "Cleric"
+        page: 36
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/cleric/spell-list
+            title: "Cleric Spell List"
+            page: 38
+            node_type: section
+            entity_type: Spell
+            chunk_strategy: entry
+          - id: classes/cleric/life-domain
+            title: "Cleric Subclass: Life Domain"
+            page: 40
+            node_type: entry
+            entity_type: Subclass
+      - id: classes/druid
+        title: "Druid"
+        page: 41
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/druid/spell-list
+            title: "Druid Spell List"
+            page: 44
+            node_type: section
+            entity_type: Spell
+            chunk_strategy: entry
+          - id: classes/druid/circle-of-the-land
+            title: "Druid Subclass: Circle of the Land"
+            page: 46
+            node_type: entry
+            entity_type: Subclass
+      - id: classes/fighter
+        title: "Fighter"
+        page: 47
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/fighter/champion
+            title: "Fighter Subclass: Champion"
+            page: 49
+            node_type: entry
+            entity_type: Subclass
+      - id: classes/monk
+        title: "Monk"
+        page: 49
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/monk/warrior-of-the-open-hand
+            title: "Monk Subclass: Warrior of the Open Hand"
+            page: 52
+            node_type: entry
+            entity_type: Subclass
+      - id: classes/paladin
+        title: "Paladin"
+        page: 53
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/paladin/spell-list
+            title: "Paladin Spell List"
+            page: 55
+            node_type: section
+            entity_type: Spell
+            chunk_strategy: entry
+          - id: classes/paladin/oath-of-devotion
+            title: "Paladin Subclass: Oath of Devotion"
+            page: 56
+            node_type: entry
+            entity_type: Subclass
+      - id: classes/ranger
+        title: "Ranger"
+        page: 57
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/ranger/spell-list
+            title: "Ranger Spell List"
+            page: 60
+            node_type: section
+            entity_type: Spell
+            chunk_strategy: entry
+          - id: classes/ranger/hunter
+            title: "Ranger Subclass: Hunter"
+            page: 61
+            node_type: entry
+            entity_type: Subclass
+      - id: classes/rogue
+        title: "Rogue"
+        page: 61
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/rogue/thief
+            title: "Rogue Subclass: Thief"
+            page: 64
+            node_type: entry
+            entity_type: Subclass
+      - id: classes/sorcerer
+        title: "Sorcerer"
+        page: 64
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/sorcerer/metamagic-options
+            title: "Metamagic Options"
+            page: 66
+            node_type: section
+          - id: classes/sorcerer/spell-list
+            title: "Sorcerer Spell List"
+            page: 67
+            node_type: section
+            entity_type: Spell
+            chunk_strategy: entry
+          - id: classes/sorcerer/draconic-sorcery
+            title: "Sorcerer Subclass: Draconic Sorcery"
+            page: 69
+            node_type: entry
+            entity_type: Subclass
+      - id: classes/warlock
+        title: "Warlock"
+        page: 70
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/warlock/eldritch-invocation-options
+            title: "Eldritch Invocation Options"
+            page: 72
+            node_type: section
+          - id: classes/warlock/spell-list
+            title: "Warlock Spell List"
+            page: 74
+            node_type: section
+            entity_type: Spell
+            chunk_strategy: entry
+          - id: classes/warlock/fiend-patron
+            title: "Warlock Subclass: Fiend Patron"
+            page: 76
+            node_type: entry
+            entity_type: Subclass
+      - id: classes/wizard
+        title: "Wizard"
+        page: 77
+        node_type: entry
+        entity_type: Class
+        children:
+          - id: classes/wizard/spell-list
+            title: "Wizard Spell List"
+            page: 79
+            node_type: section
+            entity_type: Spell
+            chunk_strategy: entry
+          - id: classes/wizard/evoker
+            title: "Wizard Subclass: Evoker"
+            page: 82
+            node_type: entry
+            entity_type: Subclass
+
+  - id: character-origins
+    title: "Character Origins"
+    page: 83
+    node_type: chapter
+    children:
+      - id: character-origins/character-backgrounds
+        title: "Character Backgrounds"
+        page: 83
+        node_type: section
+        entity_type: Background
+        chunk_strategy: entry
+        children:
+          - id: character-origins/character-backgrounds/acolyte
+            title: "Acolyte"
+            page: 83
+            node_type: entry
+            entity_type: Background
+          - id: character-origins/character-backgrounds/criminal
+            title: "Criminal"
+            page: 83
+            node_type: entry
+            entity_type: Background
+          - id: character-origins/character-backgrounds/sage
+            title: "Sage"
+            page: 83
+            node_type: entry
+            entity_type: Background
+          - id: character-origins/character-backgrounds/soldier
+            title: "Soldier"
+            page: 83
+            node_type: entry
+            entity_type: Background
+      - id: character-origins/character-species
+        title: "Character Species"
+        page: 83
+        node_type: section
+        entity_type: Race
+        chunk_strategy: entry
+        children:
+          - id: character-origins/character-species/dragonborn
+            title: "Dragonborn"
+            page: 84
+            node_type: entry
+            entity_type: Race
+          - id: character-origins/character-species/dwarf
+            title: "Dwarf"
+            page: 84
+            node_type: entry
+            entity_type: Race
+          - id: character-origins/character-species/elf
+            title: "Elf"
+            page: 84
+            node_type: entry
+            entity_type: Race
+          - id: character-origins/character-species/gnome
+            title: "Gnome"
+            page: 85
+            node_type: entry
+            entity_type: Race
+          - id: character-origins/character-species/goliath
+            title: "Goliath"
+            page: 85
+            node_type: entry
+            entity_type: Race
+          - id: character-origins/character-species/halfling
+            title: "Halfling"
+            page: 86
+            node_type: entry
+            entity_type: Race
+          - id: character-origins/character-species/human
+            title: "Human"
+            page: 86
+            node_type: entry
+            entity_type: Race
+          - id: character-origins/character-species/orc
+            title: "Orc"
+            page: 86
+            node_type: entry
+            entity_type: Race
+          - id: character-origins/character-species/tiefling
+            title: "Tiefling"
+            page: 86
+            node_type: entry
+            entity_type: Race
+
+  - id: feats
+    title: "Feats"
+    page: 87
+    node_type: chapter
+    entity_type: Feat
+    chunk_strategy: entry
+    children:
+      - id: feats/feat-descriptions
+        title: "Feat Descriptions"
+        page: 87
+        node_type: section
+      - id: feats/origin-feats
+        title: "Origin Feats"
+        page: 87
+        node_type: section
+      - id: feats/general-feats
+        title: "General Feats"
+        page: 87
+        node_type: section
+      - id: feats/fighting-style-feats
+        title: "Fighting Style Feats"
+        page: 87
+        node_type: section
+      - id: feats/epic-boon-feats
+        title: "Epic Boon Feats"
+        page: 88
+        node_type: section
+
+  - id: equipment
+    title: "Equipment"
+    page: 89
+    node_type: chapter
+    children:
+      - id: equipment/coins
+        title: "Coins"
+        page: 89
+        node_type: section
+        chunk_strategy: section
+      - id: equipment/weapons
+        title: "Weapons"
+        page: 89
+        node_type: section
+        entity_type: Weapon
+        chunk_strategy: row
+      - id: equipment/properties
+        title: "Properties"
+        page: 89
+        node_type: section
+        chunk_strategy: section
+      - id: equipment/mastery-properties
+        title: "Mastery Properties"
+        page: 90
+        node_type: section
+        chunk_strategy: section
+      - id: equipment/armor
+        title: "Armor"
+        page: 92
+        node_type: section
+        entity_type: Armor
+        chunk_strategy: row
+      - id: equipment/tools
+        title: "Tools"
+        page: 93
+        node_type: section
+        entity_type: Tool
+        chunk_strategy: row
+      - id: equipment/adventuring-gear
+        title: "Adventuring Gear"
+        page: 94
+        node_type: section
+        entity_type: Item
+        chunk_strategy: row
+      - id: equipment/mounts-and-vehicles
+        title: "Mounts and Vehicles"
+        page: 100
+        node_type: section
+        entity_type: Vehicle
+        chunk_strategy: row
+      - id: equipment/lifestyle-expenses
+        title: "Lifestyle Expenses"
+        page: 101
+        node_type: section
+        chunk_strategy: section
+      - id: equipment/food-drink-and-lodging
+        title: "Food, Drink, and Lodging"
+        page: 101
+        node_type: section
+        chunk_strategy: section
+      - id: equipment/hirelings
+        title: "Hirelings"
+        page: 102
+        node_type: section
+        chunk_strategy: section
+      - id: equipment/spellcasting
+        title: "Spellcasting"
+        page: 102
+        node_type: section
+        chunk_strategy: section
+      - id: equipment/magic-items
+        title: "Magic Items"
+        page: 102
+        node_type: section
+        chunk_strategy: section
+      - id: equipment/crafting-nonmagical-items
+        title: "Crafting Nonmagical Items"
+        page: 103
+        node_type: section
+        chunk_strategy: section
+      - id: equipment/brewing-potions-of-healing
+        title: "Brewing Potions of Healing"
+        page: 103
+        node_type: section
+        chunk_strategy: section
+      - id: equipment/scribing-spell-scrolls
+        title: "Scribing Spell Scrolls"
+        page: 103
+        node_type: section
+        chunk_strategy: section
+
+  - id: spells
+    title: "Spells"
+    page: 104
+    node_type: chapter
+    children:
+      - id: spells/gaining-spells
+        title: "Gaining Spells"
+        page: 104
+        node_type: section
+        chunk_strategy: section
+      - id: spells/casting-spells
+        title: "Casting Spells"
+        page: 104
+        node_type: section
+        chunk_strategy: section
+      - id: spells/spell-descriptions
+        title: "Spell Descriptions"
+        page: 107
+        node_type: section
+        entity_type: Spell
+        chunk_strategy: entry
+
+  - id: rules-glossary
+    title: "Rules Glossary"
+    page: 176
+    node_type: chapter
+    chunk_strategy: section
+
+  - id: gameplay-toolbox
+    title: "Gameplay Toolbox"
+    page: 192
+    node_type: chapter
+    chunk_strategy: section
+    children:
+      - id: gameplay-toolbox/travel-pace
+        title: "Travel Pace"
+        page: 192
+        node_type: section
+      - id: gameplay-toolbox/creating-a-background
+        title: "Creating a Background"
+        page: 192
+        node_type: section
+      - id: gameplay-toolbox/curses-and-magical-contagions
+        title: "Curses and Magical Contagions"
+        page: 193
+        node_type: section
+      - id: gameplay-toolbox/environmental-effects
+        title: "Environmental Effects"
+        page: 195
+        node_type: section
+      - id: gameplay-toolbox/fear-and-mental-stress
+        title: "Fear and Mental Stress"
+        page: 196
+        node_type: section
+      - id: gameplay-toolbox/poison
+        title: "Poison"
+        page: 197
+        node_type: section
+      - id: gameplay-toolbox/traps
+        title: "Traps"
+        page: 199
+        node_type: section
+      - id: gameplay-toolbox/combat-encounters
+        title: "Combat Encounters"
+        page: 202
+        node_type: section
+
+  - id: magic-items
+    title: "Magic Items"
+    page: 204
+    node_type: chapter
+    children:
+      - id: magic-items/magic-item-categories
+        title: "Magic Item Categories"
+        page: 204
+        node_type: section
+        chunk_strategy: section
+      - id: magic-items/magic-item-rarity
+        title: "Magic Item Rarity"
+        page: 205
+        node_type: section
+        chunk_strategy: section
+      - id: magic-items/activating-a-magic-item
+        title: "Activating a Magic Item"
+        page: 206
+        node_type: section
+        chunk_strategy: section
+      - id: magic-items/the-next-dawn
+        title: "The Next Dawn"
+        page: 206
+        node_type: section
+        chunk_strategy: section
+      - id: magic-items/cursed-items
+        title: "Cursed Items"
+        page: 206
+        node_type: section
+        chunk_strategy: section
+      - id: magic-items/magic-item-resilience
+        title: "Magic Item Resilience"
+        page: 206
+        node_type: section
+        chunk_strategy: section
+      - id: magic-items/crafting-magic-items
+        title: "Crafting Magic Items"
+        page: 206
+        node_type: section
+        chunk_strategy: section
+      - id: magic-items/sentient-magic-items
+        title: "Sentient Magic Items"
+        page: 207
+        node_type: section
+        chunk_strategy: section
+      - id: magic-items/magic-items-a-z
+        title: "Magic Items A-Z"
+        page: 209
+        node_type: section
+        entity_type: MagicItem
+        chunk_strategy: entry
+
+  - id: monsters
+    title: "Monsters"
+    page: 254
+    node_type: chapter
+    children:
+      - id: monsters/stat-block-overview
+        title: "Stat Block Overview"
+        page: 254
+        node_type: section
+        chunk_strategy: section
+      - id: monsters/parts-of-a-stat-block
+        title: "Parts of a Stat Block"
+        page: 254
+        node_type: section
+        chunk_strategy: section
+      - id: monsters/running-a-monster
+        title: "Running a Monster"
+        page: 255
+        node_type: section
+        chunk_strategy: section
+      - id: monsters/monsters-a-z
+        title: "Monsters A-Z"
+        page: 258
+        node_type: section
+        entity_type: Monster
+        chunk_strategy: entry
+      - id: monsters/animals
+        title: "Animals"
+        page: 344
+        node_type: section
+        entity_type: Monster
+        chunk_strategy: entry
