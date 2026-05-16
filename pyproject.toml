@@ -27,6 +27,16 @@ datasets = "^3.2.0"
 huggingface-hub = "<1.0.0, >=0.34.0"
 tokenizers = "0.22.1"
 transformers = "^4.57.3"
+tqdm = "^4.67.3"
+aiolimiter = "^1.2.1"
+pymupdf4llm = "^0.3.3"
+markitdown = {extras = ["pdf"], version = "^0.1.4"}
+pymupdf-layout = "^1.27.1"
+pytesseract = "^0.3.13"
+opencv-python = "^4.13.0.92"
+docling = "^2.73.1"
+pyyaml = "^6.0.3"
+neo4j = "^6.2.0"
 
 
 [[tool.poetry.source]]
