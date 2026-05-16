@@ -28,6 +28,12 @@ def _build_index(
     return nodes, parents
 
 
+def build_index(
+    document: TocDocument,
+) -> tuple[dict[str, TocNode], dict[str, str | None]]:
+    return _build_index(document.sections)
+
+
 def find_node_by_id(node_id: str, document: TocDocument) -> TocNode | None:
     nodes, _ = _build_index(document.sections)
     return nodes.get(node_id)

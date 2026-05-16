@@ -578,7 +578,7 @@ sections:
         node_type: section
         chunk_strategy: section
       - id: equipment/magic-items
-        title: "Magic Items"
+        title: "Magic Item Rules"
         page: 102
         node_type: section
         chunk_strategy: section

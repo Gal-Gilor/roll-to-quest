@@ -17,10 +17,8 @@ from pathlib import Path
 
 from src.settings import logger
 from src.toc.models import TocDocument
-from src.toc.parser import find_node_by_title
+from src.toc.parser import build_index
 from src.toc.parser import load_toc
-from src.toc.parser import resolve_chunk_strategy
-from src.toc.parser import resolve_entity_type
 
 
 def load_annotator(toc_path: Path) -> TocDocument:
@@ -29,12 +27,33 @@ def load_annotator(toc_path: Path) -> TocDocument:
 
 def annotate_chunk(chunk: dict, document: TocDocument) -> dict:
     title = chunk.get("section_header", "")
-    node = find_node_by_title(title, document)
+    nodes, parents = build_index(document)
+    node = next((n for n in nodes.values() if n.title == title), None)
     if node is None:
         return chunk
     result = dict(chunk)
-    entity_type = resolve_entity_type(node.id, document)
-    chunk_strategy = resolve_chunk_strategy(node.id, document)
+    # Resolve entity_type by walking ancestors
+    entity_type: str | None = None
+    current_id: str | None = node.id
+    while current_id is not None:
+        n = nodes.get(current_id)
+        if n is None:
+            break
+        if n.entity_type is not None:
+            entity_type = n.entity_type
+            break
+        current_id = parents.get(current_id)
+    # Resolve chunk_strategy by walking ancestors
+    chunk_strategy = None
+    current_id = node.id
+    while current_id is not None:
+        n = nodes.get(current_id)
+        if n is None:
+            break
+        if n.chunk_strategy is not None:
+            chunk_strategy = n.chunk_strategy
+            break
+        current_id = parents.get(current_id)
     if entity_type is not None:
         result["entity_type"] = entity_type
     result["context_path"] = node.id
