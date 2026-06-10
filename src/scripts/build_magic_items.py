@@ -1,8 +1,8 @@
 """Build the Wiki magic-items dataset from the SRD markdown.
 
 Parses ``magic_items.md`` into :class:`~src.wiki.models.MagicItem` records and
-writes them to ``data/magic_items.json`` as camelCase JSON. The output is a
-drop-in for the Fabled Campaigns Wiki's ``data/magic-items.json``.
+writes them to ``magic_items.json`` as camelCase JSON. The output is a drop-in
+for the Fabled Campaigns Wiki's ``data/magic-items.json``.
 
 Bundled SRD entries (the +1/+2/+3 weapons and armor, Horn of Valhalla's metal
 variants) are expanded into one row per variant by the parser; catalog entries
@@ -19,7 +19,7 @@ from src.wiki.parser import parse_magic_items
 
 _REPO_ROOT = Path(__file__).resolve().parents[2]
 _SOURCE = _REPO_ROOT / "magic_items.md"
-_OUTPUT = _REPO_ROOT / "data" / "magic_items.json"
+_OUTPUT = _REPO_ROOT / "magic_items.json"
 
 
 def main() -> None:
