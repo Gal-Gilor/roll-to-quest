@@ -32,10 +32,13 @@ class MagicItem(BaseModel):
 
     Serialize with ``by_alias=True`` to obtain the camelCase JSON the Fabled
     Campaigns Wiki expects (``slug``, ``name``, ``itemType``, ``rarity``,
-    ``rarities``, ``requiresAttunement``, optional ``attunementBy``, ``body``).
+    ``requiresAttunement``, optional ``attunementBy``, ``body``).
 
-    ``rarity`` is a verbatim display string; ``rarities`` is the normalized list
-    of tiers used for faceted filtering (see the field docs below).
+    Each instance is one concrete item with a single rarity. SRD entries that
+    bundle several items at different tiers (the '+1/+2/+3' weapons and armor,
+    Horn of Valhalla's metal variants) are expanded into one instance per
+    variant. True catalog entries with many sub-items (Ioun Stone, Spell Scroll,
+    ...) stay as a single instance with rarity ``Varies``.
     """
 
     model_config = ConfigDict(
@@ -61,23 +64,12 @@ class MagicItem(BaseModel):
             "'Armor (Any Light, Medium, or Heavy)')."
         ),
     )
-    rarity: str = Field(
+    rarity: Rarity = Field(
         description=(
-            "Rarity clause exactly as written in the SRD type line, for display only. "
-            "Usually a single tier ('Common', 'Uncommon', 'Rare', 'Very Rare', "
-            "'Legendary', 'Artifact'), but kept as free text to stay faithful to items "
-            "that scale by bonus ('Uncommon (+1), Rare (+2), or Very Rare (+3)') or are "
-            "marked 'Rarity Varies'."
-        ),
-    )
-    rarities: list[Rarity] = Field(
-        description=(
-            "Normalized rarity tiers for faceted filtering, in ascending order. A "
-            "single-rarity item has one entry; an entry sold at several tiers has one "
-            "per tier. A '+1/+2/+3' entry is really three items (the +1 is Uncommon, "
-            "the +2 Rare, the +3 Very Rare), so it lists ['Uncommon', 'Rare', "
-            "'Very Rare']. A 'Rarity Varies' entry lists every tier its variants span. "
-            "Filtering by a tier should return any entry whose rarities include it."
+            "The item's single rarity tier: Common, Uncommon, Rare, Very Rare, "
+            "Legendary, or Artifact. Use 'Varies' only for catalog entries with many "
+            "sub-items of differing rarity (e.g. Ioun Stone, Spell Scroll); the Wiki "
+            "always shows 'Varies' items regardless of the rarity filter."
         ),
     )
     requires_attunement: bool = Field(

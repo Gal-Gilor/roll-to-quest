@@ -167,6 +167,7 @@ class Rarity(StrEnum):
     VERY_RARE = "Very Rare"
     LEGENDARY = "Legendary"
     ARTIFACT = "Artifact"
+    VARIES = "Varies"  # Catalog items with many variants (e.g. Ioun Stone, Spell Scroll)
 
 
 class WeaponCategory(StrEnum):
