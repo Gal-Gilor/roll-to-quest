@@ -14,23 +14,15 @@ can be validated against the Wiki contract and sampled for review.
 
 import re
 
-from src.extraction.enums import Rarity
 from src.wiki.models import MagicItem
 
 # Top-level item headings are exactly three hashes ("### Name"); deeper headings
 # ("#### ...", "##### ...") are sub-sections inside an item body and must not split.
 _ITEM_SPLIT = re.compile(r"\n### (?!#)")
 _TYPE_LINE = re.compile(r"\*([^*]+)\*")
-
-# Longest rarity strings first so "Very Rare" is matched before "Rare".
-_RARITIES = [
-    Rarity.VERY_RARE,
-    Rarity.UNCOMMON,
-    Rarity.COMMON,
-    Rarity.LEGENDARY,
-    Rarity.ARTIFACT,
-    Rarity.RARE,
-]
+# Strips only the trailing "(Requires Attunement ...)" clause, leaving bonus
+# qualifiers like "(+1)" that are part of the rarity intact.
+_ATTUNEMENT_CLAUSE = re.compile(r"\s*\(Requires Attunement[^)]*\)")
 
 
 def slugify(name: str) -> str:
@@ -41,12 +33,12 @@ def slugify(name: str) -> str:
     return re.sub(r"-+", "-", slug)
 
 
-def _parse_type_line(type_line: str) -> tuple[str, Rarity, bool, str | None]:
+def _parse_type_line(type_line: str) -> tuple[str, str, bool, str | None]:
     """Split an SRD italic type line into (item_type, rarity, attunement, by).
 
-    The lowest rarity present is used so that bonus-scaling items
-    (e.g. 'Uncommon (+1), Rare (+2), or Very Rare (+3)') resolve to a single
-    Wiki-compatible rarity.
+    ``rarity`` is kept verbatim (minus the attunement clause), so bonus-scaling
+    items ('Uncommon (+1), Rare (+2), or Very Rare (+3)') and 'Rarity Varies'
+    items survive intact.
     """
     requires_attunement = "Requires Attunement" in type_line
 
@@ -69,16 +61,10 @@ def _parse_type_line(type_line: str) -> tuple[str, Rarity, bool, str | None]:
             break
     item_type = type_line[:split_at].strip()
 
-    # The remainder holds the rarity. Bonus-scaling items list several tiers
-    # ("Uncommon (+1), Rare (+2), ..."); "Rarity Varies" items list none.
-    remainder = re.sub(r"\([^)]*\)", "", type_line[split_at:])
-    if "Varies" in remainder:
-        rarity = Rarity.VARIES
-    else:
-        present = [r for r in _RARITIES if r in remainder]
-        if not present:
-            raise ValueError(f"No rarity found in type line: {type_line!r}")
-        rarity = min(present, key=lambda r: list(Rarity).index(r))
+    # Everything after that comma is the rarity clause; drop only the attunement note.
+    rarity = _ATTUNEMENT_CLAUSE.sub("", type_line[split_at + 1 :]).strip()
+    if not rarity:
+        raise ValueError(f"No rarity found in type line: {type_line!r}")
 
     return item_type, rarity, requires_attunement, attunement_by
 

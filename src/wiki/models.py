@@ -24,8 +24,6 @@ from pydantic import ConfigDict
 from pydantic import Field
 from pydantic.alias_generators import to_camel
 
-from src.extraction.enums import Rarity
-
 
 class MagicItem(BaseModel):
     """A single magic item, shaped for Wiki rendering and LLM structured output.
@@ -58,12 +56,12 @@ class MagicItem(BaseModel):
             "'Armor (Any Light, Medium, or Heavy)')."
         ),
     )
-    rarity: Rarity = Field(
+    rarity: str = Field(
         description=(
-            "Rarity tier: Common, Uncommon, Rare, Very Rare, Legendary, Artifact, or "
-            "Varies. Use 'Varies' for items the SRD marks 'Rarity Varies' (e.g. Ioun "
-            "Stone, Spell Scroll). For items whose rarity scales with a bonus "
-            "(e.g. +1/+2/+3), use the lowest tier and describe the progression in the body."
+            "Rarity clause exactly as written in the SRD type line. Usually a single "
+            "tier ('Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary', 'Artifact'), "
+            "but kept as free text to stay faithful to items that scale by bonus "
+            "('Uncommon (+1), Rare (+2), or Very Rare (+3)') or are marked 'Rarity Varies'."
         ),
     )
     requires_attunement: bool = Field(
