@@ -24,13 +24,18 @@ from pydantic import ConfigDict
 from pydantic import Field
 from pydantic.alias_generators import to_camel
 
+from src.extraction.enums import Rarity
+
 
 class MagicItem(BaseModel):
     """A single magic item, shaped for Wiki rendering and LLM structured output.
 
     Serialize with ``by_alias=True`` to obtain the camelCase JSON the Fabled
     Campaigns Wiki expects (``slug``, ``name``, ``itemType``, ``rarity``,
-    ``requiresAttunement``, optional ``attunementBy``, ``body``).
+    ``rarities``, ``requiresAttunement``, optional ``attunementBy``, ``body``).
+
+    ``rarity`` is a verbatim display string; ``rarities`` is the normalized list
+    of tiers used for faceted filtering (see the field docs below).
     """
 
     model_config = ConfigDict(
@@ -58,10 +63,21 @@ class MagicItem(BaseModel):
     )
     rarity: str = Field(
         description=(
-            "Rarity clause exactly as written in the SRD type line. Usually a single "
-            "tier ('Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary', 'Artifact'), "
-            "but kept as free text to stay faithful to items that scale by bonus "
-            "('Uncommon (+1), Rare (+2), or Very Rare (+3)') or are marked 'Rarity Varies'."
+            "Rarity clause exactly as written in the SRD type line, for display only. "
+            "Usually a single tier ('Common', 'Uncommon', 'Rare', 'Very Rare', "
+            "'Legendary', 'Artifact'), but kept as free text to stay faithful to items "
+            "that scale by bonus ('Uncommon (+1), Rare (+2), or Very Rare (+3)') or are "
+            "marked 'Rarity Varies'."
+        ),
+    )
+    rarities: list[Rarity] = Field(
+        description=(
+            "Normalized rarity tiers for faceted filtering, in ascending order. A "
+            "single-rarity item has one entry; an entry sold at several tiers has one "
+            "per tier. A '+1/+2/+3' entry is really three items (the +1 is Uncommon, "
+            "the +2 Rare, the +3 Very Rare), so it lists ['Uncommon', 'Rare', "
+            "'Very Rare']. A 'Rarity Varies' entry lists every tier its variants span. "
+            "Filtering by a tier should return any entry whose rarities include it."
         ),
     )
     requires_attunement: bool = Field(

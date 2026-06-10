@@ -14,6 +14,7 @@ can be validated against the Wiki contract and sampled for review.
 
 import re
 
+from src.extraction.enums import Rarity
 from src.wiki.models import MagicItem
 
 # Top-level item headings are exactly three hashes ("### Name"); deeper headings
@@ -23,6 +24,40 @@ _TYPE_LINE = re.compile(r"\*([^*]+)\*")
 # Strips only the trailing "(Requires Attunement ...)" clause, leaving bonus
 # qualifiers like "(+1)" that are part of the rarity intact.
 _ATTUNEMENT_CLAUSE = re.compile(r"\s*\(Requires Attunement[^)]*\)")
+
+# Canonical low-to-high order used when normalizing rarity tiers for filtering.
+_RARITY_ORDER = [
+    Rarity.COMMON,
+    Rarity.UNCOMMON,
+    Rarity.RARE,
+    Rarity.VERY_RARE,
+    Rarity.LEGENDARY,
+    Rarity.ARTIFACT,
+]
+
+
+def _extract_tiers(text: str) -> list[Rarity]:
+    """Pull the distinct rarity tiers mentioned in ``text``, low to high.
+
+    Matches longest tier names first ('Very Rare' before 'Rare') and removes each
+    match so the 'Rare' inside 'Very Rare' is not double-counted.
+    """
+    working = text
+    found: set[Rarity] = set()
+    for tier in (
+        Rarity.VERY_RARE,
+        Rarity.UNCOMMON,
+        Rarity.COMMON,
+        Rarity.LEGENDARY,
+        Rarity.ARTIFACT,
+        Rarity.RARE,
+    ):
+        pattern = rf"\b{re.escape(tier.value)}\b"
+        if re.search(pattern, working):
+            found.add(tier)
+            working = re.sub(pattern, " ", working)
+
+    return [tier for tier in _RARITY_ORDER if tier in found]
 
 
 def slugify(name: str) -> str:
@@ -84,11 +119,18 @@ def parse_magic_item(block: str) -> MagicItem:
     # Body is everything after the type line, trimmed of surrounding whitespace.
     body = rest[type_match.end() :].strip()
 
+    # Normalized tiers for filtering. Single-tier and bonus-scaling items state
+    # their tiers in the type line; "Rarity Varies" items list them in the body.
+    rarities = _extract_tiers(body if "Varies" in rarity else rarity)
+    if not rarities:
+        raise ValueError(f"No rarity tiers resolved for item: {name!r}")
+
     return MagicItem(
         slug=slugify(name),
         name=name,
         item_type=item_type,
         rarity=rarity,
+        rarities=rarities,
         requires_attunement=requires_attunement,
         attunement_by=attunement_by,
         body=body,
