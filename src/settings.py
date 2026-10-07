@@ -14,11 +14,11 @@ class Config(BaseSettings):
     """Project configuration settings."""
 
     GOOGLE_CLOUD_PROJECT: str
-    GOOGLE_CLOUD_LOCATION: str = "us-central1"
-    GOOGLE_GENAI_USE_VERTEXAI: str = True
+    GOOGLE_CLOUD_LOCATION: str = "global"
+    GOOGLE_GENAI_USE_VERTEXAI: bool = True
     GOOGLE_CLOUD_BUCKET: str
     GEMINI_API_KEY: str | None = None
-    GENERATION_MODEL: str = "gemini-2.5-flash"
+    GENERATION_MODEL: str = "gemini-3.6-flash"
     EMBEDDING_MODEL: str = "gemini-embedding-001"
 
     PINECONE_API_KEY: str
