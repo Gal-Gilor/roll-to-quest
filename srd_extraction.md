@@ -14319,7 +14319,7 @@ A command word is a word or short phrase that must be spoken or signed for an it
 
 ### Consumable Items
 
-Some items are consumed-used up, in other words-when they are activated. A Potion of Healing must be swallowed, for example, while the writing vanishes from a scroll when it is read. Once used, a consumable item loses its magic.
+Some items are consumed—used up, in other words—when they are activated. A Potion of Healing must be swallowed, for example, while the writing vanishes from a scroll when it is read. Once used, a consumable item loses its magic.
 
 ### Spells Cast from Items
 
@@ -14421,18 +14421,6 @@ A sentient magic item has Intelligence, Wisdom, and Charisma scores. Choose the 
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. Otherwise, pick an alignment or roll on the Sentient Item's Alignment table.
 
-#### Communication
-
-A sentient item communicates by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the Sentient Item's Communication table.
-
-#### Senses
-
-A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the Sentient Item's Senses table.
-
-#### Special Purpose
-
-You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item (see 'Conflict' below). You can pick a special purpose or roll on the Sentient Item's Special Purpose table.
-
 ##### Sentient Item's Alignment
 
 | 1d100 | Alignment       |
@@ -14447,11 +14435,19 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 | 90-96 | Neutral Evil    |
 | 97-00 | Chaotic Evil    |
 
+#### Communication
+
+A sentient item communicates by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the Sentient Item's Communication table.
+
 ##### Sentient Item's Communication
 
 - 1-6 The item communicates by transmitting emotion to the creature carrying or wielding it.
 - 7-9 The item speaks one or more languages.
 - 10 The item speaks one or more languages. In addition, the item can communicate telepathically with any creature that carries or wields it.
+
+#### Senses
+
+A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the Sentient Item's Senses table.
 
 ##### Sentient Item's Senses
 
@@ -14460,27 +14456,31 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 - 3 Hearing and standard vision out to 120 feet
 - 4 Hearing and Darkvision out to 120 feet
 
+#### Special Purpose
+
+You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item (see 'Conflict' below). You can pick a special purpose or roll on the Sentient Item's Special Purpose table.
+
 ##### Sentient Item's Special Purpose
 
-- 1 Aligned. The item seeks to defeat or destroy those of a diametrically opposed alignment. Such an item is never Neutral.
-- 2 Bane. The item seeks to thwart or destroy creatures of a particular type, such as Constructs, Fiends, or Undead.
-- 3 Creator Seeker. The item seeks its creator and wants to understand why it was created.
-- 4 Destiny Seeker. The item believes it and its bearer have key roles to play in future events.
-- 5 Destroyer. The item craves destruction and goads its user to fight arbitrarily.
-- 6 Glory Seeker. The item seeks renown as the greatest magic item in the world by winning fame or notoriety for its user.
-- 7 Lore Seeker. The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.
-- 8 Protector. The item seeks to defend a particular kind of creature, such as elves or werewolves.
-- 9 Soulmate Seeker. The item seeks another sentient magic item, perhaps one that is similar to itself.
-- 10 Templar. The item seeks to defend the servants and interests of a particular deity.
+- 1 **Aligned.** The item seeks to defeat or destroy those of a diametrically opposed alignment. Such an item is never Neutral.
+- 2 **Bane.** The item seeks to thwart or destroy creatures of a particular type, such as Constructs, Fiends, or Undead.
+- 3 **Creator Seeker.** The item seeks its creator and wants to understand why it was created.
+- 4 **Destiny Seeker.** The item believes it and its bearer have key roles to play in future events.
+- 5 **Destroyer.** The item craves destruction and goads its user to fight arbitrarily.
+- 6 **Glory Seeker.** The item seeks renown as the greatest magic item in the world by winning fame or notoriety for its user.
+- 7 **Lore Seeker.** The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.
+- 8 **Protector.** The item seeks to defend a particular kind of creature, such as elves or werewolves.
+- 9 **Soulmate Seeker.** The item seeks another sentient magic item, perhaps one that is similar to itself.
+- 10 **Templar.** The item seeks to defend the servants and interests of a particular deity.
 
-##### Conflict
+#### Conflict
 
 When the bearer of a sentient item acts in a manner opposed to the item's alignment or purpose, conflict can arise. When such a conflict occurs, the item's bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the item makes one or more of the following demands:
 
-- Chase My Dreams. The item demands that its bearer pursue the item's goals to the exclusion of all other goals.
-- Get Rid of It. The item demands that its bearer dispose of anything the item finds repugnant.
-- It's Time for a Change. The item demands to be given to someone else.
-- Keep Me Close. The item insists on being carried or worn at all times.
+- **Chase My Dreams.** The item demands that its bearer pursue the item's goals to the exclusion of all other goals.
+- **Get Rid of It.** The item demands that its bearer dispose of anything the item finds repugnant.
+- **It's Time for a Change.** The item demands to be given to someone else.
+- **Keep Me Close.** The item insists on being carried or worn at all times.
 
 If its bearer refuses to comply with the item's demands, the item can do any of the following:
 
@@ -17371,14 +17371,14 @@ While wearing this cloak, you can take a Magic action to turn the cloak into a p
 
 A monster has a stat block that contains the rules necessary to use it in the game. Stat blocks are divided into the following parts:
 
-- Name and General Details. The name of the monster is followed by its size, creature type (along with any descriptive tags), and alignment.
-- Combat Highlights. Armor Class, Hit Points, Speed, and Initiative are provided here.
-- Ability Scores. A monster's ability scores, ability modifiers, and saving throws are listed here.
-- Other Details. The monster's Senses, Languages, and CR entries appear here. Additional details appear in some monsters, such as skill proficiencies, Resistances, Immunities, and Gear. If a monster lacks those details, entries for them don't appear.
-- Traits. Monster characteristics that are active at all times or during certain situations appear here.
-- Actions. The monster can take the actions here in addition to those in 'Playing the Game.'
-- Bonus Actions. This section provides a monster's Bonus Actions, if any.
-- Reactions and Legendary Actions. These sections provide Reactions and Legendary Actions, if any.
+- **Name and General Details.** The name of the monster is followed by its size, creature type (along with any descriptive tags), and alignment.
+- **Combat Highlights.** Armor Class, Hit Points, Speed, and Initiative are provided here.
+- **Ability Scores.** A monster's ability scores, ability modifiers, and saving throws are listed here.
+- **Other Details.** The monster's Senses, Languages, and CR entries appear here. Additional details appear in some monsters, such as skill proficiencies, Resistances, Immunities, and Gear. If a monster lacks those details, entries for them don't appear.
+- **Traits.** Monster characteristics that are active at all times or during certain situations appear here.
+- **Actions.** The monster can take the actions here in addition to those in 'Playing the Game.'
+- **Bonus Actions.** This section provides a monster's Bonus Actions, if any.
+- **Reactions and Legendary Actions.** These sections provide Reactions and Legendary Actions, if any.
 
 ## Parts of a Stat Block
 
@@ -17394,20 +17394,20 @@ Each monster has a tag that identifies the type of creature it is. Certain spell
 
 The game includes the following creature types, which have no rules of their own:
 
-- Aberrations are utterly alien beings, such as aboleths and cloakers.
-- Beasts are non-Humanoid natural creatures, like horses and wolves, as well as most giant animals.
-- Celestials are magical creatures, such as angels and pegasi, with ties to the Upper Planes.
-- Constructs are magically created creatures such as homunculi and shield guardians.
-- Dragons are scaly beings of ancient origin, such as red dragons and wyverns.
-- Elementals are beings from the Elemental Planes, such as efreet and water elementals.
-- Fey are creatures tied to the Feywild or the forces of nature, such as dryads and goblins.
-- Fiends are creatures tied to terrifying Lower Planes, such as balors and hell hounds.
-- Giants are towering beings with humanlike shapes, like fire giants and trolls.
-- Humanoids are people defined by their roles and professions, such as mages, pirates, and warriors. They include members of varied species.
-- Monstrosities are unnatural creatures with strange origins, such as mimics and owlbears.
-- Oozes are gelatinous creatures, including black puddings and gelatinous cubes.
-- Plants are sentient vegetation and fungal monsters, such as shambling mounds and treants.
-- Undead are spirits and the reanimated dead, such as ghosts, vampires, and zombies.
+- **Aberrations** are utterly alien beings, such as aboleths and cloakers.
+- **Beasts** are non-Humanoid natural creatures, like horses and wolves, as well as most giant animals.
+- **Celestials** are magical creatures, such as angels and pegasi, with ties to the Upper Planes.
+- **Constructs** are magically created creatures such as homunculi and shield guardians.
+- **Dragons** are scaly beings of ancient origin, such as red dragons and wyverns.
+- **Elementals** are beings from the Elemental Planes, such as efreet and water elementals.
+- **Fey** are creatures tied to the Feywild or the forces of nature, such as dryads and goblins.
+- **Fiends** are creatures tied to terrifying Lower Planes, such as balors and hell hounds.
+- **Giants** are towering beings with humanlike shapes, like fire giants and trolls.
+- **Humanoids** are people defined by their roles and professions, such as mages, pirates, and warriors. They include members of varied species.
+- **Monstrosities** are unnatural creatures with strange origins, such as mimics and owlbears.
+- **Oozes** are gelatinous creatures, including black puddings and gelatinous cubes.
+- **Plants** are sentient vegetation and fungal monsters, such as shambling mounds and treants.
+- **Undead** are spirits and the reanimated dead, such as ghosts, vampires, and zombies.
 
 ### Descriptive Tags
 
@@ -17415,7 +17415,7 @@ A monster might have one or more tags in parentheses following its type. Such ta
 
 ### Alignment
 
-The alignment specified in a monster's stat block is a default suggestion of how to roleplay the monster, inspired by its traditional role in the game or realworld folklore. Change a monster's alignment to suit your storytelling needs. The Neutral alignment, in particular, is an invitation for you to consider whether an individual leans toward one of the other alignments.
+The alignment specified in a monster's stat block is a default suggestion of how to roleplay the monster, inspired by its traditional role in the game or real-world folklore. Change a monster's alignment to suit your storytelling needs. The Neutral alignment, in particular, is an invitation for you to consider whether an individual leans toward one of the other alignments.
 
 'Character Creation' describes the nine alignments and unaligned creatures.
 
@@ -17427,7 +17427,7 @@ A monster's Armor Class (AC) includes its natural armor, Dexterity, gear, and ot
 
 The Initiative entry specifies the monster's Initiative modifier followed by the monster's Initiative score in parentheses. Use the modifier when you roll to determine a monster's Initiative. A monster's Initiative modifier is typically equal to its Dexterity modifier, but some monsters have additional modifiers, such as Proficiency Bonus, applied to that number.
 
-If you don't want to roll a monster's Initiative, use the Initiative score as the monster's Initiative in combat. Initiative is further detailed in 'Playing the Game .'
+If you don't want to roll a monster's Initiative, use the Initiative score as the monster's Initiative in combat. Initiative is further detailed in 'Playing the Game.'
 
 ### Hit Points
 
@@ -17448,15 +17448,15 @@ A monster's size typically determines the die used to calculate its Hit Points, 
 
 A monster's Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its Hit Points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8 + 2 Hit Points (average 11).
 
-For more on Hit Points, see 'Playing the Game .'
+For more on Hit Points, see 'Playing the Game.'
 
 ### Speed
 
-The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: Burrow, Climb, Fly, Swim. Rules for Speed and these specials speeds appear in 'Rules Glossary .'
+The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: Burrow, Climb, Fly, Swim. Rules for Speed and these specials speeds appear in 'Rules Glossary.'
 
 ### Ability Scores
 
-Every monster has six ability scores along with corresponding ability score modifiers and saving throw modifiers. For more information on ability scores and saving throws, see 'Playing the Game .'
+Every monster has six ability scores along with corresponding ability score modifiers and saving throw modifiers. For more information on ability scores and saving throws, see 'Playing the Game.'
 
 ### Skills
 
@@ -17470,9 +17470,9 @@ These entries list a monster's Resistances and Vulnerabilities, if any. See 'Pla
 
 To ensure a monster acts in accordance with its Challenge Rating, follow these rules during combat:
 
-- Special Abilities. If the monster has a special ability that deals a lot of damage but has a limited number of uses, such as a recharging breath weapon or a spell it can cast only once per day, have it use that special ability as quickly and as often as possible.
-- Multiattack. If the monster has Multiattack, have it use Multiattack on any of its turns in which it's not using one of its more powerful abilities.
-- Bonus Actions, Reactions, Legendary Actions. If the monster has Bonus Actions, Reactions, or Legendary Actions in its stat block, make sure it uses them as often as it can.
+- **Special Abilities.** If the monster has a special ability that deals a lot of damage but has a limited number of uses, such as a recharging breath weapon or a spell it can cast only once per day, have it use that special ability as quickly and as often as possible.
+- **Multiattack.** If the monster has Multiattack, have it use Multiattack on any of its turns in which it's not using one of its more powerful abilities.
+- **Bonus Actions, Reactions, Legendary Actions.** If the monster has Bonus Actions, Reactions, or Legendary Actions in its stat block, make sure it uses them as often as it can.
 
 ### Immunities
 
@@ -17498,7 +17498,7 @@ Beware of giving a monster combat-oriented magic items, since those might alter 
 
 ### Senses
 
-The Senses entry specifies a monster's Passive Perception score, as well as any special senses the monster possesses. Passive Perception and special senses are described in 'Rules Glossary .'
+The Senses entry specifies a monster's Passive Perception score, as well as any special senses the monster possesses. Passive Perception and special senses are described in 'Rules Glossary.'
 
 ### Languages
 
@@ -17520,25 +17520,42 @@ Unless a rule says otherwise, a monster summoned by a spell or another magical a
 
 ##### Experience Points by Challenge Rating
 
-| CR   | XP      |   CR | XP      |
-|------|---------|------|---------|
-| 0    | 0 or 10 |   14 | 11,500  |
-| 1/8  | 25      |   15 | 13,000  |
-| 1/4  | 50      |   16 | 15,000  |
-| 1/2  | 100     |   17 | 18,000  |
-| 1    | 200     |   18 | 20,000  |
-| 2    | 450     |   19 | 22,000  |
-| 3    | 700     |   20 | 25,000  |
-| 4    | 1,100   |   21 | 33,000  |
-| 5    | 1,800   |   22 | 41,000  |
-| 6    | 2,300   |   23 | 50,000  |
-| 7    | 2,900   |   24 | 62,000  |
-| 8    | 3,900   |   25 | 75,000  |
-| 9    | 5,000   |   26 | 90,000  |
-| 10   | 5,900   |   27 | 105,000 |
-| 11   | 7,200   |   28 | 120,000 |
-| 12   | 8,400   |   29 | 135,000 |
-| 13   | 10,000  |   30 | 155,000 |
+| CR  | XP      |
+|-----|---------|
+| 0   | 0 or 10 |
+| 1/8 | 25      |
+| 1/4 | 50      |
+| 1/2 | 100     |
+| 1   | 200     |
+| 2   | 450     |
+| 3   | 700     |
+| 4   | 1,100   |
+| 5   | 1,800   |
+| 6   | 2,300   |
+| 7   | 2,900   |
+| 8   | 3,900   |
+| 9   | 5,000   |
+| 10  | 5,900   |
+| 11  | 7,200   |
+| 12  | 8,400   |
+| 13  | 10,000  |
+| 14  | 11,500  |
+| 15  | 13,000  |
+| 16  | 15,000  |
+| 17  | 18,000  |
+| 18  | 20,000  |
+| 19  | 22,000  |
+| 20  | 25,000  |
+| 21  | 33,000  |
+| 22  | 41,000  |
+| 23  | 50,000  |
+| 24  | 62,000  |
+| 25  | 75,000  |
+| 26  | 90,000  |
+| 27  | 105,000 |
+| 28  | 120,000 |
+| 29  | 135,000 |
+| 30  | 155,000 |
 
 ### Proficiency Bonus
 
@@ -17546,12 +17563,16 @@ A monster's Proficiency Bonus (PB) is determined by its CR, as shown in the Prof
 
 ##### Proficiency Bonus by Challenge Rating
 
-| CR    |   PB | CR    |   PB |
-|-------|------|-------|------|
-| 0-4   |   +2 | 17-20 |   +6 |
-| 5-8   |   +3 | 21-24 |   +7 |
-| 9-12  |   +4 | 25-28 |   +8 |
-| 13-16 |   +5 | 29-30 |   +9 |
+| CR    | PB |
+|-------|----|
+| 0-4   | +2 |
+| 5-8   | +3 |
+| 9-12  | +4 |
+| 13-16 | +5 |
+| 17-20 | +6 |
+| 21-24 | +7 |
+| 25-28 | +8 |
+| 29-30 | +9 |
 
 ### Traits
 
@@ -17565,11 +17586,11 @@ A monster can take the actions in this section or take one of the actions availa
 
 The entry for a monster's attack identifies whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise. For details on different kinds of attacks, see 'Playing the Game' and 'Spells.'
 
-**Hit.** Any damage dealt or other effects that occur as a result of an attack hitting a target are described after the ' Hit: ' notation.
+**Hit.** Any damage dealt or other effects that occur as a result of an attack hitting a target are described after the 'Hit:' notation.
 
-**Miss.** If an attack has an effect that occurs on a miss, that information follows the ' Miss: ' notation.
+**Miss.** If an attack has an effect that occurs on a miss, that information follows the 'Miss:' notation.
 
-**Hit or Miss.** If an attack has an effect that occurs regardless of whether it hits or misses its target, that information follows the ' Hit or Miss: ' notation.
+**Hit or Miss.** If an attack has an effect that occurs regardless of whether it hits or misses its target, that information follows the 'Hit or Miss:' notation.
 
 #### Saving Throw Effect Notation
 
@@ -17687,7 +17708,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 **AC** 15
 **Initiative** +5 (15)
 **HP** 90 (12d10 + 24)
-**Speed** 0 ft., Fly 90 ft. (hover)
+**Speed** 10 ft., Fly 90 ft. (hover)
 
 | Stat | Value | MOD | SAVE |
 |------|-------|-----|------|
@@ -17986,7 +18007,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 | WIS  | 13    | +1  | +1   |
 | CHA  | 10    | +0  | +0   |
 
-**Immunities** Fire, Poison
+**Immunities** Fire, Poison; Poisoned
 **Senses** Passive Perception 11
 **Languages** Primordial (Ignan)
 **CR** 2 (XP 450; PB +2)
@@ -18002,6 +18023,8 @@ While grappling the target, the rug can't take this action, the rug halves the d
 **Burning Hammer.** Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Bludgeoning damage plus 3 (1d6) Fire damage.
 
 ### Balor
+
+#### Balor
 
 *Huge Fiend (Demon), Chaotic Evil*
 
@@ -18116,6 +18139,31 @@ While grappling the target, the rug can't take this action, the rug halves the d
 **Parry.** Trigger: The bandit is hit by a melee attack roll while holding a weapon. Response: The bandit adds 2 to its AC against that attack, possibly causing it to miss.
 
 ### Barbed Devil
+
+#### Barbed Devil
+
+*Medium Fiend (Devil), Lawful Evil*
+
+**AC** 15
+**Initiative** +3 (13)
+**HP** 110 (13d8 + 52)
+**Speed** 30 ft., Climb 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +6   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 18    | +4  | +7   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 14    | +2  | +5   |
+| CHA  | 14    | +2  | +5   |
+
+**Skills** Deception +5, Insight +5, Perception +8
+**Resistances** Cold
+**Immunities** Fire, Poison; Poisoned
+**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 18
+**Languages** Infernal; telepathy 120 ft.
+**CR** 5 (XP 1,800; PB +3)
 
 ##### Traits
 
@@ -18540,6 +18588,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 #### Blue Dragon Wyrmling
 
+*Medium Dragon (Chromatic), Lawful Evil*
+
+**AC** 17
+**Initiative** +2 (12)
+**HP** 65 (10d8 + 20)
+**Speed** 30 ft., Burrow 15 ft., Fly 60 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 10    | +0  | +2   |
+| CON  | 15    | +2  | +2   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 15    | +2  | +2   |
+
+**Skills** Perception +4, Stealth +2
+**Immunities** Lightning
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 3 (XP 700; PB +2)
+
 ##### Actions
 
 **Multiattack.** The dragon makes two Rend attacks.
@@ -18550,6 +18620,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 #### Young Blue Dragon
 
+*Large Dragon (Chromatic), Lawful Evil*
+
+**AC** 18
+**Initiative** +4 (14)
+**HP** 152 (16d10 + 64)
+**Speed** 40 ft., Burrow 20 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 21    | +5  | +5   |
+| DEX  | 10    | +0  | +4   |
+| CON  | 19    | +4  | +4   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 13    | +1  | +5   |
+| CHA  | 17    | +3  | +3   |
+
+**Skills** Perception +9, Stealth +4
+**Immunities** Lightning
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 19
+**Languages** Common, Draconic
+**CR** 9 (XP 5,000; PB +4)
+
 ##### Actions
 
 **Multiattack.** The dragon makes three Rend attacks.
@@ -18559,6 +18651,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Lightning Breath (Recharge 5-6).** Dexterity Saving Throw: DC 16, each creature in a 60-foot-long, 5-foot-wide Line. Failure: 55 (10d10) Lightning damage. Success: Half damage.
 
 #### Adult Blue Dragon
+
+*Huge Dragon (Chromatic), Lawful Evil*
+
+**AC** 19
+**Initiative** +10 (20)
+**HP** 212 (17d12 + 102)
+**Speed** 40 ft., Burrow 30 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 25    | +7  | +7   |
+| DEX  | 10    | +0  | +5   |
+| CON  | 23    | +6  | +6   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 15    | +2  | +7   |
+| CHA  | 20    | +5  | +5   |
+
+**Skills** Perception +12, Stealth +5
+**Immunities** Lightning
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
+**Languages** Common, Draconic
+**CR** 16 (XP 15,000, or 18,000 in lair; PB +5)
 
 ##### Traits
 
@@ -18594,7 +18708,7 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **AC** 22
 **Initiative** +14 (24)
 **HP** 481 (26d20 + 208)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+**Speed** 40 ft., Burrow 40 ft., Fly 80 ft.
 
 | Stat | Value | MOD | SAVE |
 |------|-------|-----|------|
@@ -18640,6 +18754,8 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 ### Bone Devil
 
+#### Bone Devil
+
 *Large Fiend (Devil), Lawful Evil*
 
 **AC** 16
@@ -18659,6 +18775,9 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Skills** Deception +7, Insight +6
 **Resistances** Cold
 **Immunities** Fire, Poison; Poisoned
+**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 12
+**Languages** Infernal; telepathy 120 ft.
+**CR** 9 (XP 5,000; PB +4)
 
 ##### Traits
 
@@ -18678,6 +18797,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 #### Brass Dragon Wyrmling
 
+*Medium Dragon (Metallic), Chaotic Good*
+
+**AC** 15
+**Initiative** +2 (12)
+**HP** 22 (4d8 + 4)
+**Speed** 30 ft., Burrow 15 ft., Fly 60 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 10    | +0  | +2   |
+| CON  | 13    | +1  | +1   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 13    | +1  | +1   |
+
+**Skills** Perception +4, Stealth +2
+**Immunities** Fire
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 1 (XP 200; PB +2)
+
 ##### Actions
 
 **Rend.** Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.
@@ -18687,6 +18828,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Sleep Breath.** Constitution Saving Throw: DC 11, each creature in a 15-foot Cone. Failure: The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. Second Failure: The target has the Unconscious condition for 1 minute. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
 
 #### Young Brass Dragon
+
+*Large Dragon (Metallic), Chaotic Good*
+
+**AC** 17
+**Initiative** +3 (13)
+**HP** 110 (13d10 + 39)
+**Speed** 40 ft., Burrow 20 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 10    | +0  | +3   |
+| CON  | 17    | +3  | +3   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 11    | +0  | +3   |
+| CHA  | 15    | +2  | +2   |
+
+**Skills** Perception +6, Persuasion +5, Stealth +3
+**Immunities** Fire
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 16
+**Languages** Common, Draconic
+**CR** 6 (XP 2,300; PB +3)
 
 ##### Actions
 
@@ -18699,6 +18862,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Sleep Breath.** Constitution Saving Throw: DC 14, each creature in a 30-foot Cone. Failure: The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. Second Failure: The target has the Unconscious condition for 1 minute. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
 
 #### Adult Brass Dragon
+
+*Huge Dragon (Metallic), Chaotic Good*
+
+**AC** 18
+**Initiative** +10 (20)
+**HP** 172 (15d12 + 75)
+**Speed** 40 ft., Burrow 30 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 10    | +0  | +5   |
+| CON  | 21    | +5  | +5   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 13    | +1  | +6   |
+| CHA  | 17    | +3  | +3   |
+
+**Skills** History +7, Perception +11, Persuasion +8, Stealth +5
+**Immunities** Fire
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
+**Languages** Common, Draconic
+**CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
 
 ##### Traits
 
@@ -18730,6 +18915,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Scorching Sands.** Dexterity Saving Throw: DC 16, one creature the dragon can see within 120 feet. Failure: 27 (6d8) Fire damage, and the target's Speed is halved until the end of its next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
 
 #### Ancient Brass Dragon
+
+*Gargantuan Dragon (Metallic), Chaotic Good*
+
+**AC** 20
+**Initiative** +12 (22)
+**HP** 332 (19d20 + 133)
+**Speed** 40 ft., Burrow 40 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 27    | +8  | +8   |
+| DEX  | 10    | +0  | +6   |
+| CON  | 25    | +7  | +7   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 15    | +2  | +8   |
+| CHA  | 22    | +6  | +6   |
+
+**Skills** History +9, Perception +14, Persuasion +12, Stealth +6
+**Immunities** Fire
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 24
+**Languages** Common, Draconic
+**CR** 20 (XP 25,000, or 33,000 in lair; PB +6)
 
 ##### Traits
 
@@ -18764,6 +18971,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 #### Bronze Dragon Wyrmling
 
+*Medium Dragon (Metallic), Lawful Good*
+
+**AC** 15
+**Initiative** +2 (12)
+**HP** 39 (6d8 + 12)
+**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 10    | +0  | +2   |
+| CON  | 15    | +2  | +2   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 15    | +2  | +2   |
+
+**Skills** Perception +4, Stealth +2
+**Immunities** Lightning
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 2 (XP 450; PB +2)
+
 ##### Traits
 
 **Amphibious.** The dragon can breathe air and water.
@@ -18779,6 +19008,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Repulsion Breath.** Strength Saving Throw: DC 12, each creature in a 30-foot Cone. Failure: The target is pushed up to 30 feet straight away from the dragon and has the Prone condition.
 
 #### Young Bronze Dragon
+
+*Large Dragon (Metallic), Lawful Good*
+
+**AC** 17
+**Initiative** +3 (13)
+**HP** 142 (15d10 + 60)
+**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 21    | +5  | +5   |
+| DEX  | 10    | +0  | +3   |
+| CON  | 19    | +4  | +4   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 13    | +1  | +4   |
+| CHA  | 17    | +3  | +3   |
+
+**Skills** Insight +4, Perception +7, Stealth +3
+**Immunities** Lightning
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
+**Languages** Common, Draconic
+**CR** 8 (XP 3,900; PB +3)
 
 ##### Traits
 
@@ -18863,9 +19114,9 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 | STR  | 29    | +9  | +9   |
 | DEX  | 10    | +0  | +7   |
 | CON  | 27    | +8  | +8   |
-| INT  | ?     | ?   | ?    |
-| WIS  | ?     | ?   | ?    |
-| CHA  | ?     | ?   | ?    |
+| INT  | 18    | +4  | +4   |
+| WIS  | 17    | +3  | +10  |
+| CHA  | 25    | +7  | +7   |
 
 **Skills** Insight +10, Perception +17, Stealth +7
 **Immunities** Lightning
@@ -18946,7 +19197,29 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 **Quick Grapple.** Dexterity Saving Throw: DC 13, one Medium or smaller creature the bugbear can see within 10 feet. Failure: The target has the Grappled condition (escape DC 13).
 
-#### Bugbear
+#### Bugbear Warrior
+
+*Medium Fey (Goblinoid), Chaotic Evil*
+
+**AC** 14
+**Initiative** +2 (12)
+**HP** 33 (6d8 + 6)
+**Speed** 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 13    | +1  | +1   |
+| INT  | 8     | -1  | -1   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 9     | -1  | -1   |
+
+**Skills** Stealth +6, Survival +2
+**Gear** Hide Armor, Light Hammers (3)
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Common, Goblin
+**CR** 1 (XP 200; PB +2)
 
 ##### Traits
 
@@ -18959,6 +19232,29 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Light Hammer.** Melee or Ranged Attack Roll: +4 (with Advantage if the target is Grappled by the bugbear), reach 10 ft. or range 20/60 ft. Hit: 9 (3d4 + 2) Bludgeoning damage.
 
 ### Bulette
+
+#### Bulette
+
+*Large Monstrosity, Unaligned*
+
+**AC** 17
+**Initiative** +0 (10)
+**HP** 94 (9d10 + 45)
+**Speed** 40 ft., Burrow 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 21    | +5  | +5   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
+
+**Skills** Perception +6
+**Senses** Darkvision 60 ft., Tremorsense 120 ft.; Passive Perception 16
+**Languages** None
+**CR** 5 (XP 1,800; PB +3)
 
 ##### Actions
 
@@ -18974,6 +19270,30 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 ### Centaur
 
+#### Centaur Trooper
+
+*Large Fey, Neutral Good*
+
+**AC** 16
+**Initiative** +2 (12)
+**HP** 45 (6d10 + 12)
+**Speed** 50 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 14    | +2  | +2   |
+| INT  | 9     | -1  | -1   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 11    | +0  | +0   |
+
+**Skills** Athletics +6, Perception +3
+**Gear** Breastplate, Longbow, Pike
+**Senses** Passive Perception 13
+**Languages** Elvish, Sylvan
+**CR** 2 (XP 450; PB +2)
+
 ##### Actions
 
 **Multiattack.** The centaur makes two attacks, using Pike or Longbow in any combination.
@@ -18988,10 +19308,12 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 ### Chain Devil
 
+#### Chain Devil
+
 *Medium Fiend (Devil), Lawful Evil*
 
 **AC** 15
-**Initiative** — *(value lost to OCR)*
+**Initiative** +5 (15)
 **HP** 85 (10d8 + 40)
 **Speed** 30 ft.
 
@@ -19030,6 +19352,8 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 ### Chimera
 
+#### Chimera
+
 *Large Monstrosity, Chaotic Evil*
 
 **AC** 14
@@ -19041,10 +19365,10 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 |------|-------|-----|------|
 | STR  | 19    | +4  | +4   |
 | DEX  | 11    | +0  | +0   |
-| CON  | —     | +4  | +4   |
+| CON  | 19    | +4  | +4   |
 | INT  | 3     | -4  | -4   |
 | WIS  | 14    | +2  | +2   |
-| CHA  | —     | +0  | +0   |
+| CHA  | 10    | +0  | +0   |
 
 **Skills** Perception +8
 **Senses** Darkvision 60 ft.; Passive Perception 18
