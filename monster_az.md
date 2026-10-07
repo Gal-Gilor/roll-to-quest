@@ -3629,7 +3629,7 @@ Success: The target is immune to this ghost's Possession for 24 hours.
 **Immunities** Fire
 **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
 **Languages** Draconic
-**CR** 3 (700 XP; PB +2)
+**CR** 3 (XP 700; PB +2)
 
 ##### Traits
 
@@ -8965,7 +8965,7 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 **Immunities** Cold
 **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
 **Languages** Draconic
-**CR** 2 (450 XP; PB +2)
+**CR** 2 (XP 450; PB +2)
 
 ##### Traits
 
@@ -9001,7 +9001,7 @@ While in mist form, the vampire can't take any actions, speak, or manipulate obj
 **Immunities** Cold
 **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 16
 **Languages** Common, Draconic
-**CR** 6 (2,300 XP; PB +3)
+**CR** 6 (XP 2,300; PB +3)
 
 ##### Traits
 
