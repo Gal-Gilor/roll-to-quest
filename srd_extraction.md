@@ -2,13 +2,13 @@
 
 ## Rhythm of Play
 
-The three main pillars of D&amp;D play are social interaction, exploration, and combat. Whichever one you're experiencing, the game unfolds according to this basic pattern:
+The three main pillars of D&D play are social interaction, exploration, and combat. Whichever one you're experiencing, the game unfolds according to this basic pattern:
 
 1. **The Game Master Describes a Scene.** The GM tells the players where their adventurers are and what's around them (how many doors lead out of a room, what's on a table, and so on).
 2. **The Players Describe What Their Characters Do.** Typically, the characters stick together as they travel through a dungeon or another environment. Sometimes different adventurers do different things: one adventurer might search a treasure chest while a second examines a mysterious symbol engraved on a wall and a third keeps watch for monsters. Outside combat, the GM ensures that every character has a chance to act and decides how to resolve their activity. In combat, the characters take turns.
 3. **The GM Narrates the Results of the Adventurers' Actions.** Sometimes resolving a task is easy. If an adventurer walks across a room and tries to open a door, the GM might say the door opens and describe what lies beyond. But the door might be locked, the floor might hide a trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the GM might ask the player to roll a die to help determine what happens. Describing the results often leads to another decision point, which brings the game back to step 1.
 
-This pattern holds during every game session (each time you sit down to play D&amp;D), whether the
+This pattern holds during every game session (each time you sit down to play D&D), whether the
 
 ##### Exceptions Supersede General Rules
 
@@ -734,7 +734,7 @@ Damage dealt via saving throws uses these rules.
 
 #### Damage against Multiple Targets
 
-When you create a damaging effect that forces two or more targets to make saving throws against it at the same time, roll the damage once for all the targets. For example, when a wizard casts Fireball , the spell's damage is rolled once for all creatures caught in the blast.
+When you create a damaging effect that forces two or more targets to make saving throws against it at the same time, roll the damage once for all the targets. For example, when a wizard casts Fireball, the spell's damage is rolled once for all creatures caught in the blast.
 
 #### Half Damage
 
@@ -766,7 +766,7 @@ Some creatures and objects have Immunity to certain damage types and conditions.
 
 ### Healing
 
-Hit Points can be restored by magic, such as the Cure Wounds spell or a Potion of Healing , or by a Short or Long Rest (see 'Rules Glossary').
+Hit Points can be restored by magic, such as the Cure Wounds spell or a Potion of Healing, or by a Short or Long Rest (see 'Rules Glossary').
 
 ##### Knocking Out a Creature
 
@@ -1128,7 +1128,7 @@ The character sheet includes room to note your current Hit Points when you take 
 
 **Armor Class.** Without armor or a shield, your base Armor Class is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in 'Equipment.' A class feature might give you a different way to calculate your AC.
 
-**Attacks.** In the Weapons &amp; Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
+**Attacks.** In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
 
 Melee attack bonus = Strength modifier + Proficiency Bonus Ranged attack bonus = Dexterity modifier + Proficiency Bonus
 
@@ -1208,7 +1208,7 @@ In tier 1, characters are apprentice adventurers, though they are already set ap
 
 #### Tier 2 (Levels 5-10)
 
-In tier 2, characters are full-fledged adventurers. Spellcasters gain iconic spells such as Fireball , Lightning Bolt , and Raise Dead . Most weapon-focused classes gain the ability to make multiple attacks in a round. The characters now face dangers that threaten cities and kingdoms.
+In tier 2, characters are full-fledged adventurers. Spellcasters gain iconic spells such as Fireball, Lightning Bolt, and Raise Dead. Most weapon-focused classes gain the ability to make multiple attacks in a round. The characters now face dangers that threaten cities and kingdoms.
 
 #### Tier 3 (Levels 11-16)
 
@@ -1220,7 +1220,7 @@ At tier 4, characters achieve the pinnacle of their class features, becoming her
 
 ## Starting at Higher Levels
 
-Your GM might start your group's characters at a level higher than 1. It is particularly recommended to start at level 3 if your group is composed of seasoned D&amp;D players.
+Your GM might start your group's characters at a level higher than 1. It is particularly recommended to start at level 3 if your group is composed of seasoned D&D players.
 
 ### Creating Your Character
 
@@ -1239,7 +1239,7 @@ Creating a higher-level character uses the same character-creation steps outline
 
 A GM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. Epic Boon feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
 
-in the 'Level Advancement' section . You begin with the minimum amount of XP required to reach your starting level. For example, if the GM starts you at level 10, you have 64,000 XP.
+in the 'Level Advancement' section. You begin with the minimum amount of XP required to reach your starting level. For example, if the GM starts you at level 10, you have 64,000 XP.
 
 ### Starting Equipment
 
@@ -1310,7 +1310,7 @@ Each spell you prepare is associated with one of your classes, and you use the s
 
 Then look up this total level in the Level column of the Multiclass Spellcaster table. You use the slots for that level to cast spells of an appropriate level from any class whose Spellcasting feature you have.
 
-This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like Burning Hands , has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
+This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like Burning Hands, has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
 
 For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown
 
@@ -1731,7 +1731,7 @@ When you reach Bard levels 4 and 10, you learn another cantrip of your choice fr
 
 **Spell Slots.** The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. Charm Person , Color Spray , Dissonant Whispers , and Healing Word are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. Charm Person, Color Spray, Dissonant Whispers, and Healing Word are recommended.
 
 The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -2055,7 +2055,7 @@ As a Cleric, you gain the following class features when you reach the specified 
 
 You have learned to cast spells through prayer and meditation. See 'Spells' for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the Cleric spell list later in the class's description.
 
-**Cantrips.** You know three cantrips of your choice from the Cleric spell list. Guidance , Sacred Flame , and Thaumaturgy are recommended.
+**Cantrips.** You know three cantrips of your choice from the Cleric spell list. Guidance, Sacred Flame, and Thaumaturgy are recommended.
 
 Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.
 
@@ -2063,7 +2063,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 **Spell Slots.** The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. Bless , Cure Wounds , Guiding Bolt , and Shield of Faith are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. Bless, Cure Wounds, Guiding Bolt, and Shield of Faith are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -2407,7 +2407,7 @@ When you reach Druid levels 4 and 10, you learn another cantrip of your choice f
 
 **Spell Slots.** The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. Animal Friendship , Cure Wounds , Faerie Fire , and Thunderwave are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. Animal Friendship, Cure Wounds, Faerie Fire, and Thunderwave are recommended.
 
 The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -2441,7 +2441,7 @@ The power of nature allows you to assume the form of an animal. As a Bonus Actio
 
 You gain additional uses when you reach certain Druid levels, as shown in the Wild Shape column of the Druid Features table.
 
-**Known Forms.** You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see 'Animals' in 'Monsters' for stat block options). The Rat, Riding Horse, Spider , and Wolf are recommended. Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
+**Known Forms.** You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see 'Animals' in 'Monsters' for stat block options). The Rat, Riding Horse, Spider, and Wolf are recommended. Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
 
 When you reach certain Druid levels, your number of known forms and the maximum Challenge Rating for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
 
@@ -3427,7 +3427,7 @@ You and your allies have Immunity to the Charmed condition while in your Aura of
 
 #### Level 15: Smite of Protection
 
-Your magical smite now radiates protective energy. Whenever you cast Divine Smite , you and your allies have Half Cover while in your Aura of Protection. The aura has this benefit until the start of your next turn.
+Your magical smite now radiates protective energy. Whenever you cast Divine Smite, you and your allies have Half Cover while in your Aura of Protection. The aura has this benefit until the start of your next turn.
 
 #### Level 20: Holy Nimbus
 
@@ -3571,7 +3571,7 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 #### Level 13: Relentless Hunter
 
-Taking damage can't break your Concentration on Hunter's Mark .
+Taking damage can't break your Concentration on Hunter's Mark.
 
 #### Level 14: Nature's Veil
 
@@ -3581,7 +3581,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 #### Level 17: Precise Hunter
 
-You have Advantage on attack rolls against the creature currently marked by your Hunter's Mark .
+You have Advantage on attack rolls against the creature currently marked by your Hunter's Mark.
 
 #### Level 18: Feral Senses
 
@@ -3680,7 +3680,7 @@ You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to p
 
 #### Level 3: Hunter's Lore
 
-You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter's Mark , you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
+You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter's Mark, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
 
 #### Level 3: Hunter's Prey
 
@@ -3700,7 +3700,7 @@ You gain one of the following feature options of your choice. Whenever you finis
 
 #### Level 11: Superior Hunter's Prey
 
-Once per turn when you deal damage to a creature marked by your Hunter's Mark , you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature.
+Once per turn when you deal damage to a creature marked by your Hunter's Mark, you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature.
 
 #### Level 15: Superior Hunter's Defense
 
@@ -4116,7 +4116,7 @@ When you cast a spell that deals a type of damage from the following list, you c
 
 Cost: 1 Sorcery Point
 
-When you cast a spell, such as Charm Person , that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
+When you cast a spell, such as Charm Person, that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
 
 ### Sorcerer Spell List
 
@@ -4430,7 +4430,7 @@ When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of you
 
 **Spell Slots.** The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1-5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Short or Long Rest.
 
-For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell Charm Person , you must spend one of those slots, and you cast it as a level 3 spell.
+For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell Charm Person, you must spend one of those slots, and you cast it as a level 3 spell.
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. Charm Person and Hex are recommended.
 
@@ -4572,7 +4572,7 @@ As a Magic action, you can erase a name on the page by touching it.
 
 Prerequisite: Level 5+ Warlock, Pact of the Chain Invocation
 
-When you cast Find Familiar , you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
+When you cast Find Familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
 **Aerial or Aquatic.** The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
 
@@ -4908,13 +4908,13 @@ As a Wizard, you gain the following class features when you reach the specified 
 
 As a student of arcane magic, you have learned to cast spells. See 'Spells' for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the Wizard spell list later in the class's description.
 
-**Cantrips.** You know three Wizard cantrips of your choice. Light , Mage Hand , and Ray of Frost are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+**Cantrips.** You know three Wizard cantrips of your choice. Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
 
 When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
 
-**Spellbook.** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting Identify . You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
+**Spellbook.** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting Identify. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
-The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. Detect Magic , Feather Fall , Mage Armor , Magic Missile , Sleep , and Thunderwave are recommended.
+The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. Detect Magic, Feather Fall, Mage Armor, Magic Missile, Sleep, and Thunderwave are recommended.
 
 Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
 
@@ -4952,7 +4952,7 @@ You gain a Wizard subclass of your choice. The Evoker subclass is detailed after
 
 ##### Expanding and Replacing a Spellbook
 
-The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a Spell Scroll , for example, and then copy it into your spellbook.
+The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a Spell Scroll, for example, and then copy it into your spellbook.
 
 **Copying a Spell into the Book.** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it's of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. After -ward you can prepare the spell like the other spells in your spellbook.
 
@@ -5481,7 +5481,7 @@ Gnomish Lineage. You are part of a lineage that grants you supernatural abilitie
 
 Forest Gnome. You know the Minor Illusion cantrip. You also always have the Speak with Animals spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
 
-Rock Gnome. You know the Mending and Prestidigitation cantrips. In addition, you can spend 10 minutes casting Prestidigitation to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from Prestidigitation ; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.
+Rock Gnome. You know the Mending and Prestidigitation cantrips. In addition, you can spend 10 minutes casting Prestidigitation to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from Prestidigitation; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.
 
 #### Goliath
 
@@ -6866,9 +6866,9 @@ Some magic items are indistinguishable from their nonmagical counterparts, while
 
 The Identify spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a Short Rest while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
 
-Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a Ring of Feather Falling .
+Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a Ring of Feather Falling.
 
-Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a Ring of Swimming , the GM might say, 'Your movement feels strangely fluid.' Perhaps you then dive into a river to see what happens. The GM would then say you swim unexpectedly well.
+Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a Ring of Swimming, the GM might say, 'Your movement feels strangely fluid.' Perhaps you then dive into a river to see what happens. The GM would then say you swim unexpectedly well.
 
 ### Attunement
 
@@ -6924,11 +6924,11 @@ Characters can combine their efforts to shorten the crafting time. Divide the ti
 
 ## Brewing Potions of Healing
 
-A character who has proficiency with the Herbalism Kit can create a Potion of Healing . Doing so requires using that kit and 25 GP of raw material over the course of 1 day (8 hours of work).
+A character who has proficiency with the Herbalism Kit can create a Potion of Healing. Doing so requires using that kit and 25 GP of raw material over the course of 1 day (8 hours of work).
 
 ## Scribing Spell Scrolls
 
-A spellcaster can transfer a spell to a scroll and create a Spell Scroll , using the rules below.
+A spellcaster can transfer a spell to a scroll and create a Spell Scroll, using the rules below.
 
 ### Time and Cost
 
@@ -6959,7 +6959,7 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 
 ## Gaining Spells
 
-Before you can cast a spell, you must have the spell prepared in your mind or have access to the spell from a magic item, such as a Spell Scroll . Your features specify which spells you have access to, if any; whether you always have certain spells prepared; and whether you can change the list of spells you have prepared.
+Before you can cast a spell, you must have the spell prepared in your mind or have access to the spell from a magic item, such as a Spell Scroll. Your features specify which spells you have access to, if any; whether you always have certain spells prepared; and whether you can change the list of spells you have prepared.
 
 ### Preparing Spells
 
@@ -7000,7 +7000,7 @@ Every spell has a level from 0 to 9, which is indicated in a spell's description
 
 Spellcasting is taxing, so a spellcaster can cast only a limited number of level 1+ spells before resting. Spell slots are the main way a spellcaster's magical potential is represented. Each spellcasting class gives its members a limited number of spell slots of certain spell levels. For example, a level 3 Wizard has four level 1 spell slots and two level 2 slots.
 
-When you cast a spell, you expend a slot of that spell's level or higher, effectively 'filling' a slot with the spell. Imagine a spell slot is a groove of a certain size-small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that's at least level 2. So when a level 3 Wizard casts Magic Missile , a level 1 spell, that Wizard spends one of four level 1 slots and has three remaining.
+When you cast a spell, you expend a slot of that spell's level or higher, effectively 'filling' a slot with the spell. Imagine a spell slot is a groove of a certain size-small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that's at least level 2. So when a level 3 Wizard casts Magic Missile, a level 1 spell, that Wizard spends one of four level 1 slots and has three remaining.
 
 Finishing a Long Rest restores any expended spell slots.
 
@@ -7008,16 +7008,16 @@ Finishing a Long Rest restores any expended spell slots.
 
 There are several ways to cast a spell without expending a spell slot:
 
-- *Cantrips*. A cantrip is cast without a spell slot.
-- *Rituals*. Certain spells have the Ritual tag in the Casting Time entry. Such a spell can be cast following the normal rules for spellcasting, or it can be cast as a Ritual. The Ritual version of a spell takes 10 minutes longer to cast than normal, but it doesn't expend a spell slot. To cast a spell as a Ritual, a spellcaster must have it prepared.
-- **Special Abilities**. Some characters and monsters have special abilities that allow them to cast specific spells without a spell slot. This casting is usually limited in another way, such as being able to cast the spell a limited number of times per day.
-- **Magic Items**. Spell Scrolls and some other magic items contain spells that can be cast without a spell slot. The description of such an item specifies how many times a spell can be cast from it.
+- **Cantrips.** A cantrip is cast without a spell slot.
+- **Rituals.** Certain spells have the Ritual tag in the Casting Time entry. Such a spell can be cast following the normal rules for spellcasting, or it can be cast as a Ritual. The Ritual version of a spell takes 10 minutes longer to cast than normal, but it doesn't expend a spell slot. To cast a spell as a Ritual, a spellcaster must have it prepared.
+- **Special Abilities.** Some characters and monsters have special abilities that allow them to cast specific spells without a spell slot. This casting is usually limited in another way, such as being able to cast the spell a limited number of times per day.
+- **Magic Items.** Spell Scrolls and some other magic items contain spells that can be cast without a spell slot. The description of such an item specifies how many times a spell can be cast from it.
 
 #### Using a Higher-Level Spell Slot
 
 When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell takes on the higher level for that casting. For instance, if a Wizard casts Magic Missile using a level 2 slot, that Magic Missile is level 2. Effectively, the spell expands to fill the slot it is put into.
 
-Some spells, such as Magic Missile and Cure Wounds , have more powerful effects when cast at a higher level, as detailed in a spell's description.
+Some spells, such as Magic Missile and Cure Wounds, have more powerful effects when cast at a higher level, as detailed in a spell's description.
 
 ### School of Magic
 
@@ -7062,10 +7062,9 @@ A spell's range indicates how far from the spellcaster the spell's effect can or
 
 A range usually takes one of the following forms:
 
-Distance. The range is expressed in feet.
-
-- Touch . The spell's effect originates on something, as defined by the spell, that the spellcaster must touch within their reach.
-- Self. The spell is cast on the spellcaster or emanates from them, as specified in the spell.
+- **Distance.** The range is expressed in feet.
+- **Touch.** The spell's effect originates on something, as defined by the spell, that the spellcaster must touch within their reach.
+- **Self.** The spell is cast on the spellcaster or emanates from them, as specified in the spell.
 
 If a spell has movable effects, they aren't restricted by its range unless the spell's description says otherwise.
 
@@ -7091,9 +7090,9 @@ If a spell doesn't consume its materials and doesn't specify a cost for them, a 
 
 A spell's duration is the length of time the spell persists after it is cast. A duration typically takes one of the following forms:
 
-- Concentration. A duration that requires Concentration follows the Concentration rules (see 'Rules Glossary').
-- Instantaneous. An instantaneous duration means the spell's magic appears only for a moment and then disappears.
-- Time Span. A duration that provides a time span specifies how long the spell lasts in rounds, minutes, hours, or the like. For example, a Duration entry might say '1 minute,' meaning the spell ends after 1 minute has passed. While a time-span spell that you cast is ongoing, you can dismiss it (no action required) if you don't have the Incapacitated condition.
+- **Concentration.** A duration that requires Concentration follows the Concentration rules (see 'Rules Glossary').
+- **Instantaneous.** An instantaneous duration means the spell's magic appears only for a moment and then disappears.
+- **Time Span.** A duration that provides a time span specifies how long the spell lasts in rounds, minutes, hours, or the like. For example, a Duration entry might say '1 minute,' meaning the spell ends after 1 minute has passed. While a time-span spell that you cast is ongoing, you can dismiss it (no action required) if you don't have the Incapacitated condition.
 
 ### Effects
 
@@ -7107,7 +7106,7 @@ A Clear Path to the Target. To target something with a spell, a caster must have
 
 Targeting Yourself. If a spell targets a creature of your choice, you can choose yourself unless the creature must be Hostile or specifically a creature other than you.
 
-Areas of Effect. Some spells, such as Thunderwave , cover an area called an area of effect, which is defined in 'Rules Glossary.' The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: Cone, Cube, Cylinder, Emanation, Line, or Sphere.
+Areas of Effect. Some spells, such as Thunderwave, cover an area called an area of effect, which is defined in 'Rules Glossary.' The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: Cone, Cube, Cylinder, Emanation, Line, or Sphere.
 
 Awareness of Being Targeted. Unless a spell has a perceptible effect, a creature doesn't know it was targeted by the spell. An effect like lightning is obvious, but a more subtle effect, such as an attempt to read thoughts, goes unnoticed unless a spell's description says otherwise.
 
@@ -7148,7 +7147,7 @@ Level 2 Evocation (Wizard)
 
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 Acid damage and 2d4 Acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage only.
 
-***Using a Higher-Level Spell Slot***. The damage (both initial and later) increases by 1d4 for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** The damage (both initial and later) increases by 1d4 for each spell slot level above 2.
 
 ### Acid Splash
 
@@ -7161,7 +7160,7 @@ Evocation Cantrip (Sorcerer, Wizard)
 
 You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
 
-***Cantrip Upgrade***. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
+***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
 ### Aid
 
@@ -7174,7 +7173,7 @@ Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)
 
 Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
 
-***Using a Higher-Level Spell Slot***. Each target's Hit Points increase by 5 for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** Each target's Hit Points increase by 5 for each spell slot level above 2.
 
 ### Alarm
 
@@ -7218,7 +7217,7 @@ Level 1 Enchantment (Bard, Druid, Ranger)
 
 Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
 
-***Using a Higher-Level Spell Slot***. You can target one additional Beast for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You can target one additional Beast for each spell slot level above 1.
 
 ### Animal Messenger
 
@@ -7233,7 +7232,7 @@ A Tiny Beast of your choice that you can see within range must succeed on a Char
 
 When the Beast arrives, it delivers your message to the creature that you described, mimicking your communication. If the Beast doesn't reach its destination before the spell ends, the message is lost, and the Beast returns to where you cast the spell.
 
-***Using a Higher-Level Spell Slot***. The spell's duration increases by 48 hours for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** The spell's duration increases by 48 hours for each spell slot level above 2.
 
 ### Animal Shapes
 
@@ -7265,7 +7264,7 @@ On each of your turns, you can take a Bonus Action to mentally command any creat
 
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell rather than animating a new creature.
 
-***Using a Higher-Level Spell Slot***. You animate or reassert control over two additional Undead creatures for each spell slot level above 3. Each of the creatures must come from a different corpse or pile of bones.
+***Using a Higher-Level Spell Slot.*** You animate or reassert control over two additional Undead creatures for each spell slot level above 3. Each of the creatures must come from a different corpse or pile of bones.
 
 ### Animate Objects
 
@@ -7282,7 +7281,7 @@ Each target animates, sprouts legs, and becomes a Construct that uses the Animat
 
 Until the spell ends, you can take a Bonus Action to mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to each one). If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. When the creature drops to 0 Hit Points, it reverts to its object form, and any remaining damage carries over to that form.
 
-***Using a Higher-Level Spell Slot***. The creature's Slam damage increases by 1d4 (Medium or smaller), 1d6 (Large), or 1d12 (Huge) for each spell slot level above 5.
+***Using a Higher-Level Spell Slot.*** The creature's Slam damage increases by 1d4 (Medium or smaller), 1d6 (Large), or 1d12 (Huge) for each spell slot level above 5.
 
 ##### Animated Object
 
@@ -7386,7 +7385,7 @@ When you cast the spell and as a Bonus Action on your later turns, you can move 
 - Grasping Hand. The hand attempts to grapple a Huge or smaller creature within 5 feet of it. The target must succeed on a Dexterity saving throw, or the target has the Grappled condition, with an escape DC equal to your spell save DC. While the hand grapples the target, you can take a Bonus Action to cause the hand to crush it, dealing Bludgeoning damage to the target equal to 4d6 plus your spellcasting ability modifier.
 - Interposing Hand. The hand grants you Half Cover against attacks and other effects that originate from its space or that pass through it. In addition, its space counts as Difficult Terrain for your enemies.
 
-***Using a Higher-Level Spell Slot***. The damage of the Clenched Fist increases by 2d8 and the damage of the Grasping Hand increases by 2d6 for each spell slot level above 5.
+***Using a Higher-Level Spell Slot.*** The damage of the Clenched Fist increases by 2d8 and the damage of the Grasping Hand increases by 2d6 for each spell slot level above 5.
 
 ### Arcane Lock
 
@@ -7427,7 +7426,7 @@ With a touch, you place an illusion on a willing creature or an object that isn'
 
 Mask (Creature). Choose a creature type other than the target's actual type. Spells and other magical effects treat the target as if it were a creature of the chosen type.
 
-False Aura (Object). You change the way the target appears to spells and magical effects that detect magical auras, such as Detect Magic . You can make a nonmagical object appear magical, make a magic item appear nonmagical, or change the object's aura so that it appears to belong to a school of magic you choose.
+False Aura (Object). You change the way the target appears to spells and magical effects that detect magical auras, such as Detect Magic. You can make a nonmagical object appear magical, make a magic item appear nonmagical, or change the object's aura so that it appears to belong to a school of magic you choose.
 
 ### Astral Projection
 
@@ -7507,7 +7506,7 @@ Level 1 Enchantment (Bard, Cleric, Warlock)
 
 Up to three creatures of your choice that you can see within range must each make a Charisma saving throw. Whenever a target that fails this save makes an attack roll or a saving throw before the spell ends, the target must subtract 1d4 from the attack roll or save.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
 ### Banishment
 
@@ -7522,7 +7521,7 @@ One creature that you can see within range must succeed on a Charisma saving thr
 
 If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, the target doesn't return if the spell lasts for 1 minute. The target is instead transported to a random location on a plane (GM's choice) associated with its creature type.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 4.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
 
 ### Barkskin
 
@@ -7557,7 +7556,7 @@ Level 8 Enchantment (Bard, Druid, Warlock, Wizard)
 
 You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
 
-On a failed save, the target takes 10d12 Psychic damage and can't cast spells or take the Magic action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the Greater Restoration , Heal , or Wish spell.
+On a failed save, the target takes 10d12 Psychic damage and can't cast spells or take the Magic action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the Greater Restoration, Heal, or Wish spell.
 
 On a successful save, the target takes half as much damage only.
 
@@ -7578,7 +7577,7 @@ You touch a creature, which must succeed on a Wisdom saving throw or become curs
 
 - If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.
 
-***Using a Higher-Level Spell Slot***. If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn't require Concentration, and the duration becomes 8 hours (level 5-6 slot) or 24 hours (level 7-8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.
+***Using a Higher-Level Spell Slot.*** If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn't require Concentration, and the duration becomes 8 hours (level 5-6 slot) or 24 hours (level 7-8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.
 
 ### Black Tentacles
 
@@ -7619,7 +7618,7 @@ Level 1 Enchantment (Cleric, Paladin)
 
 You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
 ### Blight
 
@@ -7634,7 +7633,7 @@ A creature that you can see within range makes a Constitution saving throw, taki
 
 Alternatively, target a nonmagical plant that isn't a creature, such as a tree or shrub. It doesn't make a save; it simply withers and dies.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 4.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
 
 ### Blindness/Deafness
 
@@ -7647,7 +7646,7 @@ Level 2 Transmutation (Bard, Cleric, Sorcerer, Wizard)
 
 One creature that you can see within range must succeed on a Constitution saving throw, or it has the Blinded or Deafened condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 2.
 
 ### Blink
 
@@ -7686,7 +7685,7 @@ A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone ma
 
 Flammable objects in the Cone that aren't being worn or carried start burning.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d6 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
 ### Call Lightning
 
@@ -7705,7 +7704,7 @@ Until the spell ends, you can take a Magic action to call down lightning in that
 
 If you're outdoors in a storm when you cast this spell, the spell gives you control over that storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d10 for each spell slot level above 3.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 3.
 
 ### Calm Emotions
 
@@ -7734,7 +7733,7 @@ You launch a lightning bolt toward a target you can see within range. Three bolt
 
 Each target makes a Dexterity saving throw, taking 10d8 Lightning damage on a failed save or half as much damage on a successful one.
 
-***Using a Higher-Level Spell Slot***. One additional bolt leaps from the first target to another target for each spell slot level above 6.
+***Using a Higher-Level Spell Slot.*** One additional bolt leaps from the first target to another target for each spell slot level above 6.
 
 ### Charm Monster
 
@@ -7747,7 +7746,7 @@ Level 4 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)
 
 One creature you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 4.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
 
 ### Charm Person
 
@@ -7760,7 +7759,7 @@ Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)
 
 One Humanoid you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
 ### Chill Touch
 
@@ -7773,7 +7772,7 @@ Necromancy Cantrip (Sorcerer, Warlock, Wizard)
 
 Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 
-***Cantrip Upgrade***. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
+***Cantrip Upgrade.*** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
 ### Chromatic Orb
 
@@ -7788,7 +7787,7 @@ You hurl an orb of energy at a target within range. Choose Acid, Cold, Fire, Lig
 
 If you roll the same number on two or more of the d8s, the orb leaps to a different target of your choice within 30 feet of the target. Make an attack roll against the new target, and make a new damage roll. The orb can't leap again unless you cast the spell with a level 2+ spell slot.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 1. The orb can leap a maximum number of times equal to the level of the slot expended, and a creature can be targeted only once by each casting of this spell.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1. The orb can leap a maximum number of times equal to the level of the slot expended, and a creature can be targeted only once by each casting of this spell.
 
 ### Circle of Death
 
@@ -7801,7 +7800,7 @@ Level 6 Necromancy (Sorcerer, Warlock, Wizard)
 
 Negative energy ripples out in a 60-foot-radius Sphere from a point you choose within range. Each creature in that area makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 2d8 for each spell slot level above 6.
+***Using a Higher-Level Spell Slot.*** The damage increases by 2d8 for each spell slot level above 6.
 
 ### Clairvoyance
 
@@ -7840,13 +7839,13 @@ Level 5 Conjuration (Sorcerer, Wizard)
 **Components:** V, S
 **Duration:** Concentration, up to 10 minutes
 
-You create a 20-foot-radius Sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by Gust of Wind ) disperses it, ending the spell. Its area is Heavily Obscured.
+You create a 20-foot-radius Sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by Gust of Wind) disperses it, ending the spell. Its area is Heavily Obscured.
 
 Each creature in the Sphere makes a Constitution saving throw, taking 5d8 Poison damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
 
 The Sphere moves 10 feet away from you at the start of each of your turns.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 5.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 5.
 
 ### Color Spray
 
@@ -7876,7 +7875,7 @@ You speak a one-word command to a creature you can see within range. The target 
 - Grovel. The target has the Prone condition and then ends its turn.
 - Halt. On its turn, the target doesn't move and takes no action or Bonus Action.
 
-***Using a Higher-Level Spell Slot***. You can affect one additional creature for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You can affect one additional creature for each spell slot level above 1.
 
 ### Commune
 
@@ -7949,7 +7948,7 @@ Level 5 Evocation (Druid, Sorcerer, Wizard)
 
 You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you makes a Constitution saving throw, taking 8d8 Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 5.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 5.
 
 ### Confusion
 
@@ -7971,7 +7970,7 @@ Each creature in a 10-foot-radius Sphere centered on a point you choose within r
 
 At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
 
-***Using a Higher-Level Spell Slot***. The Sphere's radius increases by 5 feet for each spell slot level above 4.
+***Using a Higher-Level Spell Slot.*** The Sphere's radius increases by 5 feet for each spell slot level above 4.
 
 ### Conjure Animals
 
@@ -7988,7 +7987,7 @@ You have Advantage on Strength saving throws while you're within 5 feet of the p
 
 Whenever the pack moves within 10 feet of a creature you can see and whenever a creature you can see enters a space within 10 feet of the pack or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes 3d10 Slashing damage. A creature makes this save only once per turn.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d10 for each spell slot level above 3.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 3.
 
 ### Conjure Celestial
 
@@ -8009,7 +8008,7 @@ Until the spell ends, Bright Light fills the Cylinder, and when you move on your
 
 Whenever the Cylinder moves into the space of a creature you can see and whenever a creature you can see enters the Cylinder or ends its turn there, you can bathe it in one of the lights. A creature can be affected by this spell only once per turn.
 
-***Using a Higher-Level Spell Slot***. The healing and damage increase by 1d12 for each spell slot level above 7.
+***Using a Higher-Level Spell Slot.*** The healing and damage increase by 1d12 for each spell slot level above 7.
 
 ### Conjure Elemental
 
@@ -8026,7 +8025,7 @@ Whenever a creature you can see enters the spirit's space or starts its turn wit
 
 On a failed save, the target takes 4d8 damage of the spirit's type. On a successful save, the target isn't Restrained by the spirit.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 5.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 5.
 
 ### Conjure Fey
 
@@ -8041,7 +8040,7 @@ You conjure a Medium spirit from the Feywild in an unoccupied space you can see 
 
 As a Bonus Action on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d12 for each spell slot level above 6.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d12 for each spell slot level above 6.
 
 ### Conjure Minor Elementals
 
@@ -8056,7 +8055,7 @@ You conjure spirits from the Elemental Planes that flit around you in a 15-foot 
 
 In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 4.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
 
 ### Conjure Woodland Beings
 
@@ -8071,7 +8070,7 @@ You conjure nature spirits that flit around you in a 10-foot Emanation for the d
 
 In addition, you can take the Disengage action as a Bonus Action for the spell's duration.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 4.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
 
 ### Contact Other Plane
 
@@ -8110,7 +8109,7 @@ Level 6 Abjuration (Wizard)
 **Components:** V, S, M (a gem-encrusted statuette of yourself worth 1,500+ GP)
 **Duration:** 10 days
 
-Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell—called the contingent spell—as part of casting Contingency , expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a Contingency cast with Water Breathing might stipulate that Water Breathing comes into effect when you are engulfed in water or a similar liquid.
+Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell—called the contingent spell—as part of casting Contingency, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a Contingency cast with Water Breathing might stipulate that Water Breathing comes into effect when you are engulfed in water or a similar liquid.
 
 The contingent spell takes effect immediately after the trigger occurs for the first time, whether or not you want it to, and then Contingency ends.
 
@@ -8231,7 +8230,7 @@ Create Water. You create up to 10 gallons of clean water within range in an open
 
 Destroy Water. You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot Cube within range.
 
-***Using a Higher-Level Spell Slot***. You create or destroy 10 additional gallons of water, or the size of the Cube increases by 5 feet, for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You create or destroy 10 additional gallons of water, or the size of the Cube increases by 5 feet, for each spell slot level above 1.
 
 ### Create Undead
 
@@ -8248,7 +8247,7 @@ As a Bonus Action on each of your turns, you can mentally command any creature y
 
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell rather than animating new ones.
 
-***Using a Higher-Level Spell Slot***. If you use a level 7 spell slot, you can animate or reassert control over four Ghouls . If you use a level 8 spell slot, you can animate or reassert control over five Ghouls or two Ghasts or Wights . If you use a level 9 spell slot, you can animate or reassert control over six Ghouls , three Ghasts or Wights , or two Mummies . See 'Monsters' for these stat blocks.
+***Using a Higher-Level Spell Slot.*** If you use a level 7 spell slot, you can animate or reassert control over four Ghouls. If you use a level 8 spell slot, you can animate or reassert control over five Ghouls or two Ghasts or Wights. If you use a level 9 spell slot, you can animate or reassert control over six Ghouls, three Ghasts or Wights, or two Mummies. See 'Monsters' for these stat blocks.
 
 ### Creation
 
@@ -8273,7 +8272,7 @@ The spell's duration depends on the object's material, as shown in the Materials
 | Gems                  | 10 minutes |
 | Adamantine or mithral | 1 minute   |
 
-***Using a Higher-Level Spell Slot***. The Cube increases by 5 feet for each spell slot level above 5.
+***Using a Higher-Level Spell Slot.*** The Cube increases by 5 feet for each spell slot level above 5.
 
 ### Cure Wounds
 
@@ -8286,7 +8285,7 @@ Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)
 
 A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
 
-***Using a Higher-Level Spell Slot***. The healing increases by 2d8 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The healing increases by 2d8 for each spell slot level above 1.
 
 ### Dancing Lights
 
@@ -8372,7 +8371,7 @@ If a creature touches the glowing bead before the spell ends, that creature make
 
 When the bead explodes, flammable objects in the explosion that aren't being worn or carried start burning.
 
-***Using a Higher-Level Spell Slot***. The base damage increases by 1d6 for each spell slot level above 7.
+***Using a Higher-Level Spell Slot.*** The base damage increases by 1d6 for each spell slot level above 7.
 
 ### Demiplane
 
@@ -8492,7 +8491,7 @@ A creature targeted by this spell makes a Dexterity saving throw. On a failed sa
 
 This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If such a target is Huge or larger, this spell disintegrates a 10-foot-Cube portion of it.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 3d6 for each spell slot level above 6.
+***Using a Higher-Level Spell Slot.*** The damage increases by 3d6 for each spell slot level above 6.
 
 ### Dispel Evil and Good
 
@@ -8520,7 +8519,7 @@ Level 3 Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wiz
 
 Choose one creature, object, or magical effect within range. Any ongoing spell of level 3 or lower on the target ends. For each ongoing spell of level 4 or higher on the target, make an ability check using your spellcasting ability (DC 10 plus that spell's level). On a successful check, the spell ends.
 
-***Using a Higher-Level Spell Slot***. You automatically end a spell on the target if the spell's level is equal to or less than the level of the spell slot you use.
+***Using a Higher-Level Spell Slot.*** You automatically end a spell on the target if the spell's level is equal to or less than the level of the spell slot you use.
 
 ### Dissonant Whispers
 
@@ -8533,7 +8532,7 @@ Level 1 Enchantment (Bard)
 
 One creature of your choice that you can see within range hears a discordant melody in its mind. The target makes a Wisdom saving throw. On a failed save, it takes 3d6 Psychic damage and must immediately use its Reaction, if available, to move as far away from you as it can, using the safest route. On a successful save, the target takes half as much damage only.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d6 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
 ### Divination
 
@@ -8570,7 +8569,7 @@ Level 1 Evocation (Paladin)
 
 The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1.
 
 ### Divine Word
 
@@ -8607,7 +8606,7 @@ You have a telepathic link with the Charmed target while the two of you are on t
 
 You can command the target to take a Reaction but must take your own Reaction to do so.
 
-***Using a Higher-Level Spell Slot***. Your Concentration can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
+***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
 
 ### Dominate Monster
 
@@ -8624,7 +8623,7 @@ You have a telepathic link with the Charmed target while the two of you are on t
 
 You can command the target to take a Reaction but must take your own Reaction to do so.
 
-***Using a Higher-Level Spell Slot***. Your Concentration can last longer with a level 9 spell slot (up to 8 hours).
+***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a level 9 spell slot (up to 8 hours).
 
 ### Dominate Person
 
@@ -8641,7 +8640,7 @@ You have a telepathic link with the Charmed target while the two of you are on t
 
 You can command the target to take a Reaction but must take your own Reaction to do so.
 
-***Using a Higher-Level Spell Slot***. Your Concentration can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
+***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
 
 ### Dragon's Breath
 
@@ -8654,7 +8653,7 @@ Level 2 Transmutation (Sorcerer, Wizard)
 
 You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poison. Until the spell ends, the target can take a Magic action to exhale a 15-foot Cone. Each creature in that area makes a Dexterity saving throw, taking 3d6 damage of the chosen type on a failed save or half as much damage on a successful one.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d6 for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
 
 ### Dream
 
@@ -8724,7 +8723,7 @@ Evocation Cantrip (Warlock)
 
 You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes 1d10 Force damage.
 
-***Cantrip Upgrade***. The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
+***Cantrip Upgrade.*** The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 ### Elementalism
 
@@ -8758,7 +8757,7 @@ Level 2 Transmutation (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)
 
 You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Charisma. For the duration, the target has Advantage on ability checks using the chosen ability.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.
 
 ### Enlarge/Reduce
 
@@ -8790,7 +8789,7 @@ As you hit the target, grasping vines appear on it, and it makes a Strength savi
 
 While Restrained, the target takes 1d6 Piercing damage at the start of each of its turns. The target or a creature within reach of it can take an action to make a Strength (Athletics) check against your spell save DC. On a success, the spell ends.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d6 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
 ### Entangle
 
@@ -8833,7 +8832,7 @@ When the spell ends, you return to the plane you left in the spot that correspon
 
 This spell ends instantly if you cast it while you are on the Ethereal Plane or a plane that doesn't border it, such as one of the Outer Planes.
 
-***Using a Higher-Level Spell Slot***. You can target up to three willing creatures (including yourself) for each spell slot level above 7. The creatures must be within 10 feet of you when you cast the spell.
+***Using a Higher-Level Spell Slot.*** You can target up to three willing creatures (including yourself) for each spell slot level above 7. The creatures must be within 10 feet of you when you cast the spell.
 
 ### Expeditious Retreat
 
@@ -8921,7 +8920,7 @@ Level 1 Necromancy (Sorcerer, Wizard)
 
 You gain 2d4 + 4 Temporary Hit Points.
 
-***Using a Higher-Level Spell Slot***. You gain 5 additional Temporary Hit Points for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You gain 5 additional Temporary Hit Points for each spell slot level above 1.
 
 ### Fear
 
@@ -8985,7 +8984,7 @@ Combat. The steed is an ally to you and your allies. In combat, it shares your I
 
 Disappearance of the Steed. The steed disappears if it drops to 0 Hit Points or if you die. When it disappears, it leaves behind anything it was wearing or carrying. If you cast this spell again, you decide whether you summon the steed that disappeared or a different one.
 
-***Using a Higher-Level Spell Slot***. Use the spell slot's level for the spell's level in the stat block.
+***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
 #### Otherworldly Steed
 
@@ -9057,7 +9056,7 @@ A bright streak flashes from you to a point you choose within range and then blo
 
 Flammable objects in the area that aren't being worn or carried start burning.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d6 for each spell slot level above 3.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
 
 ### Fire Bolt
 
@@ -9070,7 +9069,7 @@ Evocation Cantrip (Sorcerer, Wizard)
 
 You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn't being worn or carried.
 
-***Cantrip Upgrade***. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
+***Cantrip Upgrade.*** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
 ### Fire Shield
 
@@ -9115,7 +9114,7 @@ As a Magic action, you can make a melee spell attack with the fiery blade. On a 
 
 The flaming blade sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d6 for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
 
 ### Flame Strike
 
@@ -9128,7 +9127,7 @@ Level 5 Evocation (Cleric)
 
 A vertical column of brilliant fire roars down from above. Each creature in a 10-foot-radius, 40-foot-high Cylinder centered on a point within range makes a Dexterity saving throw, taking 5d6 Fire damage and 5d6 Radiant damage on a failed save or half as much damage on a successful one.
 
-***Using a Higher-Level Spell Slot***. The Fire damage and the Radiant damage increase by 1d6 for each spell slot level above 5.
+***Using a Higher-Level Spell Slot.*** The Fire damage and the Radiant damage increase by 1d6 for each spell slot level above 5.
 
 ### Flaming Sphere
 
@@ -9145,7 +9144,7 @@ As a Bonus Action, you can move the sphere up to 30 feet, rolling it along the g
 
 When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. Flammable objects that aren't being worn or carried start burning if touched by the sphere, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d6 for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
 
 ### Flesh to Stone
 
@@ -9188,7 +9187,7 @@ Level 3 Transmutation (Sorcerer, Warlock, Wizard)
 
 You touch a willing creature. For the duration, the target gains a Fly Speed of 60 feet and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 3.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 3.
 
 ### Fog Cloud
 
@@ -9199,9 +9198,9 @@ Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)
 **Components:** V, S
 **Duration:** Concentration, up to 1 hour
 
-You create a 20-foot-radius Sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by Gust of Wind ) disperses it.
+You create a 20-foot-radius Sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by Gust of Wind) disperses it.
 
-***Using a Higher-Level Spell Slot***. The fog's radius increases by 20 feet for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The fog's radius increases by 20 feet for each spell slot level above 1.
 
 ### Forbiddance
 
@@ -9237,7 +9236,7 @@ When you cast the spell, any creature that is completely inside the cage's area 
 
 A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave, it must first make a Charisma saving throw. On a successful save, the creature can use that magic to exit the cage. On a failed save, the creature doesn't exit the cage and wastes the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
 
-This spell can't be dispelled by Dispel Magic .
+This spell can't be dispelled by Dispel Magic.
 
 ### Foresight
 
@@ -9263,7 +9262,7 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 
 In addition, the target can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the Grappled condition on it.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 4.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
 
 ### Freezing Sphere
 
@@ -9280,7 +9279,7 @@ If the globe strikes a body of water, it freezes the water to a depth of 6 inche
 
 You can refrain from firing the globe after completing the spell's casting. If you do so, a globe about the size of a sling bullet, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as a normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d6 for each spell slot level above 6.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 6.
 
 ### Gaseous Form
 
@@ -9297,7 +9296,7 @@ While in this form, the target's only method of movement is a Fly Speed of 10 fe
 
 The target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. Finally, the target can't attack or cast spells.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 3.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 3.
 
 ### Gate
 
@@ -9331,9 +9330,9 @@ While Charmed, the creature takes 5d10 Psychic damage if it acts in a manner dir
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
 
-A Remove Curse , Greater Restoration , or Wish spell ends this spell.
+A Remove Curse, Greater Restoration, or Wish spell ends this spell.
 
-***Using a Higher-Level Spell Slot***. If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.
+***Using a Higher-Level Spell Slot.*** If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.
 
 ### Gentle Repose
 
@@ -9346,7 +9345,7 @@ Level 2 Necromancy (Cleric, Paladin, Wizard)
 
 You touch a corpse or other remains. For the duration, the target is protected from decay and can't become Undead.
 
-The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as Raise Dead .
+The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as Raise Dead.
 
 ### Giant Insect
 
@@ -9361,7 +9360,7 @@ You summon a giant centipede, spider, or wasp (chosen when you cast the spell). 
 
 The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
-***Using a Higher-Level Spell Slot***. Use the spell slot's level for the spell's level in the stat block.
+***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
 #### Giant Insect
 
@@ -9424,7 +9423,7 @@ An immobile, shimmering barrier appears in a 10-foot Emanation around you and re
 
 Any spell of level 5 or lower cast from outside the barrier can't affect anything within it. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from areas of effect created by such spells.
 
-***Using a Higher-Level Spell Slot***. The barrier blocks spells of 1 level higher for each spell slot level above 6.
+***Using a Higher-Level Spell Slot.*** The barrier blocks spells of 1 level higher for each spell slot level above 6.
 
 ### Glyph of Warding
 
@@ -9453,7 +9452,7 @@ Spell Glyph. You can store a prepared spell of level 3 or lower in the glyph by 
 
 When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons Hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires Concentration, it lasts until the end of its full duration.
 
-***Using a Higher-Level Spell Slot***. The damage of an explosive rune increases by 1d8 for each spell slot level above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the Glyph of Warding .
+***Using a Higher-Level Spell Slot.*** The damage of an explosive rune increases by 1d8 for each spell slot level above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the Glyph of Warding.
 
 ### Goodberry
 
@@ -9571,7 +9570,7 @@ Level 1 Evocation (Cleric)
 
 You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 4d6 Radiant damage, and the next attack roll made against it before the end of your next turn has Advantage.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d6 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
 ### Gust of Wind
 
@@ -9599,7 +9598,7 @@ Level 5 Abjuration (Cleric)
 **Components:** V, S, M (incense worth 1,000+ GP, which the spell consumes)
 **Duration:** Until dispelled
 
-You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow . The affected area has the following effects.
+You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects.
 
 Hallowed Ward. Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can't willingly enter the area, and any creature that is possessed by or that has the Charmed or Frightened condition from such creatures isn't possessed, Charmed, or Frightened by them while in the area.
 
@@ -9666,7 +9665,7 @@ Level 6 Abjuration (Cleric, Druid)
 
 Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 Hit Points. This spell also ends the Blinded, Deafened, and Poisoned conditions on the target.
 
-***Using a Higher-Level Spell Slot***. The healing increases by 10 for each spell slot level above 6.
+***Using a Higher-Level Spell Slot.*** The healing increases by 10 for each spell slot level above 6.
 
 ### Healing Word
 
@@ -9679,7 +9678,7 @@ Level 1 Abjuration (Bard, Cleric, Druid)
 
 A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
 
-***Using a Higher-Level Spell Slot***. The healing increases by 2d4 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The healing increases by 2d4 for each spell slot level above 1.
 
 ### Heat Metal
 
@@ -9694,7 +9693,7 @@ Choose a manufactured metal object, such as a metal weapon or a suit of Heavy or
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has Disadvantage on attack rolls and ability checks until the start of your next turn.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
 ### Hellish Rebuke
 
@@ -9707,7 +9706,7 @@ Level 1 Evocation (Warlock)
 
 The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d10 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 1.
 
 ### Heroes' Feast
 
@@ -9733,7 +9732,7 @@ Level 1 Enchantment (Bard, Paladin)
 
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
 ### Hex
 
@@ -9748,7 +9747,7 @@ You place a curse on a creature that you can see within range. Until the spell e
 
 If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action on a later turn to curse a new creature.
 
-***Using a Higher-Level Spell Slot***. Your Concentration can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
+***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
 
 ### Hideous Laughter
 
@@ -9763,7 +9762,7 @@ One creature of your choice that you can see within range makes a Wisdom saving 
 
 At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
 ### Hold Monster
 
@@ -9776,7 +9775,7 @@ Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)
 
 Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 5.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 5.
 
 ### Hold Person
 
@@ -9789,7 +9788,7 @@ Level 2 Enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)
 
 Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
-***Using a Higher-Level Spell Slot***. You can target one additional Humanoid for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** You can target one additional Humanoid for each spell slot level above 2.
 
 ### Holy Aura
 
@@ -9815,7 +9814,7 @@ You magically mark one creature you can see within range as your quarry. Until t
 
 If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.
 
-***Using a Higher-Level Spell Slot***. Your Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
+***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 
 ### Hypnotic Pattern
 
@@ -9841,7 +9840,7 @@ Level 1 Conjuration (Druid, Sorcerer, Wizard)
 
 You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 Cold damage.
 
-***Using a Higher-Level Spell Slot***. The Cold damage increases by 1d6 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The Cold damage increases by 1d6 for each spell slot level above 1.
 
 ### Ice Storm
 
@@ -9856,7 +9855,7 @@ Hail falls in a 20-foot-radius, 40-foot-high Cylinder centered on a point within
 
 Hailstones turn ground in the Cylinder into Difficult Terrain until the end of your next turn.
 
-***Using a Higher-Level Spell Slot***. The Bludgeoning damage increases by 1d10 for each spell slot level above 4.
+***Using a Higher-Level Spell Slot.*** The Bludgeoning damage increases by 1d10 for each spell slot level above 4.
 
 ### Identify
 
@@ -9918,7 +9917,7 @@ Level 8 Conjuration (Druid, Sorcerer, Wizard)
 **Components:** V, S
 **Duration:** Concentration, up to 1 minute
 
-A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud's area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by Gust of Wind ) disperses it.
+A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud's area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by Gust of Wind) disperses it.
 
 When the cloud appears, each creature in it makes a Dexterity saving throw, taking 10d8 Fire damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
 
@@ -9935,7 +9934,7 @@ Level 1 Necromancy (Cleric)
 
 A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d10 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 1.
 
 ### Insect Plague
 
@@ -9950,7 +9949,7 @@ Swarming locusts fill a 20-foot-radius Sphere centered on a point you choose wit
 
 When the swarm appears, each creature in it makes a Constitution saving throw, taking 4d10 Piercing damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d10 for each spell slot level above 5.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 5.
 
 ### Instant Summons
 
@@ -9991,7 +9990,7 @@ Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)
 
 A creature you touch has the Invisible condition until the spell ends. The spell ends early immediately after the target makes an attack roll, deals damage, or casts a spell.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 2.
 
 ### Jump
 
@@ -10004,7 +10003,7 @@ Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)
 
 You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending 10 feet of movement.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
 ### Knock
 
@@ -10019,7 +10018,7 @@ Choose an object that you can see within range. The object can be a door, a box,
 
 A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
 
-If the target is held shut by Arcane Lock , that spell is suppressed for 10 minutes, during which time the target can be opened and closed.
+If the target is held shut by Arcane Lock, that spell is suppressed for 10 minutes, during which time the target can be opened and closed.
 
 When you cast the spell, a loud knock, audible up to 300 feet away, emanates from the target.
 
@@ -10088,7 +10087,7 @@ Level 3 Evocation (Sorcerer, Wizard)
 
 A stroke of lightning forming a 100-foot-long, 5-foot-wide Line blasts out from you in a direction you choose. Each creature in the Line makes a Dexterity saving throw, taking 8d6 Lightning damage on a failed save or half as much damage on a successful one.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d6 for each spell slot level above 3.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
 
 ### Locate Animals or Plants
 
@@ -10142,7 +10141,7 @@ Level 1 Transmutation (Bard, Druid, Ranger, Wizard)
 
 You touch a creature. The target's Speed increases by 10 feet until the spell ends.
 
-***Using a Higher-Level Spell Slot***. You can target one additional creature for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
 ### Mage Armor
 
@@ -10192,7 +10191,7 @@ Choose one or more of the following types of creatures: Celestials, Elementals, 
 
 Each time you cast this spell, you can cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the Cylinder and protecting targets outside it.
 
-***Using a Higher-Level Spell Slot***. The duration increases by 1 hour for each spell slot level above 3.
+***Using a Higher-Level Spell Slot.*** The duration increases by 1 hour for each spell slot level above 3.
 
 ### Magic Jar
 
@@ -10228,7 +10227,7 @@ Level 1 Evocation (Sorcerer, Wizard)
 
 You create three glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals 1d4 + 1 Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
-***Using a Higher-Level Spell Slot***. The spell creates one more dart for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The spell creates one more dart for each spell slot level above 1.
 
 ### Magic Mouth
 
@@ -10256,7 +10255,7 @@ Level 2 Transmutation (Paladin, Ranger, Sorcerer, Wizard)
 
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls. The spell ends early if you cast it again.
 
-***Using a Higher-Level Spell Slot***. The bonus increases to +2 with a level 3-5 spell slot. The bonus increases to +3 with a level 6+ spell slot.
+***Using a Higher-Level Spell Slot.*** The bonus increases to +2 with a level 3-5 spell slot. The bonus increases to +3 with a level 6+ spell slot.
 
 ### Magnificent Mansion
 
@@ -10292,7 +10291,7 @@ If you are within range of the illusion, you can take a Magic action to cause th
 
 Physical interaction with the image reveals it to be an illusion, for things can pass through it. A creature that takes a Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
 
-***Using a Higher-Level Spell Slot***. The spell lasts until dispelled, without requiring Concentration, if cast with a level 4+ spell slot.
+***Using a Higher-Level Spell Slot.*** The spell lasts until dispelled, without requiring Concentration, if cast with a level 4+ spell slot.
 
 ### Mass Cure Wounds
 
@@ -10305,7 +10304,7 @@ Level 5 Abjuration (Bard, Cleric, Druid)
 
 A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 plus your spellcasting ability modifier.
 
-***Using a Higher-Level Spell Slot***. The healing increases by 1d8 for each spell slot level above 5.
+***Using a Higher-Level Spell Slot.*** The healing increases by 1d8 for each spell slot level above 5.
 
 ### Mass Heal
 
@@ -10329,7 +10328,7 @@ Level 3 Abjuration (Bard, Cleric)
 
 Up to six creatures of your choice that you can see within range regain Hit Points equal to 2d4 plus your spellcasting ability modifier.
 
-***Using a Higher-Level Spell Slot***. The healing increases by 1d4 for each spell slot level above 3.
+***Using a Higher-Level Spell Slot.*** The healing increases by 1d4 for each spell slot level above 3.
 
 ### Mass Suggestion
 
@@ -10344,7 +10343,7 @@ You suggest a course of activity-described in no more than 25 words-to twelve or
 
 Each target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. Each Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for a target upon completing it.
 
-***Using a Higher-Level Spell Slot***. The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days).
+***Using a Higher-Level Spell Slot.*** The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days).
 
 ### Maze
 
@@ -10437,7 +10436,7 @@ Level 2 Divination (Sorcerer, Warlock, Wizard)
 
 You drive a spike of psionic energy into the mind of one creature you can see within range. The target makes a Wisdom saving throw, taking 3d8 Psychic damage on a failed save or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it has the Invisible condition, it gains no benefit from that condition against you.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
 ### Minor Illusion
 
@@ -10533,7 +10532,7 @@ A modified memory doesn't necessarily affect how a creature behaves, particularl
 
 A Remove Curse or Greater Restoration spell cast on the target restores the creature's true memory.
 
-***Using a Higher-Level Spell Slot***. You can alter the target's memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature's past (level 9 spell slot).
+***Using a Higher-Level Spell Slot.*** You can alter the target's memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature's past (level 9 spell slot).
 
 ### Moonbeam
 
@@ -10548,7 +10547,7 @@ A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high Cylind
 
 When the Cylinder appears, each creature in it makes a Constitution saving throw. On a failed save, a creature takes 2d10 Radiant damage, and if the creature is shape-shifted (as a result of the Polymorph spell, for example), it reverts to its true form and can't shape-shift until it leaves the Cylinder. On a successful save, a creature takes half as much damage only. A creature also makes this save when the spell's area moves into its space and when it enters the spell's area or ends its turn there. A creature makes this save only once per turn.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d10 for each spell slot level above 2.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 2.
 
 ### Move Earth
 
@@ -10720,7 +10719,7 @@ Necromancy Cantrip (Druid, Sorcerer, Warlock, Wizard)
 
 You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
 
-***Cantrip Upgrade***. The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
+***Cantrip Upgrade.*** The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
 
 ### Polymorph
 
@@ -10900,7 +10899,7 @@ A flickering flame appears in your hand and remains there for the duration. Whil
 
 Until the spell ends, you can take a Magic action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 Fire damage.
 
-***Cantrip Upgrade***. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ### Programmed Illusion
 
@@ -11019,7 +11018,7 @@ Evocation Cantrip (Sorcerer, Wizard)
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 Cold damage, and its Speed is reduced by 10 feet until the start of your next turn.
 
-***Cantrip Upgrade***. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ### Regenerate
 
@@ -11175,7 +11174,7 @@ Evocation Cantrip (Cleric)
 
 Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 Radiant damage. The target gains no benefit from Half Cover or Three-Quarters Cover for this save.
 
-***Cantrip Upgrade***. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ### Sanctuary
 
@@ -11383,7 +11382,7 @@ A Club or Quarterstaff you are holding is imbued with nature's power. For the du
 
 The spell ends early if you cast it again or if you let go of the weapon.
 
-***Cantrip Upgrade***. The damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
+***Cantrip Upgrade.*** The damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
 
 ### Shining Smite
 
@@ -11409,7 +11408,7 @@ Evocation Cantrip (Sorcerer, Wizard)
 
 Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
 
-***Cantrip Upgrade***. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ### Silence
 
@@ -11508,7 +11507,7 @@ You cast sorcerous energy at one creature or object within range. Make a ranged 
 
 If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to the damage. When you cast this spell, the maximum number of these d8s you can add to the spell's damage equals your spellcasting ability modifier.
 
-***Cantrip Upgrade***. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ### Spare the Dying
 
@@ -11521,7 +11520,7 @@ Necromancy Cantrip (Cleric, Druid)
 
 Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.
 
-***Cantrip Upgrade***. The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
+***Cantrip Upgrade.*** The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
 
 ### Speak with Animals
 
@@ -11633,7 +11632,7 @@ Evocation Cantrip (Bard, Druid)
 
 You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Radiant damage, and until the end of your next turn, it emits Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
 
-***Cantrip Upgrade***. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ### Stinking Cloud
 
@@ -11644,7 +11643,7 @@ Level 3 Conjuration (Bard, Sorcerer, Wizard)
 **Components:** V, S, M (a rotten egg)
 **Duration:** Concentration, up to 1 minute
 
-You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by Gust of Wind ) disperses it.
+You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by Gust of Wind) disperses it.
 
 Each creature that starts its turn in the Sphere must succeed on a Constitution saving throw or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can't take an action or a Bonus Action.
 
@@ -11944,7 +11943,7 @@ You unleash a wave of thunderous energy. Each creature in a 15-foot Cube origina
 
 In addition, unsecured objects that are entirely within the Cube are pushed 10 feet away from you, and a thunderous boom is audible within 300 feet.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1.
 
 ### Time Stop
 
@@ -12075,7 +12074,7 @@ Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)
 
 Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice).
 
-***Cantrip Upgrade***. Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).
+***Cantrip Upgrade.*** Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).
 
 ### Tsunami
 
@@ -12122,7 +12121,7 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 Until the spell ends, you can make the attack again on each of your turns as a Magic action, targeting the same creature or a different one.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d6 for each spell slot level above 3.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
 
 ### Vicious Mockery
 
@@ -12135,7 +12134,7 @@ Enchantment Cantrip (Bard)
 
 You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take 1d6 Psychic damage and have Disadvantage on the next attack roll it makes before the end of its next turn.
 
-***Cantrip Upgrade***. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
+***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
 ### Vitriolic Sphere
 
@@ -12148,7 +12147,7 @@ Level 4 Evocation (Sorcerer, Wizard)
 
 You point at a location within range, and a glowing, 1-foot-diameter ball of acid streaks there and explodes in a 20-foot-radius Sphere. Each creature in that area makes a Dexterity saving throw. On a failed save, a creature takes 10d4 Acid damage and another 5d4 Acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage only.
 
-***Using a Higher-Level Spell Slot***. The initial damage increases by 2d4 for each spell slot level above 4.
+***Using a Higher-Level Spell Slot.*** The initial damage increases by 2d4 for each spell slot level above 4.
 
 ### Wall of Fire
 
@@ -12165,7 +12164,7 @@ When the wall appears, each creature in its area makes a Dexterity saving throw,
 
 One side of the wall, selected by you when you cast this spell, deals 5d8 Fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
 
-***Using a Higher-Level Spell Slot***. The damage increases by 1d8 for each spell slot level above 4.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
 
 ### Wall of Force
 
@@ -12197,7 +12196,7 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 A creature moving through the sheet of frigid air for the first time on a turn makes a Constitution saving throw, taking 5d6 Cold damage on a failed save or half as much damage on a successful one.
 
-***Using a Higher-Level Spell Slot***. The damage the wall deals when it appears increases by 2d6 and the damage from passing through the sheet of frigid air increases by 1d6 for each spell slot level above 6.
+***Using a Higher-Level Spell Slot.*** The damage the wall deals when it appears increases by 2d6 and the damage from passing through the sheet of frigid air increases by 1d6 for each spell slot level above 6.
 
 ### Wall of Stone
 
@@ -12235,7 +12234,7 @@ When the wall appears, each creature in its area makes a Dexterity saving throw,
 
 A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters a space in the wall on a turn or ends its turn there, the creature makes a Dexterity saving throw, taking 7d8 Slashing damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
 
-***Using a Higher-Level Spell Slot***. Both types of damage increase by 1d8 for each spell slot level above 6.
+***Using a Higher-Level Spell Slot.*** Both types of damage increase by 1d8 for each spell slot level above 6.
 
 ### Warding Bond
 
@@ -13553,7 +13552,7 @@ Characters can push themselves to travel for more than 8 hours per day, at the r
 
 ### Special Movement
 
-If a party can travel at a high Speed for an extended time, as with a spell such as Wind Walk or a magic item such as a Carpet of Flying , translate the party's Speed into travel rates using these rules:
+If a party can travel at a high Speed for an extended time, as with a spell such as Wind Walk or a magic item such as a Carpet of Flying, translate the party's Speed into travel rates using these rules:
 
 #### Travel Terrain
 
@@ -13930,7 +13929,7 @@ Traps are presented in alphabetical order.
 
 #### Collapsing Roof
 
-*Deadly Trap (Levels 1–4)*
+*Deadly Trap (Levels 1-4)*
 
 Trigger: A creature crosses a trip wire Duration: Instantaneous
 
@@ -13950,7 +13949,7 @@ The first creature that crosses the trip wire causes the supports to topple and 
 
 #### Falling Net
 
-*Nuisance Trap (Levels 1–4)*
+*Nuisance Trap (Levels 1-4)*
 
 Trigger: A creature crosses a trip wire Duration: Instantaneous
 
@@ -13968,7 +13967,7 @@ The first creature that crosses the trip wire causes the Net to fall on it. The 
 
 #### Fire-Casting Statue
 
-*Deadly Trap (Levels 1–4)*
+*Deadly Trap (Levels 1-4)*
 
 Trigger: A creature moves onto a pressure plate
 
@@ -13990,7 +13989,7 @@ As a Search action, a creature can examine the section of floor that forms the p
 
 #### Hidden Pit
 
-*Nuisance Trap (Levels 1–4)*
+*Nuisance Trap (Levels 1-4)*
 
 Trigger: A creature moves onto the pit's lid Duration: Instantaneous
 
@@ -14012,7 +14011,7 @@ A creature that falls into the pit takes 3 (1d6) Bludgeoning damage from the fal
 
 #### Poisoned Darts
 
-*Deadly Trap (Levels 1–4)*
+*Deadly Trap (Levels 1-4)*
 
 Trigger: A creature moves onto a pressure plate Duration: Instantaneous, and the trap resets at the start of the next turn if it has activated fewer than three times
 
@@ -14028,7 +14027,7 @@ As a Search action, a creature can examine the section of floor that forms the p
 
 #### Poisoned Needle
 
-*Nuisance Trap (Levels 1–4)*
+*Nuisance Trap (Levels 1-4)*
 
 Trigger: A creature opens the trap's lock improperly or fails to disarm the trap
 
@@ -14050,7 +14049,7 @@ A poisoned needle is hidden in a lock. When a creature opens the lock with any o
 
 #### Rolling Stone
 
-*Deadly Trap (Levels 11–16) or Nuisance Trap (Levels 17–20)*
+*Deadly Trap (Levels 11-16) or Nuisance Trap (Levels 17-20)*
 
 Trigger: A creature moves onto a pressure plate Duration: Until the stone stops rolling
 
@@ -14068,7 +14067,7 @@ The stone stops when it hits a wall or similar barrier. It can't go around corne
 
 #### Spiked Pit
 
-*Deadly Trap (Levels 1–4)*
+*Deadly Trap (Levels 1-4)*
 
 Trigger: A creature moves onto the pit's lid Duration: Instantaneous
 
@@ -14192,17 +14191,17 @@ Every magic item belongs to a category. The Magic Item Categories table lists th
 
 ##### Magic Item Categories
 
-| Category       | Examples                            |
-|----------------|-------------------------------------|
-| Armor          | +1 Leather Armor , +1 Shield        |
-| Potions        | Potion of Healing                   |
-| Rings          | Ring of Invisibility                |
-| Rods           | Immovable Rod                       |
-| Scrolls        | Spell Scroll                        |
-| Staffs         | Staff of Striking                   |
-| Wands          | Wand of Fireballs                   |
-| Weapons        | +1 Ammunition , +1 Longsword        |
-| Wondrous Items | Bag of Holding , Boots of Elvenkind |
+| Category       | Examples                           |
+|----------------|------------------------------------|
+| Armor          | +1 Leather Armor, +1 Shield        |
+| Potions        | Potion of Healing                  |
+| Rings          | Ring of Invisibility               |
+| Rods           | Immovable Rod                      |
+| Scrolls        | Spell Scroll                       |
+| Staffs         | Staff of Striking                  |
+| Wands          | Wand of Fireballs                  |
+| Weapons        | +1 Ammunition, +1 Longsword        |
+| Wondrous Items | Bag of Holding, Boots of Elvenkind |
 
 ### Armor
 
@@ -14225,12 +14224,12 @@ When a character mixes two potions together, roll on the Potion Miscibility tabl
 | 1d100 | Result |
 |-------|--------|
 | 01 | Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius Sphere centered on itself. Each creature in that area takes 4d10 Force damage. |
-| 02–08 | Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see 'Poison' in 'Gameplay Toolbox'). |
-| 09–15 | Both potions lose their effects. |
-| 16–25 | One potion loses its effect. |
-| 26–35 | Both potions work, but with their numerical effects and durations halved. If a potion has no numerical effect and no duration, it instead loses its effect. |
-| 36–90 | Both potions work normally. |
-| 91–99 | Both potions work, but the numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
+| 02-08 | Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see 'Poison' in 'Gameplay Toolbox'). |
+| 09-15 | Both potions lose their effects. |
+| 16-25 | One potion loses its effect. |
+| 26-35 | Both potions work, but with their numerical effects and durations halved. If a potion has no numerical effect and no duration, it instead loses its effect. |
+| 36-90 | Both potions work normally. |
+| 91-99 | Both potions work, but the numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
 | 00 | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a Potion of Healing might increase the drinker's Hit Point maximum by 2d4 + 2, or a Potion of Invisibility might give the drinker the Invisible condition indefinitely. At your discretion, a Dispel Magic spell or similar magic might end this lasting effect. |
 
 ### Rings
@@ -14245,7 +14244,7 @@ Unless its description notes otherwise, a rod can be used as an Arcane Focus.
 
 ### Scrolls
 
-An item in the Scroll category is a roll of paper or parchment, sometimes attached to wooden rods and typically kept safe in a tube of ivory, jade, leather, metal, or wood. The most prevalent scroll is the Spell Scroll , a spell stored in written form.
+An item in the Scroll category is a roll of paper or parchment, sometimes attached to wooden rods and typically kept safe in a tube of ivory, jade, leather, metal, or wood. The most prevalent scroll is the Spell Scroll, a spell stored in written form.
 
 **Using a Scroll.** Scrolls are consumable items. Unleashing the magic in a scroll requires the user to read the scroll. When its magic has been invoked, the scroll can't be used again. Its words fade, or it crumbles into dust.
 
@@ -14289,7 +14288,7 @@ Rules for identifying, attuning to, and using magic items appear in 'Equipment.'
 
 Every magic item has a rarity, which provides a rough measure of an item's power relative to other magic items. The rarities are shown in the Magic Item Rarities and Values table.
 
-Common magic items, such as a Potion of Healing , are the most plentiful. Artifacts, such as the Dragon Orb , are priceless, unique, and difficult to acquire.
+Common magic items, such as a Potion of Healing, are the most plentiful. Artifacts, such as the Dragon Orb, are priceless, unique, and difficult to acquire.
 
 ### Magic Item Values by Rarity
 
@@ -14308,7 +14307,7 @@ If a magic item incorporates an item that has a purchase cost in 'Equipment' (su
 | Legendary | 200,000 GP  |
 | Artifact  | Priceless   |
 
-*Halve the value for a consumable item other than a Spell Scroll . The value of a Spell Scroll is double what it costs to scribe the scroll (as specified in the 'Scribing Spell Scrolls' section of 'Equipment').
+*Halve the value for a consumable item other than a Spell Scroll. The value of a Spell Scroll is double what it costs to scribe the scroll (as specified in the 'Scribing Spell Scrolls' section of 'Equipment').
 
 ## Activating a Magic Item
 
@@ -14350,7 +14349,7 @@ An Artifact can be destroyed only in some special way. Otherwise, it is impervio
 
 ## Crafting Magic Items
 
-'Equipment' contains rules on brewing Potions of Healing and scribing Spell Scrolls . To create other magic items, follow the rules below. In these rules, 'you' refers to the character crafting the magic item.
+'Equipment' contains rules on brewing Potions of Healing and scribing Spell Scrolls. To create other magic items, follow the rules below. In these rules, 'you' refers to the character crafting the magic item.
 
 ### Arcana Proficiency
 
@@ -14400,7 +14399,7 @@ If a magic item incorporates an item that has a purchase cost (such as a weapon 
 | Very Rare | 125 days       | 20,000 GP  |
 | Legendary | 250 days       | 100,000 GP |
 
-*The time and cost are halved for a consumable item other than a Spell Scroll , whose crafting time and cost are given in 'Equipment.'
+*The time and cost are halved for a consumable item other than a Spell Scroll, whose crafting time and cost are given in 'Equipment.'
 
 ## Sentient Magic Items
 
@@ -14489,7 +14488,7 @@ If its bearer refuses to comply with the item's demands, the item can do any of 
 - Suppress one or more of its activated properties.
 - Attempt to take control of its bearer, whereupon the bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the bearer has the Charmed condition for 1d12 hours. While Charmed in this way, the bearer must try to follow the item's commands. If the bearer takes damage, it repeats the save, ending the effect on a success. Whether or not the attempt to control its bearer succeeds, the item can't use this power again until the next dawn.
 
-## Magic Items A–Z
+## Magic Items A-Z
 
 Magic items are presented in alphabetical order.
 
@@ -14550,7 +14549,7 @@ While wearing this amulet, you can't be targeted by Divination spells or perceiv
 
 *Wondrous Item, Very Rare (Requires Attunement)*
 
-While wearing this amulet, you can take a Magic action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence (Arcana) check. On a successful check, you cast Plane Shift . On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling 1d100 and consulting the following table.
+While wearing this amulet, you can take a Magic action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence (Arcana) check. On a successful check, you cast Plane Shift. On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling 1d100 and consulting the following table.
 
 ##### 1d100 Destination
 
@@ -14685,11 +14684,11 @@ If the bag is pierced or torn, it is destroyed, and anything contained within it
 
 *Wondrous Item, Uncommon*
 
-This bag has an interior space considerably larger than its outside dimensions-roughly 2 feet square and 4 feet deep on the inside. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 5 pounds, regardless of its contents. Retrieving an item from the bag requires a Utilize action.
+This bag has an interior space considerably larger than its outside dimensions—roughly 2 feet square and 4 feet deep on the inside. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 5 pounds, regardless of its contents. Retrieving an item from the bag requires a Utilize action.
 
 If the bag is overloaded, pierced, or torn, it is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth unharmed, but the bag must be put right before it can be used again. The bag holds enough air for 10 minutes of breathing, divided by the number of breathing creatures inside.
 
-Placing a Bag of Holding inside an extradimensional space created by a Handy Haversack , Portable Hole , or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within a 10-foot-radius Sphere centered on the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way and can't be reopened.
+Placing a Bag of Holding inside an extradimensional space created by a Handy Haversack, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within a 10-foot-radius Sphere centered on the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way and can't be reopened.
 
 ### Bag of Tricks
 
@@ -14843,7 +14842,7 @@ These furred boots are snug and feel warm. While wearing them, you gain the foll
 
 *Wondrous Item, Rare*
 
-While this bowl is filled with water and you are within 5 feet of it, you can take a Magic action to summon a Water Elemental . The elemental appears in an unoccupied space as close to the bowl as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The bowl can't be used this way again until the next dawn.
+While this bowl is filled with water and you are within 5 feet of it, you can take a Magic action to summon a Water Elemental. The elemental appears in an unoccupied space as close to the bowl as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The bowl can't be used this way again until the next dawn.
 
 The bowl is about 1 foot in diameter and half as deep. It holds about 3 gallons.
 
@@ -14863,7 +14862,7 @@ While wearing these bracers, you gain a +2 bonus to Armor Class if you are weari
 
 *Wondrous Item, Rare*
 
-While you are within 5 feet of this brazier, you can take a Magic action to summon a Fire Elemental . The elemental appears in an unoccupied space as close to the brazier as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The brazier can't be used this way again until the next dawn.
+While you are within 5 feet of this brazier, you can take a Magic action to summon a Fire Elemental. The elemental appears in an unoccupied space as close to the brazier as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The brazier can't be used this way again until the next dawn.
 
 ### Brooch of Shielding
 
@@ -14935,13 +14934,13 @@ Four sizes of Carpet of Flying exist. The GM chooses the size of a given carpet 
 
 *Wondrous Item, Rare*
 
-While gently swinging this censer, you can take a Magic action to summon an Air Elemental . The elemental appears in an unoccupied space as close to the censer as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The censer can't be used this way again until the next dawn.
+While gently swinging this censer, you can take a Magic action to summon an Air Elemental. The elemental appears in an unoccupied space as close to the censer as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The censer can't be used this way again until the next dawn.
 
 ### Chime of Opening
 
 *Wondrous Item, Rare*
 
-This hollow metal tube measures about 1 foot long and weighs 1 pound. As a Magic action, you can strike the chime to cast Knock . The spell's customary knocking sound is replaced by the clear, ringing tone of the chime, which is audible out to 300 feet.
+This hollow metal tube measures about 1 foot long and weighs 1 pound. As a Magic action, you can strike the chime to cast Knock. The spell's customary knocking sound is replaced by the clear, ringing tone of the chime, which is audible out to 300 feet.
 
 The chime can be used 10 times. After the tenth time, it cracks and becomes useless.
 
@@ -14995,7 +14994,7 @@ You gain a +1 bonus to Armor Class and saving throws while you wear this cloak.
 
 While wearing this cloak, you have Advantage on Dexterity (Stealth) checks. In an area of Dim Light or Darkness, you can grip the edges of the cloak and use it to gain a Fly Speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in Dim Light or Darkness, you lose this Fly Speed.
 
-While wearing the cloak in an area of Dim Light or Darkness, you can cast Polymorph on yourself, shape-shifting into a Bat . While in that form, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
+While wearing the cloak in an area of Dim Light or Darkness, you can cast Polymorph on yourself, shape-shifting into a Bat. While in that form, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
 
 ### Cloak of the Manta Ray
 
@@ -15054,9 +15053,9 @@ This cube is 3 inches across and radiates palpable magical energy. The six sides
 
 The cube has 3 charges and regains 1d3 expended charges daily at dawn. As a Magic action, you can expend 1 of the cube's charges to cast one of the following spells using the cube.
 
-**Gate.** Pressing one side of the cube, you cast Gate , opening a portal to the plane of existence keyed to that side.
+**Gate.** Pressing one side of the cube, you cast Gate, opening a portal to the plane of existence keyed to that side.
 
-**Plane Shift.** Pressing one side of the cube twice, you cast Plane Shift , transporting the targets to the plane of existence keyed to that side.
+**Plane Shift.** Pressing one side of the cube twice, you cast Plane Shift, transporting the targets to the plane of existence keyed to that side.
 
 ### Dagger of Venom
 
@@ -15231,13 +15230,13 @@ This powder resembles fine sand. There is enough of it for one use. When you tak
 
 This small packet contains 1d6 + 4 pinches of dust. As a Utilize action, you can sprinkle a pinch of the dust over water, turning up to a 15-foot Cube of water into one marble-sized pellet, which floats or rests near where the dust was sprinkled. The pellet's weight is negligible. A creature can take a Utilize action to smash the pellet against a hard surface, causing the pellet to shatter and release the water the dust absorbed. Doing so destroys the pellet and ends its magic.
 
-As a Utilize action, you can sprinkle a pinch of the dust on an Elemental within 5 feet of yourself that is composed mostly of water (such as a Water Elemental ). Such a creature exposed to a pinch of the dust makes a DC 13 Constitution saving throw, taking 10d6 Necrotic damage on a failed save or half as much damage on a successful one.
+As a Utilize action, you can sprinkle a pinch of the dust on an Elemental within 5 feet of yourself that is composed mostly of water (such as a Water Elemental). Such a creature exposed to a pinch of the dust makes a DC 13 Constitution saving throw, taking 10d6 Necrotic damage on a failed save or half as much damage on a successful one.
 
 ### Dust of Sneezing and Choking
 
 *Wondrous Item, Uncommon*
 
-Found in a small container, this powder resembles Dust of Disappearance , and Identify reveals it to be such. There is enough of it for one use.
+Found in a small container, this powder resembles Dust of Disappearance, and Identify reveals it to be such. There is enough of it for one use.
 
 As a Utilize action, you can throw the dust into the air, forcing yourself and every creature in a 30-foot Emanation originating from you to make a DC 15 Constitution saving throw. Constructs, Elementals, Oozes, Plants, and Undead succeed on the save automatically.
 
@@ -15352,17 +15351,17 @@ These crystal lenses fit over the eyes. While wearing them, you have Advantage o
 
 This object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly by rolling on the Feather Tokens table. The type of token determines its rarity.
 
-Anchor (Uncommon). You can take a Magic action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
+**Anchor (Uncommon).** You can take a Magic action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
 
-Bird (Rare). You can take a Magic action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a Roc , but it can't attack. It obeys your simple commands and can carry up to 500 pounds while flying at its maximum speed (16 miles per hour for a maximum of 144 miles per day, with a 1-hour rest for every 3 hours of flying) or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 Hit Points. You can dismiss the bird as a Magic action.
+**Bird (Rare).** You can take a Magic action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a Roc, but it can't attack. It obeys your simple commands and can carry up to 500 pounds while flying at its maximum speed (16 miles per hour for a maximum of 144 miles per day, with a 1-hour rest for every 3 hours of flying) or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 Hit Points. You can dismiss the bird as a Magic action.
 
-Fan (Uncommon). If you are on a boat or ship, you can take a Magic action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a strong wind. This wind can fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as a Magic action.
+**Fan (Uncommon).** If you are on a boat or ship, you can take a Magic action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a strong wind. This wind can fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as a Magic action.
 
-Swan Boat (Rare). You can take a Magic action to touch the token to a body of water at least 60 feet in diameter. The token disappears, and a 50-foot-long, 20-foot-wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can take a Magic action while on the boat to command it to move or to turn up to 90 degrees. The boat remains for 24 hours and then disappears. You can dismiss the boat as a Magic action.
+**Swan Boat (Rare).** You can take a Magic action to touch the token to a body of water at least 60 feet in diameter. The token disappears, and a 50-foot-long, 20-foot-wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can take a Magic action while on the boat to command it to move or to turn up to 90 degrees. The boat remains for 24 hours and then disappears. You can dismiss the boat as a Magic action.
 
-Tree (Uncommon). You must be outdoors to use this token. You can take a Magic action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius.
+**Tree (Uncommon).** You must be outdoors to use this token. You can take a Magic action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius.
 
-Whip (Rare). You can take a Magic action to throw the token to a point within 10 feet of yourself. The token disappears, and a floating whip takes its place. You can then take a Bonus Action to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes 1d6 + 5 Force damage.
+**Whip (Rare).** You can take a Magic action to throw the token to a point within 10 feet of yourself. The token disappears, and a floating whip takes its place. You can then take a Bonus Action to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes 1d6 + 5 Force damage.
 
 As a Bonus Action, you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of the whip. The whip disappears after 1 hour, when you take a Magic action to dismiss it, or when you die or have the Incapacitated condition.
 
@@ -15387,47 +15386,53 @@ The creature is Friendly to you and your allies. It understands your languages, 
 
 The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if its creature form drops to 0 Hit Points or if you take a Magic action while touching the creature to make it revert to figurine form. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.
 
-Bronze Griffon (Rare). This bronze statuette is of a griffon rampant. It can become a Griffon for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
+**Bronze Griffon (Rare).** This bronze statuette is of a griffon rampant. It can become a Griffon for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
 
-Ebony Fly (Rare). This ebony statuette, carved in the likeness of a horsefly, can become a Giant Fly (see the accompanying stat block) for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
+**Ebony Fly (Rare).** This ebony statuette, carved in the likeness of a horsefly, can become a Giant Fly (see the accompanying stat block) for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
 
 #### Giant Fly
 
 *Large Beast, Unaligned*
 
-**AC** 11 **Initiative** +1 (11) **HP** 19 (3d10 + 3)
-
+**AC** 11
+**Initiative** +1 (11)
+**HP** 19 (3d10 + 3)
 **Speed** 30 ft., Fly 60 ft.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 14 (+2) | 13 (+1) | 13 (+1) | 2 (−4) | 10 (+0) | 3 (−4) |
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
 
 **Senses** Darkvision 60 ft., Passive Perception 10
 **Languages** None
 **CR** 0 (XP 0; PB +2)
 
-Golden Lions (Rare). These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a Lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.
+**Golden Lions (Rare).** These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a Lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.
 
-Ivory Goats (Rare). These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others. Their properties are as follows:
+**Ivory Goats (Rare).** These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others. Their properties are as follows:
 
-Goat of Terror. This figurine can become a Giant Goat for up to 3 hours. The goat can't attack, but you can (harmlessly) remove its horns and use them as weapons. One horn becomes a +1 Lance , and the other becomes a +2 Longsword . Removing a horn requires a Magic action, and the weapons disappear and the horns return when the goat reverts to figurine form. While you ride the goat, any Hostile creature that starts its turn within a 30-foot Emanation originating from the goat must succeed on a DC 15 Wisdom saving throw or have the Frightened condition for 1 minute, until you are no longer riding the goat, or until the goat reverts to figurine form. The Frightened creature repeats the save at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the save, a creature is immune to this effect for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.
+**Goat of Terror.** This figurine can become a Giant Goat for up to 3 hours. The goat can't attack, but you can (harmlessly) remove its horns and use them as weapons. One horn becomes a +1 Lance, and the other becomes a +2 Longsword. Removing a horn requires a Magic action, and the weapons disappear and the horns return when the goat reverts to figurine form. While you ride the goat, any Hostile creature that starts its turn within a 30-foot Emanation originating from the goat must succeed on a DC 15 Wisdom saving throw or have the Frightened condition for 1 minute, until you are no longer riding the goat, or until the goat reverts to figurine form. The Frightened creature repeats the save at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the save, a creature is immune to this effect for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.
 
-Goat of Traveling. This figurine can become a Large goat with the same statistics as a Riding Horse . It has 24 charges, and each hour or portion thereof it spends in goat form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all expended charges.
+**Goat of Traveling.** This figurine can become a Large goat with the same statistics as a Riding Horse. It has 24 charges, and each hour or portion thereof it spends in goat form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all expended charges.
 
-Goat of Travail. This figurine can become a Giant Goat for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.
+**Goat of Travail.** This figurine can become a Giant Goat for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.
 
-Marble Elephant (Rare). This marble statuette resembles a trumpeting elephant. It can become an Elephant for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
+**Marble Elephant (Rare).** This marble statuette resembles a trumpeting elephant. It can become an Elephant for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
 
-Obsidian Steed (Very Rare). This polished obsidian horse can become a Nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.
+**Obsidian Steed (Very Rare).** This polished obsidian horse can become a Nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.
 
 The figurine has a 10 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the plane of Hades, where the nightmare reverts to figurine form.
 
-Onyx Dog (Rare). This onyx statuette of a dog can become a Mastiff for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has Blindsight with a range of 60 feet. Once it has been used, it can't be used again until 7 days have passed.
+**Onyx Dog (Rare).** This onyx statuette of a dog can become a Mastiff for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has Blindsight with a range of 60 feet. Once it has been used, it can't be used again until 7 days have passed.
 
-Serpentine Owl (Rare). This serpentine statuette of an owl can become a Giant Owl for up to 8 hours. The owl can communicate telepathically with you at any range if you and it are on the same plane of existence. Once it has been used, it can't be used again until 2 days have passed.
+**Serpentine Owl (Rare).** This serpentine statuette of an owl can become a Giant Owl for up to 8 hours. The owl can communicate telepathically with you at any range if you and it are on the same plane of existence. Once it has been used, it can't be used again until 2 days have passed.
 
-Silver Raven (Uncommon). This silver statuette of a raven can become a Raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine grants you the ability to cast Animal Messenger on it.
+**Silver Raven (Uncommon).** This silver statuette of a raven can become a Raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine grants you the ability to cast Animal Messenger on it.
 
 ### Flame Tongue
 
@@ -15441,9 +15446,9 @@ While holding this magic weapon, you can take a Bonus Action and use a command w
 
 This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring a Magic action to use:
 
-- First Command Word. The box unfolds into a Rowboat.
-- Second Command Word. The box unfolds into a Keelboat.
-- Third Command Word. The Folding Boat folds back into a box if no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so.
+- **First Command Word.** The box unfolds into a Rowboat.
+- **Second Command Word.** The box unfolds into a Keelboat.
+- **Third Command Word.** The Folding Boat folds back into a box if no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so.
 
 When the box becomes a vessel, its weight becomes that of a normal vessel its size, and anything that was stored in the box remains in the boat.
 
@@ -15471,9 +15476,9 @@ Your Strength is 19 while you wear these gauntlets. They have no effect on you i
 
 This prism has 50 charges. While you are holding it, you can take a Magic action and use one of three command words to cause one of the following effects:
 
-- First Command Word. The gem sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. This effect doesn't expend a charge. It lasts until you take a Bonus Action to repeat the command word or until you use another function of the gem.
-- Second Command Word. You expend 1 charge and cause the gem to fire a brilliant beam of light at one creature you can see within 60 feet of yourself. The creature must succeed on a DC 15 Constitution saving throw or have the Blinded condition for 1 minute. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
-- Third Command Word. You expend 5 charges and cause the gem to flare with intense light in a 30-foot Cone. Each creature in the Cone makes a saving throw as if struck by the beam created with the second command word.
+- **First Command Word.** The gem sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. This effect doesn't expend a charge. It lasts until you take a Bonus Action to repeat the command word or until you use another function of the gem.
+- **Second Command Word.** You expend 1 charge and cause the gem to fire a brilliant beam of light at one creature you can see within 60 feet of yourself. The creature must succeed on a DC 15 Constitution saving throw or have the Blinded condition for 1 minute. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
+- **Third Command Word.** You expend 5 charges and cause the gem to flare with intense light in a 30-foot Cone. Each creature in the Cone makes a saving throw as if struck by the beam created with the second command word.
 
 When all of the gem's charges are expended, the gem becomes a nonmagical jewel worth 50 GP.
 
@@ -15548,7 +15553,7 @@ If any of its pouches is overloaded, pierced, or torn, the haversack ruptures an
 
 Each pouch of the haversack holds enough air for 10 minutes of breathing, divided by the number of breathing creatures inside.
 
-Placing the haversack inside an extradimensional space created by a Bag of Holding , Portable Hole , or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing the haversack inside an extradimensional space created by a Bag of Holding, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ### Hat of Disguise
 
@@ -15570,17 +15575,17 @@ Any spell you cast from the hat uses your spell save DC and spell attack bonus.
 
 ##### 1d100 Effect
 
-- 01-50 You cast a random spell determined by rolling 1d10: on a 1 , Enlarge/Reduce (enlarge effect); on a 2 , Enlarge/Reduce (reduce effect); on a 3 , Faerie Fire ; on a 4 , Fireball ; on a 5 , Gust of Wind ; on a 6 , Invisibility (cast on yourself); on a 7 , Lightning Bolt ; on an 8 , Phantasmal Force ; on a 9 , Polymorph ; on a 10 , Stinking Cloud .
+- 01-50 You cast a random spell determined by rolling 1d10: on a 1, Enlarge/Reduce (enlarge effect); on a 2, Enlarge/Reduce (reduce effect); on a 3, Faerie Fire; on a 4, Fireball; on a 5, Gust of Wind; on a 6, Invisibility (cast on yourself); on a 7, Lightning Bolt; on an 8, Phantasmal Force; on a 9, Polymorph; on a 10, Stinking Cloud.
 - 51-55 You have the Stunned condition until the end of your next turn, believing something awesome just happened.
 - 56-60 A harmless swarm of butterflies fills a 10-foot Cube within 30 feet of yourself. The swarm disperses after 1 minute.
-- 61-65 You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1 , a vial of Acid; on a 2 , a flask of Alchemist's Fire; on a 3 , a Crowbar; on a 4 , a lit Torch.
+- 61-65 You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1, a vial of Acid; on a 2, a flask of Alchemist's Fire; on a 3, a Crowbar; on a 4, a lit Torch.
 - 66-70 You suffer a bout of 'magic sickness' and have the Poisoned condition for 1 hour.
 - 71-75 You have the Petrified condition until the end of your next turn.
-- 76-80 You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1 , a Dagger; on a 2 , a Rope with a Grappling Hook tied to one end; on a 3 , a bag of Caltrops; on a 4 , a gem worth 50 GP.
-- 81-85 A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a 1 , a Camel ; on a 2 , a Constrictor Snake ; on a 3 , an Elephant ; on a 4 , a Mule .
+- 76-80 You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1, a Dagger; on a 2, a Rope with a Grappling Hook tied to one end; on a 3, a bag of Caltrops; on a 4, a gem worth 50 GP.
+- 81-85 A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a 1, a Camel; on a 2, a Constrictor Snake; on a 3, an Elephant; on a 4, a Mule.
 - 86-90 A Hostile Swarm of Bats flies out of the hat, occupies your space, and attacks you.
 - 91-95 A vertical, 10-foot-diameter, two-way portal to another plane of existence opens in an unoccupied space within 30 feet of you and remains open until the end of your next turn. The GM determines where it leads.
-- 96-00 You pull a magic item out of the hat. Roll 1d6 to determine the item's rarity: on a 1-3 , Common; on a 4-5 , Uncommon; on a 6 , Rare. The GM chooses the item, which disappears after 1 hour if it's not consumed or destroyed before then.
+- 96-00 You pull a magic item out of the hat. Roll 1d6 to determine the item's rarity: on a 1-3, Common; on a 4-5, Uncommon; on a 6, Rare. The GM chooses the item, which disappears after 1 hour if it's not consumed or destroyed before then.
 
 ### Headband of Intellect
 
@@ -15703,37 +15708,37 @@ As a Utilize action, you can seize and stow any number of Ioun Stones orbiting y
 
 The type of stone determines its rarity and effects.
 
-Absorption (Very Rare). While this pale lavender ellipsoid orbits your head, you can take a Reaction to cancel a spell of level 4 or lower cast by a creature you can see. A canceled spell has no effect, and any resources used to cast it are wasted. Once the stone has canceled 20 levels of spells, it burns out, turns dull gray, and loses its magic.
+**Absorption (Very Rare).** While this pale lavender ellipsoid orbits your head, you can take a Reaction to cancel a spell of level 4 or lower cast by a creature you can see. A canceled spell has no effect, and any resources used to cast it are wasted. Once the stone has canceled 20 levels of spells, it burns out, turns dull gray, and loses its magic.
 
-Agility (Very Rare). Your Dexterity increases by 2, to a maximum of 20, while this deep-red sphere orbits your head.
+**Agility (Very Rare).** Your Dexterity increases by 2, to a maximum of 20, while this deep-red sphere orbits your head.
 
-Awareness (Rare). While this dark-blue rhomboid orbits your head, you have Advantage on Initiative rolls and Wisdom (Perception) checks.
+**Awareness (Rare).** While this dark-blue rhomboid orbits your head, you have Advantage on Initiative rolls and Wisdom (Perception) checks.
 
-Fortitude (Very Rare). Your Constitution increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.
+**Fortitude (Very Rare).** Your Constitution increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.
 
-Greater Absorption (Legendary). While this marbled lavender and green ellipsoid orbits your head, you can take a Reaction to cancel a spell of level 8 or lower cast by a creature you can see. A canceled spell has no effect, and any resources used to cast it are wasted. Once the stone has canceled 20 levels of spells, it burns out, turns dull gray, and loses its magic.
+**Greater Absorption (Legendary).** While this marbled lavender and green ellipsoid orbits your head, you can take a Reaction to cancel a spell of level 8 or lower cast by a creature you can see. A canceled spell has no effect, and any resources used to cast it are wasted. Once the stone has canceled 20 levels of spells, it burns out, turns dull gray, and loses its magic.
 
-Insight (Very Rare). Your Wisdom increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.
+**Insight (Very Rare).** Your Wisdom increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.
 
-Intellect (Very Rare). Your Intelligence increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.
+**Intellect (Very Rare).** Your Intelligence increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.
 
-Leadership (Very Rare). Your Charisma increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head.
+**Leadership (Very Rare).** Your Charisma increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head.
 
-Mastery (Legendary). Your Proficiency Bonus increases by 1 while this pale green prism orbits your head.
+**Mastery (Legendary).** Your Proficiency Bonus increases by 1 while this pale green prism orbits your head.
 
-Protection (Rare). You gain a +1 bonus to Armor Class while this dusty-rose prism orbits your head.
+**Protection (Rare).** You gain a +1 bonus to Armor Class while this dusty-rose prism orbits your head.
 
-Regeneration (Legendary). You regain 15 Hit Points at the end of each hour this pearly white spindle orbits your head if you have at least 1 Hit Point.
+**Regeneration (Legendary).** You regain 15 Hit Points at the end of each hour this pearly white spindle orbits your head if you have at least 1 Hit Point.
 
-Reserve (Rare). This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 4 levels of spells at a time. When found, it contains 1d4 levels of stored spells chosen by the GM.
+**Reserve (Rare).** This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 4 levels of spells at a time. When found, it contains 1d4 levels of stored spells chosen by the GM.
 
 Any creature can cast a spell of level 1 through 4 into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
 
 While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space.
 
-Strength (Very Rare). Your Strength increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.
+**Strength (Very Rare).** Your Strength increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.
 
-Sustenance (Rare). You don't need to eat or drink while this clear spindle orbits your head.
+**Sustenance (Rare).** You don't need to eat or drink while this clear spindle orbits your head.
 
 ### Iron Bands
 
@@ -15882,7 +15887,7 @@ While within 5 feet of the mirror, you can take a Magic action to name one creat
 
 In a similar way, you can take a Magic action and use a second command word to free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
-Placing the mirror inside an extradimensional space created by a Bag of Holding , Portable Hole , or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing the mirror inside an extradimensional space created by a Bag of Holding, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ### Mithral Armor
 
@@ -15929,68 +15934,71 @@ Once a card is drawn, it disappears. Unless the card is the Fool or Jester, the 
 
 Each card's effect is described below.
 
-Balance. You can increase one of your ability scores by 2, to a maximum of 22, provided you also decrease another one of your ability scores by 2. You can't decrease an ability that has a score of 5 or lower. Alternatively, you can choose not to adjust your ability scores, in which case this card has no effect.
+**Balance.** You can increase one of your ability scores by 2, to a maximum of 22, provided you also decrease another one of your ability scores by 2. You can't decrease an ability that has a score of 5 or lower. Alternatively, you can choose not to adjust your ability scores, in which case this card has no effect.
 
-Comet. The next time you enter combat against one or more Hostile creatures, you can select one of them as your foe when you roll Initiative. If you reduce your foe to 0 Hit Points during that combat, you have Advantage on Death Saving Throws for 1 year. If someone else reduces your chosen foe to 0 Hit Points or you don't choose a foe, this card has no effect.
+**Comet.** The next time you enter combat against one or more Hostile creatures, you can select one of them as your foe when you roll Initiative. If you reduce your foe to 0 Hit Points during that combat, you have Advantage on Death Saving Throws for 1 year. If someone else reduces your chosen foe to 0 Hit Points or you don't choose a foe, this card has no effect.
 
-Donjon. You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a Wish spell can reveal the location of your prison. You draw no more cards.
+**Donjon.** You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a Wish spell can reveal the location of your prison. You draw no more cards.
 
-Euryale. The card's medusa-like visage curses you. You take a -2 penalty to saving throws while cursed in this way. Only a god or the magic of the Fates card can end this curse.
+**Euryale.** The card's medusa-like visage curses you. You take a -2 penalty to saving throws while cursed in this way. Only a god or the magic of the Fates card can end this curse.
 
-Fates. Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other time before you die.
+**Fates.** Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other time before you die.
 
-Flames. A powerful devil becomes your enemy. The devil seeks your ruin and torments you, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.
+**Flames.** A powerful devil becomes your enemy. The devil seeks your ruin and torments you, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.
 
-Fool. You have Disadvantage on D20 Tests for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
+**Fool.** You have Disadvantage on D20 Tests for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
 
-Gem. Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP each appear at your feet.
+**Gem.** Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP each appear at your feet.
 
-Jester. You have Advantage on D20 Tests for the next 72 hours, or you can draw two additional cards beyond your declared draws.
+**Jester.** You have Advantage on D20 Tests for the next 72 hours, or you can draw two additional cards beyond your declared draws.
 
-Key. A Rare or rarer magic weapon with which you are proficient appears on your person. The GM chooses the weapon.
+**Key.** A Rare or rarer magic weapon with which you are proficient appears on your person. The GM chooses the weapon.
 
-Knight. You gain the service of a Knight , who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your GM to create a name and backstory for this NPC. The GM can use a different stat block to represent the knight, as desired.
+**Knight.** You gain the service of a Knight, who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your GM to create a name and backstory for this NPC. The GM can use a different stat block to represent the knight, as desired.
 
-Moon. You gain the ability to cast Wish 1d3 times.
+**Moon.** You gain the ability to cast Wish 1d3 times.
 
-Puzzle. Permanently reduce your Intelligence or Wisdom by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.
+**Puzzle.** Permanently reduce your Intelligence or Wisdom by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.
 
-Rogue. An NPC of the GM's choice becomes Hostile toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a Wish spell or divine intervention can end the NPC's hostility toward you.
+**Rogue.** An NPC of the GM's choice becomes Hostile toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a Wish spell or divine intervention can end the NPC's hostility toward you.
 
-Ruin. All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
+**Ruin.** All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
 
-Sage. At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question.
+**Sage.** At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question.
 
-Skull. An Avatar of Death (see the accompanying stat block) appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 Hit Points or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death . The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
+**Skull.** An Avatar of Death (see the accompanying stat block) appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 Hit Points or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
 
-Star. Increase one of your ability scores by 2, to a maximum of 24.
+**Star.** Increase one of your ability scores by 2, to a maximum of 24.
 
-Sun. A magic item (chosen by the GM) appears on your person. In addition, you gain 10 Temporary Hit Points daily at dawn until you die.
+**Sun.** A magic item (chosen by the GM) appears on your person. In addition, you gain 10 Temporary Hit Points daily at dawn until you die.
 
-Talons. Every magic item you wear or carry disintegrates. Artifacts in your possession vanish instead.
+**Talons.** Every magic item you wear or carry disintegrates. Artifacts in your possession vanish instead.
 
-Throne. You gain proficiency and Expertise in your choice of History, Insight, Intimidation, or Persuasion. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.
+**Throne.** You gain proficiency and Expertise in your choice of History, Insight, Intimidation, or Persuasion. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.
 
-Void. Your soul is drawn from your body and contained in an object in a place of the GM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A Wish spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
+**Void.** Your soul is drawn from your body and contained in an object in a place of the GM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A Wish spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
 
 #### Avatar of Death
 
 *Medium Undead, Neutral Evil*
 
-**AC** 20 **Initiative** +3 (13) **HP** Half the HP maximum of its summoner
-
+**AC** 20
+**Initiative** +3 (13)
+**HP** Half the HP maximum of its summoner
 **Speed** 60 ft., Fly 60 ft. (hover)
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 16 (+3) | 16 (+3) | 16 (+3) | — | — | — |
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 16    | +3  | +3   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 16    | +3  | +3   |
+| CHA  | 16    | +3  | +3   |
 
 **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned, Unconscious
-
 **Senses** Truesight 60 ft., Passive Perception 13
-
 **Languages** All languages known to its summoner
-
 **CR** None (XP 0; PB equals its summoner's)
 
 ##### Traits
@@ -16064,7 +16072,7 @@ Beads of this cloudy, gray oil form on the outside of its container and quickly 
 
 *Potion, Very Rare*
 
-One vial of this oil can coat one Melee weapon or twenty pieces of ammunition, but only ammunition and Melee weapons that are nonmagical and deal Slashing or Piercing damage are affected. Applying the oil takes 1 minute, after which the oil magically seeps into whatever it coats, turning the coated weapon into a +3 Weapon or the coated ammunition into +3 Ammunition .
+One vial of this oil can coat one Melee weapon or twenty pieces of ammunition, but only ammunition and Melee weapons that are nonmagical and deal Slashing or Piercing damage are affected. Applying the oil takes 1 minute, after which the oil magically seeps into whatever it coats, turning the coated weapon into a +3 Weapon or the coated ammunition into +3 Ammunition.
 
 This clear, gelatinous oil sparkles with tiny, ultrathin silver shards.
 
@@ -16148,9 +16156,9 @@ You can take a Magic action to unfold a Portable Hole and place it on or against
 
 You can take a Magic action to close a Portable Hole by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what's in it, the hole weighs next to nothing.
 
-If the hole is folded up, a creature within the hole's extradimensional space can take an action to make a DC 10 Strength (Athletics) check. On a successful check, the creature forces its way out and appears within 5 feet of the Portable Hole . A closed Portable Hole holds enough air for 1 hour of breathing, divided by the number of breathing creatures inside.
+If the hole is folded up, a creature within the hole's extradimensional space can take an action to make a DC 10 Strength (Athletics) check. On a successful check, the creature forces its way out and appears within 5 feet of the Portable Hole. A closed Portable Hole holds enough air for 1 hour of breathing, divided by the number of breathing creatures inside.
 
-Placing a Portable Hole inside an extradimensional space created by a Bag of Holding , Handy Haversack , or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing a Portable Hole inside an extradimensional space created by a Bag of Holding, Handy Haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ### Potion of Animal Friendship
 
@@ -16265,7 +16273,7 @@ This potion's syrupy liquid looks like liquefied iron.
 
 *Potion, Very Rare*
 
-When you drink this potion, your physical age is reduced by 1d6 + 6 years, to a minimum of 13 years. Each time you subsequently drink a Potion of Longevity , there is 10 percent cumulative chance that you instead age by 1d6 + 6 years.
+When you drink this potion, your physical age is reduced by 1d6 + 6 years, to a minimum of 13 years. Each time you subsequently drink a Potion of Longevity, there is 10 percent cumulative chance that you instead age by 1d6 + 6 years.
 
 Suspended in this amber liquid is a tiny heart that, against all reason, is still beating. These ingredients vanish when the potion is opened.
 
@@ -16481,11 +16489,11 @@ The ring has 6 charges and regains 1d6 expended charges daily at dawn. You can e
 As a Bonus Action, you can move each sphere up to 30 feet, but no farther than 120 feet away from yourself. The first time the sphere comes within 5 feet of a creature other than you that isn't behind Total Cover, the sphere discharges lightning at that creature and disappears. That creature makes a DC 15 Dexterity saving throw. On a failed save, the creature takes Lightning damage based on the number of spheres you created, as shown in the following table. On a successful save, the creature takes half as much damage.
 
 | Number of Spheres | Lightning Damage |
-|-------------------|-----------------|
-| 1                 | 4d12            |
-| 2                 | 5d4             |
-| 3                 | 2d6             |
-| 4                 | 2d4             |
+|-------------------|------------------|
+| 1                 | 4d12             |
+| 2                 | 5d4              |
+| 3                 | 2d6              |
+| 4                 | 2d4              |
 
 **Shooting Stars.** You can expend 1 to 3 charges as a Magic action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of yourself. Each creature in a 15-foot Cube originating from that point is showered in sparks and makes a DC 15 Dexterity saving throw, taking 5d4 Radiant damage on a failed save or half as much damage on a successful one.
 
@@ -16562,7 +16570,7 @@ This robe is adorned with eyelike patterns. While you wear the robe, you gain th
 - **All-Around Vision.** The robe gives you Advantage on Wisdom (Perception) checks that rely on sight.
 - **Special Senses.** You have Darkvision and Truesight, both with a range of 120 feet.
 
-**Drawbacks.** A Light spell cast on the robe or a Daylight spell cast within 5 feet of the robe gives you the Blinded condition for 1 minute. At the end of each of your turns, you make a Constitution saving throw (DC 11 for Light or DC 15 for Daylight ), ending the condition on yourself on a success.
+**Drawbacks.** A Light spell cast on the robe or a Daylight spell cast within 5 feet of the robe gives you the Blinded condition for 1 minute. At the end of each of your turns, you make a Constitution saving throw (DC 11 for Light or DC 15 for Daylight), ending the condition on yourself on a success.
 
 ### Robe of Scintillating Colors
 
@@ -16576,7 +16584,7 @@ This robe has 3 charges, and it regains 1d3 expended charges daily at dawn. Whil
 
 This black or dark-blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.
 
-Six stars, located on the robe's upper-front portion, are particularly large. While wearing this robe, you can take a Magic action to remove one of the stars and expend it to cast the level 5 version of Magic Missile . Daily at dusk, 1d6 removed stars reappear on the robe.
+Six stars, located on the robe's upper-front portion, are particularly large. While wearing this robe, you can take a Magic action to remove one of the stars and expend it to cast the level 5 version of Magic Missile. Daily at dusk, 1d6 removed stars reappear on the robe.
 
 While you wear the robe, you can take a Magic action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you take a Magic action to return to the plane you were on. You reappear in the last space you occupied or, if that space is occupied, the nearest unoccupied space.
 
@@ -16794,9 +16802,9 @@ While you wear these light shoes, you can move up, down, and across vertical sur
 
 *Wondrous Item, Legendary*
 
-This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with Oil of Slipperiness . When found, a container contains 1d6 + 1 ounces.
+This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with Oil of Slipperiness. When found, a container contains 1d6 + 1 ounces.
 
-One ounce of the glue can cover a 1-foot square surface. Applying an ounce of Sovereign Glue takes a Utilize action, and the applied glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of Universal Solvent or Oil of Etherealness , or with a Wish spell.
+One ounce of the glue can cover a 1-foot square surface. Applying an ounce of Sovereign Glue takes a Utilize action, and the applied glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of Universal Solvent or Oil of Etherealness, or with a Wish spell.
 
 ### Spellguard Shield
 
@@ -16835,13 +16843,13 @@ The level of the spell on the scroll determines the spell's saving throw DC and 
 
 This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
 
-The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an Artifact is susceptible to damage from a Sphere of Annihilation , it passes through the sphere unscathed. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes 8d10 Force damage.
+The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an Artifact is susceptible to damage from a Sphere of Annihilation, it passes through the sphere unscathed. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes 8d10 Force damage.
 
 **Controlling the Sphere.** A Sphere of Annihilation is stationary until someone takes control of it. If you are within 60 feet of a sphere, you can take a Magic action to make a DC 25 Intelligence (Arcana) check. On a successful check, you control the sphere until the start of your next turn, and if it was under another creature's control, that creature loses control of the sphere. On a failed check, the sphere moves 10 feet toward you in a straight line.
 
 While in control of the sphere, you can take a Bonus Action to cause it to move in one direction of your choice, up to a number of feet equal to 5 times your Intelligence modifier (minimum 5 feet). Any creature whose space the sphere enters must succeed on a DC 19 Dexterity saving throw or be touched by it, taking 8d10 Force damage. A creature reduced to 0 Hit Points by this damage is obliterated, leaving its possessions behind but no other physical remains.
 
-**Sphere Interactions.** If the sphere comes into contact with a planar portal (such as that created by the Gate spell) or an extradimensional space (such as that within a Portable Hole ), the GM determines randomly what happens using the following table.
+**Sphere Interactions.** If the sphere comes into contact with a planar portal (such as that created by the Gate spell) or an extradimensional space (such as that within a Portable Hole), the GM determines randomly what happens using the following table.
 
 ##### 1d100 Result
 
@@ -16855,9 +16863,9 @@ While in control of the sphere, you can take a Bonus Action to cause it to move 
 
 This staff has 10 charges. While holding the staff, you can use any of its properties:
 
-- Cast Spell. You can expend 1 of the staff's charges to cast Charm Person , Command , or Comprehend Languages from it using your spell save DC.
-- Reflect Enchantment. If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a Reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
-- Resist Enchantment. If you fail a saving throw against an Enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn.
+- **Cast Spell.** You can expend 1 of the staff's charges to cast Charm Person, Command, or Comprehend Languages from it using your spell save DC.
+- **Reflect Enchantment.** If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a Reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
+- **Resist Enchantment.** If you fail a saving throw against an Enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn.
 
 **Regaining Charges.** The staff regains 1d8 + 2 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff crumbles to dust and is destroyed.
 
@@ -16948,7 +16956,7 @@ The staff has 10 charges. When you hit with a melee attack using it, you can exp
 
 This staff has 10 charges.
 
-**Insect Cloud.** While holding the staff, you can take a Magic action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot Emanation originating from you. The insects remain for 10 minutes, making the area Heavily Obscured for creatures other than you. A strong wind (like that created by Gust of Wind ) disperses the swarm and ends the effect.
+**Insect Cloud.** While holding the staff, you can take a Magic action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot Emanation originating from you. The insects remain for 10 minutes, making the area Heavily Obscured for creatures other than you. A strong wind (like that created by Gust of Wind) disperses the swarm and ends the effect.
 
 **Spells.** While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC and spell attack modifier. The table indicates how many charges you must expend to cast the spell.
 
@@ -17056,7 +17064,7 @@ The staff can be wielded as a magic Quarterstaff. On a hit, it deals damage as a
 
 *Wondrous Item, Rare*
 
-While touching this 5-pound stone to the ground, you can take a Magic action to summon an Earth Elemental . The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The stone can't be used this way again until the next dawn.
+While touching this 5-pound stone to the ground, you can take a Magic action to summon an Earth Elemental. The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The stone can't be used this way again until the next dawn.
 
 ### Stone of Good Luck (Luckstone)
 
@@ -17070,7 +17078,7 @@ While this polished agate is on your person, you gain a +1 bonus to ability chec
 
 This item appears to be a sword hilt.
 
-**Blade of Radiance.** While grasping the hilt, you can take a Bonus Action to cause a blade of pure radiance to spring into existence or make the blade disappear. While the blade exists, this magic weapon functions as a Longsword with the Finesse property. If you are proficient with Longswords or Shortswords, you are proficient with the Sun Blade .
+**Blade of Radiance.** While grasping the hilt, you can take a Bonus Action to cause a blade of pure radiance to spring into existence or make the blade disappear. While the blade exists, this magic weapon functions as a Longsword with the Finesse property. If you are proficient with Longswords or Shortswords, you are proficient with the Sun Blade.
 
 You gain a +2 bonus to attack rolls and damage rolls made with this weapon, which deals Radiant damage instead of Slashing damage. When you hit an Undead with it, that target takes an extra 1d8 Radiant damage.
 
@@ -17110,7 +17118,7 @@ This talisman is a mighty symbol of goodness. A Fiend or an Undead that touches 
 
 *Wondrous Item, Legendary (Requires Attunement)*
 
-While holding or wearing this talisman, you have Advantage on any Intelligence (Arcana) check you make to control a Sphere of Annihilation . In addition, when you start your turn in control of a Sphere of Annihilation , you can take a Magic action to move it 10 feet plus a number of additional feet equal to 10 times your Intelligence modifier. This movement doesn't have to be in a straight line.
+While holding or wearing this talisman, you have Advantage on any Intelligence (Arcana) check you make to control a Sphere of Annihilation. In addition, when you start your turn in control of a Sphere of Annihilation, you can take a Magic action to move it 10 feet plus a number of additional feet equal to 10 times your Intelligence modifier. This movement doesn't have to be in a straight line.
 
 ### Talisman of Ultimate Evil
 
@@ -17164,7 +17172,7 @@ This magic weapon has 3 charges, and it regains 1d3 expended charges daily at da
 
 This tube holds milky liquid with a strong alcohol smell. When found, a tube contains 1d6 + 1 ounces.
 
-You can take a Utilize action to pour 1 or more ounces of solvent from the tube onto a surface within reach. Each ounce instantly dissolves up to 1 square foot of adhesive it touches, including Sovereign Glue .
+You can take a Utilize action to pour 1 or more ounces of solvent from the tube onto a surface within reach. Each ounce instantly dissolves up to 1 square foot of adhesive it touches, including Sovereign Glue.
 
 ### Vicious Weapon
 
@@ -17294,13 +17302,13 @@ This wand has 7 charges. While holding it, you can take a Magic action to expend
 
 ##### Wand of Wonder Effects
 
-- 01-20 You cast a spell originating from the chosen point. Roll 1d10 to determine the spell: on a 1-2, Darkness ; on a 3-4, Faerie Fire ; on a 5-6, Fireball ; on a 7-8, Slow ; on a 9-10, Stinking Cloud .
+- 01-20 You cast a spell originating from the chosen point. Roll 1d10 to determine the spell: on a 1-2, Darkness; on a 3-4, Faerie Fire; on a 5-6, Fireball; on a 7-8, Slow; on a 9-10, Stinking Cloud.
 - 21-25 Nothing happens at the chosen point of origin. Instead, you have the Stunned condition until the start of your next turn, believing something awesome just happened.
-- 26-30 You cast Gust of Wind . The Line created by the spell extends from you to the chosen point of origin.
+- 26-30 You cast Gust of Wind. The Line created by the spell extends from you to the chosen point of origin.
 - 31-35 Nothing happens at the chosen point of origin. Instead, you take 1d6 Psychic damage.
 - 36-40 Heavy rain falls for 1 minute in a 120-foot-high, 60-foot-radius Cylinder centered on the chosen point of origin. During that time, the area of effect is Lightly Obscured.
 - 41-45 A cloud of 600 oversized butterflies fills a 60-foot-high, 30-foot-radius Cylinder centered on the chosen point of origin. The butterflies remain for 10 minutes, during which time the area of effect is Heavily Obscured.
-- 46-50 You cast Lightning Bolt . The Line created by the spell extends from you to the chosen point of origin.
+- 46-50 You cast Lightning Bolt. The Line created by the spell extends from you to the chosen point of origin.
 - 51-55 The creature closest to the chosen point of origin is enlarged as if you had cast Enlarge/Reduce on it. If the target isn't you and can't be affected by that spell, you become the target instead.
 - 56-60 A magically formed creature appears in an unoccupied space as close to the chosen point of origin as possible. The creature isn't under your control, acts as it normally would, and disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine which creature appears. On a 1, a Rhinoceros appears; on a 2, an Elephant appears; and on a 3-4, a Rat appears.
 - 61-64 Grass covers a 60-foot-radius circle of ground, with the center of that circle as close to the chosen point of origin as possible. Grass that's already there grows to ten times its normal size and remains overgrown for 1 minute.
@@ -17310,7 +17318,7 @@ This wand has 7 charges. While holding it, you can take a Magic action to expend
 - 78-82 Nothing happens at the chosen point of origin. Instead, a burst of colorful, shimmering light extends from you in a 30-foot Emanation. Each creature in the area must succeed on a DC 15 Constitution saving throw or have the Blinded condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
 - 83-87 Nothing happens at the chosen point of origin. Instead, you cast Invisibility on yourself.
 - 88-92 Nothing happens at the chosen point of origin. Instead, a stream of 1d4 × 10 gems, each worth 1 GP, shoots from the wand's tip in a Line 30 feet long and 5 feet wide toward the chosen point of origin. Each gem deals 1 Bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the Line.
-- 93-97 You cast Polymorph , targeting the creature closest to the chosen point of origin. Roll 1d4 to determine the target's new form. On a 1, the new form is a Black Bear; on a 2, the new form is a Giant Wasp; on a 3-4, the new form is a Frog.
+- 93-97 You cast Polymorph, targeting the creature closest to the chosen point of origin. Roll 1d4 to determine the target's new form. On a 1, the new form is a Black Bear; on a 2, the new form is a Giant Wasp; on a 3-4, the new form is a Frog.
 - 98-00 The creature closest to the chosen point of origin makes a DC 15 Constitution saving throw. On a failed save, the creature has the Restrained condition and begins to turn to stone. While Restrained in this way, the creature repeats the save at the end of its next turn. On a successful save, the effect ends. On a failed save, the creature has the Petrified condition instead of the Restrained condition. The petrification lasts until the creature is freed by the Greater Restoration spell or similar magic.
 
 ### Weapon, +1, +2, or +3
@@ -17724,9 +17732,9 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | STR  | 14    | +2  | +2   |
 | DEX  | 11    | +0  | +0   |
 | CON  | 13    | +1  | +1   |
-| INT  | 1     | −5  | −5   |
-| WIS  | 3     | −4  | −4   |
-| CHA  | 1     | −5  | −5   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 3     | -4  | -4   |
+| CHA  | 1     | -5  | -5   |
 
 **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 **Senses** Blindsight 60 ft.; Passive Perception 6
@@ -17753,9 +17761,9 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | STR  | 12    | +1  | +1   |
 | DEX  | 15    | +2  | +4   |
 | CON  | 11    | +0  | +0   |
-| INT  | 1     | −5  | −5   |
-| WIS  | 5     | −3  | −3   |
-| CHA  | 1     | −5  | −5   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 5     | -3  | -3   |
+| CHA  | 1     | -5  | -5   |
 
 **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 **Senses** Blindsight 60 ft.; Passive Perception 7
@@ -17780,9 +17788,9 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 | STR  | 17    | +3  | +3   |
 | DEX  | 14    | +2  | +2   |
 | CON  | 10    | +0  | +0   |
-| INT  | 1     | −5  | −5   |
-| WIS  | 3     | −4  | −4   |
-| CHA  | 1     | −5  | −5   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 3     | -4  | -4   |
+| CHA  | 1     | -5  | -5   |
 
 **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 **Senses** Blindsight 60 ft.; Passive Perception 6
@@ -17811,9 +17819,9 @@ While grappling the target, the rug can't take this action, the rug halves the d
 | STR  | 17    | +3  | +3   |
 | DEX  | 11    | +0  | +0   |
 | CON  | 14    | +2  | +2   |
-| INT  | 1     | −5  | −5   |
+| INT  | 1     | -5  | -5   |
 | WIS  | 13    | +1  | +1   |
-| CHA  | 6     | −2  | −2   |
+| CHA  | 6     | -2  | -2   |
 
 **Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 11
 **Languages** None
@@ -17879,18 +17887,18 @@ While grappling the target, the rug can't take this action, the rug halves the d
 *Small Plant, Neutral*
 
 **AC** 9
-**Initiative** −1 (9)
+**Initiative** -1 (9)
 **HP** 10 (3d6)
 **Speed** 20 ft.
 
 | Stat | Value | MOD | SAVE |
 |------|-------|-----|------|
-| STR  | 3     | −4  | −4   |
-| DEX  | 8     | −1  | −1   |
+| STR  | 3     | -4  | -4   |
+| DEX  | 8     | -1  | -1   |
 | CON  | 11    | +0  | +0   |
 | INT  | 10    | +0  | +0   |
 | WIS  | 10    | +0  | +0   |
-| CHA  | 6     | −2  | −2   |
+| CHA  | 6     | -2  | -2   |
 
 **Vulnerabilities** Fire
 **Resistances** Piercing
@@ -17907,18 +17915,18 @@ While grappling the target, the rug can't take this action, the rug halves the d
 *Huge Plant, Neutral*
 
 **AC** 13
-**Initiative** −2 (8)
+**Initiative** -2 (8)
 **HP** 59 (7d12 + 14)
 **Speed** 20 ft.
 
 | Stat | Value | MOD | SAVE |
 |------|-------|-----|------|
 | STR  | 19    | +4  | +4   |
-| DEX  | 6     | −2  | −2   |
+| DEX  | 6     | -2  | -2   |
 | CON  | 15    | +2  | +2   |
 | INT  | 10    | +0  | +0   |
 | WIS  | 10    | +0  | +0   |
-| CHA  | 7     | −2  | −2   |
+| CHA  | 7     | -2  | -2   |
 
 **Vulnerabilities** Fire
 **Resistances** Bludgeoning, Piercing
@@ -17946,9 +17954,9 @@ While grappling the target, the rug can't take this action, the rug halves the d
 | STR  | 14    | +2  | +2   |
 | DEX  | 12    | +1  | +1   |
 | CON  | 12    | +1  | +1   |
-| INT  | 2     | −4  | −4   |
+| INT  | 2     | -4  | -4   |
 | WIS  | 10    | +0  | +0   |
-| CHA  | 5     | −3  | −3   |
+| CHA  | 5     | -3  | -3   |
 
 **Senses** Passive Perception 10
 **Languages** None
@@ -18134,18 +18142,18 @@ While grappling the target, the rug can't take this action, the rug halves the d
 *Medium Monstrosity, Unaligned*
 
 **AC** 15
-**Initiative** −1 (9)
+**Initiative** -1 (9)
 **HP** 52 (8d8 + 16)
 **Speed** 20 ft.
 
 | Stat | Value | MOD | SAVE |
 |------|-------|-----|------|
 | STR  | 16    | +3  | +3   |
-| DEX  | 8     | −1  | −1   |
+| DEX  | 8     | -1  | -1   |
 | CON  | 15    | +2  | +2   |
-| INT  | 2     | −4  | −4   |
-| WIS  | 8     | −1  | −1   |
-| CHA  | 7     | −2  | −2   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 7     | -2  | -2   |
 
 **Senses** Darkvision 60 ft.; Passive Perception 9
 **Languages** None
@@ -18175,7 +18183,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 | STR  | 16    | +3  | +5   |
 | DEX  | 15    | +2  | +2   |
 | CON  | 15    | +2  | +4   |
-| INT  | 9     | −1  | −1   |
+| INT  | 9     | -1  | -1   |
 | WIS  | 11    | +0  | +0   |
 | CHA  | 14    | +2  | +4   |
 
@@ -18213,7 +18221,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 | STR  | 23    | +6  | +6   |
 | DEX  | 16    | +3  | +3   |
 | CON  | 18    | +4  | +4   |
-| INT  | 7     | −2  | −2   |
+| INT  | 7     | -2  | -2   |
 | WIS  | 14    | +2  | +2   |
 | CHA  | 12    | +1  | +1   |
 
@@ -18255,9 +18263,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 | STR  | 16    | +3  | +3   |
 | DEX  | 12    | +1  | +1   |
 | CON  | 17    | +3  | +3   |
-| INT  | 9     | −1  | −1   |
+| INT  | 9     | -1  | -1   |
 | WIS  | 11    | +0  | +0   |
-| CHA  | 9     | −1  | −1   |
+| CHA  | 9     | -1  | -1   |
 
 **Gear** Greataxe, Hide Armor
 **Senses** Passive Perception 10
@@ -18395,7 +18403,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Cloud of Insects.** Dexterity Saving Throw: DC 17, one creature the dragon can see within 120 feet. Failure: 22 (4d10) Poison damage, and the target has Disadvantage on saving throws to maintain Concentration until the end of its next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
 
-**Frightful Presence.** The dragon uses Spellcasting to cast Fear . The dragon can't take this action again until the start of its next turn.
+**Frightful Presence.** The dragon uses Spellcasting to cast Fear. The dragon can't take this action again until the start of its next turn.
 
 **Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
 
@@ -18448,7 +18456,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Cloud of Insects.** Dexterity Saving Throw: DC 21, one creature the dragon can see within 120 feet. Failure: 33 (6d10) Poison damage, and the target has Disadvantage on saving throws to maintain Concentration until the end of its next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
 
-**Frightful Presence.** The dragon uses Spellcasting to cast Fear . The dragon can't take this action again until the start of its next turn.
+**Frightful Presence.** The dragon uses Spellcasting to cast Fear. The dragon can't take this action again until the start of its next turn.
 
 **Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
 
@@ -18459,18 +18467,18 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 *Large Ooze, Unaligned*
 
 **AC** 7
-**Initiative** −3 (7)
+**Initiative** -3 (7)
 **HP** 68 (8d10 + 24)
 **Speed** 20 ft., Climb 20 ft.
 
 | Stat | Value | MOD | SAVE |
 |------|-------|-----|------|
 | STR  | 16    | +3  | +3   |
-| DEX  | 5     | −3  | −3   |
+| DEX  | 5     | -3  | -3   |
 | CON  | 16    | +3  | +3   |
-| INT  | 1     | −5  | −5   |
-| WIS  | 6     | −2  | −2   |
-| CHA  | 1     | −5  | −5   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 6     | -2  | -2   |
+| CHA  | 1     | -5  | -5   |
 
 **Immunities** Acid, Cold, Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
 **Senses** Blindsight 60 ft.; Passive Perception 8
@@ -19057,6 +19065,24 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 ### Chuul
 
+#### Chuul
+
+*Large Aberration, Chaotic Evil*
+
+**AC** 16
+**Initiative** +0 (10)
+**HP** 76 (9d10 + 27)
+**Speed** 30 ft., Swim 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 16    | +3  | +3   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
+
 **Skills** Perception +4
 **Immunities** Poison; Poisoned
 **Senses** Darkvision 60 ft.; Passive Perception 14
@@ -19078,6 +19104,8 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Paralyzing Tentacles.** Constitution Saving Throw: DC 13, one creature Grappled by the chuul. Failure: The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. While Poisoned, the target has the Paralyzed condition.
 
 ### Clay Golem
+
+#### Clay Golem
 
 *Large Construct, Unaligned*
 
@@ -19123,6 +19151,30 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 ### Cloaker
 
+#### Cloaker
+
+*Large Aberration, Chaotic Neutral*
+
+**AC** 14
+**Initiative** +5 (15)
+**HP** 91 (14d10 + 14)
+**Speed** 10 ft., Fly 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 13    | +1  | +1   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 7     | -2  | -2   |
+
+**Skills** Stealth +5
+**Immunities** Frightened
+**Senses** Darkvision 120 ft.; Passive Perception 12
+**Languages** Deep Speech, Undercommon
+**CR** 8 (XP 3,900; PB +3)
+
 ##### Traits
 
 **Light Sensitivity.** While in Bright Light, the cloaker has Disadvantage on attack rolls.
@@ -19145,9 +19197,32 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 
 ### Cloud Giant
 
+#### Cloud Giant
+
+*Huge Giant, Neutral*
+
+**AC** 14
+**Initiative** +4 (14)
+**HP** 200 (16d12 + 96)
+**Speed** 40 ft., Fly 20 ft. (hover)
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 27    | +8  | +8   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 22    | +6  | +10  |
+| INT  | 12    | +1  | +1   |
+| WIS  | 16    | +3  | +7   |
+| CHA  | 16    | +3  | +3   |
+
+**Skills** Insight +7, Perception +11
+**Senses** Passive Perception 21
+**Languages** Common, Giant
+**CR** 9 (XP 5,000; PB +4)
+
 ##### Actions
 
-**Multiattack.** The giant makes two attacks, using Thunderous Mace or Thundercloud in any combination. It can replace one attack with a use of Spellcasting to cast Fog Cloud .
+**Multiattack.** The giant makes two attacks, using Thunderous Mace or Thundercloud in any combination. It can replace one attack with a use of Spellcasting to cast Fog Cloud.
 
 **Thunderous Mace.** Melee Attack Roll: +12, reach 10 ft. Hit: 21 (3d8 + 8) Bludgeoning damage plus 7 (2d6) Thunder damage.
 
@@ -19164,11 +19239,57 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 
 ### Cockatrice
 
+#### Cockatrice
+
+*Small Monstrosity, Unaligned*
+
+**AC** 11
+**Initiative** +1 (11)
+**HP** 22 (5d6 + 5)
+**Speed** 20 ft., Fly 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 6     | -2  | -2   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 12    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 5     | -3  | -3   |
+
+**Immunities** Petrified
+**Senses** Darkvision 60 ft.; Passive Perception 11
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
+
 ##### Actions
 
 **Petrifying Bite.** Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Piercing damage. If the target is a creature, it is subjected to the following effect. Constitution Saving Throw: DC 11. First Failure: The target has the Restrained condition. The target repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. Second Failure: The target has the Petrified condition, instead of the Restrained condition, for 24 hours.
 
 ### Commoner
+
+#### Commoner
+
+*Medium or Small Humanoid, Neutral*
+
+**AC** 10
+**Initiative** +0 (10)
+**HP** 4 (1d8)
+**Speed** 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 10    | +0  | +0   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 10    | +0  | +0   |
+
+**Gear** Club
+**Senses** Passive Perception 10
+**Languages** Common
+**CR** 0 (XP 10; PB +2)
 
 ##### Traits
 
@@ -19182,6 +19303,28 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 
 #### Copper Dragon Wyrmling
 
+*Medium Dragon (Metallic), Chaotic Good*
+
+**AC** 16
+**Initiative** +3 (13)
+**HP** 22 (4d8 + 4)
+**Speed** 30 ft., Climb 30 ft., Fly 60 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 12    | +1  | +3   |
+| CON  | 13    | +1  | +1   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 13    | +1  | +1   |
+
+**Skills** Perception +4, Stealth +3
+**Immunities** Acid
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 1 (XP 200; PB +2)
+
 ##### Actions
 
 **Rend.** Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.
@@ -19191,6 +19334,28 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 **Slowing Breath.** Constitution Saving Throw: DC 11, each creature in a 15-foot Cone. Failure: The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
 
 #### Young Copper Dragon
+
+*Large Dragon (Metallic), Chaotic Good*
+
+**AC** 17
+**Initiative** +4 (14)
+**HP** 119 (14d10 + 42)
+**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 12    | +1  | +4   |
+| CON  | 17    | +3  | +3   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 13    | +1  | +4   |
+| CHA  | 15    | +2  | +2   |
+
+**Skills** Deception +5, Perception +7, Stealth +4
+**Immunities** Acid
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
+**Languages** Common, Draconic
+**CR** 7 (XP 2,900; PB +3)
 
 ##### Actions
 
@@ -19210,6 +19375,15 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 **Initiative** +11 (21)
 **HP** 184 (16d12 + 80)
 **Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 12    | +1  | +6   |
+| CON  | 21    | +5  | +5   |
+| INT  | 18    | +4  | +4   |
+| WIS  | 15    | +2  | +7   |
+| CHA  | 18    | +4  | +4   |
 
 **Skills** Deception +9, Perception +12, Stealth +6
 **Immunities** Acid
@@ -19234,7 +19408,6 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 **Spellcasting.** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
 - At Will: Detect Magic, Mind Spike (level 4 version), Minor Illusion, Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)
-
 - 1/Day Each: Greater Restoration, Major Image
 
 ##### Legendary Actions
@@ -19302,6 +19475,8 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 
 ### Couatl
 
+#### Couatl
+
 *Medium Celestial, Lawful Good*
 
 **AC** 19
@@ -19337,7 +19512,6 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 **Spellcasting.** The couatl casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 15):
 
 - At Will: Detect Evil and Good, Detect Magic, Detect Thoughts, Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)
-
 - 1/Day Each: Create Food and Water, Dream, Greater Restoration, Scrying, Sleep
 
 ##### Bonus Actions
@@ -19347,6 +19521,22 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 ### Crawling Claw
 
 #### Swarm of Crawling Claws
+
+*Medium Swarm of Tiny Undead, Neutral Evil*
+
+**AC** 12
+**Initiative** +2 (12)
+**HP** 49 (11d8)
+**Speed** 30 ft., Climb 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 11    | +0  | +0   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 4     | -3  | -3   |
 
 **Resistances** Bludgeoning, Piercing, Slashing
 **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
@@ -19373,6 +19563,15 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 **HP** 9 (2d8)
 **Speed** 30 ft.
 
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 11    | +0  | +0   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 10    | +0  | +0   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 10    | +0  | +0   |
+
 **Skills** Deception +2, Religion +2
 **Gear** Leather Armor, Sickle
 **Senses** Passive Perception 10
@@ -19383,7 +19582,23 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 
 **Ritual Sickle.** Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage plus 1 Necrotic damage.
 
-#### Cult Fanatic
+#### Cultist Fanatic
+
+*Medium or Small Humanoid, Neutral*
+
+**AC** 13
+**Initiative** +2 (12)
+**HP** 44 (8d8 + 8)
+**Speed** 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 11    | +0  | +0   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 14    | +2  | +4   |
+| CHA  | 13    | +1  | +1   |
 
 **Skills** Deception +3, Persuasion +3, Religion +2
 **Gear** Holy Symbol, Leather Armor
@@ -19416,7 +19631,14 @@ The cloaker can detach itself by spending 5 feet of movement. The target or a cr
 **HP** 22 (5d6 + 5)
 **Speed** 10 ft., Fly 30 ft.
 
-[ABILITY SCORES MISSING — SOURCE REQUIRED]
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
 
 **Skills** Stealth +3
 **Senses** Blindsight 60 ft.; Passive Perception 10
@@ -19432,6 +19654,7 @@ While attached to a target, the darkmantle can attack only the target but has Ad
 A creature can take an action to try to detach the darkmantle from itself, doing so with a successful DC 13 Strength (Athletics) check. On its turn, the darkmantle can detach itself by using 5 feet of movement.
 
 **Darkness Aura (1/Day).** Magical Darkness fills a 15-foot Emanation originating from the darkmantle. This effect lasts while the darkmantle maintains Concentration on it, up to 10 minutes. Darkvision can't penetrate this area, and no light can illuminate it.
+
 ### Death Dog
 
 #### Death Dog
@@ -19440,8 +19663,8 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 
 **AC** 12
 **Initiative** +2 (12)
-**HP** [MISSING — SOURCE REQUIRED]
-**Speed** [MISSING — SOURCE REQUIRED]
+**HP** 39 (6d8 + 12)
+**Speed** 40 ft.
 
 | Stat | Value | MOD | SAVE |
 |------|-------|-----|------|
@@ -19452,15 +19675,18 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 | WIS  | 13    | +1  | +1   |
 | CHA  | 6     | -2  | -2   |
 
-**Senses** [MISSING — SOURCE REQUIRED]
-**Languages** [MISSING — SOURCE REQUIRED]
-**CR** [MISSING — SOURCE REQUIRED]
+**Skills** Perception +5, Stealth +4
+**Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+**Senses** Darkvision 120 ft.; Passive Perception 15
+**Languages** None
+**CR** 1 (XP 200; PB +2)
 
 ##### Actions
 
 **Multiattack.** The death dog makes two Bite attacks.
 
 **Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage. If the target is a creature, it is subjected to the following effect. Constitution Saving Throw: DC 12. First Failure: The target has the Poisoned condition. While Poisoned, the target's Hit Point maximum doesn't return to normal when finishing a Long Rest, and it repeats the save every 24 hours that elapse, ending the effect on itself on a success. Subsequent Failures: The Poisoned target's Hit Point maximum decreases by 5 (1d10).
+
 ### Deva
 
 #### Deva
@@ -19508,6 +19734,7 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 ##### Bonus Actions
 
 **Divine Aid (2/Day).** The deva casts Cure Wounds, Lesser Restoration, or Remove Curse, using the same spellcasting ability as Spellcasting.
+
 ### Djinni
 
 #### Djinni
@@ -19529,7 +19756,9 @@ A creature can take an action to try to detach the darkmantle from itself, doing
 | CHA  | 20    | +5  | +5   |
 
 **Immunities** Lightning, Thunder
-[LANGUAGES AND CR MISSING — SOURCE REQUIRED]
+**Senses** Darkvision 120 ft.; Passive Perception 13
+**Languages** Primordial (Auran)
+**CR** 11 (XP 7,200; PB +4)
 
 ##### Traits
 
@@ -19556,6 +19785,7 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 - At Will: Detect Evil and Good, Detect Magic
 - 2/Day Each: Create Food and Water (can create wine instead of water), Tongues, Wind Walk
 - 1/Day Each: Creation, Gaseous Form, Invisibility, Major Image, Plane Shift
+
 ### Doppelganger
 
 #### Doppelganger
@@ -19572,9 +19802,9 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 | STR  | 11    | +0  | +0   |
 | DEX  | 18    | +4  | +4   |
 | CON  | 14    | +2  | +2   |
-| INT  | [?]   | [?] | [?]  |
-| WIS  | [?]   | [?] | [?]  |
-| CHA  | [?]   | [?] | [?]  |
+| INT  | 11    | +0  | +0   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 14    | +2  | +2   |
 
 **Skills** Deception +6, Insight +3
 **Immunities** Charmed
@@ -19595,11 +19825,31 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 ##### Bonus Actions
 
 **Shape-Shift.** The doppelganger shape-shifts into a Medium or Small Humanoid, or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+
 ### Dragon Turtle
 
 #### Dragon Turtle
 
-[STAT BLOCK MISSING — SOURCE REQUIRED]
+*Gargantuan Dragon, Neutral*
+
+**AC** 20
+**Initiative** +6 (16)
+**HP** 356 (23d20 + 115)
+**Speed** 20 ft., Swim 50 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 25    | +7  | +7   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 20    | +5  | +11  |
+| INT  | 10    | +0  | +0   |
+| WIS  | 12    | +1  | +7   |
+| CHA  | 12    | +1  | +1   |
+
+**Resistances** Fire
+**Senses** Darkvision 120 ft.; Passive Perception 11
+**Languages** Draconic, Primordial (Aquan)
+**CR** 17 (XP 18,000; PB +6)
 
 ##### Traits
 
@@ -19619,7 +19869,27 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Dretch
 
-[STAT BLOCK MISSING — SOURCE REQUIRED]
+*Small Fiend (Demon), Chaotic Evil*
+
+**AC** 11
+**Initiative** +0 (10)
+**HP** 18 (4d6 + 4)
+**Speed** 20 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 12    | +1  | +1   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 12    | +1  | +1   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 3     | -4  | -4   |
+
+**Resistances** Cold, Fire, Lightning
+**Immunities** Poison; Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 9
+**Languages** Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)
+**CR** 1/4 (XP 50; PB +2)
 
 ##### Actions
 
@@ -19631,7 +19901,26 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Drider
 
-[STAT BLOCK MISSING — SOURCE REQUIRED]
+*Large Monstrosity, Chaotic Evil*
+
+**AC** 19
+**Initiative** +4 (14)
+**HP** 123 (13d10 + 52)
+**Speed** 30 ft., Climb 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 19    | +4  | +4   |
+| CON  | 18    | +4  | +4   |
+| INT  | 13    | +1  | +1   |
+| WIS  | 16    | +3  | +3   |
+| CHA  | 12    | +1  | +1   |
+
+**Skills** Perception +6, Stealth +10
+**Senses** Darkvision 120 ft.; Passive Perception 16
+**Languages** Elvish, Undercommon
+**CR** 6 (XP 2,300; PB +3)
 
 ##### Traits
 
@@ -19657,7 +19946,27 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Druid
 
-[STAT BLOCK MISSING — SOURCE REQUIRED]
+*Medium or Small Humanoid (Druid), Neutral*
+
+**AC** 13
+**Initiative** +1 (11)
+**HP** 44 (8d8 + 8)
+**Speed** 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 13    | +1  | +1   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 16    | +3  | +3   |
+| CHA  | 11    | +0  | +0   |
+
+**Skills** Medicine +5, Nature +3, Perception +5
+**Gear** Studded Leather Armor
+**Senses** Passive Perception 15
+**Languages** Common, Druidic, Sylvan
+**CR** 2 (XP 450; PB +2)
 
 ##### Actions
 
@@ -19677,7 +19986,26 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Dryad
 
-[STAT BLOCK MISSING — SOURCE REQUIRED]
+*Medium Fey, Neutral*
+
+**AC** 16
+**Initiative** +1 (11)
+**HP** 22 (5d8)
+**Speed** 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 11    | +0  | +0   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 15    | +2  | +2   |
+| CHA  | 18    | +4  | +4   |
+
+**Skills** Perception +4, Stealth +5
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** Elvish, Sylvan
+**CR** 1 (XP 200; PB +2)
 
 ##### Traits
 
@@ -19706,7 +20034,27 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Earth Elemental
 
-[STAT BLOCK MISSING — SOURCE REQUIRED]
+*Large Elemental, Neutral*
+
+**AC** 17
+**Initiative** -1 (9)
+**HP** 147 (14d10 + 70)
+**Speed** 30 ft., Burrow 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 20    | +5  | +5   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 20    | +5  | +5   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
+
+**Vulnerabilities** Thunder
+**Immunities** Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
+**Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10
+**Languages** Primordial (Terran)
+**CR** 5 (XP 1,800; PB +3)
 
 ##### Traits
 
@@ -19744,7 +20092,8 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 **Immunities** Fire
 **Senses** Darkvision 120 ft.; Passive Perception 12
-[LANGUAGES AND CR MISSING — SOURCE REQUIRED]
+**Languages** Primordial (Ignan)
+**CR** 11 (XP 7,200; PB +4)
 
 ##### Traits
 
@@ -19766,11 +20115,33 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 - At Will: Detect Magic, Elementalism
 - 1/Day Each: Gaseous Form, Invisibility, Major Image, Plane Shift, Tongues, Wall of Fire (level 7 version)
+
 ### Erinyes
 
 #### Erinyes
 
-[STAT BLOCK MISSING — SOURCE REQUIRED]
+*Medium Fiend (Devil), Lawful Evil*
+
+**AC** 18
+**Initiative** +7 (17)
+**HP** 178 (21d8 + 84)
+**Speed** 30 ft., Fly 60 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 16    | +3  | +7   |
+| CON  | 18    | +4  | +8   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 18    | +4  | +8   |
+
+**Skills** Perception +6, Persuasion +8
+**Resistances** Cold
+**Immunities** Fire, Poison; Poisoned
+**Senses** Truesight 120 ft.; Passive Perception 16
+**Languages** Infernal; telepathy 120 ft.
+**CR** 12 (XP 8,400; PB +4)
 
 ##### Traits
 
@@ -19796,7 +20167,26 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 #### Ettercap
 
-[STAT BLOCK MISSING — SOURCE REQUIRED]
+*Medium Monstrosity, Neutral Evil*
+
+**AC** 13
+**Initiative** +2 (12)
+**HP** 44 (8d8 + 8)
+**Speed** 30 ft., Climb 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 13    | +1  | +1   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 8     | -1  | -1   |
+
+**Skills** Perception +3, Stealth +4, Survival +3
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 2 (XP 450; PB +2)
 
 ##### Traits
 
@@ -19829,7 +20219,14 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 **HP** 85 (10d10 + 30)
 **Speed** 40 ft.
 
-[ABILITY SCORES MISSING — SOURCE REQUIRED]
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 21    | +5  | +5   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 17    | +3  | +3   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 8     | -1  | -1   |
 
 **Skills** Perception +4
 **Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
@@ -19846,5458 +20243,9607 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 **Morningstar.** Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage, and the target has Disadvantage on the next attack roll it makes before the end of its next turn.
 
-## Fire Elemental
+### Fire Elemental
 
-<!-- image -->
+#### Fire Elemental
 
-## Traits
+*Large Elemental, Neutral*
 
-Fire Aura. At the end of each of the elemental's turns, each creature in a 10-foot Emanation originating from the elemental takes 5 (1d10) Fire damage. Creatures and flammable objects in the Emanation start burning.
+**AC** 13
+**Initiative** +3 (13)
+**HP** 93 (11d10 + 33)
+**Speed** 50 ft.
 
-Fire Form. The elemental can move through a space as narrow as 1 inch without expending extra movement to do so, and it can enter a creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) Fire damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 16    | +3  | +3   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 7     | -2  | -2   |
 
-Illumination. The elemental sheds Bright Light in a 30foot radius and Dim Light for an additional 30 feet.
+**Resistances** Bludgeoning, Piercing, Slashing
+**Immunities** Fire, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Primordial (Ignan)
+**CR** 5 (XP 1,800; PB +3)
 
-Water Susceptibility. The elemental takes 3 (1d6) Cold damage for every 5 feet the elemental moves in water or for every gallon of water splashed on it.
+##### Traits
 
-## Actions
+**Fire Aura.** At the end of each of the elemental's turns, each creature in a 10-foot Emanation originating from the elemental takes 5 (1d10) Fire damage. Creatures and flammable objects in the Emanation start burning.
 
-Multiattack. The elemental makes two Burn attacks.
+**Fire Form.** The elemental can move through a space as narrow as 1 inch without expending extra movement to do so, and it can enter a creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) Fire damage.
 
-Burn. Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Fire damage. If the target is a creature or a flammable object, it starts burning.
+**Illumination.** The elemental sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet.
 
-## Fire Giant
+**Water Susceptibility.** The elemental takes 3 (1d6) Cold damage for every 5 feet the elemental moves in water or for every gallon of water splashed on it.
 
-<!-- image -->
+##### Actions
 
-## Actions
+**Multiattack.** The elemental makes two Burn attacks.
 
-Multiattack. The giant makes two attacks, using Flame Sword or Hammer Throw in any combination.
+**Burn.** Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Fire damage. If the target is a creature or a flammable object, it starts burning.
 
-Flame Sword. Melee Attack Roll: +11, reach 10 ft. Hit: 21 (4d6 + 7) Slashing damage plus 10 (3d6) Fire damage.
+### Fire Giant
 
-Hammer Throw. Ranged Attack Roll: +11, range 60/240 ft. Hit: 23 (3d10 + 7) Bludgeoning damage plus 4 (1d8) Fire damage, and the target is pushed up to 15 feet straight away from the giant and has Disadvantage on the next attack roll it makes before the end of its next turn.
+#### Fire Giant
 
-## Flesh Golem
+*Huge Giant, Lawful Evil*
 
-## Flesh Golem
+**AC** 18
+**Initiative** +3 (13)
+**HP** 162 (13d12 + 78)
+**Speed** 30 ft.
 
-Medium Construct, Neutral
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 25    | +7  | +7   |
+| DEX  | 9     | -1  | +3   |
+| CON  | 23    | +6  | +10  |
+| INT  | 10    | +0  | +0   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 13    | +1  | +5   |
 
-AC 9 HP 127 (15d8 + 60) Speed 30 ft.
+**Skills** Athletics +11, Perception +6
+**Immunities** Fire
+**Senses** Passive Perception 16
+**Languages** Giant
+**CR** 9 (XP 5,000; PB +4)
 
-Initiative -1 (9)
+##### Actions
 
-<!-- image -->
+**Multiattack.** The giant makes two attacks, using Flame Sword or Hammer Throw in any combination.
 
-Immunities Lightning, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned Senses Darkvision 60 ft.; Passive Perception 10 Languages Understands Common plus one other language but can't speak
+**Flame Sword.** Melee Attack Roll: +11, reach 10 ft. Hit: 21 (4d6 + 7) Slashing damage plus 10 (3d6) Fire damage.
 
-CR 5 (XP 1,800; PB +3)
+**Hammer Throw.** Ranged Attack Roll: +11, range 60/240 ft. Hit: 23 (3d10 + 7) Bludgeoning damage plus 4 (1d8) Fire damage, and the target is pushed up to 15 feet straight away from the giant and has Disadvantage on the next attack roll it makes before the end of its next turn.
 
-## Traits
+### Flesh Golem
 
-Aversion to Fire. If the golem takes Fire damage, it has Disadvantage on attack rolls and ability checks until the end of its next turn.
+#### Flesh Golem
 
-Berserk. Whenever the golem starts its turn Bloodied, roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object. Once the golem goes berserk, it remains so until it is destroyed or it is no longer Bloodied.
+*Medium Construct, Neutral*
+
+**AC** 9
+**Initiative** -1 (9)
+**HP** 127 (15d8 + 60)
+**Speed** 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 9     | -1  | -1   |
+| CON  | 18    | +4  | +4   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
+
+**Immunities** Lightning, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Understands Common plus one other language but can't speak
+**CR** 5 (XP 1,800; PB +3)
+
+##### Traits
+
+**Aversion to Fire.** If the golem takes Fire damage, it has Disadvantage on attack rolls and ability checks until the end of its next turn.
+
+**Berserk.** Whenever the golem starts its turn Bloodied, roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object. Once the golem goes berserk, it remains so until it is destroyed or it is no longer Bloodied.
 
 The golem's creator, if within 60 feet of the berserk golem, can try to calm it by taking an action to make a DC 15 Charisma (Persuasion) check; the golem must be able to hear its creator. If this check succeeds, the golem ceases being berserk until the start of its next turn, at which point it resumes rolling for the Berserk trait again if it is still Bloodied.
 
-Immutable Form. The golem can't shape-shift.
+**Immutable Form.** The golem can't shape-shift.
 
-Lightning Absorption . Whenever the golem is subjected to Lightning damage, it regains a number of Hit Points equal to the Lightning damage dealt.
+**Lightning Absorption.** Whenever the golem is subjected to Lightning damage, it regains a number of Hit Points equal to the Lightning damage dealt.
 
-Magic Resistance. The golem has Advantage on saving throws against spells and other magical effects.
+**Magic Resistance.** The golem has Advantage on saving throws against spells and other magical effects.
 
-## Actions
+##### Actions
 
-Multiattack. The golem makes two Slam attacks.
+**Multiattack.** The golem makes two Slam attacks.
 
-Slam. Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage plus 4 (1d8) Lightning damage.
+**Slam.** Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage plus 4 (1d8) Lightning damage.
 
-## Frost Giant
+### Frost Giant
 
-## Frost Giant
+#### Frost Giant
 
-Huge Giant, Neutral Evil
+*Huge Giant, Neutral Evil*
 
-AC 15 HP 149 (13d12 + 65) Speed 40 ft.
+**AC** 15
+**Initiative** +2 (12)
+**HP** 149 (13d12 + 65)
+**Speed** 40 ft.
 
-Initiative +2 (12)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 9     | -1  | -1   |
+| CON  | 21    | +5  | +8   |
+| INT  | 9     | -1  | -1   |
+| WIS  | 10    | +0  | +3   |
+| CHA  | 12    | +1  | +4   |
 
-<!-- image -->
+**Skills** Athletics +9, Perception +3
+**Immunities** Cold
+**Senses** Passive Perception 13
+**Languages** Giant
+**CR** 8 (XP 3,900; PB +3)
 
-## Actions
+##### Actions
 
-Multiattack. The giant makes two attacks, using Frost Axe or Great Bow in any combination.
+**Multiattack.** The giant makes two attacks, using Frost Axe or Great Bow in any combination.
 
-Frost Axe. Melee Attack Roll: +9, reach 10 ft. Hit: 19 (2d12 + 6) Slashing damage plus 9 (2d8) Cold damage.
+**Frost Axe.** Melee Attack Roll: +9, reach 10 ft. Hit: 19 (2d12 + 6) Slashing damage plus 9 (2d8) Cold damage.
 
-Great Bow. Ranged Attack Roll: +9, range 150/600 ft. Hit: 17 (2d10 + 6) Piercing damage plus 7 (2d6) Cold damage, and the target's Speed decreases by 10 feet until the end of its next turn.
+**Great Bow.** Ranged Attack Roll: +9, range 150/600 ft. Hit: 17 (2d10 + 6) Piercing damage plus 7 (2d6) Cold damage, and the target's Speed decreases by 10 feet until the end of its next turn.
 
-## Bonus Actions
+##### Bonus Actions
 
-War Cry (Recharge 5-6). The giant or one creature of its choice that can see or hear it gains 16 (2d10 + 5) Temporary Hit Points and has Advantage on attack rolls until the start of the giant's next turn.
+**War Cry (Recharge 5-6).** The giant or one creature of its choice that can see or hear it gains 16 (2d10 + 5) Temporary Hit Points and has Advantage on attack rolls until the start of the giant's next turn.
 
-## Fungi
+### Fungi
 
-<!-- image -->
+#### Shrieker Fungus
 
-Immunities Blinded, Charmed, Deafened, Frightened Senses Blindsight 30 ft.; Passive Perception 6 Languages None CR 0 (XP 0; PB +2)
+*Medium Plant, Unaligned*
 
-## Reactions
+**AC** 5
+**Initiative** -5 (5)
+**HP** 13 (3d8)
+**Speed** 5 ft.
 
-Shriek. Trigger: A creature or a source of Bright Light moves within 30 feet of the shrieker. Response: The shrieker emits a shriek audible within 300 feet of itself for 1 minute or until the shrieker dies.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 1     | -5  | -5   |
+| DEX  | 1     | -5  | -5   |
+| CON  | 10    | +0  | +0   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 3     | -4  | -4   |
+| CHA  | 1     | -5  | -5   |
 
-## Violet Fungus
+**Immunities** Blinded, Charmed, Deafened, Frightened
+**Senses** Blindsight 30 ft.; Passive Perception 6
+**Languages** None
+**CR** 0 (XP 0; PB +2)
 
-Medium Plant, Unaligned
+##### Reactions
 
-AC 5 HP 18 (4d8) Speed 5 ft.
+**Shriek.** Trigger: A creature or a source of Bright Light moves within 30 feet of the shrieker. Response: The shrieker emits a shriek audible within 300 feet of itself for 1 minute or until the shrieker dies.
 
-Initiative -5 (5)
+#### Violet Fungus
 
-<!-- image -->
+*Medium Plant, Unaligned*
 
-Immunities Blinded, Charmed, Deafened, Frightened Senses Blindsight 30 ft.; Passive Perception 6 Languages None CR 1/4 (XP 50; PB +2)
+**AC** 5
+**Initiative** -5 (5)
+**HP** 18 (4d8)
+**Speed** 5 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 3     | -4  | -4   |
+| DEX  | 1     | -5  | -5   |
+| CON  | 10    | +0  | +0   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 3     | -4  | -4   |
+| CHA  | 1     | -5  | -5   |
 
-Multiattack. The fungus makes two Rotting Touch attacks.
+**Immunities** Blinded, Charmed, Deafened, Frightened
+**Senses** Blindsight 30 ft.; Passive Perception 6
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-Rotting Touch. Melee Attack Roll: +2, reach 10 ft. Hit: 4 (1d8) Necrotic damage.
+##### Actions
 
-## Gargoyle
+**Multiattack.** The fungus makes two Rotting Touch attacks.
 
-## Gargoyle
+**Rotting Touch.** Melee Attack Roll: +2, reach 10 ft. Hit: 4 (1d8) Necrotic damage.
 
-<!-- image -->
+### Gargoyle
 
-Skills Stealth +4
+#### Gargoyle
 
-Immunities Poison; Exhaustion, Petrified, Poisoned Senses Darkvision 60 ft.; Passive Perception 10 Languages Primordial (Terran) CR 2 (XP 450; PB +2)
+*Medium Elemental, Chaotic Evil*
 
-## Traits
+**AC** 15
+**Initiative** +2 (12)
+**HP** 67 (9d8 + 27)
+**Speed** 30 ft., Fly 60 ft.
 
-Flyby. The gargoyle doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 16    | +3  | +3   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 7     | -2  | -2   |
 
-## Actions
+**Skills** Stealth +4
+**Immunities** Poison; Exhaustion, Petrified, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Primordial (Terran)
+**CR** 2 (XP 450; PB +2)
 
-Multiattack. The gargoyle makes two Claw attacks.
+##### Traits
 
-Claw. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Slashing damage.
+**Flyby.** The gargoyle doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
-## Gelatinous Cube
+##### Actions
 
-<!-- image -->
+**Multiattack.** The gargoyle makes two Claw attacks.
 
-<!-- image -->
+**Claw.** Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Slashing damage.
 
-|         | MOD SAVE   | MOD SAVE           | MOD SAVE   |
-|---------|------------|--------------------|------------|
-| S tr 14 | +2 +2      | Dex 3 -4 -4 Con 20 | +5 +5      |
-| I nt    | 1 -5 -5    | WIS 6 -2 -2 Cha 1  | -5 -5      |
+### Gelatinous Cube
 
-Immunities Acid; Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone Senses Blindsight 60 ft.; Passive Perception 8 Languages None CR 2 (XP 450; PB +2)
+#### Gelatinous Cube
 
-## Traits
+*Large Ooze, Unaligned*
 
-Ooze Cube. The cube fills its entire space and is transparent. Other creatures can enter that space, but a creature that does so is subjected to the cube's Engulf and has Disadvantage on the saving throw.
+**AC** 6
+**Initiative** -4 (6)
+**HP** 63 (6d10 + 30)
+**Speed** 15 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 3     | -4  | -4   |
+| CON  | 20    | +5  | +5   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 6     | -2  | -2   |
+| CHA  | 1     | -5  | -5   |
+
+**Immunities** Acid; Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
+**Senses** Blindsight 60 ft.; Passive Perception 8
+**Languages** None
+**CR** 2 (XP 450; PB +2)
+
+##### Traits
+
+**Ooze Cube.** The cube fills its entire space and is transparent. Other creatures can enter that space, but a creature that does so is subjected to the cube's Engulf and has Disadvantage on the saving throw.
 
 Creatures inside the cube have Total Cover, and the cube can hold one Large creature or up to four Medium or Small creatures inside itself at a time.
 
 As an action, a creature within 5 feet of the cube can pull a creature or an object out of the cube by succeeding on a DC 12 Strength (Athletics) check, and the puller takes 10 (3d6) Acid damage.
 
-Transparent. Even when the cube is in plain sight, a creature must succeed on a DC 15 Wisdom (Perception) check to notice the cube if the creature hasn't witnessed the cube move or otherwise act.
+**Transparent.** Even when the cube is in plain sight, a creature must succeed on a DC 15 Wisdom (Perception) check to notice the cube if the creature hasn't witnessed the cube move or otherwise act.
 
-## Actions
+##### Actions
 
-Pseudopod. Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Acid damage.
+**Pseudopod.** Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Acid damage.
 
-Engulf. The cube moves up to its Speed without provoking Opportunity Attacks. The cube can move through the spaces of Large or smaller creatures if it has room inside itself to contain them (see the Ooze Cube trait). Dexterity Saving Throw: DC 12, each creature whose space the cube enters for the first time during this move. Failure: 10 (3d6) Acid damage, and the target is engulfed. An engulfed target is suffocating, can't cast spells with a Verbal component, has the Restrained condition, and takes 10 (3d6) Acid damage at the start of each of the cube's turns. When the cube moves, the engulfed target moves with it. An engulfed target can try to escape by taking an action to make a DC 12 Strength (Athletics) check. On a successful check, the target escapes and enters the nearest unoccupied space. Success: Half damage, and the target moves to an unoccupied space within 5 feet of the cube. If there is no unoccupied space, the target fails the save instead.
+**Engulf.** The cube moves up to its Speed without provoking Opportunity Attacks. The cube can move through the spaces of Large or smaller creatures if it has room inside itself to contain them (see the Ooze Cube trait). Dexterity Saving Throw: DC 12, each creature whose space the cube enters for the first time during this move. Failure: 10 (3d6) Acid damage, and the target is engulfed. An engulfed target is suffocating, can't cast spells with a Verbal component, has the Restrained condition, and takes 10 (3d6) Acid damage at the start of each of the cube's turns. When the cube moves, the engulfed target moves with it. An engulfed target can try to escape by taking an action to make a DC 12 Strength (Athletics) check. On a successful check, the target escapes and enters the nearest unoccupied space. Success: Half damage, and the target moves to an unoccupied space within 5 feet of the cube. If there is no unoccupied space, the target fails the save instead.
 
-## Ghast
+### Ghast
 
-## Ghast
+#### Ghast
 
-Medium Undead, Chaotic Evil
+*Medium Undead, Chaotic Evil*
 
-AC 13 HP 36 (8d8) Speed 30 ft.
+**AC** 13
+**Initiative** +3 (13)
+**HP** 36 (8d8)
+**Speed** 30 ft.
 
-Initiative +3 (13)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 10    | +0  | +0   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 10    | +0  | +2   |
+| CHA  | 8     | -1  | -1   |
 
-<!-- image -->
+**Resistances** Necrotic
+**Immunities** Poison; Charmed, Exhaustion, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Common
+**CR** 2 (XP 450; PB +2)
 
-|         | MOD SAVE   | MOD SAVE         | MOD SAVE   |
-|---------|------------|------------------|------------|
-| S tr 16 | +3 +3      | Dex 17 +3 +3 Con | +0 +0      |
-| I nt 11 | +0 +0      | WIS 10 +0 +2 Cha | -1 -1      |
+##### Traits
 
-Resistances Necrotic Immunities Poison; Charmed, Exhaustion, Poisoned Senses Darkvision 60 ft.; Passive Perception 10 Languages Common CR 2 (XP 450; PB +2)
+**Stench.** Constitution Saving Throw: DC 10, any creature that starts its turn in a 5-foot Emanation originating from the ghast. Failure: The target has the Poisoned condition until the start of its next turn. Success: The target is immune to this ghast's Stench for 24 hours.
 
-## Traits
+##### Actions
 
-Stench. Constitution Saving Throw: DC 10, any creature that starts its turn in a 5-foot Emanation originating from the ghast. Failure: The target has the Poisoned condition until the start of its next turn. Success: The target is immune to this ghast's Stench for 24 hours.
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage plus 9 (2d8) Necrotic damage.
 
-## Actions
+**Claw.** Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage. If the target is a non-Undead creature, it is subjected to the following effect. Constitution Saving Throw: DC 10. Failure: The target has the Paralyzed condition until the end of its next turn.
 
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage plus 9 (2d8) Necrotic damage.
+### Ghost
 
-Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage. If the target is a non-Undead creature, it is subjected to the following effect. Constitution Saving Throw: DC 10. Failure: The target has the Paralyzed condition until the end of its next turn.
+#### Ghost
 
-## Ghost
+*Medium Undead, Neutral*
 
-<!-- image -->
+**AC** 11
+**Initiative** +1 (11)
+**HP** 45 (10d8)
+**Speed** 5 ft., Fly 40 ft. (hover)
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 7     | -2  | -2   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 10    | +0  | +0   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 17    | +3  | +3   |
 
-Ethereal Sight. The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane.
+**Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+**Senses** Darkvision 60 ft.; Passive Perception 11
+**Languages** Common plus one other language
+**CR** 4 (XP 1,100; PB +2)
 
-Incorporeal Movement. The ghost can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
+##### Traits
 
-## Actions
+**Ethereal Sight.** The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane.
 
-Multiattack. The ghost makes two Withering Touch attacks.
+**Incorporeal Movement.** The ghost can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
 
-Withering Touch. Melee Attack Roll: +5, reach 5 ft. Hit: 19 (3d10 + 3) Necrotic damage.
+##### Actions
 
-Etherealness. The ghost casts the Etherealness spell, requiring no spell components and using Charisma as the spellcasting ability. The ghost is visible on the Material Plane while on the Border Ethereal and vice versa, but it can't affect or be affected by anything on the other plane.
+**Multiattack.** The ghost makes two Withering Touch attacks.
 
-Horrific Visage. Wisdom Saving Throw: DC 13, each creature in a 60-foot Cone that can see the ghost and isn't an Undead. Failure: 10 (2d6 + 3) Psychic damage, and the target has the Frightened condition until the start of the ghost's next turn. Success: The target is immune to this ghost's Horrific Visage for 24 hours.
+**Withering Touch.** Melee Attack Roll: +5, reach 5 ft. Hit: 19 (3d10 + 3) Necrotic damage.
 
-Possession (Recharge 6). Charisma Saving Throw: DC 13, one Humanoid the ghost can see within 5 feet. Failure: The target is possessed by the ghost; the ghost disappears, and the target has the Incapacitated condition and loses control of its body. The ghost now controls the body, but the target retains awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that specifically target Undead. The ghost's game statistics are the same, except it uses the possessed target's Speed, as well as the target's Strength, Dexterity, and Constitution modifiers.
+**Etherealness.** The ghost casts the Etherealness spell, requiring no spell components and using Charisma as the spellcasting ability. The ghost is visible on the Material Plane while on the Border Ethereal and vice versa, but it can't affect or be affected by anything on the other plane.
+
+**Horrific Visage.** Wisdom Saving Throw: DC 13, each creature in a 60-foot Cone that can see the ghost and isn't an Undead. Failure: 10 (2d6 + 3) Psychic damage, and the target has the Frightened condition until the start of the ghost's next turn. Success: The target is immune to this ghost's Horrific Visage for 24 hours.
+
+**Possession (Recharge 6).** Charisma Saving Throw: DC 13, one Humanoid the ghost can see within 5 feet. Failure: The target is possessed by the ghost; the ghost disappears, and the target has the Incapacitated condition and loses control of its body. The ghost now controls the body, but the target retains awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that specifically target Undead. The ghost's game statistics are the same, except it uses the possessed target's Speed, as well as the target's Strength, Dexterity, and Constitution modifiers.
 
 The possession lasts until the body drops to 0 Hit Points or the ghost leaves as a Bonus Action. When the possession ends, the ghost appears in an unoccupied space within 5 feet of the target, and the target is immune to this ghost's Possession for 24 hours.
 
 Success: The target is immune to this ghost's Possession for 24 hours.
 
-## Ghoul
+### Ghoul
 
-<!-- image -->
+#### Ghoul
 
-| Ghoul                                                                                                                                  | Ghoul                                                                                                                                  | Ghoul                                                                                                                                  | Ghoul                                                                                                                                  | Ghoul                                                                                                                                  | Ghoul                                                                                                                                  | Ghoul                                                                                                                                  |
-|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| Medium Undead, Chaotic Evil                                                                                                            | Medium Undead, Chaotic Evil                                                                                                            | Medium Undead, Chaotic Evil                                                                                                            | Medium Undead, Chaotic Evil                                                                                                            | Medium Undead, Chaotic Evil                                                                                                            | Medium Undead, Chaotic Evil                                                                                                            | Medium Undead, Chaotic Evil                                                                                                            |
-| AC 12 Initiative +2 (12) HP 22 (5d8)                                                                                                   | AC 12 Initiative +2 (12) HP 22 (5d8)                                                                                                   | AC 12 Initiative +2 (12) HP 22 (5d8)                                                                                                   | AC 12 Initiative +2 (12) HP 22 (5d8)                                                                                                   | AC 12 Initiative +2 (12) HP 22 (5d8)                                                                                                   | AC 12 Initiative +2 (12) HP 22 (5d8)                                                                                                   | AC 12 Initiative +2 (12) HP 22 (5d8)                                                                                                   |
-| Speed 30 ft.                                                                                                                           | Speed 30 ft.                                                                                                                           | Speed 30 ft.                                                                                                                           | Speed 30 ft.                                                                                                                           | Speed 30 ft.                                                                                                                           | Speed 30 ft.                                                                                                                           | Speed 30 ft.                                                                                                                           |
-| MOD SAVE MOD SAVE MOD SAVE                                                                                                             | MOD SAVE MOD SAVE MOD SAVE                                                                                                             | MOD SAVE MOD SAVE MOD SAVE                                                                                                             | MOD SAVE MOD SAVE MOD SAVE                                                                                                             | MOD SAVE MOD SAVE MOD SAVE                                                                                                             | MOD SAVE MOD SAVE MOD SAVE                                                                                                             | MOD SAVE MOD SAVE MOD SAVE                                                                                                             |
-| S tr 13 +1 +1 Dex 15 +2 +2 Con 10 +0 +0                                                                                                | S tr 13 +1 +1 Dex 15 +2 +2 Con 10 +0 +0                                                                                                | S tr 13 +1 +1 Dex 15 +2 +2 Con 10 +0 +0                                                                                                | S tr 13 +1 +1 Dex 15 +2 +2 Con 10 +0 +0                                                                                                | S tr 13 +1 +1 Dex 15 +2 +2 Con 10 +0 +0                                                                                                | S tr 13 +1 +1 Dex 15 +2 +2 Con 10 +0 +0                                                                                                | S tr 13 +1 +1 Dex 15 +2 +2 Con 10 +0 +0                                                                                                |
-| Immunities Poison; Charmed, Exhaustion, Poisoned Senses Darkvision 60 ft.; Passive Perception 10 Languages Common CR 1 (XP 200; PB +2) | Immunities Poison; Charmed, Exhaustion, Poisoned Senses Darkvision 60 ft.; Passive Perception 10 Languages Common CR 1 (XP 200; PB +2) | Immunities Poison; Charmed, Exhaustion, Poisoned Senses Darkvision 60 ft.; Passive Perception 10 Languages Common CR 1 (XP 200; PB +2) | Immunities Poison; Charmed, Exhaustion, Poisoned Senses Darkvision 60 ft.; Passive Perception 10 Languages Common CR 1 (XP 200; PB +2) | Immunities Poison; Charmed, Exhaustion, Poisoned Senses Darkvision 60 ft.; Passive Perception 10 Languages Common CR 1 (XP 200; PB +2) | Immunities Poison; Charmed, Exhaustion, Poisoned Senses Darkvision 60 ft.; Passive Perception 10 Languages Common CR 1 (XP 200; PB +2) | Immunities Poison; Charmed, Exhaustion, Poisoned Senses Darkvision 60 ft.; Passive Perception 10 Languages Common CR 1 (XP 200; PB +2) |
-| Actions                                                                                                                                | Actions                                                                                                                                | Actions                                                                                                                                | Actions                                                                                                                                | Actions                                                                                                                                | Actions                                                                                                                                | Actions                                                                                                                                |
+*Medium Undead, Chaotic Evil*
 
-Multiattack. The ghoul makes two Bite attacks.
+**AC** 12
+**Initiative** +2 (12)
+**HP** 22 (5d8)
+**Speed** 30 ft.
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage plus 3 (1d6) Necrotic damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 10    | +0  | +0   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 6     | -2  | -2   |
 
-Claw. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage. If the target is a creature that isn't an Undead or elf, it is subjected to the following effect. Constitution Saving Throw: DC 10. Failure: The target has the Paralyzed condition until the end of its next turn.
+**Immunities** Poison; Charmed, Exhaustion, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Common
+**CR** 1 (XP 200; PB +2)
 
-## Gibbering Mouther
+##### Actions
 
-<!-- image -->
+**Multiattack.** The ghoul makes two Bite attacks.
 
-## Traits
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage plus 3 (1d6) Necrotic damage.
 
-Aberrant Ground. The ground in a 10-foot Emanation originating from the mouther is Difficult Terrain.
+**Claw.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage. If the target is a creature that isn't an Undead or elf, it is subjected to the following effect. Constitution Saving Throw: DC 10. Failure: The target has the Paralyzed condition until the end of its next turn.
 
-Gibbering. The mouther babbles incoherently while it doesn't have the Incapacitated condition. Wisdom Saving Throw: DC 10, any creature that starts its turn within 20 feet of the mouther while it is babbling. Failure: The target rolls 1d8 to determine what it does during the current turn:
+### Gibbering Mouther
+
+#### Gibbering Mouther
+
+*Medium Aberration, Chaotic Neutral*
+
+**AC** 9
+**Initiative** -1 (9)
+**HP** 52 (7d8 + 21)
+**Speed** 20 ft., Swim 20 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 16    | +3  | +3   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 6     | -2  | -2   |
+
+**Immunities** Prone
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** None
+**CR** 2 (XP 450; PB +2)
+
+##### Traits
+
+**Aberrant Ground.** The ground in a 10-foot Emanation originating from the mouther is Difficult Terrain.
+
+**Gibbering.** The mouther babbles incoherently while it doesn't have the Incapacitated condition. Wisdom Saving Throw: DC 10, any creature that starts its turn within 20 feet of the mouther while it is babbling. Failure: The target rolls 1d8 to determine what it does during the current turn:
 
 - 1-4. The target does nothing.
 - 5-6. The target takes no action or Bonus Action and uses all its movement to move in a random direction.
 - 7-8. The target makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
 
-## Actions
+##### Actions
 
-Bite. Melee Attack Roll: +2, reach 5 ft. Hit: 7 (2d6) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition. The target dies if it is reduced to 0 Hit Points by this attack. Its body is then absorbed into the mouther, leaving only equipment behind.
+**Bite.** Melee Attack Roll: +2, reach 5 ft. Hit: 7 (2d6) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition. The target dies if it is reduced to 0 Hit Points by this attack. Its body is then absorbed into the mouther, leaving only equipment behind.
 
-Blinding Spittle (Recharge 5-6). Dexterity Saving Throw: DC 10, each creature in a 10-foot-radius Sphere centered on a point within 30 feet. Failure: 7 (2d6) Radiant damage, and the target has the Blinded condition until the end of the mouther's next turn.
+**Blinding Spittle (Recharge 5-6).** Dexterity Saving Throw: DC 10, each creature in a 10-foot-radius Sphere centered on a point within 30 feet. Failure: 7 (2d6) Radiant damage, and the target has the Blinded condition until the end of the mouther's next turn.
 
-## Glabrezu
+### Glabrezu
 
-<!-- image -->
+#### Glabrezu
 
-## Traits
+*Large Fiend (Demon), Chaotic Evil*
 
-Demonic Restoration. If the glabrezu dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+**AC** 17
+**Initiative** +6 (16)
+**HP** 189 (18d10 + 90)
+**Speed** 40 ft.
 
-Magic Resistance. The glabrezu has Advantage on saving throws against spells and other magical effects.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 20    | +5  | +9   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 21    | +5  | +9   |
+| INT  | 19    | +4  | +4   |
+| WIS  | 17    | +3  | +7   |
+| CHA  | 16    | +3  | +7   |
 
-## Actions
+**Skills** Deception +7, Perception +7
+**Resistances** Cold, Fire, Lightning
+**Immunities** Poison; Poisoned
+**Senses** Truesight 120 ft.; Passive Perception 17
+**Languages** Abyssal; telepathy 120 ft.
+**CR** 9 (XP 5,000; PB +4)
 
-Multiattack. The glabrezu makes two Pincer attacks and uses Pummel or Spellcasting.
+##### Traits
 
-Pincer. Melee Attack Roll: +9, reach 10 ft. Hit: 16 (2d10 + 5) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 15) from one of two pincers.
+**Demonic Restoration.** If the glabrezu dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
 
-Pummel. Dexterity Saving Throw: DC 17, one creature Grappled by the glabrezu. Failure: 15 (3d6 + 5) Bludgeoning damage. Success: Half damage.
+**Magic Resistance.** The glabrezu has Advantage on saving throws against spells and other magical effects.
 
-Spellcasting. The glabrezu casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
+##### Actions
 
-At Will: Darkness , Detect Magic , Dispel Magic 1/Day Each: Confusion , Fly , Power Word Stun
+**Multiattack.** The glabrezu makes two Pincer attacks and uses Pummel or Spellcasting.
 
-## Gladiator
+**Pincer.** Melee Attack Roll: +9, reach 10 ft. Hit: 16 (2d10 + 5) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 15) from one of two pincers.
 
-## Gladiator
+**Pummel.** Dexterity Saving Throw: DC 17, one creature Grappled by the glabrezu. Failure: 15 (3d6 + 5) Bludgeoning damage. Success: Half damage.
 
-Medium or Small Humanoid, Neutral
+**Spellcasting.** The glabrezu casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-AC 16 HP 112 (15d8 + 45) Speed 30 ft.
+- At Will: Darkness, Detect Magic, Dispel Magic
+- 1/Day Each: Confusion, Fly, Power Word Stun
 
-Initiative +5 (15)
+### Gladiator
 
-<!-- image -->
+#### Gladiator
 
-## Actions
+*Medium or Small Humanoid, Neutral*
 
-Multiattack. The gladiator makes three Spear attacks. It can replace one attack with a use of Shield Bash.
+**AC** 16
+**Initiative** +5 (15)
+**HP** 112 (15d8 + 45)
+**Speed** 30 ft.
 
-Spear. Melee or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit: 11 (2d6 + 4) Piercing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +7   |
+| DEX  | 15    | +2  | +5   |
+| CON  | 16    | +3  | +6   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 12    | +1  | +4   |
+| CHA  | 15    | +2  | +2   |
 
-Shield Bash. Strength Saving Throw: DC 15, one creature within 5 feet that the gladiator can see. Failure: 9 (2d4 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
+**Skills** Athletics +10, Performance +5
+**Gear** Shield, Spears (3), Studded Leather Armor
+**Senses** Passive Perception 11
+**Languages** Common
+**CR** 5 (XP 1,800; PB +3)
 
-## Reactions
+##### Actions
 
-Parry. Trigger: The gladiator is hit by a melee attack roll while holding a weapon. Response: The gladiator adds 3 to its AC against that attack, possibly causing it to miss.
+**Multiattack.** The gladiator makes three Spear attacks. It can replace one attack with a use of Shield Bash.
 
-## Gnoll
+**Spear.** Melee or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit: 11 (2d6 + 4) Piercing damage.
 
-<!-- image -->
+**Shield Bash.** Strength Saving Throw: DC 15, one creature within 5 feet that the gladiator can see. Failure: 9 (2d4 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
 
-## Actions
+##### Reactions
 
-Rend. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage.
+**Parry.** Trigger: The gladiator is hit by a melee attack roll while holding a weapon. Response: The gladiator adds 3 to its AC against that attack, possibly causing it to miss.
 
-Bone Bow. Ranged Attack Roll: +3, range 150/600 ft. Hit: 6 (1d10 + 1) Piercing damage.
+### Gnoll
 
-## Bonus Actions
+#### Gnoll Warrior
 
-Rampage (1/Day). Immediately after dealing damage to a creature that is already Bloodied, the gnoll moves up to half its Speed, and it makes one Rend attack.
+*Medium Fiend, Chaotic Evil*
 
-## Goblins
+**AC** 15
+**Initiative** +1 (11)
+**HP** 27 (6d8)
+**Speed** 30 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 11    | +0  | +0   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 7     | -2  | -2   |
 
-## Actions
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Gnoll
+**CR** 1/2 (XP 100; PB +2)
 
-Dagger. Melee or Ranged Attack Roll: +4, reach 5 ft. or range 20/60 ft. Hit: 4 (1d4 + 2) Piercing damage.
+##### Actions
 
-## Bonus Actions
+**Rend.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage.
 
-Nimble Escape. The goblin takes the Disengage or Hide action.
+**Bone Bow.** Ranged Attack Roll: +3, range 150/600 ft. Hit: 6 (1d10 + 1) Piercing damage.
 
-<!-- image -->
+##### Bonus Actions
 
-## Actions
+**Rampage (1/Day).** Immediately after dealing damage to a creature that is already Bloodied, the gnoll moves up to half its Speed, and it makes one Rend attack.
 
-Scimitar. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage, plus 2 (1d4) Slashing damage if the attack roll had Advantage.
+### Goblins
 
-Shortbow. Ranged Attack Roll: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing damage, plus 2 (1d4) Piercing damage if the attack roll had Advantage.
+#### Goblin Minion
 
-## Bonus Actions
+*Small Fey (Goblinoid), Chaotic Neutral*
 
-Nimble Escape. The goblin takes the Disengage or Hide action.
+**AC** 12
+**Initiative** +2 (12)
+**HP** 7 (2d6)
+**Speed** 30 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 8     | -1  | -1   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 10    | +0  | +0   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 8     | -1  | -1   |
 
-## Actions
+**Skills** Stealth +6
+**Gear** Daggers (3)
+**Senses** Darkvision 60 ft.; Passive Perception 9
+**Languages** Common, Goblin
+**CR** 1/8 (XP 25; PB +2)
 
-Multiattack. The goblin makes two attacks, using Scimitar or Shortbow in any combination.
+##### Actions
 
-Scimitar. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage, plus 2 (1d4) Slashing damage if the attack roll had Advantage.
+**Dagger.** Melee or Ranged Attack Roll: +4, reach 5 ft. or range 20/60 ft. Hit: 4 (1d4 + 2) Piercing damage.
 
-Shortbow. Ranged Attack Roll: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing damage, plus 2 (1d4) Piercing damage if the attack roll had Advantage.
+##### Bonus Actions
 
-## Bonus Actions
+**Nimble Escape.** The goblin takes the Disengage or Hide action.
 
-Nimble Escape. The goblin takes the Disengage or Hide action.
+#### Goblin Warrior
 
-## Reactions
+*Small Fey (Goblinoid), Chaotic Neutral*
 
-Redirect Attack. Trigger: A creature the goblin can see makes an attack roll against it. Response: The goblin chooses a Small or Medium ally within 5 feet of itself. The goblin and that ally swap places, and the ally becomes the target of the attack instead.
+**AC** 15
+**Initiative** +2 (12)
+**HP** 10 (3d6)
+**Speed** 30 ft.
 
-## Gold Dragons
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 8     | -1  | -1   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 10    | +0  | +0   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 8     | -1  | -1   |
 
-<!-- image -->
+**Skills** Stealth +6
+**Gear** Leather Armor, Scimitar, Shield, Shortbow
+**Senses** Darkvision 60 ft.; Passive Perception 9
+**Languages** Common, Goblin
+**CR** 1/4 (XP 50; PB +2)
 
-## Traits
+##### Actions
 
-Amphibious. The dragon can breathe air and water.
+**Scimitar.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage, plus 2 (1d4) Slashing damage if the attack roll had Advantage.
 
-## Actions
+**Shortbow.** Ranged Attack Roll: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing damage, plus 2 (1d4) Piercing damage if the attack roll had Advantage.
 
-Multiattack. The dragon makes two Rend attacks.
+##### Bonus Actions
 
-Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage.
+**Nimble Escape.** The goblin takes the Disengage or Hide action.
 
-Fire Breath (Recharge 5-6) . Dexterity Saving Throw: DC 13, each creature in a 15-foot Cone. Failure: 22 (4d10) Fire damage. Success: Half damage.
+#### Goblin Boss
 
-Weakening Breath. Strength Saving Throw: DC 13, each creature that isn't currently affected by this breath in a 15-foot Cone. Failure: The target has Disadvantage on Strength-based D20 Tests and subtracts 2 (1d4) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+*Small Fey (Goblinoid), Chaotic Neutral*
 
-<!-- image -->
+**AC** 17
+**Initiative** +2 (12)
+**HP** 21 (6d6)
+**Speed** 30 ft.
 
-Skills Insight +5, Perception +9, Persuasion +9, Stealth +6 Immunities Fire
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 10    | +0  | +0   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 10    | +0  | +0   |
 
-Senses Blindsight 30 ft., Darkvision 120 ft.;
+**Skills** Stealth +6
+**Gear** Chain Shirt, Scimitar, Shield, Shortbow
+**Senses** Darkvision 60 ft.; Passive Perception 9
+**Languages** Common, Goblin
+**CR** 1 (XP 200; PB +2)
 
-Passive Perception 19
+##### Actions
 
-Languages Common, Draconic
+**Multiattack.** The goblin makes two attacks, using Scimitar or Shortbow in any combination.
 
-CR 10 (XP 5,900; PB +4)
+**Scimitar.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage, plus 2 (1d4) Slashing damage if the attack roll had Advantage.
 
-## Traits
+**Shortbow.** Ranged Attack Roll: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing damage, plus 2 (1d4) Piercing damage if the attack roll had Advantage.
 
-Amphibious. The dragon can breathe air and water.
+##### Bonus Actions
 
-## Actions
+**Nimble Escape.** The goblin takes the Disengage or Hide action.
 
-Multiattack. The dragon makes three Rend attacks. It can replace one attack with a use of Weakening Breath.
+##### Reactions
 
-Rend. Melee Attack Roll: +10, reach 10 ft. Hit: 17 (2d10 + 6) Slashing damage.
+**Redirect Attack.** Trigger: A creature the goblin can see makes an attack roll against it. Response: The goblin chooses a Small or Medium ally within 5 feet of itself. The goblin and that ally swap places, and the ally becomes the target of the attack instead.
 
-Fire Breath (Recharge 5-6) . Dexterity Saving Throw: DC 17, each creature in a 30-foot Cone. Failure: 55 (10d10) Fire damage. Success: Half damage.
+### Gold Dragons
 
-Weakening Breath. Strength Saving Throw: DC 17, each creature that isn't currently affected by this breath in a 30-foot Cone. Failure: The target has Disadvantage on Strength-based D20 Tests and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+#### Gold Dragon Wyrmling
 
-<!-- image -->
+*Medium Dragon (Metallic), Lawful Good*
 
-| Adult Gold Dragon                                                                              |
-|------------------------------------------------------------------------------------------------|
-| Huge Dragon (Metallic), Lawful Good AC 19 Initiative +14 (24) HP 243 (18d12 + 126)             |
-| Skills Insight +8, Perception +14, Persuasion +13, Stealth +8 Immunities Fire                  |
-| Senses Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 24 Languages Common, Draconic |
-| CR 17 (XP 18,000, or 20,000 in lair; PB +6)                                                    |
-| Traits                                                                                         |
+**AC** 17
+**Initiative** +4 (14)
+**HP** 60 (8d8 + 24)
+**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
-Amphibious. The dragon can breathe air and water.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 14    | +2  | +4   |
+| CON  | 17    | +3  | +3   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 16    | +3  | +3   |
 
-Legendary Resistance (3/Day, or 4/Day in Lair). If the dragon fails a saving throw, it can choose to succeed instead.
+**Skills** Perception +4, Stealth +4
+**Immunities** Fire
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 3 (700 XP; PB +2)
 
-## Actions
+##### Traits
 
-Multiattack. The dragon makes three Rend attacks. It can replace one attack with a use of (A) Spellcasting to cast Guiding Bolt (level 2 version) or (B) Weakening Breath.
+**Amphibious.** The dragon can breathe air and water.
 
-Rend. Melee Attack Roll: +14, reach 10 ft. Hit: 17 (2d8 + 8) Slashing damage plus 4 (1d8) Fire damage.
+##### Actions
 
-Fire Breath (Recharge 5-6) . Dexterity Saving Throw: DC 21, each creature in a 60-foot Cone. Failure: 66 (12d10) Fire damage. Success: Half damage.
+**Multiattack.** The dragon makes two Rend attacks.
 
-Spellcasting. The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit with spell attacks):
+**Rend.** Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage.
 
-- At Will: Detect Magic , Guiding Bolt (level 2 version), Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)
-- 1/Day Each: Flame Strike , Zone of Truth
+**Fire Breath (Recharge 5-6).** Dexterity Saving Throw: DC 13, each creature in a 15-foot Cone. Failure: 22 (4d10) Fire damage. Success: Half damage.
 
-Weakening Breath. Strength Saving Throw: DC 21, each creature that isn't currently affected by this breath in a 60-foot Cone. Failure: The target has Disadvantage on Strength-based D20 Tests and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+**Weakening Breath.** Strength Saving Throw: DC 13, each creature that isn't currently affected by this breath in a 15-foot Cone. Failure: The target has Disadvantage on Strength-based D20 Tests and subtracts 2 (1d4) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
-## Legendary Actions
+#### Young Gold Dragon
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+*Large Dragon (Metallic), Lawful Good*
 
-Banish. Charisma Saving Throw: DC 21, one creature the dragon can see within 120 feet. Failure: 10 (3d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it re  appears in an unoccupied space of the dragon's choice within 120 feet of the dragon. Failure or Success: The dragon can't take this action again until the start of its next turn.
+**AC** 18
+**Initiative** +6 (16)
+**HP** 178 (17d10 + 85)
+**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
-Guiding Light. The dragon uses Spellcasting to cast Guiding Bolt (level 2 version).
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 14    | +2  | +6   |
+| CON  | 21    | +5  | +5   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 13    | +1  | +5   |
+| CHA  | 20    | +5  | +5   |
 
-Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+**Immunities** Fire
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 19
+**Languages** Common, Draconic
+**CR** 10 (XP 5,900; PB +4)
 
-## Ancient Gold Dragon
+##### Traits
 
-Gargantuan Dragon (Metallic), Lawful Good
+**Amphibious.** The dragon can breathe air and water.
 
-<!-- image -->
+##### Actions
 
-| AC 22                          | Initiative +16 (26)    |
-|--------------------------------|------------------------|
-| HP 546 (28d20 + 252)           |                        |
-| Speed 40 ft., Fly 80 ft., Swim | 40 ft.                 |
-| S tr 30 +10 +10 Dex 14         | +2 +9 Con 29 +9 +9     |
-| I nt 18 +4 +4 WIS              | 17 +3 +10 Cha 28 +9 +9 |
+**Multiattack.** The dragon makes three Rend attacks. It can replace one attack with a use of Weakening Breath.
 
-Skills Insight +10, Perception +17, Persuasion +16, Stealth +9
+**Rend.** Melee Attack Roll: +10, reach 10 ft. Hit: 17 (2d10 + 6) Slashing damage.
 
-## Immunities Fire
+**Fire Breath (Recharge 5-6).** Dexterity Saving Throw: DC 17, each creature in a 30-foot Cone. Failure: 55 (10d10) Fire damage. Success: Half damage.
 
-- Senses Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
+**Weakening Breath.** Strength Saving Throw: DC 17, each creature that isn't currently affected by this breath in a 30-foot Cone. Failure: The target has Disadvantage on Strength-based D20 Tests and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
-Languages Common, Draconic
+#### Adult Gold Dragon
 
-- CR 24 (XP 62,000, or 75,000 in lair; PB +7)
+*Huge Dragon (Metallic), Lawful Good*
 
-## Traits
+**AC** 19
+**Initiative** +14 (24)
+**HP** 243 (18d12 + 126)
+**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
-Amphibious. The dragon can breathe air and water.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 27    | +8  | +8   |
+| DEX  | 14    | +2  | +8   |
+| CON  | 25    | +7  | +7   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 15    | +2  | +8   |
+| CHA  | 24    | +7  | +7   |
 
-Legendary Resistance (4/Day, or 5/Day in Lair). If the dragon fails a saving throw, it can choose to succeed instead.
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+**Immunities** Fire
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 24
+**Languages** Common, Draconic
+**CR** 17 (XP 18,000, or 20,000 in lair; PB +6)
 
-## Actions
+##### Traits
 
-Multiattack. The dragon makes three Rend attacks. It can replace one attack with a use of (A) Spellcasting to cast Guiding Bolt (level 4 version) or (B) Weakening Breath.
+**Amphibious.** The dragon can breathe air and water.
 
-Rend. Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 (2d8 + 10) Slashing damage plus 9 (2d8) Fire damage.
+**Legendary Resistance (3/Day, or 4/Day in Lair).** If the dragon fails a saving throw, it can choose to succeed instead.
 
-Fire Breath (Recharge 5-6) . Dexterity Saving Throw: DC 24, each creature in a 90-foot Cone. Failure: 71 (13d10) Fire damage. Success: Half damage.
+##### Actions
 
-Spellcasting. The dragon casts one of the following spells, requiring no Material components and using
+**Multiattack.** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Spellcasting to cast Guiding Bolt (level 2 version) or (B) Weakening Breath.
 
-Charisma as the spellcasting ability (spell save DC 24, +16 to hit with spell attacks):
+**Rend.** Melee Attack Roll: +14, reach 10 ft. Hit: 17 (2d8 + 8) Slashing damage plus 4 (1d8) Fire damage.
 
-- At Will: Detect Magic , Guiding Bolt (level 4 version), Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)
-- 1/Day Each: Flame Strike (level 6 version), Word of Recall , Zone of Truth
+**Fire Breath (Recharge 5-6).** Dexterity Saving Throw: DC 21, each creature in a 60-foot Cone. Failure: 66 (12d10) Fire damage. Success: Half damage.
 
-Weakening Breath. Strength Saving Throw: DC 24, each creature that isn't currently affected by this breath in a 90-foot Cone. Failure: The target has Disadvantage on Strength-based D20 Tests and subtracts 5 (1d10) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+**Spellcasting.** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit with spell attacks):
 
-## Legendary Actions
+- At Will: Detect Magic, Guiding Bolt (level 2 version), Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)
+- 1/Day Each: Flame Strike, Zone of Truth
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+**Weakening Breath.** Strength Saving Throw: DC 21, each creature that isn't currently affected by this breath in a 60-foot Cone. Failure: The target has Disadvantage on Strength-based D20 Tests and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
-Banish. Charisma Saving Throw: DC 24, one creature the dragon can see within 120 feet. Failure: 24 (7d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. Failure or Success: The dragon can't take this action again until the start of its next turn.
+##### Legendary Actions
 
-Guiding Light. The dragon uses Spellcasting to cast Guiding Bolt (level 4 version).
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
+**Banish.** Charisma Saving Throw: DC 21, one creature the dragon can see within 120 feet. Failure: 10 (3d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. Failure or Success: The dragon can't take this action again until the start of its next turn.
 
-## Gorgon Gorgon
+**Guiding Light.** The dragon uses Spellcasting to cast Guiding Bolt (level 2 version).
 
-<!-- image -->
+**Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-| Gorgon                                                                                                               |
-|----------------------------------------------------------------------------------------------------------------------|
-| Large Construct, Unaligned                                                                                           |
-| AC 19 Initiative +0 (10) HP 114 (12d10 + 48)                                                                         |
-| Speed 40 ft. MOD SAVE MOD SAVE MOD SAVE                                                                              |
-| S tr 20 +5 +5 Dex 11 +0 +0 Con 18 +4 +4                                                                              |
-| Skills Perception +7 Immunities Exhaustion, Petrified Senses Darkvision 60 ft.; Passive Perception 17 Languages None |
-| CR 5 (XP 1,800; PB +3)                                                                                               |
+#### Ancient Gold Dragon
 
-## Actions
+*Gargantuan Dragon (Metallic), Lawful Good*
 
-Gore. Melee Attack Roll: +8, reach 5 ft. Hit: 18 (2d12 + 5) Piercing damage. If the target is a Large or smaller creature and the gorgon moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
+**AC** 22
+**Initiative** +16 (26)
+**HP** 546 (28d20 + 252)
+**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
-Petrifying Breath (Recharge 5-6). Constitution Saving Throw: DC 15, each creature in a 30-foot Cone. First Failure: The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. Second Failure: The target has the Petrified condition instead of the Restrained condition.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 30    | +10 | +10  |
+| DEX  | 14    | +2  | +9   |
+| CON  | 29    | +9  | +9   |
+| INT  | 18    | +4  | +4   |
+| WIS  | 17    | +3  | +10  |
+| CHA  | 28    | +9  | +9   |
 
-## Bonus Actions
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+**Immunities** Fire
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
+**Languages** Common, Draconic
+**CR** 24 (XP 62,000, or 75,000 in lair; PB +7)
 
-Trample. Dexterity Saving Throw: DC 16, one creature within 5 feet that has the Prone condition. Failure: 16 (2d10 + 5) Bludgeoning damage. Success: Half damage.
+##### Traits
 
-## Gray Ooze
+**Amphibious.** The dragon can breathe air and water.
 
-<!-- image -->
+**Legendary Resistance (4/Day, or 5/Day in Lair).** If the dragon fails a saving throw, it can choose to succeed instead.
 
-## Traits
+##### Actions
 
-Amorphous. The ooze can move through a space as narrow as 1 inch without expending extra movement to do so.
+**Multiattack.** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Spellcasting to cast Guiding Bolt (level 4 version) or (B) Weakening Breath.
 
-Corrosive Form. Nonmagical ammunition is destroyed immediately after hitting the ooze and dealing any damage. Any nonmagical weapon takes a cumulative -1 penalty to attack rolls immediately after dealing damage to the ooze and coming into contact with it. The weapon is destroyed if the penalty reaches -5. The penalty can be removed by casting the Mending spell on the weapon.
+**Rend.** Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 (2d8 + 10) Slashing damage plus 9 (2d8) Fire damage.
+
+**Fire Breath (Recharge 5-6).** Dexterity Saving Throw: DC 24, each creature in a 90-foot Cone. Failure: 71 (13d10) Fire damage. Success: Half damage.
+
+**Spellcasting.** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 24, +16 to hit with spell attacks):
+
+- At Will: Detect Magic, Guiding Bolt (level 4 version), Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)
+- 1/Day Each: Flame Strike (level 6 version), Word of Recall, Zone of Truth
+
+**Weakening Breath.** Strength Saving Throw: DC 24, each creature that isn't currently affected by this breath in a 90-foot Cone. Failure: The target has Disadvantage on Strength-based D20 Tests and subtracts 5 (1d10) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+
+##### Legendary Actions
+
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+
+**Banish.** Charisma Saving Throw: DC 24, one creature the dragon can see within 120 feet. Failure: 24 (7d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. Failure or Success: The dragon can't take this action again until the start of its next turn.
+
+**Guiding Light.** The dragon uses Spellcasting to cast Guiding Bolt (level 4 version).
+
+**Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
+
+### Gorgon
+
+#### Gorgon
+
+*Large Construct, Unaligned*
+
+**AC** 19
+**Initiative** +0 (10)
+**HP** 114 (12d10 + 48)
+**Speed** 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 20    | +5  | +5   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 18    | +4  | +4   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
+
+**Skills** Perception +7
+**Immunities** Exhaustion, Petrified
+**Senses** Darkvision 60 ft.; Passive Perception 17
+**Languages** None
+**CR** 5 (XP 1,800; PB +3)
+
+##### Actions
+
+**Gore.** Melee Attack Roll: +8, reach 5 ft. Hit: 18 (2d12 + 5) Piercing damage. If the target is a Large or smaller creature and the gorgon moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
+
+**Petrifying Breath (Recharge 5-6).** Constitution Saving Throw: DC 15, each creature in a 30-foot Cone. First Failure: The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. Second Failure: The target has the Petrified condition instead of the Restrained condition.
+
+##### Bonus Actions
+
+**Trample.** Dexterity Saving Throw: DC 16, one creature within 5 feet that has the Prone condition. Failure: 16 (2d10 + 5) Bludgeoning damage. Success: Half damage.
+
+### Gray Ooze
+
+#### Gray Ooze
+
+*Medium Ooze, Unaligned*
+
+**AC** 9
+**Initiative** -2 (13)
+**HP** 22 (3d8 + 9)
+**Speed** 10 ft., Climb 10 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 12    | +1  | +1   |
+| DEX  | 6     | -2  | -2   |
+| CON  | 16    | +3  | +3   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 6     | -2  | -2   |
+| CHA  | 2     | -4  | -4   |
+
+**Skills** Stealth +2
+**Resistances** Acid, Cold, Fire
+**Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+**Senses** Blindsight 60 ft.; Passive Perception 8
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
+
+##### Traits
+
+**Amorphous.** The ooze can move through a space as narrow as 1 inch without expending extra movement to do so.
+
+**Corrosive Form.** Nonmagical ammunition is destroyed immediately after hitting the ooze and dealing any damage. Any nonmagical weapon takes a cumulative -1 penalty to attack rolls immediately after dealing damage to the ooze and coming into contact with it. The weapon is destroyed if the penalty reaches -5. The penalty can be removed by casting the Mending spell on the weapon.
 
 The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 
-## Actions
+##### Actions
 
-Pseudopod. Melee Attack Roll: +3, reach 5 ft. Hit: 10 (2d8 + 1) Acid damage. Nonmagical armor worn by the target takes a -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. The penalty can be removed by casting the Mending spell on the armor.
+**Pseudopod.** Melee Attack Roll: +3, reach 5 ft. Hit: 10 (2d8 + 1) Acid damage. Nonmagical armor worn by the target takes a -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. The penalty can be removed by casting the Mending spell on the armor.
 
-## Green Dragons
+### Green Dragons
 
-<!-- image -->
+#### Green Dragon Wyrmling
 
-## Actions
+*Medium Dragon (Chromatic), Lawful Evil*
 
-Multiattack. The dragon makes two Rend attacks.
+**AC** 17
+**Initiative** +3 (13)
+**HP** 38 (7d8 + 7)
+**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
-Rend. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage plus 3 (1d6) Poison damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 12    | +1  | +3   |
+| CON  | 13    | +1  | +1   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 13    | +1  | +1   |
 
-Poison Breath (Recharge 5-6). Constitution Saving Throw: DC 11, each creature in a 15-foot Cone. Failure: 21 (6d6) Poison damage. Success: Half damage.
+**Skills** Perception +4, Stealth +3
+**Immunities** Poison; Poisoned
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 2 (XP 450; PB +2)
 
-<!-- image -->
+##### Traits
 
-Amphibious. The dragon can breathe air and water.
+**Amphibious.** The dragon can breathe air and water.
 
-## Actions
+##### Actions
 
-Multiattack. The dragon makes three Rend attacks.
+**Multiattack.** The dragon makes two Rend attacks.
 
-Rend. Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage plus 7 (2d6) Poison damage.
+**Rend.** Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage plus 3 (1d6) Poison damage.
 
-Poison Breath (Recharge 5-6). Constitution Saving Throw: DC 14, each creature in a 30-foot Cone. Failure: 42 (12d6) Poison damage. Success: Half damage.
+**Poison Breath (Recharge 5-6).** Constitution Saving Throw: DC 11, each creature in a 15-foot Cone. Failure: 21 (6d6) Poison damage. Success: Half damage.
 
-## Adult Green Dragon
+#### Young Green Dragon
 
-Huge Dragon (Chromatic), Lawful Evil
+*Large Dragon (Chromatic), Lawful Evil*
 
-AC
+**AC** 18
+**Initiative** +4 (14)
+**HP** 136 (16d10 + 48)
+**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
-19
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 12    | +1  | +4   |
+| CON  | 17    | +3  | +3   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 13    | +1  | +4   |
+| CHA  | 15    | +2  | +2   |
 
-HP
+**Skills** Deception +5, Perception +7, Stealth +4
+**Immunities** Poison; Poisoned
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
+**Languages** Common, Draconic
+**CR** 8 (XP 3,900; PB +3)
 
-207 (18d12 + 90)
+##### Traits
 
-Speed
+**Amphibious.** The dragon can breathe air and water.
 
-Str
+##### Actions
 
-40 ft., Fly 80 ft., Swim 40 ft.
+**Multiattack.** The dragon makes three Rend attacks.
 
-MOD SAVE
+**Rend.** Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage plus 7 (2d6) Poison damage.
 
-23
+**Poison Breath (Recharge 5-6).** Constitution Saving Throw: DC 14, each creature in a 30-foot Cone. Failure: 42 (12d6) Poison damage. Success: Half damage.
 
-18
+#### Adult Green Dragon
 
-Int
+*Huge Dragon (Chromatic), Lawful Evil*
 
-+6
+**AC** 19
+**Initiative** +11 (21)
+**HP** 207 (18d12 + 90)
+**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
-+6
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 12    | +1  | +6   |
+| CON  | 21    | +5  | +5   |
+| INT  | 18    | +4  | +4   |
+| WIS  | 15    | +2  | +7   |
+| CHA  | 18    | +4  | +4   |
 
-+4
+**Skills** Deception +9, Perception +12, Persuasion +9, Stealth +6
+**Immunities** Poison; Poisoned
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
+**Languages** Common, Draconic
+**CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
 
-Skills
+##### Traits
 
-+4
+**Amphibious.** The dragon can breathe air and water.
 
-Dex
+**Legendary Resistance (3/Day, or 4/Day in Lair).** If the dragon fails a saving throw, it can choose to succeed instead.
 
-12
+##### Actions
 
-15
+**Multiattack.** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast Mind Spike (level 3 version).
 
-WIS
+**Rend.** Melee Attack Roll: +11, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage plus 7 (2d6) Poison damage.
 
-MOD SAVE
+**Poison Breath (Recharge 5-6).** Constitution Saving Throw: DC 18, each creature in a 60-foot Cone. Failure: 56 (16d6) Poison damage. Success: Half damage.
 
-+1
+**Spellcasting.** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
-+6
+- At Will: Detect Magic, Mind Spike (level 3 version)
+- 1/Day: Geas
 
-+2
+##### Legendary Actions
 
-+7
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-Con
+**Mind Invasion.** The dragon uses Spellcasting to cast Mind Spike (level 3 version).
 
-21
+**Noxious Miasma.** Constitution Saving Throw: DC 17, each creature in a 20-foot-radius Sphere centered on a point the dragon can see within 90 feet. Failure: 7 (2d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
 
-18
+**Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-Cha
+#### Ancient Green Dragon
 
-MOD SAVE
+*Gargantuan Dragon (Chromatic), Lawful Evil*
 
-+5
+**AC** 21
+**Initiative** +15 (25)
+**HP** 402 (23d20 + 161)
+**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
-+5
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 27    | +8  | +8   |
+| DEX  | 12    | +1  | +8   |
+| CON  | 25    | +7  | +7   |
+| INT  | 20    | +5  | +5   |
+| WIS  | 17    | +3  | +10  |
+| CHA  | 22    | +6  | +6   |
 
-+4
+**Skills** Deception +13, Perception +17, Persuasion +13, Stealth +8
+**Immunities** Poison; Poisoned
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
+**Languages** Common, Draconic
+**CR** 22 (XP 41,000, or 50,000 in lair; PB +7)
 
-Deception +9, Perception +12, Persuasion +9,
+##### Traits
 
-Stealth +6
+**Amphibious.** The dragon can breathe air and water.
 
-Immunities
+**Legendary Resistance (4/Day, or 5/Day in Lair).** If the dragon fails a saving throw, it can choose to succeed instead.
 
-Poison; Poisoned
+##### Actions
 
-Senses
+**Multiattack.** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast Mind Spike (level 5 version).
 
-Blindsight 60 ft., Darkvision 120 ft.;
+**Rend.** Melee Attack Roll: +15, reach 15 ft. Hit: 17 (2d8 + 8) Slashing damage plus 10 (3d6) Poison damage.
 
-Passive Perception 22
+**Poison Breath (Recharge 5-6).** Constitution Saving Throw: DC 22, each creature in a 90-foot Cone. Failure: 77 (22d6) Poison damage. Success: Half damage.
 
-Languages
+**Spellcasting.** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21):
 
-Common, Draconic
+- At Will: Detect Magic, Mind Spike (level 5 version)
+- 1/Day Each: Geas, Modify Memory
 
-CR
+##### Legendary Actions
 
-15 (XP 13,000, or 15,000 in lair; PB +5)
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-## Traits
+**Mind Invasion.** The dragon uses Spellcasting to cast Mind Spike (level 5 version).
 
-Amphibious. The dragon can breathe air and water.
+**Noxious Miasma.** Constitution Saving Throw: DC 21, each creature in a 30-foot-radius Sphere centered on a point the dragon can see within 90 feet. Failure: 17 (5d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
 
-Legendary Resistance (3/Day, or 4/Day in Lair). If the dragon fails a saving throw, it can choose to succeed instead.
+**Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-## Actions
+### Green Hag
 
-Multiattack. The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast Mind Spike (level 3 version).
+#### Green Hag
 
-Rend. Melee Attack Roll: +11, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage plus 7 (2d6) Poison damage.
+*Medium Fey, Neutral Evil*
 
-Poison Breath (Recharge 5-6). Constitution Saving Throw: DC 18, each creature in a 60-foot Cone. Failure: 56 (16d6) Poison damage. Success: Half damage.
+**AC** 17
+**Initiative** +1 (11)
+**HP** 82 (11d8 + 33)
+**Speed** 30 ft., Swim 30 ft.
 
-Spellcasting. The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 16    | +3  | +3   |
+| INT  | 13    | +1  | +1   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 14    | +2  | +2   |
 
-At Will: Detect Magic , Mind Spike (level 3 version) 1/Day: Geas
+**Skills** Arcana +5, Deception +4, Perception +4, Stealth +3
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** Common, Elvish, Sylvan
+**CR** 3 (XP 700; PB +2)
 
-## Legendary Actions
+##### Traits
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+**Amphibious.** The hag can breathe air and water.
 
-Mind Invasion. The dragon uses Spellcasting to cast Mind Spike (level 3 version).
+**Coven Magic.** While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save DC 11): Augury, Find Familiar, Identify, Locate Object, Scrying, or Unseen Servant. The hag must finish a Long Rest before using this trait to cast that spell again.
 
-+4
+**Mimicry.** The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations only with a successful DC 14 Wisdom (Insight) check.
 
-Initiative
+##### Actions
 
-+11 (21)
+**Multiattack.** The hag makes two Claw attacks.
 
-Noxious Miasma. Constitution Saving Throw: DC 17, each creature in a 20-foot-radius Sphere centered on a point the dragon can see within 90 feet. Failure: 7 (2d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
+**Claw.** Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage plus 3 (1d6) Poison damage.
 
-Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
+**Spellcasting.** The hag casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks):
 
-<!-- image -->
+- At Will: Dancing Lights, Disguise Self (24-hour duration), Invisibility (self only, and the hag leaves no tracks while Invisible), Minor Illusion, Ray of Sickness (level 3 version)
 
-| Ancient Green Dragon                                                                                                                       |     |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Gargantuan Dragon (Chromatic), Lawful Evil                                                                                                 |     |
-| AC 21 Initiative +15 (25) HP 402 (23d20 + 161)                                                                                             |     |
-| S tr 27 +8 +8 Dex 12 +1 +8 Con 25 +7 +7                                                                                                    |     |
-| I nt 20 +5 +5 WIS 17 +3 +10 Cha 22 +6 +6                                                                                                   |     |
-| Skills Deception +13, Perception +17, Persuasion +13, Stealth +8 Immunities Poison; Poisoned Senses Blindsight 60 ft., Darkvision 120 ft.; |     |
-| Passive Perception 27 Languages Common, Draconic                                                                                           |     |
-| CR 22 (XP 41,000, or 50,000 in lair; PB                                                                                                    |     |
-|                                                                                                                                            | +7) |
+### Grick
 
-## Traits
+#### Grick
 
-Amphibious. The dragon can breathe air and water.
+*Medium Aberration, Unaligned*
 
-Legendary Resistance (4/Day, or 5/Day in Lair). If the dragon fails a saving throw, it can choose to succeed instead.
+**AC** 14
+**Initiative** +2 (12)
+**HP** 54 (12d8)
+**Speed** 30 ft., Climb 30 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 11    | +0  | +0   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 5     | -3  | -3   |
 
-Multiattack. The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast Mind Spike (level 5 version).
+**Skills** Stealth +4
+**Senses** Darkvision 60 ft.; Passive Perception 12
+**Languages** None
+**CR** 2 (XP 450; PB +2)
 
-Rend. Melee Attack Roll: +15, reach 15 ft. Hit: 17 (2d8 + 8) Slashing damage plus 10 (3d6) Poison damage.
+##### Actions
 
-Poison Breath (Recharge 5-6). Constitution Saving Throw: DC 22, each creature in a 90-foot Cone. Failure: 77 (22d6) Poison damage. Success: Half damage.
+**Multiattack.** The grick makes one Beak attack and one Tentacles attack.
 
-Spellcasting. The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21):
+**Beak.** Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage.
 
-At Will: Detect Magic , Mind Spike (level 5 version) 1/Day Each: Geas , Modify Memory
+**Tentacles.** Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12) from all four tentacles.
 
-## Legendary Actions
+### Griffon
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+#### Griffon
 
-Mind Invasion. The dragon uses Spellcasting to cast Mind Spike (level 5 version).
+*Large Monstrosity, Unaligned*
 
-Noxious Miasma. Constitution Saving Throw: DC 21, each creature in a 30-foot-radius Sphere centered on a point the dragon can see within 90 feet. Failure: 17 (5d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
+**AC** 12
+**Initiative** +2 (12)
+**HP** 59 (7d10 + 21)
+**Speed** 30 ft., Fly 80 ft.
 
-Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 16    | +3  | +3   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 8     | -1  | -1   |
 
-## Green Hag
+**Skills** Perception +5
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** None
+**CR** 2 (XP 450; PB +2)
 
-<!-- image -->
+##### Actions
 
-## Traits
+**Multiattack.** The griffon makes two Rend attacks.
 
-Amphibious. The hag can breathe air and water.
+**Rend.** Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 14) from both of the griffon's front claws.
 
-Coven Magic. While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save DC 11): Augury , Find Familiar , Identify , Locate Object , Scrying , or Unseen Servant . The hag must finish a Long Rest before using this trait to cast that spell again.
+### Grimlock
 
-Mimicry. The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations only with a successful DC 14 Wisdom (Insight) check.
+#### Grimlock
 
-## Actions
+*Medium Aberration, Neutral Evil*
 
-Multiattack. The hag makes two Claw attacks.
+**AC** 11
+**Initiative** +1 (11)
+**HP** 11 (2d8 + 2)
+**Speed** 30 ft., Climb 30 ft.
 
-Claw. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage plus 3 (1d6) Poison damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 12    | +1  | +1   |
+| INT  | 9     | -1  | -1   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 6     | -2  | -2   |
 
-Spellcasting. The hag casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks):
+**Skills** Athletics +5, Perception +3, Stealth +5
+**Senses** Blindsight 30 ft.; Passive Perception 13
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-- At Will: Dancing Lights , Disguise Self (24-hour duration), Invisibility (self only, and the hag leaves no tracks while Invisible), Minor Illusion , Ray of Sickness (level 3 version)
+##### Actions
 
-## Grick
+**Bone Cudgel.** Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage plus 2 (1d4) Psychic damage.
 
-<!-- image -->
+### Guardian Naga
 
-## Actions
+#### Guardian Naga
 
-Multiattack. The grick makes one Beak attack and one Tentacles attack.
+*Large Celestial, Lawful Good*
 
-Beak. Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage.
+**AC** 18
+**Initiative** +4 (14)
+**HP** 136 (16d10 + 48)
+**Speed** 40 ft., Climb 40 ft., Swim 40 ft.
 
-Tentacles. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12) from all four tentacles.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 18    | +4  | +8   |
+| CON  | 16    | +3  | +7   |
+| INT  | 16    | +3  | +7   |
+| WIS  | 19    | +4  | +8   |
+| CHA  | 18    | +4  | +8   |
 
-## Griffon
+**Skills** Arcana +11, History +11, Religion +11
+**Immunities** Poison; Charmed, Paralyzed, Poisoned, Restrained
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** Celestial, Common
+**CR** 10 (XP 5,900; PB +4)
 
-<!-- image -->
+##### Traits
 
-## Actions
+**Celestial Restoration.** If the naga dies, it returns to life in 1d6 days and regains all its Hit Points unless Dispel Evil and Good is cast on its remains.
 
-Multiattack. The griffon makes two Rend attacks.
+##### Actions
 
-Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 14) from both of the griffon's front claws.
+**Multiattack.** The naga makes two Bite attacks. It can replace any attack with a use of Poisonous Spittle.
 
-## Grimlock
+**Bite.** Melee Attack Roll: +8, reach 10 ft. Hit: 17 (2d12 + 4) Piercing damage plus 22 (4d10) Poison damage.
 
-<!-- image -->
+**Poisonous Spittle.** Constitution Saving Throw: DC 16, one creature the naga can see within 60 feet. Failure: 31 (7d8) Poison damage, and the target has the Blinded condition until the start of the naga's next turn. Success: Half damage only.
 
-## Actions
+**Spellcasting.** The naga casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save DC 16):
 
-Bone Cudgel. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage plus 2 (1d4) Psychic damage.
+- At Will: Thaumaturgy
+- 1/Day Each: Clairvoyance, Cure Wounds (level 6 version), Flame Strike (level 6 version), Geas, True Seeing
 
-## Guardian Naga
+### Guards
 
-<!-- image -->
+#### Guard
 
-## Traits
+*Medium or Small Humanoid, Neutral*
 
-Celestial Restoration. If the naga dies, it returns to life in 1d6 days and regains all its Hit Points unless Dispel Evil and Good is cast on its remains.
+**AC** 16
+**Initiative** +1 (11)
+**HP** 11 (2d8 + 2)
+**Speed** 30 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 12    | +1  | +1   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 10    | +0  | +0   |
 
-Multiattack. The naga makes two Bite attacks. It can replace any attack with a use of Poisonous Spittle.
+**Skills** Perception +2
+**Gear** Chain Shirt, Shield, Spear
+**Senses** Passive Perception 12
+**Languages** Common
+**CR** 1/8 (XP 25; PB +2)
 
-Bite. Melee Attack Roll: +8, reach 10 ft. Hit: 17 (2d12 + 4) Piercing damage plus 22 (4d10) Poison damage.
+##### Actions
 
-Poisonous Spittle. Constitution Saving Throw: DC 16, one creature the naga can see within 60 feet. Failure: 31 (7d8) Poison damage, and the target has the Blinded condition until the start of the naga's next turn. Success: Half damage only.
+**Spear.** Melee or Ranged Attack Roll: +3, reach 5 ft. or range 20/60 ft. Hit: 4 (1d6 + 1) Piercing damage.
 
-Spellcasting. The naga casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save DC 16):
+#### Guard Captain
 
-## At Will: Thaumaturgy
+*Medium or Small Humanoid, Neutral*
 
-1/Day Each: Clairvoyance , Cure Wounds (level 6 version), Flame Strike (level 6 version), Geas , True Seeing
+**AC** 18
+**Initiative** +4 (14)
+**HP** 75 (10d8 + 30)
+**Speed** 30 ft.
 
-## Guards
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 16    | +3  | +3   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 13    | +1  | +1   |
 
-<!-- image -->
+**Skills** Athletics +6, Perception +4
+**Gear** Breastplate, Javelins (6), Longsword, Shield
+**Senses** Passive Perception 14
+**Languages** Common
+**CR** 4 (XP 1,100; PB +2)
 
-## Actions
+##### Actions
 
-Spear. Melee or Ranged Attack Roll: +3, reach 5 ft. or range 20/60 ft. Hit: 4 (1d6 + 1) Piercing damage.
+**Multiattack.** The guard makes two attacks, using Javelin or Longsword in any combination.
 
-<!-- image -->
+**Javelin.** Melee or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit: 14 (3d6 + 4) Piercing damage.
 
-## Actions
+**Longsword.** Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Slashing damage.
 
-Multiattack. The guard makes two attacks, using Javelin or Longsword in any combination.
+### Half-Dragon
 
-Javelin. Melee or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit: 14 (3d6 + 4) Piercing damage.
+#### Half-Dragon
 
-Longsword. Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Slashing damage.
+*Medium Dragon, Neutral*
 
-## Half-Dragon
+**AC** 18
+**Initiative** +5 (15)
+**HP** 105 (14d8 + 42)
+**Speed** 40 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 14    | +2  | +5   |
+| CON  | 16    | +3  | +3   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 15    | +2  | +5   |
+| CHA  | 14    | +2  | +2   |
 
-Draconic Origin. The half-dragon is related to a type of dragon associated with one of the following damage types (GM's choice): Acid, Cold, Fire, Lightning, or Poison. This choice affects other aspects of the stat block.
+**Skills** Athletics +7, Perception +5, Stealth +5
+**Resistances** Damage type chosen for the Draconic Origin trait below
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 15
+**Languages** Common, Draconic
+**CR** 5 (XP 1,800; PB +3)
 
-## Actions
+##### Traits
 
-Multiattack. The half-dragon makes two Claw attacks.
+**Draconic Origin.** The half-dragon is related to a type of dragon associated with one of the following damage types (GM's choice): Acid, Cold, Fire, Lightning, or Poison. This choice affects other aspects of the stat block.
 
-Claw. Melee Attack Roll: +7, reach 10 ft. Hit: 6 (1d4 + 4) Slashing damage plus 7 (2d6) damage of the type chosen for the Draconic Origin trait.
+##### Actions
 
-Dragon's Breath (Recharge 5-6). Dexterity Saving Throw: DC 14, each creature in a 30-foot Cone. Failure: 28 (8d6) damage of the type chosen for the Draconic Origin trait. Success: Half damage.
+**Multiattack.** The half-dragon makes two Claw attacks.
 
-## Bonus Actions
+**Claw.** Melee Attack Roll: +7, reach 10 ft. Hit: 6 (1d4 + 4) Slashing damage plus 7 (2d6) damage of the type chosen for the Draconic Origin trait.
 
-Leap. The half-dragon jumps up to 30 feet by spending 10 feet of movement.
+**Dragon's Breath (Recharge 5-6).** Dexterity Saving Throw: DC 14, each creature in a 30-foot Cone. Failure: 28 (8d6) damage of the type chosen for the Draconic Origin trait. Success: Half damage.
 
-## Harpy
+##### Bonus Actions
 
-<!-- image -->
+**Leap.** The half-dragon jumps up to 30 feet by spending 10 feet of movement.
 
-## Actions
+### Harpy
 
-Claw. Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage.
+#### Harpy
 
-Luring Song. The harpy sings a magical melody, which lasts until the harpy's Concentration ends on it. Wisdom Saving Throw: DC 11, each Humanoid and Giant in a 300-foot Emanation originating from the harpy when the song starts. Failure: The target has the Charmed condition until the song ends and repeats the save at the end of each of its turns. While Charmed, the target has the Incapacitated condition and ignores the Luring Song of other harpies. If the target is more than 5 feet from the harpy, the target moves on its turn toward the harpy by the most direct route, trying to get within 5 feet of the harpy. It doesn't avoid Opportunity Attacks; however, before moving into damaging terrain (such as lava or a pit) and whenever it takes damage from a source other than the harpy, the target repeats the save. Success: The target is immune to this harpy's Luring Song for 24 hours.
+*Medium Monstrosity, Chaotic Evil*
 
-## Hell Hound
+**AC** 11
+**Initiative** +1 (11)
+**HP** 38 (7d8 + 7)
+**Speed** 20 ft., Fly 40 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 12    | +1  | +1   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 12    | +1  | +1   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 13    | +1  | +1   |
 
-## Traits
+**Senses** Passive Perception 10
+**Languages** Common
+**CR** 1 (XP 200; PB +2)
 
-Pack Tactics. The hound has Advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+##### Actions
 
-## Actions
+**Claw.** Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage.
 
-Multiattack. The hound makes two Bite attacks.
+**Luring Song.** The harpy sings a magical melody, which lasts until the harpy's Concentration ends on it. Wisdom Saving Throw: DC 11, each Humanoid and Giant in a 300-foot Emanation originating from the harpy when the song starts. Failure: The target has the Charmed condition until the song ends and repeats the save at the end of each of its turns. While Charmed, the target has the Incapacitated condition and ignores the Luring Song of other harpies. If the target is more than 5 feet from the harpy, the target moves on its turn toward the harpy by the most direct route, trying to get within 5 feet of the harpy. It doesn't avoid Opportunity Attacks; however, before moving into damaging terrain (such as lava or a pit) and whenever it takes damage from a source other than the harpy, the target repeats the save. Success: The target is immune to this harpy's Luring Song for 24 hours.
 
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage plus 3 (1d6) Fire damage.
+### Hell Hound
 
-Fire Breath (Recharge 5-6). Dexterity Saving Throw: DC 12, each creature in a 15-foot Cone. Failure: 17 (5d6) Fire damage. Success: Half damage.
+#### Hell Hound
 
-## Hezrou
+*Medium Fiend, Lawful Evil*
 
-<!-- image -->
+**AC** 15
+**Initiative** +1 (11)
+**HP** 58 (9d8 + 18)
+**Speed** 50 ft.
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 14    | +2  | +2   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
 
-Demonic Restoration. If the hezrou dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+**Skills** Perception +5
+**Immunities** Fire
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** Understands Infernal but can't speak
+**CR** 3 (XP 700; PB +2)
 
-Magic Resistance. The hezrou has Advantage on saving throws against spells and other magical effects.
+##### Traits
 
-Stench. Constitution Saving Throw: DC 16, any creature that starts its turn in a 10-foot Emanation originating from the hezrou. Failure: The target has the Poisoned condition until the start of its next turn.
+**Pack Tactics.** The hound has Advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-## Actions
+##### Actions
 
-Multiattack. The hezrou makes three Rend attacks.
+**Multiattack.** The hound makes two Bite attacks.
 
-Rend. Melee Attack Roll: +7, reach 5 ft. Hit: 6 (1d4 + 4) Slashing damage plus 9 (2d8) Poison damage.
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage plus 3 (1d6) Fire damage.
 
-## Bonus Actions
+**Fire Breath (Recharge 5-6).** Dexterity Saving Throw: DC 12, each creature in a 15-foot Cone. Failure: 17 (5d6) Fire damage. Success: Half damage.
 
-Leap. The hezrou jumps up to 30 feet by spending 10 feet of movement.
+### Hezrou
 
-## Hill Giant
+#### Hezrou
 
-<!-- image -->
+*Large Fiend (Demon), Chaotic Evil*
 
-## Actions
+**AC** 18
+**Initiative** +6 (16)
+**HP** 157 (15d10 + 75)
+**Speed** 30 ft.
 
-Multiattack. The giant makes two attacks, using Tree Club or Trash Lob in any combination.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +7   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 20    | +5  | +8   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 12    | +1  | +4   |
+| CHA  | 13    | +1  | +1   |
 
-Tree Club. Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
+**Resistances** Cold, Fire, Lightning
+**Immunities** Poison; Poisoned
+**Senses** Darkvision 120 ft.; Passive Perception 11
+**Languages** Abyssal; telepathy 120 ft.
+**CR** 8 (XP 3,900; PB +3)
 
-Trash Lob. Ranged Attack Roll: +8, range 60/240 ft. Hit: 16 (2d10 + 5) Bludgeoning damage, and the target has the Poisoned condition until the end of its next turn.
+##### Traits
 
-## Hippogriff
+**Demonic Restoration.** If the hezrou dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
 
-<!-- image -->
+**Magic Resistance.** The hezrou has Advantage on saving throws against spells and other magical effects.
 
-## Traits
+**Stench.** Constitution Saving Throw: DC 16, any creature that starts its turn in a 10-foot Emanation originating from the hezrou. Failure: The target has the Poisoned condition until the start of its next turn.
 
-Flyby. The hippogriff doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
+##### Actions
 
-## Actions
+**Multiattack.** The hezrou makes three Rend attacks.
 
-Multiattack. The hippogriff makes two Rend attacks.
+**Rend.** Melee Attack Roll: +7, reach 5 ft. Hit: 6 (1d4 + 4) Slashing damage plus 9 (2d8) Poison damage.
 
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage.
+##### Bonus Actions
 
-## Hobgoblins
+**Leap.** The hezrou jumps up to 30 feet by spending 10 feet of movement.
 
-<!-- image -->
+### Hill Giant
 
-## Traits
+#### Hill Giant
 
-Pack Tactics. The hobgoblin has Advantage on an attack roll against a creature if at least one of the hobgoblin's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+*Huge Giant, Chaotic Evil*
 
-## Actions
+**AC** 13
+**Initiative** +2 (12)
+**HP** 105 (10d12 + 40)
+**Speed** 40 ft.
 
-Longsword. Melee Attack Roll: +3, reach 5 ft. Hit: 12 (2d10 + 1) Slashing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 21    | +5  | +5   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 19    | +4  | +4   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 9     | -1  | -1   |
+| CHA  | 6     | -2  | -2   |
 
-Longbow. Ranged Attack Roll: +3, range 150/600 ft. Hit: 5 (1d8 + 1) Piercing damage plus 7 (3d4) Poison damage.
+**Skills** Perception +2
+**Senses** Passive Perception 12
+**Languages** Giant
+**CR** 5 (XP 1,800; PB +3)
 
-## Hobgoblin Captain
+##### Actions
 
-<!-- image -->
+**Multiattack.** The giant makes two attacks, using Tree Club or Trash Lob in any combination.
 
-Gear Greatsword, Half Plate Armor, Longbow Senses Darkvision 60 ft.; Passive Perception 10 Languages Common, Goblin CR 3 (XP 700; PB +2)
+**Tree Club.** Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-## Traits
+**Trash Lob.** Ranged Attack Roll: +8, range 60/240 ft. Hit: 16 (2d10 + 5) Bludgeoning damage, and the target has the Poisoned condition until the end of its next turn.
 
-Aura of Authority. While in a 10-foot Emanation originating from the hobgoblin, the hobgoblin and its allies have Advantage on attack rolls and saving throws, provided the hobgoblin doesn't have the Incapacitated condition.
+### Hippogriff
 
-## Actions
+#### Hippogriff
 
-Multiattack. The hobgoblin makes two attacks, using Greatsword or Longbow in any combination.
+*Large Monstrosity, Unaligned*
 
-Greatsword. Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Slashing damage plus 3 (1d6) Poison damage.
+**AC** 11
+**Initiative** +1 (11)
+**HP** 26 (4d10 + 4)
+**Speed** 40 ft., Fly 60 ft.
 
-Longbow. Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing damage plus 5 (2d4) Poison damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 8     | -1  | -1   |
 
-## Homunculus
+**Skills** Perception +5
+**Senses** Passive Perception 15
+**Languages** None
+**CR** 1 (XP 200; PB +2)
 
-## Homunculus
+##### Traits
 
-Tiny Construct, Neutral
+**Flyby.** The hippogriff doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
-AC
+##### Actions
 
-13
+**Multiattack.** The hippogriff makes two Rend attacks.
 
-HP
+**Rend.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage.
 
-4 (1d4 + 2)
+### Hobgoblins
 
-Speed
+#### Hobgoblin Warrior
 
-20 ft., Fly 40 ft.
+*Medium Fey (Goblinoid), Lawful Evil*
 
-Initiative
+**AC** 18
+**Initiative** +3 (13)
+**HP** 11 (2d8 + 2)
+**Speed** 30 ft.
 
-+2 (12)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 12    | +1  | +1   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 9     | -1  | -1   |
 
-<!-- image -->
+**Gear** Half Plate Armor, Longbow, Longsword, Shield
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Common, Goblin
+**CR** 1/2 (XP 100; PB +2)
 
-|         | MOD SAVE   | MOD SAVE            | MOD SAVE   |
-|---------|------------|---------------------|------------|
-| S tr 4  | -3 -3      | Dex 15 +2 +2 Con 14 | +2 +2      |
-| I nt 10 | +0 +0      | WIS 10 +0 +2 Cha    | 7 -2 +0    |
+##### Traits
 
-Immunities Poison; Charmed, Poisoned Senses Darkvision 60 ft.; Passive Perception 10 Languages Understands Common plus one other language but can't speak CR 0 (XP 10; PB +2)
+**Pack Tactics.** The hobgoblin has Advantage on an attack roll against a creature if at least one of the hobgoblin's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-## Traits
+##### Actions
 
-Telepathic Bond. While the homunculus is on the same plane of existence as its master, the two of them can communicate telepathically with each other.
+**Longsword.** Melee Attack Roll: +3, reach 5 ft. Hit: 12 (2d10 + 1) Slashing damage.
 
-## Actions
+**Longbow.** Ranged Attack Roll: +3, range 150/600 ft. Hit: 5 (1d8 + 1) Piercing damage plus 7 (3d4) Poison damage.
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage, and the target is subjected to the following effect. Constitution Saving Throw: DC 12. Failure: The target has the Poisoned condition until the end of the homunculus's next turn. Failure by 5 or More: The target has the Poisoned condition for 1 minute. While Poisoned, the target has the Unconscious condition, which ends early if the target takes any damage.
+#### Hobgoblin Captain
 
-## Horned Devil
+*Medium Fey (Goblinoid), Lawful Evil*
 
-<!-- image -->
+**AC** 17
+**Initiative** +4 (14)
+**HP** 58 (9d8 + 18)
+**Speed** 30 ft.
 
-| Horned Devil                                                                                                                                                                     |                                                                                                                                                                                  |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Large Fiend (Devil), Lawful Evil                                                                                                                                                 | Large Fiend (Devil), Lawful Evil                                                                                                                                                 |
-| AC 18 Initiative +7 (17)                                                                                                                                                         | AC 18 Initiative +7 (17)                                                                                                                                                         |
-| Speed 30 ft., Fly 60 ft. MOD SAVE                                                                                                                                                | MOD SAVE MOD SAVE                                                                                                                                                                |
-| S tr 22 +6 +10 Dex 17 +3                                                                                                                                                         | +7 Con 21 +5 +5                                                                                                                                                                  |
-| I nt 12 +1 +1 WIS 16                                                                                                                                                             | +3 +7 Cha 18 +4 +8                                                                                                                                                               |
-| Resistances Cold                                                                                                                                                                 | Resistances Cold                                                                                                                                                                 |
-| Immunities Fire, Poison; Poisoned Senses Darkvision 150 ft. (unimpeded by magical Darkness); Passive Perception 13 Languages Infernal; telepathy 120 ft. CR 11 (XP 7,200; PB +4) | Immunities Fire, Poison; Poisoned Senses Darkvision 150 ft. (unimpeded by magical Darkness); Passive Perception 13 Languages Infernal; telepathy 120 ft. CR 11 (XP 7,200; PB +4) |
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 14    | +2  | +2   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 13    | +1  | +1   |
 
-## Traits
+**Gear** Greatsword, Half Plate Armor, Longbow
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Common, Goblin
+**CR** 3 (XP 700; PB +2)
 
-Diabolical Restoration. If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
+##### Traits
 
-Magic Resistance. The devil has Advantage on saving throws against spells and other magical effects.
+**Aura of Authority.** While in a 10-foot Emanation originating from the hobgoblin, the hobgoblin and its allies have Advantage on attack rolls and saving throws, provided the hobgoblin doesn't have the Incapacitated condition.
 
-## Actions
+##### Actions
 
-Multiattack. The devil makes three attacks, using Searing Fork or Hurl Flame in any combination. It can replace one attack with a use of Infernal Tail.
+**Multiattack.** The hobgoblin makes two attacks, using Greatsword or Longbow in any combination.
 
-Searing Fork. Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Piercing damage plus 9 (2d8) Fire damage.
+**Greatsword.** Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Slashing damage plus 3 (1d6) Poison damage.
 
-Hurl Flame. Ranged Attack Roll: +8, range 150 ft. Hit: 26 (5d8 + 4) Fire damage. If the target is a flammable object that isn't being worn or carried, it starts burning.
+**Longbow.** Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing damage plus 5 (2d4) Poison damage.
 
-Infernal Tail. Dexterity Saving Throw: DC 17, one creature the devil can see within 10 feet. Failure: 10 (1d8 + 6) Necrotic damage, and the target receives an infernal wound if it doesn't have one. While wounded, the target loses 10 (3d6) Hit Points at the start of each of its turns. The wound closes after 1 minute, after a spell restores Hit Points to the target, or after the target or a creature within 5 feet of it takes an action to stanch the wound, doing so by succeeding on a DC 17 Wisdom (Medicine) check.
+### Homunculus
 
-## Hydra
+#### Homunculus
 
-<!-- image -->
+*Tiny Construct, Neutral*
 
-## Traits
+**AC** 13
+**Initiative** +2 (12)
+**HP** 4 (1d4 + 2)
+**Speed** 20 ft., Fly 40 ft.
 
-Hold Breath. The hydra can hold its breath for 1 hour.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 4     | -3  | -3   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 14    | +2  | +2   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 10    | +0  | +2   |
+| CHA  | 7     | -2  | +0   |
 
-Multiple Heads. The hydra has five heads. Whenever the hydra takes 25 damage or more on a single turn, one of its heads dies. The hydra dies if all its heads are dead. At the end of each of its turns when it has at least one living head, the hydra grows two heads for each of its heads that died since its last turn, unless it has taken Fire damage since its last turn. The hydra regains 20 Hit Points when it grows new heads.
+**Immunities** Poison; Charmed, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Understands Common plus one other language but can't speak
+**CR** 0 (XP 10; PB +2)
 
-Reactive Heads. For each head the hydra has beyond one, it gets an extra Reaction that can be used only for Opportunity Attacks.
+##### Traits
 
-## Actions
+**Telepathic Bond.** While the homunculus is on the same plane of existence as its master, the two of them can communicate telepathically with each other.
 
-Multiattack. The hydra makes as many Bite attacks as it has heads.
+##### Actions
 
-Bite. Melee Attack Roll: +8, reach 10 ft. Hit: 10 (1d10 + 5) Piercing damage.
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage, and the target is subjected to the following effect. Constitution Saving Throw: DC 12. Failure: The target has the Poisoned condition until the end of the homunculus's next turn. Failure by 5 or More: The target has the Poisoned condition for 1 minute. While Poisoned, the target has the Unconscious condition, which ends early if the target takes any damage.
 
-## Ice Devil
+### Horned Devil
 
-<!-- image -->
+#### Horned Devil
 
-## Traits
+*Large Fiend (Devil), Lawful Evil*
 
-Diabolical Restoration. If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
+**AC** 18
+**Initiative** +7 (17)
+**HP** 199 (19d10 + 95)
+**Speed** 30 ft., Fly 60 ft.
 
-Magic Resistance. The devil has Advantage on saving throws against spells and other magical effects.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 22    | +6  | +10  |
+| DEX  | 17    | +3  | +7   |
+| CON  | 21    | +5  | +5   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 16    | +3  | +7   |
+| CHA  | 18    | +4  | +8   |
 
-## Actions
+**Resistances** Cold
+**Immunities** Fire, Poison; Poisoned
+**Senses** Darkvision 150 ft. (unimpeded by magical Darkness); Passive Perception 13
+**Languages** Infernal; telepathy 120 ft.
+**CR** 11 (XP 7,200; PB +4)
 
-Multiattack. The devil makes three Ice Spear attacks. It can replace one attack with a Tail attack.
+##### Traits
 
-Ice Spear. Melee or Ranged Attack Roll: +10, reach 5 ft. or range 30/120 ft. Hit: 14 (2d8 + 5) Piercing damage plus 10 (3d6) Cold damage. Until the end of its next turn, the target can't take a Bonus Action or Reaction, its Speed decreases by 10 feet, and it can move or take one action on its turn, not both. Hit or Miss: The spear magically returns to the devil's hand immediately after a ranged attack.
+**Diabolical Restoration.** If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
 
-Tail. Melee Attack Roll: +10, reach 10 ft. Hit: 15 (3d6 + 5) Bludgeoning damage plus 18 (4d8) Cold damage.
+**Magic Resistance.** The devil has Advantage on saving throws against spells and other magical effects.
 
-Ice Wall (Recharge 6). The devil casts Wall of Ice (level 8 version), requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17).
+##### Actions
 
-## Imp
+**Multiattack.** The devil makes three attacks, using Searing Fork or Hurl Flame in any combination. It can replace one attack with a use of Infernal Tail.
 
-## Imp
+**Searing Fork.** Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Piercing damage plus 9 (2d8) Fire damage.
 
-Tiny Fiend (Devil), Lawful Evil
+**Hurl Flame.** Ranged Attack Roll: +8, range 150 ft. Hit: 26 (5d8 + 4) Fire damage. If the target is a flammable object that isn't being worn or carried, it starts burning.
 
-AC 13 HP 21 (6d4 + 6) Speed 20 ft., Fly 40 ft.
+**Infernal Tail.** Dexterity Saving Throw: DC 17, one creature the devil can see within 10 feet. Failure: 10 (1d8 + 6) Necrotic damage, and the target receives an infernal wound if it doesn't have one. While wounded, the target loses 10 (3d6) Hit Points at the start of each of its turns. The wound closes after 1 minute, after a spell restores Hit Points to the target, or after the target or a creature within 5 feet of it takes an action to stanch the wound, doing so by succeeding on a DC 17 Wisdom (Medicine) check.
 
-Initiative +3 (13)
+### Hydra
 
-<!-- image -->
+#### Hydra
 
-Skills Deception +4, Insight +3, Stealth +5 Resistances Cold Immunities Fire, Poison; Poisoned Senses Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 11 Languages Common, Infernal CR 1 (XP 200; PB +2)
+*Huge Monstrosity, Unaligned*
 
-## Traits
+**AC** 15
+**Initiative** +4 (14)
+**HP** 184 (16d12 + 80)
+**Speed** 40 ft., Swim 40 ft.
 
-Magic Resistance. The imp has Advantage on saving throws against spells and other magical effects.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 20    | +5  | +5   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 20    | +5  | +5   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 7     | -2  | -2   |
 
-## Actions
+**Skills** Perception +6
+**Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+**Senses** Darkvision 60 ft.; Passive Perception 16
+**Languages** None
+**CR** 8 (XP 3,900; PB +3)
 
-Sting. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage plus 7 (2d6) Poison damage.
+##### Traits
 
-Invisibility. The imp casts Invisibility on itself, requiring no spell components and using Charisma as the spellcasting ability.
+**Hold Breath.** The hydra can hold its breath for 1 hour.
 
-Shape-Shift. The imp shape-shifts to resemble a rat (Speed 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.), or it returns to its true form. Its game statistics are the same in each form, except for its Speed. Any equipment it is wearing or carrying isn't transformed.
+**Multiple Heads.** The hydra has five heads. Whenever the hydra takes 25 damage or more on a single turn, one of its heads dies. The hydra dies if all its heads are dead. At the end of each of its turns when it has at least one living head, the hydra grows two heads for each of its heads that died since its last turn, unless it has taken Fire damage since its last turn. The hydra regains 20 Hit Points when it grows new heads.
 
-## Incubus
+**Reactive Heads.** For each head the hydra has beyond one, it gets an extra Reaction that can be used only for Opportunity Attacks.
 
-## Incubus
+##### Actions
 
-<!-- image -->
+**Multiattack.** The hydra makes as many Bite attacks as it has heads.
 
-| Medium Fiend, Neutral Evil   | Medium Fiend, Neutral Evil   | Medium Fiend, Neutral Evil   | Medium Fiend, Neutral Evil   | Medium Fiend, Neutral Evil   | Medium Fiend, Neutral Evil   | Medium Fiend, Neutral Evil   | Medium Fiend, Neutral Evil   | Medium Fiend, Neutral Evil   |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| AC                           | 15                           | +                            | SAVE                         |                              | Initiative +3                | (13)                         |                              |                              |
-| HP 66 (12d8 12)              | HP 66 (12d8 12)              | HP 66 (12d8 12)              | HP 66 (12d8 12)              | HP 66 (12d8 12)              | HP 66 (12d8 12)              | HP 66 (12d8 12)              | HP 66 (12d8 12)              | HP 66 (12d8 12)              |
-| Speed 30 ft., Fly 60 ft.     | Speed 30 ft., Fly 60 ft.     | Speed 30 ft., Fly 60 ft.     | Speed 30 ft., Fly 60 ft.     | Speed 30 ft., Fly 60 ft.     | Speed 30 ft., Fly 60 ft.     | Speed 30 ft., Fly 60 ft.     | Speed 30 ft., Fly 60 ft.     | Speed 30 ft., Fly 60 ft.     |
-|                              |                              | MOD                          |                              |                              | SAVE                         |                              | MOD                          | SAVE                         |
-| S tr                         | 8                            | -1                           | -1                           | Dex 17                       | +3                           | Con 13                       | +1                           | +1                           |
-| I nt                         | 15                           | +2                           | +2                           | WIS 12                       | +1                           | Cha 20                       | +5                           | +5                           |
+**Bite.** Melee Attack Roll: +8, reach 10 ft. Hit: 10 (1d10 + 5) Piercing damage.
 
-Skills Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+### Ice Devil
 
-Resistances Cold, Fire, Poison, Psychic Senses Darkvision 60 ft.; Passive Perception 15 Languages Abyssal, Common, Infernal; telepathy 60 ft. CR 4 (XP 1,100; PB +2)
+#### Ice Devil
 
-## Traits
+*Large Fiend (Devil), Lawful Evil*
 
-Succubus Form. When the incubus finishes a Long Rest, it can shape-shift into a Succubus , using that stat block instead of this one. Any equipment it is wearing or carrying isn't transformed.
+**AC** 18
+**Initiative** +7 (17)
+**HP** 228 (24d10 + 96)
+**Speed** 40 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 21    | +5  | +5   |
+| DEX  | 14    | +2  | +7   |
+| CON  | 18    | +4  | +9   |
+| INT  | 18    | +4  | +4   |
+| WIS  | 15    | +2  | +7   |
+| CHA  | 18    | +4  | +9   |
 
-Multiattack. The incubus makes two Restless Touch attacks.
+**Skills** Insight +7, Perception +7, Persuasion +9
+**Immunities** Cold, Fire, Poison; Poisoned
+**Senses** Blindsight 120 ft.; Passive Perception 17
+**Languages** Infernal; telepathy 120 ft.
+**CR** 14 (XP 11,500; PB +5)
 
-Restless Touch. Melee Attack Roll: +7, reach 5 ft. Hit: 15 (3d6 + 5) Psychic damage, and the target is cursed for 24 hours or until the incubus dies. Until the curse ends, the target gains no benefit from finishing Short Rests.
+##### Traits
 
-Spellcasting. The incubus casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15):
+**Diabolical Restoration.** If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
 
-At Will: Disguise Self , Etherealness 1/Day Each: Dream , Hypnotic Pattern
+**Magic Resistance.** The devil has Advantage on saving throws against spells and other magical effects.
 
-## Bonus Actions
+##### Actions
 
-Nightmare (Recharge 6). Wisdom Saving Throw: DC 15, one creature the incubus can see within 60 feet. Failure: If the target has 20 Hit Points or fewer, it has the Unconscious condition for 1 hour, until it takes damage, or until a creature within 5 feet of it takes an action to wake it. Otherwise, the target takes 18 (4d8) Psychic damage.
+**Multiattack.** The devil makes three Ice Spear attacks. It can replace one attack with a Tail attack.
 
-## Invisible Stalker
+**Ice Spear.** Melee or Ranged Attack Roll: +10, reach 5 ft. or range 30/120 ft. Hit: 14 (2d8 + 5) Piercing damage plus 10 (3d6) Cold damage. Until the end of its next turn, the target can't take a Bonus Action or Reaction, its Speed decreases by 10 feet, and it can move or take one action on its turn, not both. Hit or Miss: The spear magically returns to the devil's hand immediately after a ranged attack.
 
-<!-- image -->
+**Tail.** Melee Attack Roll: +10, reach 10 ft. Hit: 15 (3d6 + 5) Bludgeoning damage plus 18 (4d8) Cold damage.
 
-| Invisible Stalker                | Invisible Stalker                | Invisible Stalker                | Invisible Stalker                | Invisible Stalker                | Invisible Stalker                | Invisible Stalker                | Invisible Stalker                | Invisible Stalker                | Invisible Stalker                |
-|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-| Large Elemental, Neutral         | Large Elemental, Neutral         | Large Elemental, Neutral         | Large Elemental, Neutral         | Large Elemental, Neutral         | Large Elemental, Neutral         | Large Elemental, Neutral         | Large Elemental, Neutral         | Large Elemental, Neutral         | Large Elemental, Neutral         |
-| AC 14 Initiative +7 (22)         | AC 14 Initiative +7 (22)         | AC 14 Initiative +7 (22)         | AC 14 Initiative +7 (22)         | AC 14 Initiative +7 (22)         | AC 14 Initiative +7 (22)         | AC 14 Initiative +7 (22)         | AC 14 Initiative +7 (22)         | AC 14 Initiative +7 (22)         | AC 14 Initiative +7 (22)         |
-| HP 97 (13d10 + 26)               | HP 97 (13d10 + 26)               | HP 97 (13d10 + 26)               | HP 97 (13d10 + 26)               | HP 97 (13d10 + 26)               | HP 97 (13d10 + 26)               | HP 97 (13d10 + 26)               | HP 97 (13d10 + 26)               | HP 97 (13d10 + 26)               | HP 97 (13d10 + 26)               |
-| Speed 50 ft., Fly 50 ft. (hover) | Speed 50 ft., Fly 50 ft. (hover) | Speed 50 ft., Fly 50 ft. (hover) | Speed 50 ft., Fly 50 ft. (hover) | Speed 50 ft., Fly 50 ft. (hover) | Speed 50 ft., Fly 50 ft. (hover) | Speed 50 ft., Fly 50 ft. (hover) | Speed 50 ft., Fly 50 ft. (hover) | Speed 50 ft., Fly 50 ft. (hover) | Speed 50 ft., Fly 50 ft. (hover) |
-|                                  |                                  | MOD                              | SAVE                             |                                  | MOD                              | SAVE                             |                                  | MOD                              | SAVE                             |
-| S tr                             | 16                               | +3                               | +3                               | Dex 19                           | +4                               | +4                               | Con 14                           | +2                               | +2                               |
-| I nt                             | 10                               | +0                               | +0                               | WIS 15                           | +2                               | +2                               | Cha 11                           | +0                               | +0                               |
+**Ice Wall (Recharge 6).** The devil casts Wall of Ice (level 8 version), requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17).
 
-Skills Perception +8, Stealth +10
+### Imp
 
-Resistances Bludgeoning, Piercing, Slashing Immunities Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious Senses Darkvision 60 ft.; Passive Perception 18 Languages Common, Primordial (Auran) CR 6 (XP 2,300; PB +3)
+#### Imp
 
-## Traits
+*Tiny Fiend (Devil), Lawful Evil*
 
-Air Form. The stalker can enter an enemy's space and stop there. It can move through a space as narrow as 1 inch without expending extra movement to do so.
+**AC** 13
+**Initiative** +3 (13)
+**HP** 21 (6d4 + 6)
+**Speed** 20 ft., Fly 40 ft.
 
-Invisibility. The stalker has the Invisible condition.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 6     | -2  | -2   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 13    | +1  | +1   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 14    | +2  | +2   |
 
-## Actions
+**Skills** Deception +4, Insight +3, Stealth +5
+**Resistances** Cold
+**Immunities** Fire, Poison; Poisoned
+**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 11
+**Languages** Common, Infernal
+**CR** 1 (XP 200; PB +2)
 
-Multiattack. The stalker makes three Wind Swipe attacks. It can replace one attack with a use of Vortex.
+##### Traits
 
-Wind Swipe. Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Force damage.
+**Magic Resistance.** The imp has Advantage on saving throws against spells and other magical effects.
 
-Vortex. Constitution Saving Throw: DC 14, one Large or smaller creature in the stalker's space. Failure: 7 (1d8 + 3) Thunder damage, and the target has the Grappled condition (escape DC 13). Until the grapple ends, the target can't cast spells with a Verbal component and
+##### Actions
 
-takes 7 (2d6) Thunder damage at the start of each of the stalker's turns.
+**Sting.** Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage plus 7 (2d6) Poison damage.
 
-## Iron Golem
+**Invisibility.** The imp casts Invisibility on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
-<!-- image -->
+**Shape-Shift.** The imp shape-shifts to resemble a rat (Speed 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.), or it returns to its true form. Its game statistics are the same in each form, except for its Speed. Any equipment it is wearing or carrying isn't transformed.
 
-Immunities Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+### Incubus
 
-Senses Darkvision 120 ft.; Passive Perception 10
+#### Incubus
 
-Languages Understands Common plus two other languages but can't speak
+*Medium Fiend, Neutral Evil*
 
-CR 16 (XP 15,000; PB +5)
+**AC** 15
+**Initiative** +3 (13)
+**HP** 66 (12d8 + 12)
+**Speed** 30 ft., Fly 60 ft.
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 8     | -1  | -1   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 13    | +1  | +1   |
+| INT  | 15    | +2  | +2   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 20    | +5  | +5   |
 
-Fire Absorption. Whenever the golem is subjected to Fire damage, it regains a number of Hit Points equal to the Fire damage dealt.
+**Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+**Resistances** Cold, Fire, Poison, Psychic
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** Abyssal, Common, Infernal; telepathy 60 ft.
+**CR** 4 (XP 1,100; PB +2)
 
-Immutable Form. The golem can't shape-shift.
+##### Traits
 
-Magic Resistance. The golem has Advantage on saving throws against spells and other magical effects.
+**Succubus Form.** When the incubus finishes a Long Rest, it can shape-shift into a Succubus, using that stat block instead of this one. Any equipment it is wearing or carrying isn't transformed.
 
-## Actions
+##### Actions
 
-Multiattack. The golem makes two attacks, using Bladed Arm or Fiery Bolt in any combination.
+**Multiattack.** The incubus makes two Restless Touch attacks.
 
-Bladed Arm. Melee Attack Roll: +12, reach 10 ft. Hit: 20 (3d8 + 7) Slashing damage plus 10 (3d6) Fire damage.
+**Restless Touch.** Melee Attack Roll: +7, reach 5 ft. Hit: 15 (3d6 + 5) Psychic damage, and the target is cursed for 24 hours or until the incubus dies. Until the curse ends, the target gains no benefit from finishing Short Rests.
 
-Fiery Bolt. Ranged Attack Roll: +10, range 120 ft. Hit: 36 (8d8) Fire damage.
+**Spellcasting.** The incubus casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15):
 
-Poison Breath (Recharge 6). Constitution Saving Throw: DC 18, each creature in a 60-foot Cone. Failure: 55 (10d10) Poison damage. Success: Half damage.
+- At Will: Disguise Self, Etherealness
+- 1/Day Each: Dream, Hypnotic Pattern
 
-## Knight
+##### Bonus Actions
 
-| Knight                            |
-|-----------------------------------|
-| Medium or Small Humanoid, Neutral |
-| AC 18 Initiative +0 (10)          |
-| HP 52 (8d8 + 16)                  |
-| Speed 30 ft.                      |
+**Nightmare (Recharge 6).** Wisdom Saving Throw: DC 15, one creature the incubus can see within 60 feet. Failure: If the target has 20 Hit Points or fewer, it has the Unconscious condition for 1 hour, until it takes damage, or until a creature within 5 feet of it takes an action to wake it. Otherwise, the target takes 18 (4d8) Psychic damage.
 
-<!-- image -->
+### Invisible Stalker
 
-## Actions
+#### Invisible Stalker
 
-Multiattack. The knight makes two attacks, using Greatsword or Heavy Crossbow in any combination.
+*Large Elemental, Neutral*
 
-Greatsword. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage plus 4 (1d8) Radiant damage.
+**AC** 14
+**Initiative** +7 (22)
+**HP** 97 (13d10 + 26)
+**Speed** 50 ft., Fly 50 ft. (hover)
 
-Heavy Crossbow. Ranged Attack Roll: +2, range 100/400 ft. Hit: 11 (2d10) Piercing damage plus 4 (1d8) Radiant damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 19    | +4  | +4   |
+| CON  | 14    | +2  | +2   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 15    | +2  | +2   |
+| CHA  | 11    | +0  | +0   |
 
-## Reactions
+**Skills** Perception +8, Stealth +10
+**Resistances** Bludgeoning, Piercing, Slashing
+**Immunities** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+**Senses** Darkvision 60 ft.; Passive Perception 18
+**Languages** Common, Primordial (Auran)
+**CR** 6 (XP 2,300; PB +3)
 
-Parry. Trigger: The knight is hit by a melee attack roll while holding a weapon. Response: The knight adds 2 to its AC against that attack, possibly causing it to miss.
+##### Traits
 
-## Kobold
+**Air Form.** The stalker can enter an enemy's space and stop there. It can move through a space as narrow as 1 inch without expending extra movement to do so.
 
-<!-- image -->
+**Invisibility.** The stalker has the Invisible condition.
 
-## Traits
+##### Actions
 
-Pack Tactics. The kobold has Advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+**Multiattack.** The stalker makes three Wind Swipe attacks. It can replace one attack with a use of Vortex.
 
-Sunlight Sensitivity. While in sunlight, the kobold has Disadvantage on ability checks and attack rolls.
+**Wind Swipe.** Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Force damage.
 
-## Actions
+**Vortex.** Constitution Saving Throw: DC 14, one Large or smaller creature in the stalker's space. Failure: 7 (1d8 + 3) Thunder damage, and the target has the Grappled condition (escape DC 13). Until the grapple ends, the target can't cast spells with a Verbal component and takes 7 (2d6) Thunder damage at the start of each of the stalker's turns.
 
-Dagger. Melee or Ranged Attack Roll: +4, reach 5 ft. or range 20/60 ft. Hit: 4 (1d4 + 2) Piercing damage.
+### Iron Golem
 
-## Kraken
+#### Iron Golem
 
-<!-- image -->
+*Large Construct, Unaligned*
 
-## Traits
+**AC** 20
+**Initiative** +9 (19)
+**HP** 252 (24d10 + 120)
+**Speed** 30 ft.
 
-Amphibious. The kraken can breathe air and water.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 24    | +7  | +7   |
+| DEX  | 9     | -1  | -1   |
+| CON  | 20    | +5  | +5   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 1     | -5  | -5   |
 
-Legendary Resistance (4/Day, or 5/Day in Lair). If the kraken fails a saving throw, it can choose to succeed instead.
+**Immunities** Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Senses** Darkvision 120 ft.; Passive Perception 10
+**Languages** Understands Common plus two other languages but can't speak
+**CR** 16 (XP 15,000; PB +5)
 
-Siege Monster. The kraken deals double damage to objects and structures.
+##### Traits
 
-## Actions
+**Fire Absorption.** Whenever the golem is subjected to Fire damage, it regains a number of Hit Points equal to the Fire damage dealt.
 
-Multiattack. The kraken makes two Tentacle attacks and uses Fling, Lightning Strike, or Swallow.
+**Immutable Form.** The golem can't shape-shift.
 
-Tentacle. Melee Attack Roll: +17, reach 30 ft. Hit: 24 (4d6 + 10) Bludgeoning damage. The target has the Grappled condition (escape DC 20) from one of ten tentacles, and it has the Restrained condition until the grapple ends.
+**Magic Resistance.** The golem has Advantage on saving throws against spells and other magical effects.
 
-Fling. The kraken throws a Large or smaller creature Grappled by it to a space it can see within 60 feet of itself that isn't in the air. Dexterity Saving Throw: DC 25, the creature thrown and each creature in the destination space. Failure: 18 (4d8) Bludgeoning damage, and the target has the Prone condition. Success: Half damage only.
+##### Actions
 
-Lightning Strike. Dexterity Saving Throw: DC 23, one creature the kraken can see within 120 feet. Failure: 33 (6d10) Lightning damage. Success: Half damage.
+**Multiattack.** The golem makes two attacks, using Bladed Arm or Fiery Bolt in any combination.
 
-Swallow. Dexterity Saving Throw: DC 25, one creature Grappled by the kraken (it can have up to four creatures swallowed at a time). Failure: 23 (3d8 + 10) Piercing damage. If the target is Large or smaller, it is swallowed and no longer Grappled. A swallowed creature has the Restrained condition, has Total Cover against attacks and other effects outside the kraken, and takes 24 (7d6) Acid damage at the start of each of its turns. If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 10 feet of the kraken with the Prone condition. If the kraken dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 15 feet of movement, exiting Prone.
+**Bladed Arm.** Melee Attack Roll: +12, reach 10 ft. Hit: 20 (3d8 + 7) Slashing damage plus 10 (3d6) Fire damage.
 
-## Legendary Actions
+**Fiery Bolt.** Ranged Attack Roll: +10, range 120 ft. Hit: 36 (8d8) Fire damage.
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the kraken can expend a use to take one of the following actions. The kraken regains all expended uses at the start of each of its turns.
+**Poison Breath (Recharge 6).** Constitution Saving Throw: DC 18, each creature in a 60-foot Cone. Failure: 55 (10d10) Poison damage. Success: Half damage.
 
-Storm Bolt. The kraken uses Lightning Strike.
+### Knight
 
-Toxic Ink. Constitution Saving Throw: DC 23, each creature in a 15-foot Emanation originating from the kraken while it is underwater. Failure: The target has the Blinded and Poisoned conditions until the end of the kraken's next turn. The kraken then moves up to its Speed. Failure or Success: The kraken can't take this action again until the start of its next turn.
+#### Knight
 
-## Lamia
+*Medium or Small Humanoid, Neutral*
 
-<!-- image -->
+**AC** 18
+**Initiative** +0 (10)
+**HP** 52 (8d8 + 16)
+**Speed** 30 ft.
 
-| Lamia                                                                                       | Lamia                                                                                       | Lamia                                                                                       | Lamia                                                                                       | Lamia                                                                                       | Lamia                                                                                       | Lamia                                                                                       | Lamia                                                                                       | Lamia                                                                                       | Lamia                                                                                       |
-|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Large Fiend, Chaotic Evil                                                                   | Large Fiend, Chaotic Evil                                                                   | Large Fiend, Chaotic Evil                                                                   | Large Fiend, Chaotic Evil                                                                   | Large Fiend, Chaotic Evil                                                                   | Large Fiend, Chaotic Evil                                                                   | Large Fiend, Chaotic Evil                                                                   | Large Fiend, Chaotic Evil                                                                   | Large Fiend, Chaotic Evil                                                                   | Large Fiend, Chaotic Evil                                                                   |
-| AC 13                                                                                       | AC 13                                                                                       | AC 13                                                                                       | AC 13                                                                                       | AC 13                                                                                       | Initiative +1 (11)                                                                          | Initiative +1 (11)                                                                          | Initiative +1 (11)                                                                          | Initiative +1 (11)                                                                          | Initiative +1 (11)                                                                          |
-| HP 97 (13d10 + 26)                                                                          | HP 97 (13d10 + 26)                                                                          | HP 97 (13d10 + 26)                                                                          | HP 97 (13d10 + 26)                                                                          | HP 97 (13d10 + 26)                                                                          |                                                                                             |                                                                                             |                                                                                             |                                                                                             |                                                                                             |
-| Speed 40 ft.                                                                                | Speed 40 ft.                                                                                | Speed 40 ft.                                                                                | Speed 40 ft.                                                                                | Speed 40 ft.                                                                                |                                                                                             |                                                                                             |                                                                                             |                                                                                             |                                                                                             |
-|                                                                                             |                                                                                             | MOD SAVE                                                                                    | MOD SAVE                                                                                    | MOD SAVE                                                                                    | MOD SAVE                                                                                    | MOD SAVE                                                                                    | MOD SAVE                                                                                    | MOD                                                                                         | SAVE                                                                                        |
-| S tr                                                                                        | 16                                                                                          | +3                                                                                          | +3                                                                                          | Dex 13                                                                                      | +1                                                                                          | +1                                                                                          | Con 15                                                                                      | +2                                                                                          | +2                                                                                          |
-| I nt                                                                                        | 14                                                                                          | +2                                                                                          | +2                                                                                          | WIS 15                                                                                      | +2                                                                                          | +2                                                                                          | Cha 16                                                                                      | +3                                                                                          | +3                                                                                          |
-| Skills Deception +7, Insight +4, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 12 | Skills Deception +7, Insight +4, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 12 | Skills Deception +7, Insight +4, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 12 | Skills Deception +7, Insight +4, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 12 | Skills Deception +7, Insight +4, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 12 | Skills Deception +7, Insight +4, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 12 | Skills Deception +7, Insight +4, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 12 | Skills Deception +7, Insight +4, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 12 | Skills Deception +7, Insight +4, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 12 | Skills Deception +7, Insight +4, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 12 |
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 14    | +2  | +4   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 15    | +2  | +2   |
 
-## Actions
+**Immunities** Frightened
+**Gear** Greatsword, Heavy Crossbow, Plate Armor
+**Senses** Passive Perception 10
+**Languages** Common plus one other language
+**CR** 3 (XP 700; PB +2)
 
-Multiattack. The lamia makes two Claw attacks. It can replace one attack with a use of Corrupting Touch.
+##### Actions
 
-Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage plus 7 (2d6) Psychic damage.
+**Multiattack.** The knight makes two attacks, using Greatsword or Heavy Crossbow in any combination.
 
-Corrupting Touch. Wisdom Saving Throw: DC 13, one creature the lamia can see within 5 feet. Failure: 13 (3d8) Psychic damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions.
+**Greatsword.** Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage plus 4 (1d8) Radiant damage.
 
-Spellcasting. The lamia casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
+**Heavy Crossbow.** Ranged Attack Roll: +2, range 100/400 ft. Hit: 11 (2d10) Piercing damage plus 4 (1d8) Radiant damage.
 
-At Will: Disguise Self (can appear as a Large or Medium biped), Minor Illusion
+##### Reactions
 
-1/Day Each: Geas , Major Image , Scrying
+**Parry.** Trigger: The knight is hit by a melee attack roll while holding a weapon. Response: The knight adds 2 to its AC against that attack, possibly causing it to miss.
 
-## Bonus Actions
+### Kobold
 
-Leap. The lamia jumps up to 30 feet by spending 10 feet of movement.
+#### Kobold Warrior
 
-## Lemure
+*Small Dragon, Neutral*
 
-<!-- image -->
+**AC** 14
+**Initiative** +2 (12)
+**HP** 7 (3d6 - 3)
+**Speed** 30 ft.
 
-## Resistances Cold
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 7     | -2  | -2   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 9     | -1  | -1   |
+| INT  | 8     | -1  | -1   |
+| WIS  | 7     | -2  | -2   |
+| CHA  | 8     | -1  | -1   |
 
-Immunities Fire, Poison; Charmed, Frightened, Poisoned Senses Darkvision 120 ft. (unimpeded by magical
+**Gear** Daggers (3)
+**Senses** Darkvision 60 ft.; Passive Perception 8
+**Languages** Common, Draconic
+**CR** 1/8 (XP 25; PB +2)
 
-- Darkness); Passive Perception 10
+##### Traits
 
-Languages Understands Infernal but can't speak CR 0 (XP 10; PB +2)
+**Pack Tactics.** The kobold has Advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-## Traits
+**Sunlight Sensitivity.** While in sunlight, the kobold has Disadvantage on ability checks and attack rolls.
 
-Hellish Restoration. If the lemure dies in the Nine Hells, it revives with all its Hit Points in 1d10 days unless it is killed by a creature under the effects of a Bless spell or its remains are sprinkled with Holy Water.
+##### Actions
 
-## Actions
+**Dagger.** Melee or Ranged Attack Roll: +4, reach 5 ft. or range 20/60 ft. Hit: 4 (1d4 + 2) Piercing damage.
 
-Vile Slime. Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Poison damage.
+### Kraken
 
-## Lich
+#### Kraken
 
-<!-- image -->
+*Gargantuan Monstrosity (Titan), Chaotic Evil*
 
-| Lich                                                                                                      |                                                                                                           |                                                                                                           |                                                                                                           |                                                                                                           |                                                                                                           |                                                                                                           |                                                                                                           |                                                                                                           |                                                                                                           |                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Medium Undead (Wizard), Neutral Evil                                                                      | Medium Undead (Wizard), Neutral Evil                                                                      | Medium Undead (Wizard), Neutral Evil                                                                      | Medium Undead (Wizard), Neutral Evil                                                                      | Medium Undead (Wizard), Neutral Evil                                                                      | Medium Undead (Wizard), Neutral Evil                                                                      | Medium Undead (Wizard), Neutral Evil                                                                      | Medium Undead (Wizard), Neutral Evil                                                                      | Medium Undead (Wizard), Neutral Evil                                                                      | Medium Undead (Wizard), Neutral Evil                                                                      | Medium Undead (Wizard), Neutral Evil                                                                      |
-| AC 20 Initiative +17 (27)                                                                                 | AC 20 Initiative +17 (27)                                                                                 | AC 20 Initiative +17 (27)                                                                                 | AC 20 Initiative +17 (27)                                                                                 | AC 20 Initiative +17 (27)                                                                                 | AC 20 Initiative +17 (27)                                                                                 | AC 20 Initiative +17 (27)                                                                                 | AC 20 Initiative +17 (27)                                                                                 | AC 20 Initiative +17 (27)                                                                                 | AC 20 Initiative +17 (27)                                                                                 | AC 20 Initiative +17 (27)                                                                                 |
-| HP 315 (42d8 + 126) Speed 30 ft.                                                                          | HP 315 (42d8 + 126) Speed 30 ft.                                                                          | HP 315 (42d8 + 126) Speed 30 ft.                                                                          | HP 315 (42d8 + 126) Speed 30 ft.                                                                          | HP 315 (42d8 + 126) Speed 30 ft.                                                                          | HP 315 (42d8 + 126) Speed 30 ft.                                                                          | HP 315 (42d8 + 126) Speed 30 ft.                                                                          | HP 315 (42d8 + 126) Speed 30 ft.                                                                          | HP 315 (42d8 + 126) Speed 30 ft.                                                                          | HP 315 (42d8 + 126) Speed 30 ft.                                                                          | HP 315 (42d8 + 126) Speed 30 ft.                                                                          |
-|                                                                                                           |                                                                                                           | MOD SAVE MOD SAVE MOD SAVE                                                                                | MOD SAVE MOD SAVE MOD SAVE                                                                                | MOD SAVE MOD SAVE MOD SAVE                                                                                | MOD SAVE MOD SAVE MOD SAVE                                                                                | MOD SAVE MOD SAVE MOD SAVE                                                                                | MOD SAVE MOD SAVE MOD SAVE                                                                                | MOD SAVE MOD SAVE MOD SAVE                                                                                | MOD SAVE MOD SAVE MOD SAVE                                                                                | MOD SAVE MOD SAVE MOD SAVE                                                                                |
-| S tr                                                                                                      | 11                                                                                                        | +0                                                                                                        | +0                                                                                                        | Dex                                                                                                       | 16                                                                                                        | +3                                                                                                        | +10                                                                                                       | Con 16                                                                                                    | +3                                                                                                        | +10                                                                                                       |
-| I nt                                                                                                      | 21                                                                                                        | +5                                                                                                        | +12                                                                                                       | WIS                                                                                                       | 14                                                                                                        | +2                                                                                                        | +9                                                                                                        | Cha 16                                                                                                    | +3                                                                                                        | +3                                                                                                        |
-| Skills Arcana +19, History +12, Insight +9, Perception +9 Resistances Cold, Lightning                     | Skills Arcana +19, History +12, Insight +9, Perception +9 Resistances Cold, Lightning                     | Skills Arcana +19, History +12, Insight +9, Perception +9 Resistances Cold, Lightning                     | Skills Arcana +19, History +12, Insight +9, Perception +9 Resistances Cold, Lightning                     | Skills Arcana +19, History +12, Insight +9, Perception +9 Resistances Cold, Lightning                     | Skills Arcana +19, History +12, Insight +9, Perception +9 Resistances Cold, Lightning                     | Skills Arcana +19, History +12, Insight +9, Perception +9 Resistances Cold, Lightning                     | Skills Arcana +19, History +12, Insight +9, Perception +9 Resistances Cold, Lightning                     | Skills Arcana +19, History +12, Insight +9, Perception +9 Resistances Cold, Lightning                     | Skills Arcana +19, History +12, Insight +9, Perception +9 Resistances Cold, Lightning                     | Skills Arcana +19, History +12, Insight +9, Perception +9 Resistances Cold, Lightning                     |
-| Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Gear Component Pouch    | Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Gear Component Pouch    | Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Gear Component Pouch    | Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Gear Component Pouch    | Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Gear Component Pouch    | Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Gear Component Pouch    | Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Gear Component Pouch    | Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Gear Component Pouch    | Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Gear Component Pouch    | Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Gear Component Pouch    | Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned Gear Component Pouch    |
-| Senses Truesight 120 ft.; Passive Perception 19 Languages All CR 21 (XP 33,000, or 41,000 in lair; PB +7) | Senses Truesight 120 ft.; Passive Perception 19 Languages All CR 21 (XP 33,000, or 41,000 in lair; PB +7) | Senses Truesight 120 ft.; Passive Perception 19 Languages All CR 21 (XP 33,000, or 41,000 in lair; PB +7) | Senses Truesight 120 ft.; Passive Perception 19 Languages All CR 21 (XP 33,000, or 41,000 in lair; PB +7) | Senses Truesight 120 ft.; Passive Perception 19 Languages All CR 21 (XP 33,000, or 41,000 in lair; PB +7) | Senses Truesight 120 ft.; Passive Perception 19 Languages All CR 21 (XP 33,000, or 41,000 in lair; PB +7) | Senses Truesight 120 ft.; Passive Perception 19 Languages All CR 21 (XP 33,000, or 41,000 in lair; PB +7) | Senses Truesight 120 ft.; Passive Perception 19 Languages All CR 21 (XP 33,000, or 41,000 in lair; PB +7) | Senses Truesight 120 ft.; Passive Perception 19 Languages All CR 21 (XP 33,000, or 41,000 in lair; PB +7) | Senses Truesight 120 ft.; Passive Perception 19 Languages All CR 21 (XP 33,000, or 41,000 in lair; PB +7) | Senses Truesight 120 ft.; Passive Perception 19 Languages All CR 21 (XP 33,000, or 41,000 in lair; PB +7) |
-| Traits                                                                                                    | Traits                                                                                                    | Traits                                                                                                    | Traits                                                                                                    | Traits                                                                                                    | Traits                                                                                                    | Traits                                                                                                    | Traits                                                                                                    | Traits                                                                                                    | Traits                                                                                                    | Traits                                                                                                    |
+**AC** 18
+**Initiative** +14 (24)
+**HP** 481 (26d20 + 208)
+**Speed** 30 ft., Swim 120 ft.
 
-Legendary Resistance (4/Day, or 5/Day in Lair). If the lich fails a saving throw, it can choose to succeed instead.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 30    | +10 | +17  |
+| DEX  | 11    | +0  | +7   |
+| CON  | 26    | +8  | +15  |
+| INT  | 22    | +6  | +6   |
+| WIS  | 18    | +4  | +11  |
+| CHA  | 20    | +5  | +5   |
 
-Spirit Jar. If destroyed, the lich reforms in 1d10 days if it has a spirit jar, reviving with all its Hit Points. The new body appears in an unoccupied space within the lich's lair.
+**Skills** History +13, Perception +11
+**Immunities** Cold, Lightning; Frightened, Grappled, Paralyzed, Restrained
+**Senses** Truesight 120 ft.; Passive Perception 21
+**Languages** Understands Abyssal, Celestial, Infernal, and Primordial but can't speak; telepathy 120 ft.
+**CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
 
-## Actions
+##### Traits
 
-Multiattack. The lich makes three attacks, using Eldritch Burst or Paralyzing Touch in any combination.
+**Amphibious.** The kraken can breathe air and water.
 
-Eldritch Burst. Melee or Ranged Attack Roll: +12, reach 5 ft. or range 120 ft. Hit: 31 (4d12 + 5) Force damage.
+**Legendary Resistance (4/Day, or 5/Day in Lair).** If the kraken fails a saving throw, it can choose to succeed instead.
 
-Paralyzing Touch. Melee Attack Roll: +12, reach 5 ft. Hit: 15 (3d6 + 5) Cold damage, and the target has the Paralyzed condition until the start of the lich's next turn.
+**Siege Monster.** The kraken deals double damage to objects and structures.
 
-Spellcasting. The lich casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):
+##### Actions
 
-- At Will: Detect Magic , Detect Thoughts , Dispel Magic , Fireball (level 5 version), Invisibility , Lightning Bolt (level 5 version), Mage Hand , Prestidigitation
-- 2/Day Each: Animate Dead , Dimension Door , Plane Shift
-- 1/Day Each: Chain Lightning , Finger of Death , Power Word Kill , Scrying
+**Multiattack.** The kraken makes two Tentacle attacks and uses Fling, Lightning Strike, or Swallow.
 
-## Reactions
+**Tentacle.** Melee Attack Roll: +17, reach 30 ft. Hit: 24 (4d6 + 10) Bludgeoning damage. The target has the Grappled condition (escape DC 20) from one of ten tentacles, and it has the Restrained condition until the grapple ends.
 
-Protective Magic. The lich casts Counterspell or Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+**Fling.** The kraken throws a Large or smaller creature Grappled by it to a space it can see within 60 feet of itself that isn't in the air. Dexterity Saving Throw: DC 25, the creature thrown and each creature in the destination space. Failure: 18 (4d8) Bludgeoning damage, and the target has the Prone condition. Success: Half damage only.
 
-## Legendary Actions
+**Lightning Strike.** Dexterity Saving Throw: DC 23, one creature the kraken can see within 120 feet. Failure: 33 (6d10) Lightning damage. Success: Half damage.
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the lich can expend a use to take one of the following actions. The lich regains all expended uses at the start of each of its turns.
+**Swallow.** Dexterity Saving Throw: DC 25, one creature Grappled by the kraken (it can have up to four creatures swallowed at a time). Failure: 23 (3d8 + 10) Piercing damage. If the target is Large or smaller, it is swallowed and no longer Grappled. A swallowed creature has the Restrained condition, has Total Cover against attacks and other effects outside the kraken, and takes 24 (7d6) Acid damage at the start of each of its turns. If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 10 feet of the kraken with the Prone condition. If the kraken dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 15 feet of movement, exiting Prone.
 
-Deathly Teleport. The lich teleports up to 60 feet to an unoccupied space it can see, and each creature within 10 feet of the space it left takes 11 (2d10) Necrotic damage.
+##### Legendary Actions
 
-Disrupt Life. Constitution Saving Throw: DC 20, each creature that isn't an Undead in a 20-foot Emanation originating from the lich. Failure: 31 (9d6) Necrotic damage. Success: Half damage. Failure or Success: The lich can't take this action again until the start of its next turn.
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the kraken can expend a use to take one of the following actions. The kraken regains all expended uses at the start of each of its turns.
 
-Frightening Gaze. The lich casts Fear , using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn.
+**Storm Bolt.** The kraken uses Lightning Strike.
 
-## Mages
+**Toxic Ink.** Constitution Saving Throw: DC 23, each creature in a 15-foot Emanation originating from the kraken while it is underwater. Failure: The target has the Blinded and Poisoned conditions until the end of the kraken's next turn. The kraken then moves up to its Speed. Failure or Success: The kraken can't take this action again until the start of its next turn.
 
-## Mage
+### Lamia
 
-<!-- image -->
+#### Lamia
 
-## Actions
+*Large Fiend, Chaotic Evil*
 
-Multiattack. The mage makes three Arcane Burst attacks.
+**AC** 13
+**Initiative** +1 (11)
+**HP** 97 (13d10 + 26)
+**Speed** 40 ft.
 
-Arcane Burst. Melee or Ranged Attack Roll: +6, reach 5 ft. or range 120 ft. Hit: 16 (3d8 + 3) Force damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 15    | +2  | +2   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 15    | +2  | +2   |
+| CHA  | 16    | +3  | +3   |
 
-Spellcasting. The mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
+**Skills** Deception +7, Insight +4, Stealth +5
+**Senses** Darkvision 60 ft.; Passive Perception 12
+**Languages** Abyssal, Common
+**CR** 4 (XP 1,100; PB +2)
 
-At Will: Detect Magic , Light , Mage Armor (included in AC), Mage Hand , Prestidigitation
+##### Actions
 
-2/Day Each: Fireball (level 4 version), Invisibility 1/Day Each: Cone of Cold , Fly
+**Multiattack.** The lamia makes two Claw attacks. It can replace one attack with a use of Corrupting Touch.
 
-## Bonus Actions
+**Claw.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage plus 7 (2d6) Psychic damage.
 
-Misty Step (3/Day). The mage casts Misty Step , using the same spellcasting ability as Spellcasting.
+**Corrupting Touch.** Wisdom Saving Throw: DC 13, one creature the lamia can see within 5 feet. Failure: 13 (3d8) Psychic damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions.
 
-## Reactions
+**Spellcasting.** The lamia casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-Protective Magic (3/Day). The mage casts Counterspell or Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+- At Will: Disguise Self (can appear as a Large or Medium biped), Minor Illusion
+- 1/Day Each: Geas, Major Image, Scrying
 
-<!-- image -->
+##### Bonus Actions
 
-## Traits
+**Leap.** The lamia jumps up to 30 feet by spending 10 feet of movement.
 
-Magic Resistance. The archmage has Advantage on saving throws against spells and other magical effects.
+### Lemure
 
-## Actions
+#### Lemure
 
-Multiattack. The archmage makes four Arcane Burst attacks.
+*Medium Fiend (Devil), Lawful Evil*
 
-Arcane Burst. Melee or Ranged Attack Roll: +9, reach 5 ft. or range 150 ft. Hit: 27 (4d10 + 5) Force damage.
+**AC** 9
+**Initiative** -3 (7)
+**HP** 9 (2d8)
+**Speed** 20 ft.
 
-Spellcasting. The archmage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 5     | -3  | -3   |
+| CON  | 11    | +0  | +0   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
 
-At Will: Detect Magic , Detect Thoughts , Disguise Self , Invisibility , Light , Mage Armor (included in AC), Mage Hand , Prestidigitation
+**Resistances** Cold
+**Immunities** Fire, Poison; Charmed, Frightened, Poisoned
+**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 10
+**Languages** Understands Infernal but can't speak
+**CR** 0 (XP 10; PB +2)
 
-Mind Blank
+##### Traits
 
-2/Day Each: Fly , Lightning Bolt (level 7 version) 1/Day Each: Cone of Cold (level 9 version), (cast before combat), Scrying , Teleport
+**Hellish Restoration.** If the lemure dies in the Nine Hells, it revives with all its Hit Points in 1d10 days unless it is killed by a creature under the effects of a Bless spell or its remains are sprinkled with Holy Water.
 
-## Bonus Actions
+##### Actions
 
-Misty Step (3/Day). The mage casts Misty Step , using the same spellcasting ability as Spellcasting.
+**Vile Slime.** Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Poison damage.
 
-## Reactions
+### Lich
 
-Protective Magic (3/Day). The archmage casts Counterspell or Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+#### Lich
 
-## Magmin
+*Medium Undead (Wizard), Neutral Evil*
 
-<!-- image -->
+**AC** 20
+**Initiative** +17 (27)
+**HP** 315 (42d8 + 126)
+**Speed** 30 ft.
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 11    | +0  | +0   |
+| DEX  | 16    | +3  | +10  |
+| CON  | 16    | +3  | +10  |
+| INT  | 21    | +5  | +12  |
+| WIS  | 14    | +2  | +9   |
+| CHA  | 16    | +3  | +3   |
 
-Death Burst. The magmin explodes when it dies. Dexterity Saving Throw: DC 11, each creature in a 10-foot Emanation originating from the magmin. Failure : 7 (2d6) Fire damage. Success: Half damage.
+**Skills** Arcana +19, History +12, Insight +9, Perception +9
+**Resistances** Cold, Lightning
+**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+**Gear** Component Pouch
+**Senses** Truesight 120 ft.; Passive Perception 19
+**Languages** All
+**CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
 
-## Actions
+##### Traits
 
-Touch. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Fire damage. If the target is a creature or a flammable object that isn't being worn or carried, it starts burning.
+**Legendary Resistance (4/Day, or 5/Day in Lair).** If the lich fails a saving throw, it can choose to succeed instead.
 
-## Bonus Actions
+**Spirit Jar.** If destroyed, the lich reforms in 1d10 days if it has a spirit jar, reviving with all its Hit Points. The new body appears in an unoccupied space within the lich's lair.
 
-Ignited Illumination. The magmin sets itself ablaze or extinguishes its flames. While ablaze, the magmin sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
+##### Actions
 
-## Manticore
+**Multiattack.** The lich makes three attacks, using Eldritch Burst or Paralyzing Touch in any combination.
 
-<!-- image -->
+**Eldritch Burst.** Melee or Ranged Attack Roll: +12, reach 5 ft. or range 120 ft. Hit: 31 (4d12 + 5) Force damage.
 
-## Actions
+**Paralyzing Touch.** Melee Attack Roll: +12, reach 5 ft. Hit: 15 (3d6 + 5) Cold damage, and the target has the Paralyzed condition until the start of the lich's next turn.
 
-Multiattack. The manticore makes three attacks, using Rend or Tail Spike in any combination.
+**Spellcasting.** The lich casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):
 
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage.
+- At Will: Detect Magic, Detect Thoughts, Dispel Magic, Fireball (level 5 version), Invisibility, Lightning Bolt (level 5 version), Mage Hand, Prestidigitation
+- 2/Day Each: Animate Dead, Dimension Door, Plane Shift
+- 1/Day Each: Chain Lightning, Finger of Death, Power Word Kill, Scrying
 
-Tail Spike. Ranged Attack Roll: +5, range 100/200 ft. Hit: 7 (1d8 + 3) Piercing damage.
+##### Reactions
 
-## Marilith
+**Protective Magic.** The lich casts Counterspell or Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
 
-<!-- image -->
+##### Legendary Actions
 
-## Traits
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the lich can expend a use to take one of the following actions. The lich regains all expended uses at the start of each of its turns.
 
-Demonic Restoration. If the marilith dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+**Deathly Teleport.** The lich teleports up to 60 feet to an unoccupied space it can see, and each creature within 10 feet of the space it left takes 11 (2d10) Necrotic damage.
 
-Magic Resistance. The marilith has Advantage on saving throws against spells and other magical effects.
+**Disrupt Life.** Constitution Saving Throw: DC 20, each creature that isn't an Undead in a 20-foot Emanation originating from the lich. Failure: 31 (9d6) Necrotic damage. Success: Half damage. Failure or Success: The lich can't take this action again until the start of its next turn.
 
-Reactive. The marilith can take one Reaction on every turn of combat.
+**Frightening Gaze.** The lich casts Fear, using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn.
 
-## Actions
+### Mages
 
-Multiattack. The marilith makes six Pact Blade attacks and uses Constrict.
+#### Mage
 
-Pact Blade. Melee Attack Roll: +10, reach 5 ft. Hit: 10 (1d10 + 5) Slashing damage plus 7 (2d6) Necrotic damage.
+*Medium or Small Humanoid (Wizard), Neutral*
 
-Constrict. Strength Saving Throw: DC 17, one Medium or smaller creature the marilith can see within 5 feet. Failure: 15 (2d10 + 4) Bludgeoning damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.
+**AC** 15
+**Initiative** +2 (12)
+**HP** 81 (18d8)
+**Speed** 30 ft.
 
-## Bonus Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 9     | -1  | -1   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 11    | +0  | +0   |
+| INT  | 17    | +3  | +6   |
+| WIS  | 12    | +1  | +4   |
+| CHA  | 11    | +0  | +0   |
 
-Teleport (Recharge 5-6). The marilith teleports up to 120 feet to an unoccupied space it can see.
+**Skills** Arcana +6, History +6, Perception +4
+**Gear** Wand
+**Senses** Passive Perception 14
+**Languages** Common plus three other languages
+**CR** 6 (XP 2,300; PB +3)
 
-## Reactions
+##### Actions
 
-Parry. Trigger: The marilith is hit by a melee attack roll while holding a weapon. Response: The marilith adds 5 to its AC against that attack, possibly causing it to miss.
+**Multiattack.** The mage makes three Arcane Burst attacks.
 
-## Medusa
+**Arcane Burst.** Melee or Ranged Attack Roll: +6, reach 5 ft. or range 120 ft. Hit: 16 (3d8 + 3) Force damage.
 
-<!-- image -->
+**Spellcasting.** The mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
 
-## Actions
+- At Will: Detect Magic, Light, Mage Armor (included in AC), Mage Hand, Prestidigitation
+- 2/Day Each: Fireball (level 4 version), Invisibility
+- 1/Day Each: Cone of Cold, Fly
 
-Multiattack. The medusa makes two Claw attacks and one Snake Hair attack, or it makes three Poison Ray attacks.
+##### Bonus Actions
 
-Claw. Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.
+**Misty Step (3/Day).** The mage casts Misty Step, using the same spellcasting ability as Spellcasting.
 
-Snake Hair. Melee Attack Roll: +6, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage plus 14 (4d6) Poison damage.
+##### Reactions
 
-Poison Ray. Ranged Attack Roll: +5, range 150 ft. Hit: 11 (2d8 + 2) Poison damage.
+**Protective Magic (3/Day).** The mage casts Counterspell or Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
 
-## Bonus Actions
+#### Archmage
 
-Petrifying Gaze (Recharge 5-6). Constitution Saving Throw: DC 13, each creature in a 30-foot Cone. If the medusa sees its reflection in the Cone, the medusa must make this save. First Failure: The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. Second Failure: The target has the Petrified condition instead of the Restrained condition.
+*Medium or Small Humanoid (Wizard), Neutral*
 
-## Mephits
+**AC** 17
+**Initiative** +7 (17)
+**HP** 170 (31d8 + 31)
+**Speed** 30 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 20    | +5  | +9   |
+| WIS  | 15    | +2  | +6   |
+| CHA  | 16    | +3  | +3   |
 
-## Traits
+**Skills** Arcana +13, History +9, Perception +6
+**Immunities** Psychic; Charmed (with Mind Blank)
+**Gear** Wand
+**Senses** Passive Perception 16
+**Languages** Common plus five other languages
+**CR** 12 (XP 8,000; PB +4)
 
-Death Burst. The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each creature in a 5-foot Emanation originating from the mephit. Failure: 5 (2d4) Bludgeoning damage. Success: Half damage.
+##### Traits
 
-## Actions
+**Magic Resistance.** The archmage has Advantage on saving throws against spells and other magical effects.
 
-Claw. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage.
+##### Actions
 
-Blinding Breath (Recharge 6). Dexterity Saving Throw: DC 10, each creature in a 15-foot Cone. Failure: The target has the Blinded condition until the end of the mephit's next turn.
+**Multiattack.** The archmage makes four Arcane Burst attacks.
 
-Sleep (1/Day). The mephit casts the Sleep spell, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 10).
+**Arcane Burst.** Melee or Ranged Attack Roll: +9, reach 5 ft. or range 150 ft. Hit: 27 (4d10 + 5) Force damage.
 
-## Ice Mephit
+**Spellcasting.** The archmage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):
 
-Small Elemental, Neutral Evil
+- At Will: Detect Magic, Detect Thoughts, Disguise Self, Invisibility, Light, Mage Armor (included in AC), Mage Hand, Prestidigitation
+- 2/Day Each: Fly, Lightning Bolt (level 7 version)
+- 1/Day Each: Cone of Cold (level 9 version), Mind Blank (cast before combat), Scrying, Teleport
 
-AC
+##### Bonus Actions
 
-11
+**Misty Step (3/Day).** The mage casts Misty Step, using the same spellcasting ability as Spellcasting.
 
-HP
+##### Reactions
 
-21 (6d6)
+**Protective Magic (3/Day).** The archmage casts Counterspell or Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
 
-Speed
+### Magmin
 
-30 ft., Fly 30 ft.
+#### Magmin
 
-Initiative
+*Small Elemental, Chaotic Neutral*
 
-+1 (11)
+**AC** 14
+**Initiative** +2 (12)
+**HP** 13 (3d6 + 3)
+**Speed** 30 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 7     | -2  | -2   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 8     | -1  | -1   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 10    | +0  | +0   |
 
-Skills Perception +2, Stealth +3 Vulnerabilities Fire Immunities Cold, Poison; Exhaustion, Poisoned Senses Darkvision 60 ft.; Passive Perception 12 Languages Primordial (Aquan, Auran) CR 1/2 (XP 100; PB +2)
+**Immunities** Fire
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Primordial (Ignan)
+**CR** 1/2 (XP 100; PB +2)
 
-## Traits
+##### Traits
 
-Death Burst. The mephit explodes when it dies. Constitution Saving Throw: DC 10, each creature in a 5-foot Emanation originating from the mephit. Failure: 5 (2d4) Cold damage. Success: Half damage.
+**Death Burst.** The magmin explodes when it dies. Dexterity Saving Throw: DC 11, each creature in a 10-foot Emanation originating from the magmin. Failure: 7 (2d6) Fire damage. Success: Half damage.
 
-## Actions
+##### Actions
 
-Claw. Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage plus 2 (1d4) Cold damage.
+**Touch.** Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Fire damage. If the target is a creature or a flammable object that isn't being worn or carried, it starts burning.
 
-Fog Cloud (1/Day). The mephit casts Fog Cloud , requiring no spell components and using Charisma as the spellcasting ability.
+##### Bonus Actions
 
-Frost Breath (Recharge 6). Constitution Saving Throw: DC 10, each creature in a 15-foot Cone. Failure: 7 (3d4) Cold damage. Success: Half damage.
+**Ignited Illumination.** The magmin sets itself ablaze or extinguishes its flames. While ablaze, the magmin sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
 
-<!-- image -->
+### Manticore
 
-## Traits
+#### Manticore
 
-Death Burst. The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each creature in a 5-foot Emanation originating from the mephit. Failure: 7 (2d6) Fire damage. Success: Half damage.
+*Large Monstrosity, Lawful Evil*
 
-## Actions
+**AC** 14
+**Initiative** +3 (13)
+**HP** 68 (8d10 + 24)
+**Speed** 30 ft., Fly 50 ft.
 
-Claw. Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage plus 3 (1d6) Fire damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 17    | +3  | +3   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 8     | -1  | -1   |
 
-Fire Breath (Recharge 6). Dexterity Saving Throw: DC 11, each creature in a 15-foot Cone. Failure: 7 (2d6) Fire damage. Success: Half damage.
+**Senses** Darkvision 60 ft.; Passive Perception 11
+**Languages** Common
+**CR** 3 (XP 700; PB +2)
 
-<!-- image -->
+##### Actions
 
-## Traits
+**Multiattack.** The manticore makes three attacks, using Rend or Tail Spike in any combination.
 
-Blurred Form. Attack rolls against the mephit are made with Disadvantage unless the mephit has the Incapacitated condition.
+**Rend.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage.
 
-Death Burst. The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each creature in a 5-foot Emanation originating from the mephit. Failure: 5 (2d4) Fire damage. Success: Half damage.
+**Tail Spike.** Ranged Attack Roll: +5, range 100/200 ft. Hit: 7 (1d8 + 3) Piercing damage.
 
-## Actions
+### Marilith
 
-Claw. Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Slashing damage plus 2 (1d4) Fire damage.
+#### Marilith
 
-Steam Breath (Recharge 6). Constitution Saving Throw: DC 10, each creature in a 15-foot Cone. Failure: 5 (2d4) Fire damage, and the target's Speed decreases by 10 feet until the end of the mephit's next turn. Success: Half damage only. Failure or Success: Being underwater doesn't grant Resistance to this Fire damage.
+*Large Fiend (Demon), Chaotic Evil*
 
-## Merfolk
+**AC** 16
+**Initiative** +10 (20)
+**HP** 220 (21d10 + 105)
+**Speed** 40 ft., Climb 40 ft.
 
-## Merfolk Skirmisher
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +9   |
+| DEX  | 20    | +5  | +5   |
+| CON  | 20    | +5  | +10  |
+| INT  | 18    | +4  | +4   |
+| WIS  | 16    | +3  | +8   |
+| CHA  | 20    | +5  | +10  |
 
-<!-- image -->
+**Skills** Perception +8
+**Resistances** Cold, Fire, Lightning
+**Immunities** Poison; Poisoned
+**Senses** Truesight 120 ft.; Passive Perception 18
+**Languages** Abyssal; telepathy 120 ft.
+**CR** 16 (XP 15,000; PB +5)
 
-Amphibious. The merfolk can breathe air and water.
+##### Traits
 
-## Actions
+**Demonic Restoration.** If the marilith dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
 
-Ocean Spear. Melee or Ranged Attack Roll: +2, reach 5 ft. or range 20/60 ft. Hit: 3 (1d6) Piercing damage plus 2 (1d4) Cold damage. If the target is a creature, its Speed decreases by 10 feet until the end of its next turn. Hit or Miss: The spear magically returns to the merfolk's hand immediately after a ranged attack.
+**Magic Resistance.** The marilith has Advantage on saving throws against spells and other magical effects.
 
-## Merrow
+**Reactive.** The marilith can take one Reaction on every turn of combat.
 
-<!-- image -->
+##### Actions
 
-Amphibious. The merrow can breathe air and water.
+**Multiattack.** The marilith makes six Pact Blade attacks and uses Constrict.
 
-## Actions
+**Pact Blade.** Melee Attack Roll: +10, reach 5 ft. Hit: 10 (1d10 + 5) Slashing damage plus 7 (2d6) Necrotic damage.
 
-Multiattack. The merrow makes two attacks, using Bite, Claw, or Harpoon in any combination.
+**Constrict.** Strength Saving Throw: DC 17, one Medium or smaller creature the marilith can see within 5 feet. Failure: 15 (2d10 + 4) Bludgeoning damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.
 
-Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage, and the target has the Poisoned condition until the end of the merrow's next turn.
+##### Bonus Actions
 
-Claw. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4) Slashing damage.
+**Teleport (Recharge 5-6).** The marilith teleports up to 120 feet to an unoccupied space it can see.
 
-Harpoon. Melee or Ranged Attack Roll: +6, reach 5 ft. or range 20/60 ft. Hit: 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, the merrow pulls the target up to 15 feet straight toward itself.
+##### Reactions
 
-## Mimic
+**Parry.** Trigger: The marilith is hit by a melee attack roll while holding a weapon. Response: The marilith adds 5 to its AC against that attack, possibly causing it to miss.
 
-<!-- image -->
+### Medusa
 
-## Traits
+#### Medusa
 
-Adhesive (Object Form Only). The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic has the Grappled condition (escape DC 13). Ability checks made to escape this grapple have Disadvantage.
+*Medium Monstrosity, Lawful Evil*
 
-## Actions
+**AC** 15
+**Initiative** +6 (16)
+**HP** 127 (17d8 + 51)
+**Speed** 30 ft.
 
-Bite. Melee Attack Roll: +5 (with Advantage if the target is Grappled by the mimic), reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage-or 12 (2d8 + 3) Piercing damage if the target is Grappled by the mimic-plus 4 (1d8) Acid damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 16    | +3  | +3   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 13    | +1  | +4   |
+| CHA  | 15    | +2  | +2   |
 
-Pseudopod. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage plus 4 (1d8) Acid damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 13). Ability checks made to escape this grapple have Disadvantage.
+**Skills** Deception +5, Perception +4, Stealth +6
+**Senses** Darkvision 150 ft.; Passive Perception 14
+**Languages** Common plus one other language
+**CR** 6 (XP 2,300; PB +3)
 
-## Bonus Actions
+##### Actions
 
-Shape-Shift. The mimic shape-shifts to resemble a Medium or Small object while retaining its game statistics, or it returns to its true blob form. Any equipment it is wearing or carrying isn't transformed.
+**Multiattack.** The medusa makes two Claw attacks and one Snake Hair attack, or it makes three Poison Ray attacks.
 
-## Minotaur of Baphomet
+**Claw.** Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.
 
-<!-- image -->
+**Snake Hair.** Melee Attack Roll: +6, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage plus 14 (4d6) Poison damage.
 
-## Actions
+**Poison Ray.** Ranged Attack Roll: +5, range 150 ft. Hit: 11 (2d8 + 2) Poison damage.
 
-Abyssal Glaive. Melee Attack Roll: +6, reach 10 ft. Hit: 10 (1d12 + 4) Slashing damage plus 10 (3d6) Necrotic damage.
+##### Bonus Actions
 
-Gore (Recharge 5-6). Melee Attack Roll: +6, reach 5 ft. Hit: 18 (4d6 + 4) Piercing damage. If the target is a Large or smaller creature and the minotaur moved 10+ feet straight toward it immediately before the hit, the target takes an extra 10 (3d6) Piercing damage and has the Prone condition.
+**Petrifying Gaze (Recharge 5-6).** Constitution Saving Throw: DC 13, each creature in a 30-foot Cone. If the medusa sees its reflection in the Cone, the medusa must make this save. First Failure: The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. Second Failure: The target has the Petrified condition instead of the Restrained condition.
 
-## Mummies
+### Mephits
 
-<!-- image -->
+#### Dust Mephit
 
-## Actions
+*Small Elemental, Neutral Evil*
 
-Multiattack. The mummy makes two Rotting Fist attacks and uses Dreadful Glare.
+**AC** 12
+**Initiative** +2 (12)
+**HP** 17 (5d6)
+**Speed** 30 ft., Fly 30 ft.
 
-Rotting Fist. Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can't regain Hit Points, its Hit Point maximum doesn't return to normal when finishing a Long Rest, and its Hit Point maximum decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 Hit Points by this attack.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 5     | -3  | -3   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 10    | +0  | +0   |
+| INT  | 9     | -1  | -1   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 10    | +0  | +0   |
 
-Dreadful Glare. Wisdom Saving Throw: DC 11, one creature the mummy can see within 60 feet. Failure: The target has the Frightened condition until the end of the mummy's next turn. Success: The target is immune to this mummy's Dreadful Glare for 24 hours.
+**Skills** Perception +2, Stealth +4
+**Vulnerabilities** Fire
+**Immunities** Poison; Exhaustion, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 12
+**Languages** Primordial (Auran, Terran)
+**CR** 1/2 (XP 100; PB +2)
 
-| Mummy Lord                                   | Mummy Lord                                   | Mummy Lord                                   | Mummy Lord                                   | Mummy Lord                                   | Mummy Lord                                   | Mummy Lord                                   | Mummy Lord                                   | Mummy Lord                                   | Mummy Lord                                   |
-|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
-| Medium or Small Undead (Cleric), Lawful Evil | Medium or Small Undead (Cleric), Lawful Evil | Medium or Small Undead (Cleric), Lawful Evil | Medium or Small Undead (Cleric), Lawful Evil | Medium or Small Undead (Cleric), Lawful Evil | Medium or Small Undead (Cleric), Lawful Evil | Medium or Small Undead (Cleric), Lawful Evil | Medium or Small Undead (Cleric), Lawful Evil | Medium or Small Undead (Cleric), Lawful Evil | Medium or Small Undead (Cleric), Lawful Evil |
-| AC 17                                        | AC 17                                        | AC 17                                        | AC 17                                        | AC 17                                        | Initiative +10 (20)                          | Initiative +10 (20)                          | Initiative +10 (20)                          | MOD                                          | SAVE                                         |
-|                                              |                                              | MOD                                          | SAVE                                         |                                              | MOD                                          | SAVE                                         |                                              |                                              |                                              |
-| S tr                                         | 18                                           | +4                                           | +4                                           | Dex 10                                       | +0                                           | +0                                           | Con 17                                       | +3                                           | +3                                           |
-| I nt                                         | 11                                           | +0                                           | +5                                           | WIS 19                                       | +4                                           | +9                                           | Cha 16                                       | +3                                           | +3                                           |
+##### Traits
 
-<!-- image -->
+**Death Burst.** The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each creature in a 5-foot Emanation originating from the mephit. Failure: 5 (2d4) Bludgeoning damage. Success: Half damage.
 
-## Traits
+##### Actions
 
-Legendary Resistance (3/Day, or 4/Day in Lair). If the mummy fails a saving throw, it can choose to succeed instead.
+**Claw.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage.
 
-Magic Resistance. The mummy has Advantage on saving throws against spells and other magical effects.
+**Blinding Breath (Recharge 6).** Dexterity Saving Throw: DC 10, each creature in a 15-foot Cone. Failure: The target has the Blinded condition until the end of the mephit's next turn.
 
-Undead Restoration. If destroyed, the mummy gains a new body in 24 hours if its heart is intact, reviving with all its Hit Points. The new body appears in an unoccupied space within the mummy's lair. The heart is a Tiny object that has AC 17, HP 10, and Immunity to all damage except Fire.
+**Sleep (1/Day).** The mephit casts the Sleep spell, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 10).
 
-## Actions
+#### Ice Mephit
 
-Multiattack. The mummy makes one Rotting Fist or Channel Negative Energy attack, and it uses Dreadful Glare.
+*Small Elemental, Neutral Evil*
 
-Rotting Fist. Melee Attack Roll: +9, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can't regain Hit Points, it gains no benefit from finishing a Long Rest, and its Hit Point maximum decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 Hit Points by this attack.
+**AC** 11
+**Initiative** +1 (11)
+**HP** 21 (6d6)
+**Speed** 30 ft., Fly 30 ft.
 
-Channel Negative Energy. Ranged Attack Roll: +9, range 60 ft. Hit: 25 (6d6 + 4) Necrotic damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 7     | -2  | -2   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 10    | +0  | +0   |
+| INT  | 9     | -1  | -1   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 12    | +1  | +1   |
 
-Dreadful Glare. Wisdom Saving Throw: DC 17, one creature the mummy can see within 60 feet. Failure: 25 (6d6 + 4) Psychic damage, and the target has the Paralyzed condition until the end of the mummy's next turn.
+**Skills** Perception +2, Stealth +3
+**Vulnerabilities** Fire
+**Immunities** Cold, Poison; Exhaustion, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 12
+**Languages** Primordial (Aquan, Auran)
+**CR** 1/2 (XP 100; PB +2)
 
-Spellcasting. The mummy casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
+##### Traits
 
-At Will: Dispel Magic , Thaumaturgy 1/Day Each: Animate Dead , Harm , Insect Plague (level 7 version)
+**Death Burst.** The mephit explodes when it dies. Constitution Saving Throw: DC 10, each creature in a 5-foot Emanation originating from the mephit. Failure: 5 (2d4) Cold damage. Success: Half damage.
 
-## Reactions
+##### Actions
 
-Whirlwind of Sand. Trigger: The mummy is hit by an attack roll. Response: The mummy adds 2 to its AC against the attack, possibly causing the attack to miss, and the mummy teleports up to 60 feet to an unoccupied space it can see. Each creature of its choice that it can see within 5 feet of its destination space has the Blinded condition until the end of the mummy's next turn.
+**Claw.** Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage plus 2 (1d4) Cold damage.
 
-## Legendary Actions
+**Fog Cloud (1/Day).** The mephit casts Fog Cloud, requiring no spell components and using Charisma as the spellcasting ability.
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the mummy can expend a use to take one of the following actions. The mummy regains all expended uses at the start of each of its turns.
+**Frost Breath (Recharge 6).** Constitution Saving Throw: DC 10, each creature in a 15-foot Cone. Failure: 7 (3d4) Cold damage. Success: Half damage.
 
-Dread Command. The mummy casts Command (level 2 version), using the same spellcasting ability as Spellcasting. The mummy can't take this action again until the start of its next turn.
+#### Magma Mephit
 
-Glare. The mummy uses Dreadful Glare. The mummy can't take this action again until the start of its next turn.
+*Small Elemental, Neutral Evil*
 
-Necrotic Strike. The mummy makes one Rotting Fist or Channel Negative Energy attack.
+**AC** 11
+**Initiative** +1 (11)
+**HP** 18 (4d6 + 4)
+**Speed** 30 ft., Fly 30 ft.
 
-## Nalfeshnee
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 8     | -1  | -1   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 12    | +1  | +1   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 10    | +0  | +0   |
 
-| Nalfeshnee                                                                                                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Large Fiend (Demon), Chaotic Evil                                                                                                                                                       |
-| AC 18 Initiative +5 (15) HP 184 (16d10 + 96)                                                                                                                                            |
-| Speed 20 ft., Fly 30 ft. MOD SAVE MOD SAVE MOD SAVE                                                                                                                                     |
-| S tr 21 +5 +5 Dex 10 +0 +0 Con 22 +6 +11                                                                                                                                                |
-| Resistances Cold, Fire, Lightning Immunities Poison; Frightened, Poisoned Senses Truesight 120 ft.; Passive Perception 11 Languages Abyssal; telepathy 120 ft. CR 13 (XP 10,000; PB +5) |
+**Skills** Stealth +3
+**Vulnerabilities** Cold
+**Immunities** Fire, Poison; Exhaustion, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Primordial (Ignan, Terran)
+**CR** 1/2 (XP 100; PB +2)
 
-## Traits
+##### Traits
 
-Demonic Restoration. If the nalfeshnee dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+**Death Burst.** The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each creature in a 5-foot Emanation originating from the mephit. Failure: 7 (2d6) Fire damage. Success: Half damage.
 
-Magic Resistance. The nalfeshnee has Advantage on saving throws against spells and other magical effects.
+##### Actions
 
-## Actions
+**Claw.** Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage plus 3 (1d6) Fire damage.
 
-Multiattack. The nalfeshnee makes three Rend attacks.
+**Fire Breath (Recharge 6).** Dexterity Saving Throw: DC 11, each creature in a 15-foot Cone. Failure: 7 (2d6) Fire damage. Success: Half damage.
 
-Rend. Melee Attack Roll: +10, reach 10 ft. Hit: 16 (2d10 + 5) Slashing damage plus 11 (2d10) Force damage.
+#### Steam Mephit
 
-Teleport. The nalfeshnee teleports up to 120 feet to an unoccupied space it can see.
+*Small Elemental, Neutral Evil*
 
-## Bonus Actions
+**AC** 10
+**Initiative** +0 (10)
+**HP** 17 (5d6)
+**Speed** 30 ft., Fly 30 ft.
 
-Horror Nimbus (Recharge 5-6). Wisdom Saving Throw: DC 15, each creature in a 15-foot Emanation originating from the nalfeshnee. Failure: 28 (8d6) Psychic damage, and the target has the Frightened condition for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee out of line of sight. Success:
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 5     | -3  | -3   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 10    | +0  | +0   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 12    | +1  | +1   |
 
-The target is immune to this nalfeshnee's Horror Nimbus for 24 hours.
+**Skills** Stealth +2
+**Immunities** Fire, Poison; Exhaustion, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Primordial (Aquan, Ignan)
+**CR** 1/4 (XP 50; PB +2)
 
-## Reactions
+##### Traits
 
-Pursuit. Trigger: Another creature the nalfeshnee can see ends its move within 120 feet of the nalfeshnee. Response: The nalfeshnee uses Teleport, but its destination space must be within 10 feet of the triggering creature.
+**Blurred Form.** Attack rolls against the mephit are made with Disadvantage unless the mephit has the Incapacitated condition.
 
-## Night Hag
+**Death Burst.** The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each creature in a 5-foot Emanation originating from the mephit. Failure: 5 (2d4) Fire damage. Success: Half damage.
 
-<!-- image -->
+##### Actions
 
-| Night Hag                                                                                                  |                        |
-|------------------------------------------------------------------------------------------------------------|------------------------|
-| Medium Fiend, Neutral Evil                                                                                 |                        |
-| AC 17 Initiative +5 (15) HP 112 (15d8 + 45) Speed 30 ft.                                                   |                        |
-| MOD SAVE MOD SAVE MOD SAVE S tr 18 +4 +4 Dex 15 +2 +2 Con 16 +3 +3 I nt 16 +3 +3 WIS 14 +2 +2 Cha 16 +3 +3 |                        |
-| Deception +6, Insight +5, Perception +5, Stealth +5 Cold, Fire                                             |                        |
-| Skills Resistances                                                                                         |                        |
-| Immunities Charmed Senses Darkvision 120 ft.; Passive Perception 15                                        |                        |
-| Languages Abyssal, Common, Infernal, Primordial                                                            |                        |
-|                                                                                                            | CR 5 (XP 1,800; PB +3) |
+**Claw.** Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Slashing damage plus 2 (1d4) Fire damage.
 
-## Traits
+**Steam Breath (Recharge 6).** Constitution Saving Throw: DC 10, each creature in a 15-foot Cone. Failure: 5 (2d4) Fire damage, and the target's Speed decreases by 10 feet until the end of the mephit's next turn. Success: Half damage only. Failure or Success: Being underwater doesn't grant Resistance to this Fire damage.
 
-Coven Magic. While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save DC 14): Augury , Find Familiar , Identify , Locate Object , Scrying , or Unseen Servant . The hag must finish a Long Rest before using this trait to cast that spell again.
+### Merfolk
 
-Magic Resistance. The hag has Advantage on saving throws against spells and other magical effects.
+#### Merfolk Skirmisher
 
-Soul Bag. The hag has a soul bag. While holding or carrying the bag, the hag can use its Nightmare Haunting action.
+*Medium Elemental, Neutral*
+
+**AC** 11
+**Initiative** +1 (11)
+**HP** 11 (2d8 + 2)
+**Speed** 10 ft., Swim 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 12    | +1  | +1   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 12    | +1  | +1   |
+
+**Senses** Passive Perception 12
+**Languages** Common, Primordial (Aquan)
+**CR** 1/8 (XP 25; PB +2)
+
+##### Traits
+
+**Amphibious.** The merfolk can breathe air and water.
+
+##### Actions
+
+**Ocean Spear.** Melee or Ranged Attack Roll: +2, reach 5 ft. or range 20/60 ft. Hit: 3 (1d6) Piercing damage plus 2 (1d4) Cold damage. If the target is a creature, its Speed decreases by 10 feet until the end of its next turn. Hit or Miss: The spear magically returns to the merfolk's hand immediately after a ranged attack.
+
+### Merrow
+
+#### Merrow
+
+*Large Monstrosity, Chaotic Evil*
+
+**AC** 13
+**Initiative** +2 (12)
+**HP** 45 (6d10 + 12)
+**Speed** 10 ft., Swim 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 15    | +2  | +2   |
+| INT  | 8     | -1  | -1   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 9     | -1  | -1   |
+
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Abyssal, Primordial (Aquan)
+**CR** 2 (XP 450; PB +2)
+
+##### Traits
+
+**Amphibious.** The merrow can breathe air and water.
+
+##### Actions
+
+**Multiattack.** The merrow makes two attacks, using Bite, Claw, or Harpoon in any combination.
+
+**Bite.** Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage, and the target has the Poisoned condition until the end of the merrow's next turn.
+
+**Claw.** Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4) Slashing damage.
+
+**Harpoon.** Melee or Ranged Attack Roll: +6, reach 5 ft. or range 20/60 ft. Hit: 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, the merrow pulls the target up to 15 feet straight toward itself.
+
+### Mimic
+
+#### Mimic
+
+*Medium Monstrosity, Neutral*
+
+**AC** 12
+**Initiative** +3 (13)
+**HP** 58 (9d8 + 18)
+**Speed** 20 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 15    | +2  | +2   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 8     | -1  | -1   |
+
+**Skills** Stealth +5
+**Immunities** Acid; Prone
+**Senses** Darkvision 60 ft.; Passive Perception 11
+**Languages** None
+**CR** 2 (XP 450; PB +2)
+
+##### Traits
+
+**Adhesive (Object Form Only).** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic has the Grappled condition (escape DC 13). Ability checks made to escape this grapple have Disadvantage.
+
+##### Actions
+
+**Bite.** Melee Attack Roll: +5 (with Advantage if the target is Grappled by the mimic), reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage—or 12 (2d8 + 3) Piercing damage if the target is Grappled by the mimic—plus 4 (1d8) Acid damage.
+
+**Pseudopod.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage plus 4 (1d8) Acid damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 13). Ability checks made to escape this grapple have Disadvantage.
+
+##### Bonus Actions
+
+**Shape-Shift.** The mimic shape-shifts to resemble a Medium or Small object while retaining its game statistics, or it returns to its true blob form. Any equipment it is wearing or carrying isn't transformed.
+
+### Minotaur of Baphomet
+
+#### Minotaur of Baphomet
+
+*Large Monstrosity, Chaotic Evil*
+
+**AC** 14
+**Initiative** +0 (10)
+**HP** 85 (10d10 + 30)
+**Speed** 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 16    | +3  | +3   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 16    | +3  | +3   |
+| CHA  | 9     | -1  | -1   |
+
+**Skills** Perception +7, Survival +7
+**Senses** Darkvision 60 ft.; Passive Perception 17
+**Languages** Abyssal
+**CR** 3 (XP 700; PB +2)
+
+##### Actions
+
+**Abyssal Glaive.** Melee Attack Roll: +6, reach 10 ft. Hit: 10 (1d12 + 4) Slashing damage plus 10 (3d6) Necrotic damage.
+
+**Gore (Recharge 5-6).** Melee Attack Roll: +6, reach 5 ft. Hit: 18 (4d6 + 4) Piercing damage. If the target is a Large or smaller creature and the minotaur moved 10+ feet straight toward it immediately before the hit, the target takes an extra 10 (3d6) Piercing damage and has the Prone condition.
+
+### Mummies
+
+#### Mummy
+
+*Medium or Small Undead, Lawful Evil*
+
+**AC** 11
+**Initiative** -1 (9)
+**HP** 58 (9d8 + 18)
+**Speed** 20 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 15    | +2  | +2   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 12    | +1  | +3   |
+| CHA  | 12    | +1  | +1   |
+
+**Vulnerabilities** Fire
+**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 11
+**Languages** Common plus two other languages
+**CR** 3 (XP 700; PB +2)
+
+##### Actions
+
+**Multiattack.** The mummy makes two Rotting Fist attacks and uses Dreadful Glare.
+
+**Rotting Fist.** Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can't regain Hit Points, its Hit Point maximum doesn't return to normal when finishing a Long Rest, and its Hit Point maximum decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 Hit Points by this attack.
+
+**Dreadful Glare.** Wisdom Saving Throw: DC 11, one creature the mummy can see within 60 feet. Failure: The target has the Frightened condition until the end of the mummy's next turn. Success: The target is immune to this mummy's Dreadful Glare for 24 hours.
+
+#### Mummy Lord
+
+*Medium or Small Undead (Cleric), Lawful Evil*
+
+**AC** 17
+**Initiative** +10 (20)
+**HP** 187 (25d8 + 75)
+**Speed** 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 17    | +3  | +3   |
+| INT  | 11    | +0  | +5   |
+| WIS  | 19    | +4  | +9   |
+| CHA  | 16    | +3  | +3   |
+
+**Skills** History +5, Perception +9, Religion +5
+**Vulnerabilities** Fire
+**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+**Senses** Truesight 60 ft.; Passive Perception 19
+**Languages** Common plus three other languages
+**CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
+
+##### Traits
+
+**Legendary Resistance (3/Day, or 4/Day in Lair).** If the mummy fails a saving throw, it can choose to succeed instead.
+
+**Magic Resistance.** The mummy has Advantage on saving throws against spells and other magical effects.
+
+**Undead Restoration.** If destroyed, the mummy gains a new body in 24 hours if its heart is intact, reviving with all its Hit Points. The new body appears in an unoccupied space within the mummy's lair. The heart is a Tiny object that has AC 17, HP 10, and Immunity to all damage except Fire.
+
+##### Actions
+
+**Multiattack.** The mummy makes one Rotting Fist or Channel Negative Energy attack, and it uses Dreadful Glare.
+
+**Rotting Fist.** Melee Attack Roll: +9, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can't regain Hit Points, it gains no benefit from finishing a Long Rest, and its Hit Point maximum decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 Hit Points by this attack.
+
+**Channel Negative Energy.** Ranged Attack Roll: +9, range 60 ft. Hit: 25 (6d6 + 4) Necrotic damage.
+
+**Dreadful Glare.** Wisdom Saving Throw: DC 17, one creature the mummy can see within 60 feet. Failure: 25 (6d6 + 4) Psychic damage, and the target has the Paralyzed condition until the end of the mummy's next turn.
+
+**Spellcasting.** The mummy casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
+
+- At Will: Dispel Magic, Thaumaturgy
+- 1/Day Each: Animate Dead, Harm, Insect Plague (level 7 version)
+
+##### Reactions
+
+**Whirlwind of Sand.** Trigger: The mummy is hit by an attack roll. Response: The mummy adds 2 to its AC against the attack, possibly causing the attack to miss, and the mummy teleports up to 60 feet to an unoccupied space it can see. Each creature of its choice that it can see within 5 feet of its destination space has the Blinded condition until the end of the mummy's next turn.
+
+##### Legendary Actions
+
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the mummy can expend a use to take one of the following actions. The mummy regains all expended uses at the start of each of its turns.
+
+**Dread Command.** The mummy casts Command (level 2 version), using the same spellcasting ability as Spellcasting. The mummy can't take this action again until the start of its next turn.
+
+**Glare.** The mummy uses Dreadful Glare. The mummy can't take this action again until the start of its next turn.
+
+**Necrotic Strike.** The mummy makes one Rotting Fist or Channel Negative Energy attack.
+
+### Nalfeshnee
+
+#### Nalfeshnee
+
+*Large Fiend (Demon), Chaotic Evil*
+
+**AC** 18
+**Initiative** +5 (15)
+**HP** 184 (16d10 + 96)
+**Speed** 20 ft., Fly 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 21    | +5  | +5   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 22    | +6  | +11  |
+| INT  | 19    | +4  | +9   |
+| WIS  | 12    | +1  | +6   |
+| CHA  | 15    | +2  | +7   |
+
+**Resistances** Cold, Fire, Lightning
+**Immunities** Poison; Frightened, Poisoned
+**Senses** Truesight 120 ft.; Passive Perception 11
+**Languages** Abyssal; telepathy 120 ft.
+**CR** 13 (XP 10,000; PB +5)
+
+##### Traits
+
+**Demonic Restoration.** If the nalfeshnee dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+
+**Magic Resistance.** The nalfeshnee has Advantage on saving throws against spells and other magical effects.
+
+##### Actions
+
+**Multiattack.** The nalfeshnee makes three Rend attacks.
+
+**Rend.** Melee Attack Roll: +10, reach 10 ft. Hit: 16 (2d10 + 5) Slashing damage plus 11 (2d10) Force damage.
+
+**Teleport.** The nalfeshnee teleports up to 120 feet to an unoccupied space it can see.
+
+##### Bonus Actions
+
+**Horror Nimbus (Recharge 5-6).** Wisdom Saving Throw: DC 15, each creature in a 15-foot Emanation originating from the nalfeshnee. Failure: 28 (8d6) Psychic damage, and the target has the Frightened condition for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee out of line of sight. Success: The target is immune to this nalfeshnee's Horror Nimbus for 24 hours.
+
+##### Reactions
+
+**Pursuit.** Trigger: Another creature the nalfeshnee can see ends its move within 120 feet of the nalfeshnee. Response: The nalfeshnee uses Teleport, but its destination space must be within 10 feet of the triggering creature.
+
+### Night Hag
+
+#### Night Hag
+
+*Medium Fiend, Neutral Evil*
+
+**AC** 17
+**Initiative** +5 (15)
+**HP** 112 (15d8 + 45)
+**Speed** 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 16    | +3  | +3   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 16    | +3  | +3   |
+
+**Skills** Deception +6, Insight +5, Perception +5, Stealth +5
+**Resistances** Cold, Fire
+**Immunities** Charmed
+**Senses** Darkvision 120 ft.; Passive Perception 15
+**Languages** Abyssal, Common, Infernal, Primordial
+**CR** 5 (XP 1,800; PB +3)
+
+##### Traits
+
+**Coven Magic.** While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save DC 14): Augury, Find Familiar, Identify, Locate Object, Scrying, or Unseen Servant. The hag must finish a Long Rest before using this trait to cast that spell again.
+
+**Magic Resistance.** The hag has Advantage on saving throws against spells and other magical effects.
+
+**Soul Bag.** The hag has a soul bag. While holding or carrying the bag, the hag can use its Nightmare Haunting action.
 
 The bag has AC 15, HP 20, and Resistance to all damage. The bag turns to dust if reduced to 0 Hit Points. If the bag is destroyed, any souls the bag is holding are released. The hag can create a new bag after 7 days.
 
-## Actions
+##### Actions
 
-Multiattack. The hag makes two Claw attacks.
+**Multiattack.** The hag makes two Claw attacks.
 
-Claw. Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage.
+**Claw.** Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage.
 
-## Nightmare Haunting (1/Day; Requires Soul Bag).
-
-While on the Ethereal Plane, the hag casts Dream, using the same spellcasting ability as Spellcasting. Only the hag can serve as the spell's messenger, and the target must be a creature the hag can see on the Material Plane. The spell fails and is wasted if the target is under the effect of the Protection from Evil and Good spell or within a Magic Circle spell.
+**Nightmare Haunting (1/Day; Requires Soul Bag).** While on the Ethereal Plane, the hag casts Dream, using the same spellcasting ability as Spellcasting. Only the hag can serve as the spell's messenger, and the target must be a creature the hag can see on the Material Plane. The spell fails and is wasted if the target is under the effect of the Protection from Evil and Good spell or within a Magic Circle spell.
 
 If the target takes damage from the Dream spell, the target's Hit Point maximum decreases by an amount equal to that damage. If the spell kills the target, its soul is trapped in the hag's soul bag, and the target can't be raised from the dead until its soul is released.
 
-Spellcasting. The hag casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14):
+**Spellcasting.** The hag casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14):
 
-At Will: Detect Magic , Etherealness , Magic Missile (level 4 version)
+- At Will: Detect Magic, Etherealness, Magic Missile (level 4 version)
+- 2/Day Each: Phantasmal Killer, Plane Shift (self only)
 
-2/Day Each: Phantasmal Killer , Plane Shift (self only)
+##### Bonus Actions
 
-## Bonus Actions
+**Shape-Shift.** The hag shape-shifts into a Small or Medium Humanoid, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 
-Shape-Shift. The hag shape-shifts into a Small or Medium Humanoid, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+### Nightmare
 
-## Nightmare
+#### Nightmare
 
-<!-- image -->
+*Large Fiend, Neutral Evil*
 
-| Nightmare                                                           | Nightmare                                                           | Nightmare                                                           | Nightmare                                                           | Nightmare                                                           | Nightmare                                                           | Nightmare                                                           | Nightmare                                                           | Nightmare                                                           | Nightmare                                                           | Nightmare                                                           |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| Large Fiend, Neutral Evil                                           | Large Fiend, Neutral Evil                                           | Large Fiend, Neutral Evil                                           | Large Fiend, Neutral Evil                                           | Large Fiend, Neutral Evil                                           | Large Fiend, Neutral Evil                                           | Large Fiend, Neutral Evil                                           | Large Fiend, Neutral Evil                                           | Large Fiend, Neutral Evil                                           | Large Fiend, Neutral Evil                                           | Large Fiend, Neutral Evil                                           |
-| AC 13 Initiative +2 (12)                                            | AC 13 Initiative +2 (12)                                            | AC 13 Initiative +2 (12)                                            | AC 13 Initiative +2 (12)                                            | AC 13 Initiative +2 (12)                                            | AC 13 Initiative +2 (12)                                            | AC 13 Initiative +2 (12)                                            | AC 13 Initiative +2 (12)                                            | AC 13 Initiative +2 (12)                                            | AC 13 Initiative +2 (12)                                            | AC 13 Initiative +2 (12)                                            |
-| HP 68 (8d10 + 24)                                                   | HP 68 (8d10 + 24)                                                   | HP 68 (8d10 + 24)                                                   | HP 68 (8d10 + 24)                                                   | HP 68 (8d10 + 24)                                                   | HP 68 (8d10 + 24)                                                   | HP 68 (8d10 + 24)                                                   | HP 68 (8d10 + 24)                                                   | HP 68 (8d10 + 24)                                                   | HP 68 (8d10 + 24)                                                   | HP 68 (8d10 + 24)                                                   |
-| Speed 60 ft., Fly 90 ft. (hover)                                    | Speed 60 ft., Fly 90 ft. (hover)                                    | Speed 60 ft., Fly 90 ft. (hover)                                    | Speed 60 ft., Fly 90 ft. (hover)                                    | Speed 60 ft., Fly 90 ft. (hover)                                    | Speed 60 ft., Fly 90 ft. (hover)                                    | Speed 60 ft., Fly 90 ft. (hover)                                    | Speed 60 ft., Fly 90 ft. (hover)                                    | Speed 60 ft., Fly 90 ft. (hover)                                    | Speed 60 ft., Fly 90 ft. (hover)                                    | Speed 60 ft., Fly 90 ft. (hover)                                    |
-| S tr                                                                | 18                                                                  | +4                                                                  | +4                                                                  | Dex                                                                 | 15                                                                  | +2                                                                  | +2                                                                  | Con 16                                                              | +3                                                                  | +3                                                                  |
-| I nt                                                                | 10                                                                  | +0                                                                  | +0                                                                  | WIS                                                                 | 13                                                                  | +1                                                                  | +1                                                                  | Cha 15                                                              | +2                                                                  | +2                                                                  |
-| Immunities Fire                                                     | Immunities Fire                                                     | Immunities Fire                                                     | Immunities Fire                                                     | Immunities Fire                                                     | Immunities Fire                                                     | Immunities Fire                                                     | Immunities Fire                                                     | Immunities Fire                                                     | Immunities Fire                                                     | Immunities Fire                                                     |
-| Senses Passive Perception 11                                        | Senses Passive Perception 11                                        | Senses Passive Perception 11                                        | Senses Passive Perception 11                                        | Senses Passive Perception 11                                        | Senses Passive Perception 11                                        | Senses Passive Perception 11                                        | Senses Passive Perception 11                                        | Senses Passive Perception 11                                        | Senses Passive Perception 11                                        | Senses Passive Perception 11                                        |
-| Languages Understands Abyssal, Common, and Infernal but can't speak | Languages Understands Abyssal, Common, and Infernal but can't speak | Languages Understands Abyssal, Common, and Infernal but can't speak | Languages Understands Abyssal, Common, and Infernal but can't speak | Languages Understands Abyssal, Common, and Infernal but can't speak | Languages Understands Abyssal, Common, and Infernal but can't speak | Languages Understands Abyssal, Common, and Infernal but can't speak | Languages Understands Abyssal, Common, and Infernal but can't speak | Languages Understands Abyssal, Common, and Infernal but can't speak | Languages Understands Abyssal, Common, and Infernal but can't speak | Languages Understands Abyssal, Common, and Infernal but can't speak |
-| CR 3 (XP 700; PB +2)                                                | CR 3 (XP 700; PB +2)                                                | CR 3 (XP 700; PB +2)                                                | CR 3 (XP 700; PB +2)                                                | CR 3 (XP 700; PB +2)                                                | CR 3 (XP 700; PB +2)                                                | CR 3 (XP 700; PB +2)                                                | CR 3 (XP 700; PB +2)                                                | CR 3 (XP 700; PB +2)                                                | CR 3 (XP 700; PB +2)                                                | CR 3 (XP 700; PB +2)                                                |
+**AC** 13
+**Initiative** +2 (12)
+**HP** 68 (8d10 + 24)
+**Speed** 60 ft., Fly 90 ft. (hover)
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 16    | +3  | +3   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 15    | +2  | +2   |
 
-Confer Fire Resistance. The nightmare can grant Resistance to Fire damage to a rider while it is on the nightmare.
+**Immunities** Fire
+**Senses** Passive Perception 11
+**Languages** Understands Abyssal, Common, and Infernal but can't speak
+**CR** 3 (XP 700; PB +2)
 
-Illumination. The nightmare sheds Bright Light in a 10foot radius and Dim Light for an additional 10 feet.
+##### Traits
 
-## Actions
+**Confer Fire Resistance.** The nightmare can grant Resistance to Fire damage to a rider while it is on the nightmare.
 
-Hooves. Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage plus 10 (3d6) Fire damage.
+**Illumination.** The nightmare sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
 
-Ethereal Stride. The nightmare and up to three willing creatures within 5 feet of it teleport to the Ethereal Plane from the Material Plane or vice versa.
+##### Actions
 
-## Noble
+**Hooves.** Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage plus 10 (3d6) Fire damage.
 
-<!-- image -->
+**Ethereal Stride.** The nightmare and up to three willing creatures within 5 feet of it teleport to the Ethereal Plane from the Material Plane or vice versa.
 
-## Actions
+### Noble
 
-Rapier. Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1) Piercing damage.
+#### Noble
 
-## Reactions
+*Medium or Small Humanoid, Neutral*
 
-Parry. Trigger: The noble is hit by a melee attack roll while holding a weapon. Response: The noble adds 2 to its AC against that attack, possibly causing it to miss.
+**AC** 15
+**Initiative** +1 (11)
+**HP** 9 (2d8)
+**Speed** 30 ft.
 
-## Ochre Jelly
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 11    | +0  | +0   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 11    | +0  | +0   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 16    | +3  | +3   |
 
-<!-- image -->
+**Skills** Deception +5, Insight +4, Persuasion +5
+**Gear** Breastplate, Rapier
+**Senses** Passive Perception 12
+**Languages** Common plus two other languages
+**CR** 1/8 (XP 25; PB +2)
 
-## Traits
+##### Actions
 
-Amorphous. The jelly can move through a space as narrow as 1 inch without expending extra movement to do so.
+**Rapier.** Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1) Piercing damage.
 
-Spider Climb. The jelly can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+##### Reactions
 
-## Actions
+**Parry.** Trigger: The noble is hit by a melee attack roll while holding a weapon. Response: The noble adds 2 to its AC against that attack, possibly causing it to miss.
 
-Pseudopod. Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Acid damage.
+### Ochre Jelly
 
-## Reactions
+#### Ochre Jelly
 
-Split. Trigger: While the jelly is Large or Medium and has 10+ Hit Points, it becomes Bloodied or is subjected to Lightning or Slashing damage. Response: The jelly splits into two new Ochre Jellies . Each new jelly is one size smaller than the original jelly and acts on its Initiative. The original jelly's Hit Points are divided evenly between the new jellies (round down).
+*Large Ooze, Unaligned*
 
-## Ogre
+**AC** 8
+**Initiative** -2 (8)
+**HP** 52 (7d10 + 14)
+**Speed** 20 ft., Climb 20 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 6     | -2  | -2   |
+| CON  | 14    | +2  | +2   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 6     | -2  | -2   |
+| CHA  | 1     | -5  | -5   |
 
-## Actions
+**Resistances** Acid
+**Immunities** Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+**Senses** Blindsight 60 ft.; Passive Perception 8
+**Languages** None
+**CR** 2 (XP 450; PB +2)
 
-Greatclub. Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage.
+##### Traits
 
-Javelin. Melee or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit: 11 (2d6 + 4) Piercing damage.
+**Amorphous.** The jelly can move through a space as narrow as 1 inch without expending extra movement to do so.
 
-## Oni
+**Spider Climb.** The jelly can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-<!-- image -->
+##### Actions
 
-## Traits
+**Pseudopod.** Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Acid damage.
 
-Regeneration. The oni regains 10 Hit Points at the start of each of its turns if it has at least 1 Hit Point.
+##### Reactions
 
-## Actions
+**Split.** Trigger: While the jelly is Large or Medium and has 10+ Hit Points, it becomes Bloodied or is subjected to Lightning or Slashing damage. Response: The jelly splits into two new Ochre Jellies. Each new jelly is one size smaller than the original jelly and acts on its Initiative. The original jelly's Hit Points are divided evenly between the new jellies (round down).
 
-Multiattack. The oni makes two Claw or Nightmare Ray attacks. It can replace one attack with a use of Spellcasting.
+### Ogre
 
-Claw. Melee Attack Roll: +7, reach 10 ft. Hit: 10 (1d12 + 4) Slashing damage plus 9 (2d8) Necrotic damage.
+#### Ogre
 
-Nightmare Ray. Ranged Attack Roll: +5, range 60 ft. Hit: 9 (2d6 + 2) Psychic damage, and the target has the Frightened condition until the start of the oni's next turn.
+*Large Giant, Chaotic Evil*
 
-Shape-Shift. The oni shape-shifts into a Small or Medium Humanoid or a Large Giant, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+**AC** 11
+**Initiative** -1 (9)
+**HP** 68 (8d10 + 24)
+**Speed** 40 ft.
 
-Spellcasting. The oni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 16    | +3  | +3   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 7     | -2  | -2   |
+| CHA  | 7     | -2  | -2   |
 
-- 1/Day Each: Charm Person (level 2 version), Darkness , Gaseous Form , Sleep
+**Gear** Greatclub, Javelins (3)
+**Senses** Darkvision 60 ft.; Passive Perception 8
+**Languages** Common, Giant
+**CR** 2 (XP 450; PB +2)
 
-## Bonus Actions
+##### Actions
 
-Invisibility. The oni casts Invisibility on itself, requiring no spell components and using the same spellcasting ability as Spellcasting.
+**Greatclub.** Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage.
 
-## Otyugh
+**Javelin.** Melee or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit: 11 (2d6 + 4) Piercing damage.
 
-<!-- image -->
+### Oni
 
-## Actions
+#### Oni
 
-Multiattack. The otyugh makes one Bite attack and two Tentacle attacks.
+*Large Fiend, Lawful Evil*
 
-Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage, and the target has the Poisoned condition. Whenever the Poisoned target finishes a Long Rest, it is subjected to the following effect. Constitution Saving Throw: DC 15. Failure: The target's Hit Point maximum decreases by 5 (1d10) and doesn't return to normal until the Poisoned condition ends on the target. Success: The Poisoned condition ends.
+**AC** 17
+**Initiative** +0 (10)
+**HP** 119 (14d10 + 42)
+**Speed** 30 ft., Fly 30 ft. (hover)
 
-Tentacle. Melee Attack Roll: +6, reach 10 ft. Hit: 12 (2d8 + 3) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from one of two tentacles.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 11    | +0  | +3   |
+| CON  | 16    | +3  | +6   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 12    | +1  | +4   |
+| CHA  | 15    | +2  | +5   |
 
-Tentacle Slam. Constitution Saving Throw: DC 14, each creature Grappled by the otyugh. Failure: 16 (3d8 + 3) Bludgeoning damage, and the target has the Stunned condition until the start of the otyugh's next turn. Success: Half damage only.
+**Skills** Arcana +5, Deception +8, Perception +4
+**Resistances** Cold
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** Common, Giant
+**CR** 7 (XP 2,900; PB +3)
 
-## Owlbear
+##### Traits
 
-<!-- image -->
+**Regeneration.** The oni regains 10 Hit Points at the start of each of its turns if it has at least 1 Hit Point.
 
-## Actions
+##### Actions
 
-Multiattack. The owlbear makes two Rend attacks.
+**Multiattack.** The oni makes two Claw or Nightmare Ray attacks. It can replace one attack with a use of Spellcasting.
 
-Rend. Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage.
+**Claw.** Melee Attack Roll: +7, reach 10 ft. Hit: 10 (1d12 + 4) Slashing damage plus 9 (2d8) Necrotic damage.
 
-## Pegasus
+**Nightmare Ray.** Ranged Attack Roll: +5, range 60 ft. Hit: 9 (2d6 + 2) Psychic damage, and the target has the Frightened condition until the start of the oni's next turn.
 
-<!-- image -->
+**Shape-Shift.** The oni shape-shifts into a Small or Medium Humanoid or a Large Giant, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 
-## Actions
+**Spellcasting.** The oni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-Hooves. Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4) Radiant damage.
+- 1/Day Each: Charm Person (level 2 version), Darkness, Gaseous Form, Sleep
 
-## Phase Spider
+##### Bonus Actions
 
-## Phase Spider
+**Invisibility.** The oni casts Invisibility on itself, requiring no spell components and using the same spellcasting ability as Spellcasting.
 
-Large Monstrosity, Unaligned
+### Otyugh
 
-AC
+#### Otyugh
 
-14
+*Large Aberration, Neutral*
 
-HP
+**AC** 14
+**Initiative** +0 (10)
+**HP** 104 (11d10 + 44)
+**Speed** 30 ft.
 
-45 (7d10 + 7)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 19    | +4  | +7   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
 
-Speed
+**Senses** Darkvision 120 ft.; Passive Perception 11
+**Languages** Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
+**CR** 5 (XP 1,800; PB +3)
 
-30 ft., Climb 30 ft.
+##### Actions
 
-Initiative
+**Multiattack.** The otyugh makes one Bite attack and two Tentacle attacks.
 
-+3 (13)
+**Bite.** Melee Attack Roll: +6, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage, and the target has the Poisoned condition. Whenever the Poisoned target finishes a Long Rest, it is subjected to the following effect. Constitution Saving Throw: DC 15. Failure: The target's Hit Point maximum decreases by 5 (1d10) and doesn't return to normal until the Poisoned condition ends on the target. Success: The Poisoned condition ends.
 
-<!-- image -->
+**Tentacle.** Melee Attack Roll: +6, reach 10 ft. Hit: 12 (2d8 + 3) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from one of two tentacles.
 
-Senses Darkvision 60 ft.; Passive Perception 10
+**Tentacle Slam.** Constitution Saving Throw: DC 14, each creature Grappled by the otyugh. Failure: 16 (3d8 + 3) Bludgeoning damage, and the target has the Stunned condition until the start of the otyugh's next turn. Success: Half damage only.
 
-Skills Stealth +7 Languages None CR 3 (XP 700; PB +2)
+### Owlbear
 
-## Traits
+#### Owlbear
 
-Ethereal Sight. The spider can see 60 feet into the Ethereal Plane while on the Material Plane and vice versa.
+*Large Monstrosity, Unaligned*
 
-Spider Climb. The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+**AC** 13
+**Initiative** +1 (11)
+**HP** 59 (7d10 + 21)
+**Speed** 40 ft., Climb 40 ft.
 
-Web Walker. The spider ignores movement restrictions caused by webs, and the spider knows the location of any other creature in contact with the same web.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 20    | +5  | +5   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 17    | +3  | +3   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
 
-## Actions
+**Skills** Perception +5
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** None
+**CR** 3 (XP 700; PB +2)
 
-Multiattack. The spider makes two Bite attacks.
+##### Actions
 
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage plus 9 (2d8) Poison damage. If this damage reduces the target to 0 Hit Points, the target becomes Stable, and it has the Poisoned condition for 1 hour. While Poisoned, the target also has the Paralyzed condition.
+**Multiattack.** The owlbear makes two Rend attacks.
 
-## Bonus Actions
+**Rend.** Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage.
 
-Ethereal Jaunt. The spider teleports from the Material Plane to the Ethereal Plane or vice versa.
+### Pegasus
 
-## Pirates
+#### Pegasus
 
-<!-- image -->
+*Large Celestial, Chaotic Good*
 
-## Actions
+**AC** 12
+**Initiative** +2 (12)
+**HP** 59 (7d10 + 21)
+**Speed** 60 ft., Fly 90 ft.
 
-Multiattack. The pirate makes two Dagger attacks. It can replace one attack with a use of Enthralling Panache.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 15    | +2  | +4   |
+| CON  | 16    | +3  | +5   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 15    | +2  | +4   |
+| CHA  | 13    | +1  | +3   |
 
-Dagger. Melee or Ranged Attack Roll: +5, reach 5 ft. or range 20/60 ft. Hit: 5 (1d4 + 3) Piercing damage.
+**Skills** Perception +6
+**Senses** Passive Perception 16
+**Languages** Understands Celestial, Common, Elvish, and Sylvan but can't speak
+**CR** 2 (XP 450; PB +2)
 
-Enthralling Panache. Wisdom Saving Throw: DC 12, one creature the pirate can see within 30 feet. Failure: The target has the Charmed condition until the start of the pirate's next turn.
+##### Actions
 
-<!-- image -->
+**Hooves.** Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4) Radiant damage.
 
-## Actions
+### Phase Spider
 
-Multiattack. The pirate makes three attacks, using Rapier or Pistol in any combination.
+#### Phase Spider
 
-Rapier. Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage, and the pirate has Advantage on the next attack roll it makes before the end of this turn.
+*Large Monstrosity, Unaligned*
 
-Pistol. Ranged Attack Roll: +7, range 30/90 ft. Hit: 15 (2d10 + 4) Piercing damage.
+**AC** 14
+**Initiative** +3 (13)
+**HP** 45 (7d10 + 7)
+**Speed** 30 ft., Climb 30 ft.
 
-## Bonus Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 12    | +1  | +1   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 6     | -2  | -2   |
 
-Captain's Charm. Wisdom Saving Throw: DC 14, one creature the pirate can see within 30 feet. Failure: The target has the Charmed condition until the start of the pirate's next turn.
+**Skills** Stealth +7
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** None
+**CR** 3 (XP 700; PB +2)
 
-## Reactions
+##### Traits
 
-Riposte. Trigger: The pirate is hit by a melee attack roll while holding a weapon. Response: The pirate adds 3 to its AC against that attack, possibly causing it to miss. On a miss, the pirate makes one Rapier attack against the triggering creature if within range.
+**Ethereal Sight.** The spider can see 60 feet into the Ethereal Plane while on the Material Plane and vice versa.
 
-## Pit Fiend
+**Spider Climb.** The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-## Pit Fiend
+**Web Walker.** The spider ignores movement restrictions caused by webs, and the spider knows the location of any other creature in contact with the same web.
 
-Large Fiend (Devil), Lawful Evil
+##### Actions
 
-AC 21 HP 337 (27d10 + 189) Speed 30 ft., Fly 60 ft.
+**Multiattack.** The spider makes two Bite attacks.
 
-Initiative
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage plus 9 (2d8) Poison damage. If this damage reduces the target to 0 Hit Points, the target becomes Stable, and it has the Poisoned condition for 1 hour. While Poisoned, the target also has the Paralyzed condition.
 
-+14 (24)
+##### Bonus Actions
 
-| MOD SAVE MOD SAVE                                                                        | MOD SAVE 24                                                                              |
-|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| S tr 26 +8 +8 Dex 14 +2 +8 Con I nt 22 +6 +6 WIS 18 +4 +10 Cha                           | +7 +7 24 +7 +7                                                                           |
-| Skills Perception +10, Persuasion +19 Resistances Cold Immunities Fire, Poison; Poisoned | Skills Perception +10, Persuasion +19 Resistances Cold Immunities Fire, Poison; Poisoned |
+**Ethereal Jaunt.** The spider teleports from the Material Plane to the Ethereal Plane or vice versa.
 
-## Traits
+### Pirates
 
-Diabolical Restoration. If the pit fiend dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
+#### Pirate
 
-Fear Aura. The pit fiend emanates an aura in a 20foot Emanation while it doesn't have the Incapacitated condition. Wisdom Saving Throw: DC 21, any enemy that starts its turn in the aura. Failure: The target has the Frightened condition until the start of its next turn. Success: The target is immune to this pit fiend's aura for 24 hours.
+*Medium or Small Humanoid, Neutral*
 
-Legendary Resistance (4/Day). If the pit fiend fails a saving throw, it can choose to succeed instead.
+**AC** 14
+**Initiative** +5 (15)
+**HP** 33 (6d8 + 6)
+**Speed** 30 ft.
 
-Magic Resistance. The pit fiend has Advantage on saving throws against spells and other magical effects.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 16    | +3  | +5   |
+| CON  | 12    | +1  | +1   |
+| INT  | 8     | -1  | -1   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 14    | +2  | +4   |
 
-## Actions
+**Gear** Daggers (6), Leather Armor
+**Senses** Passive Perception 11
+**Languages** Common plus one other language
+**CR** 1 (XP 200; PB +2)
 
-Multiattack. The pit fiend makes one Bite attack, two Devilish Claw attacks, and one Fiery Mace attack.
+##### Actions
 
-Bite. Melee Attack Roll: +14, reach 10 ft. Hit: 18 (3d6 + 8) Piercing damage. If the target is a creature, it must make the following saving throw. Constitution Saving Throw: DC 21. Failure: The target has the Poisoned condition. While Poisoned, the target can't regain Hit Points and takes 21 (6d6) Poison damage at the start of each of its turns, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+**Multiattack.** The pirate makes two Dagger attacks. It can replace one attack with a use of Enthralling Panache.
 
-Devilish Claw. Melee Attack Roll: +14, reach 10 ft. Hit: 26 (4d8 + 8) Necrotic damage.
+**Dagger.** Melee or Ranged Attack Roll: +5, reach 5 ft. or range 20/60 ft. Hit: 5 (1d4 + 3) Piercing damage.
 
-Fiery Mace. Melee Attack Roll: +14, reach 10 ft. Hit: 22 (4d6 + 8) Force damage plus 21 (6d6) Fire damage.
+**Enthralling Panache.** Wisdom Saving Throw: DC 12, one creature the pirate can see within 30 feet. Failure: The target has the Charmed condition until the start of the pirate's next turn.
 
-Hellfire Spellcasting (Recharge 4-6). The pit fiend casts Fireball (level 5 version) twice, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21). It can replace one Fireball with Hold Monster (level 7 version) or Wall of Fire.
+#### Pirate Captain
 
-## Planetar
+*Medium or Small Humanoid, Neutral*
 
-<!-- image -->
+**AC** 17
+**Initiative** +7 (17)
+**HP** 84 (13d8 + 26)
+**Speed** 30 ft.
 
-| Planetar                                                                                                                    |                          |
-|-----------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| Large Celestial (Angel), Lawful Good                                                                                        |                          |
-| AC 19 Initiative +10 (20) HP 262 (21d10 + 147)                                                                              |                          |
-| Speed 40 ft., Fly 120 ft. (hover) MOD SAVE MOD SAVE                                                                         |                          |
-| MOD SAVE S tr 24 +7 +12 Dex 20 +5 +5 Con 24 +7 +12                                                                          |                          |
-| I nt 19 +4 +4 WIS 22 +6 +11 Cha 25 +7 +12                                                                                   |                          |
-| Skills Perception +11 Resistances Radiant                                                                                   |                          |
-| Immunities Charmed, Exhaustion, Frightened Senses Truesight 120 ft.; Passive Perception 21 Languages All; telepathy 120 ft. |                          |
-|                                                                                                                             | CR 16 (XP 15,000; PB +5) |
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +3   |
+| DEX  | 18    | +4  | +7   |
+| CON  | 14    | +2  | +2   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 14    | +2  | +5   |
+| CHA  | 17    | +3  | +6   |
 
-## Traits
+**Skills** Acrobatics +7, Perception +5
+**Gear** Pistol, Rapier
+**Senses** Passive Perception 15
+**Languages** Common plus one other language
+**CR** 6 (XP 2,300; PB +3)
 
-Divine Awareness. The planetar knows if it hears a lie.
+##### Actions
 
-Exalted Restoration. If the planetar dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its Hit Points somewhere in Mount Celestia.
+**Multiattack.** The pirate makes three attacks, using Rapier or Pistol in any combination.
 
-Magic Resistance. The planetar has Advantage on saving throws against spells and other magical effects.
+**Rapier.** Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage, and the pirate has Advantage on the next attack roll it makes before the end of this turn.
 
-## Actions
+**Pistol.** Ranged Attack Roll: +7, range 30/90 ft. Hit: 15 (2d10 + 4) Piercing damage.
 
-Multiattack. The planetar makes three Radiant Sword attacks or uses Holy Burst twice.
+##### Bonus Actions
 
-Radiant Sword. Melee Attack Roll: +12, reach 10 ft. Hit: 14 (2d6 + 7) Slashing damage plus 18 (4d8) Radiant damage.
+**Captain's Charm.** Wisdom Saving Throw: DC 14, one creature the pirate can see within 30 feet. Failure: The target has the Charmed condition until the start of the pirate's next turn.
 
-Holy Burst. Dexterity Saving Throw: DC 20, each enemy in a 20-foot-radius Sphere centered on a point the planetar can see within 120 feet. Failure: 24 (7d6) Radiant damage. Success: Half damage.
+##### Reactions
 
-Spellcasting. The planetar casts one of the following spells, requiring no Material components and using Charisma as spellcasting ability (spell save DC 20):
+**Riposte.** Trigger: The pirate is hit by a melee attack roll while holding a weapon. Response: The pirate adds 3 to its AC against that attack, possibly causing it to miss. On a miss, the pirate makes one Rapier attack against the triggering creature if within range.
 
-At Will: Detect Evil and Good
+### Pit Fiend
 
-- 1/Day Each: Commune , Control Weather , Dispel Evil and Good , Raise Dead
+#### Pit Fiend
 
-## Bonus Actions
+*Large Fiend (Devil), Lawful Evil*
 
-Divine Aid (2/Day). The planetar casts Cure Wounds , Invisibility , Lesser Restoration , or Remove Curse , using the same spellcasting ability as Spellcasting.
+**AC** 21
+**Initiative** +14 (24)
+**HP** 337 (27d10 + 189)
+**Speed** 30 ft., Fly 60 ft.
 
-## Priests
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 26    | +8  | +8   |
+| DEX  | 14    | +2  | +8   |
+| CON  | 24    | +7  | +7   |
+| INT  | 22    | +6  | +6   |
+| WIS  | 18    | +4  | +10  |
+| CHA  | 24    | +7  | +7   |
 
-<!-- image -->
+**Skills** Perception +10, Persuasion +19
+**Resistances** Cold
+**Immunities** Fire, Poison; Poisoned
+**Senses** Truesight 120 ft.; Passive Perception 20
+**Languages** Infernal; telepathy 120 ft.
+**CR** 20 (XP 25,000; PB +6)
 
-## Actions
+##### Traits
 
-Mace. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage plus 2 (1d4) Radiant damage.
+**Diabolical Restoration.** If the pit fiend dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
 
-Radiant Flame. Ranged Attack Roll: +4, range 60 ft. Hit: 7 (2d6) Radiant damage.
+**Fear Aura.** The pit fiend emanates an aura in a 20-foot Emanation while it doesn't have the Incapacitated condition. Wisdom Saving Throw: DC 21, any enemy that starts its turn in the aura. Failure: The target has the Frightened condition until the start of its next turn. Success: The target is immune to this pit fiend's aura for 24 hours.
 
-Spellcasting. The priest casts one of the following spells, using Wisdom as the spellcasting ability:
+**Legendary Resistance (4/Day).** If the pit fiend fails a saving throw, it can choose to succeed instead.
 
-At Will: Light , Thaumaturgy
+**Magic Resistance.** The pit fiend has Advantage on saving throws against spells and other magical effects.
 
-## Bonus Actions
+##### Actions
 
-Divine Aid (1/Day). The priest casts Bless , Healing Word , or Sanctuary , using the same spellcasting ability as Spellcasting.
+**Multiattack.** The pit fiend makes one Bite attack, two Devilish Claw attacks, and one Fiery Mace attack.
 
-## Priest
+**Bite.** Melee Attack Roll: +14, reach 10 ft. Hit: 18 (3d6 + 8) Piercing damage. If the target is a creature, it must make the following saving throw. Constitution Saving Throw: DC 21. Failure: The target has the Poisoned condition. While Poisoned, the target can't regain Hit Points and takes 21 (6d6) Poison damage at the start of each of its turns, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
-<!-- image -->
+**Devilish Claw.** Melee Attack Roll: +14, reach 10 ft. Hit: 26 (4d8 + 8) Necrotic damage.
 
-## Actions
+**Fiery Mace.** Melee Attack Roll: +14, reach 10 ft. Hit: 22 (4d6 + 8) Force damage plus 21 (6d6) Fire damage.
 
-Multiattack. The priest makes two attacks, using Mace or Radiant Flame in any combination.
+**Hellfire Spellcasting (Recharge 4-6).** The pit fiend casts Fireball (level 5 version) twice, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21). It can replace one Fireball with Hold Monster (level 7 version) or Wall of Fire.
 
-Mace. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage plus 5 (2d4) Radiant damage.
+### Planetar
 
-Radiant Flame. Ranged Attack Roll: +5, range 60 ft. Hit: 11 (2d10) Radiant damage.
+#### Planetar
 
-Spellcasting. The priest casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
+*Large Celestial (Angel), Lawful Good*
 
-At Will: Light , Thaumaturgy 1/Day: Spirit Guardians
+**AC** 19
+**Initiative** +10 (20)
+**HP** 262 (21d10 + 147)
+**Speed** 40 ft., Fly 120 ft. (hover)
 
-## Bonus Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 24    | +7  | +12  |
+| DEX  | 20    | +5  | +5   |
+| CON  | 24    | +7  | +12  |
+| INT  | 19    | +4  | +4   |
+| WIS  | 22    | +6  | +11  |
+| CHA  | 25    | +7  | +12  |
 
-Divine Aid (3/Day). The priest casts Bless , Dispel Magic , Healing Word , or Lesser Restoration , using the same spellcasting ability as Spellcasting.
+**Skills** Perception +11
+**Resistances** Radiant
+**Immunities** Charmed, Exhaustion, Frightened
+**Senses** Truesight 120 ft.; Passive Perception 21
+**Languages** All; telepathy 120 ft.
+**CR** 16 (XP 15,000; PB +5)
 
-## Pseudodragon
+##### Traits
 
-<!-- image -->
+**Divine Awareness.** The planetar knows if it hears a lie.
 
-## Traits
+**Exalted Restoration.** If the planetar dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its Hit Points somewhere in Mount Celestia.
 
-Magic Resistance. The pseudodragon has Advantage on saving throws against spells and other magical effects.
+**Magic Resistance.** The planetar has Advantage on saving throws against spells and other magical effects.
 
-## Actions
+##### Actions
 
-Multiattack. The pseudodragon makes two Bite attacks.
+**Multiattack.** The planetar makes three Radiant Sword attacks or uses Holy Burst twice.
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage.
+**Radiant Sword.** Melee Attack Roll: +12, reach 10 ft. Hit: 14 (2d6 + 7) Slashing damage plus 18 (4d8) Radiant damage.
 
-Sting. Constitution Saving Throw: DC 12, one creature the pseudodragon can see within 5 feet. Failure: 5 (2d4) Poison damage, and the target has the Poisoned condition for 1 hour. Failure by 5 or More: While Poisoned, the target also has the Unconscious condition, which ends early if the target takes damage or a creature within 5 feet of it takes an action to wake it.
+**Holy Burst.** Dexterity Saving Throw: DC 20, each enemy in a 20-foot-radius Sphere centered on a point the planetar can see within 120 feet. Failure: 24 (7d6) Radiant damage. Success: Half damage.
 
-## Purple Worm
+**Spellcasting.** The planetar casts one of the following spells, requiring no Material components and using Charisma as spellcasting ability (spell save DC 20):
 
-## Purple Worm
+- At Will: Detect Evil and Good
+- 1/Day Each: Commune, Control Weather, Dispel Evil and Good, Raise Dead
 
-Gargantuan Monstrosity, Unaligned
+##### Bonus Actions
 
-AC
+**Divine Aid (2/Day).** The planetar casts Cure Wounds, Invisibility, Lesser Restoration, or Remove Curse, using the same spellcasting ability as Spellcasting.
 
-18
+### Priests
 
-HP
+#### Priest Acolyte
 
-247 (15d20 + 90)
+*Medium or Small Humanoid (Cleric), Neutral*
 
-Speed
+**AC** 13
+**Initiative** +0 (10)
+**HP** 11 (2d8 + 2)
+**Speed** 30 ft.
 
-50 ft., Burrow 50 ft.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 12    | +1  | +1   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 11    | +0  | +0   |
 
-Initiative
+**Skills** Medicine +4, Religion +2
+**Gear** Chain Shirt, Holy Symbol, Mace
+**Senses** Passive Perception 12
+**Languages** Common
+**CR** 1/4 (XP 50; PB +2)
 
-+3 (13)
+##### Actions
 
-<!-- image -->
+**Mace.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage plus 2 (1d4) Radiant damage.
 
-|         | MOD SAVE   | MOD SAVE           | MOD SAVE   |
-|---------|------------|--------------------|------------|
-| S tr 28 | +9 +9      | Dex 7 -2 -2 Con 22 | +6 +11     |
-| I nt    | 1 -5 -5    | WIS 8 -1 +4 Cha    | 4 -3 -3    |
+**Radiant Flame.** Ranged Attack Roll: +4, range 60 ft. Hit: 7 (2d6) Radiant damage.
 
-Senses Blindsight 30 ft., Tremorsense 60 ft.; Passive Perception 9 Languages None
+**Spellcasting.** The priest casts one of the following spells, using Wisdom as the spellcasting ability:
 
-CR 15 (XP 13,000; PB +5)
+- At Will: Light, Thaumaturgy
 
-## Traits
+##### Bonus Actions
 
-Tunneler. The worm can burrow through solid rock at half its Burrow Speed and leaves a 10-foot-diameter tunnel in its wake.
+**Divine Aid (1/Day).** The priest casts Bless, Healing Word, or Sanctuary, using the same spellcasting ability as Spellcasting.
 
-## Actions
+#### Priest
 
-Multiattack. The worm makes one Bite attack and one Tail Stinger attack.
+*Medium or Small Humanoid (Cleric), Neutral*
 
-Bite. Melee Attack Roll: +14, reach 10 ft. Hit: 22 (3d8 + 9) Piercing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 19), and it has the Restrained condition until the grapple ends.
+**AC** 13
+**Initiative** +0 (10)
+**HP** 38 (7d8 + 7)
+**Speed** 30 ft.
 
-Tail Stinger. Melee Attack Roll: +14, reach 10 ft. Hit: 16 (2d6 + 9) Piercing damage plus 35 (10d6) Poison damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 12    | +1  | +1   |
+| INT  | 13    | +1  | +1   |
+| WIS  | 16    | +3  | +3   |
+| CHA  | 13    | +1  | +1   |
 
-## Bonus Actions
+**Skills** Medicine +7, Perception +5, Religion +5
+**Gear** Chain Shirt, Holy Symbol, Mace
+**Senses** Passive Perception 15
+**Languages** Common plus one other language
+**CR** 2 (XP 450; PB +2)
 
-Swallow. Strength Saving Throw: DC 19, one Large or smaller creature Grappled by the worm (it can have up to three creatures swallowed at a time). Failure: The target is swallowed by the worm, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, has Total Cover against attacks and other effects outside the worm, and takes 17 (5d6) Acid damage at the start of each of the worm's turns.
+##### Actions
+
+**Multiattack.** The priest makes two attacks, using Mace or Radiant Flame in any combination.
+
+**Mace.** Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage plus 5 (2d4) Radiant damage.
+
+**Radiant Flame.** Ranged Attack Roll: +5, range 60 ft. Hit: 11 (2d10) Radiant damage.
+
+**Spellcasting.** The priest casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
+
+- At Will: Light, Thaumaturgy
+- 1/Day: Spirit Guardians
+
+##### Bonus Actions
+
+**Divine Aid (3/Day).** The priest casts Bless, Dispel Magic, Healing Word, or Lesser Restoration, using the same spellcasting ability as Spellcasting.
+
+### Pseudodragon
+
+#### Pseudodragon
+
+*Tiny Dragon, Neutral Good*
+
+**AC** 14
+**Initiative** +2 (12)
+**HP** 10 (3d4 + 3)
+**Speed** 15 ft., Fly 60 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 6     | -2  | -2   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 13    | +1  | +1   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 10    | +0  | +0   |
+
+**Skills** Perception +5, Stealth +4
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 15
+**Languages** Understands Common and Draconic but can't speak
+**CR** 1/4 (XP 50; PB +2)
+
+##### Traits
+
+**Magic Resistance.** The pseudodragon has Advantage on saving throws against spells and other magical effects.
+
+##### Actions
+
+**Multiattack.** The pseudodragon makes two Bite attacks.
+
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage.
+
+**Sting.** Constitution Saving Throw: DC 12, one creature the pseudodragon can see within 5 feet. Failure: 5 (2d4) Poison damage, and the target has the Poisoned condition for 1 hour. Failure by 5 or More: While Poisoned, the target also has the Unconscious condition, which ends early if the target takes damage or a creature within 5 feet of it takes an action to wake it.
+
+### Purple Worm
+
+#### Purple Worm
+
+*Gargantuan Monstrosity, Unaligned*
+
+**AC** 18
+**Initiative** +3 (13)
+**HP** 247 (15d20 + 90)
+**Speed** 50 ft., Burrow 50 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 28    | +9  | +9   |
+| DEX  | 7     | -2  | -2   |
+| CON  | 22    | +6  | +11  |
+| INT  | 1     | -5  | -5   |
+| WIS  | 8     | -1  | +4   |
+| CHA  | 4     | -3  | -3   |
+
+**Senses** Blindsight 30 ft., Tremorsense 60 ft.; Passive Perception 9
+**Languages** None
+**CR** 15 (XP 13,000; PB +5)
+
+##### Traits
+
+**Tunneler.** The worm can burrow through solid rock at half its Burrow Speed and leaves a 10-foot-diameter tunnel in its wake.
+
+##### Actions
+
+**Multiattack.** The worm makes one Bite attack and one Tail Stinger attack.
+
+**Bite.** Melee Attack Roll: +14, reach 10 ft. Hit: 22 (3d8 + 9) Piercing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 19), and it has the Restrained condition until the grapple ends.
+
+**Tail Stinger.** Melee Attack Roll: +14, reach 10 ft. Hit: 16 (2d6 + 9) Piercing damage plus 35 (10d6) Poison damage.
+
+##### Bonus Actions
+
+**Swallow.** Strength Saving Throw: DC 19, one Large or smaller creature Grappled by the worm (it can have up to three creatures swallowed at a time). Failure: The target is swallowed by the worm, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, has Total Cover against attacks and other effects outside the worm, and takes 17 (5d6) Acid damage at the start of each of the worm's turns.
 
 If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the worm and has the Prone condition. If the worm dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 20 feet of movement, exiting Prone.
 
-## Quasit Quasit
+### Quasit
 
-Tiny Fiend (Demon), Chaotic Evil
+#### Quasit
 
-AC 13 HP 25 (10d4) Speed 40 ft.
+*Tiny Fiend (Demon), Chaotic Evil*
 
-Initiative +3 (13)
+**AC** 13
+**Initiative** +3 (13)
+**HP** 25 (10d4)
+**Speed** 40 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 5     | -3  | -3   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 10    | +0  | +0   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 10    | +0  | +0   |
 
-| MOD SAVE MOD SAVE                                                                               | MOD SAVE   |
-|-------------------------------------------------------------------------------------------------|------------|
-| S tr 5 -3 -3 Dex 17 +3 +3 Con 10                                                                | +0 +0      |
-| I nt 7 -2 -2 WIS 10 +0 +0 Cha 10                                                                | +0 +0      |
-| Skills Stealth +5                                                                               |            |
-| Resistances Cold, Fire, Lightning Immunities Poison; Poisoned                                   |            |
-| Senses Darkvision 120 ft.; Passive Perception 10 Languages Abyssal, Common CR 1 (XP 200; PB +2) |            |
+**Skills** Stealth +5
+**Resistances** Cold, Fire, Lightning
+**Immunities** Poison; Poisoned
+**Senses** Darkvision 120 ft.; Passive Perception 10
+**Languages** Abyssal, Common
+**CR** 1 (XP 200; PB +2)
 
-## Traits
+##### Traits
 
-Magic Resistance. The quasit has Advantage on saving throws against spells and other magical effects.
+**Magic Resistance.** The quasit has Advantage on saving throws against spells and other magical effects.
 
-## Actions
+##### Actions
 
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage, and the target has the Poisoned condition until the start of the quasit's next turn.
+**Rend.** Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage, and the target has the Poisoned condition until the start of the quasit's next turn.
 
-Invisibility. The quasit casts Invisibility on itself, requiring no spell components and using Charisma as the spellcasting ability.
+**Invisibility.** The quasit casts Invisibility on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
-Scare (1/Day). Wisdom Saving Throw: DC 10, one creature within 20 feet. Failure: The target has the Frightened condition. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+**Scare (1/Day).** Wisdom Saving Throw: DC 10, one creature within 20 feet. Failure: The target has the Frightened condition. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
-Shape-Shift. The quasit shape-shifts to resemble a bat (Speed 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft., Swim 40 ft.), or it returns to its true form. Its game statistics are the same in each form, except for its Speed. Any equipment it is wearing or carrying isn't transformed.
+**Shape-Shift.** The quasit shape-shifts to resemble a bat (Speed 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft., Swim 40 ft.), or it returns to its true form. Its game statistics are the same in each form, except for its Speed. Any equipment it is wearing or carrying isn't transformed.
 
-## Rakshasa
+### Rakshasa
 
-<!-- image -->
+#### Rakshasa
 
-## Traits
+*Medium Fiend, Lawful Evil*
 
-Greater Magic Resistance. The rakshasa automatically succeeds on saving throws against spells and other magical effects, and the attack rolls of spells automatically miss it. Without the rakshasa's permission, no spell can observe the rakshasa remotely or detect its thoughts, creature type, or alignment.
+**AC** 17
+**Initiative** +8 (18)
+**HP** 221 (26d8 + 104)
+**Speed** 40 ft.
 
-Fiendish Restoration. If the rakshasa dies outside the Nine Hells, its body turns to ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 18    | +4  | +4   |
+| INT  | 13    | +1  | +1   |
+| WIS  | 16    | +3  | +3   |
+| CHA  | 20    | +5  | +5   |
 
-## Actions
+**Skills** Deception +10, Insight +8, Perception +8
+**Vulnerabilities** Piercing damage from weapons wielded by creatures under the effect of a Bless spell
+**Immunities** Charmed, Frightened
+**Senses** Truesight 60 ft.; Passive Perception 18
+**Languages** Common, Infernal
+**CR** 13 (XP 10,000; PB +5)
 
-Multiattack. The rakshasa makes three Cursed Touch attacks.
+##### Traits
 
-Cursed Touch. Melee Attack Roll: +10, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage plus 19 (3d12) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target gains no benefit from finishing a Short or Long Rest.
+**Greater Magic Resistance.** The rakshasa automatically succeeds on saving throws against spells and other magical effects, and the attack rolls of spells automatically miss it. Without the rakshasa's permission, no spell can observe the rakshasa remotely or detect its thoughts, creature type, or alignment.
 
-Baleful Command (Recharge 5-6). Wisdom Saving Throw: DC 18, each enemy in a 30-foot Emanation originating from the rakshasa. Failure: 28 (8d6) Psychic damage, and the target has the Frightened and Incapacitated conditions until the start of the rakshasa's next turn.
+**Fiendish Restoration.** If the rakshasa dies outside the Nine Hells, its body turns to ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
 
-Spellcasting. The rakshasa casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
+##### Actions
 
-At Will: Detect Magic , Detect Thoughts , Disguise Self , Mage Hand , Minor Illusion
+**Multiattack.** The rakshasa makes three Cursed Touch attacks.
 
-1/Day Each: Fly , Invisibility , Major Image , Plane Shift
+**Cursed Touch.** Melee Attack Roll: +10, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage plus 19 (3d12) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target gains no benefit from finishing a Short or Long Rest.
 
-## Red Dragons
+**Baleful Command (Recharge 5-6).** Wisdom Saving Throw: DC 18, each enemy in a 30-foot Emanation originating from the rakshasa. Failure: 28 (8d6) Psychic damage, and the target has the Frightened and Incapacitated conditions until the start of the rakshasa's next turn.
 
-<!-- image -->
+**Spellcasting.** The rakshasa casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
 
-| Red Dragon Wyrmling                                                                   |                        |
-|---------------------------------------------------------------------------------------|------------------------|
-| Medium Dragon (Chromatic), Chaotic Evil                                               |                        |
-| AC 17 Initiative +2 (12)                                                              |                        |
-| HP 75 (10d8 + 30) Speed 30 ft., Climb                                                 |                        |
-| 30 ft., Fly 60 ft. MOD SAVE MOD SAVE MOD SAVE                                         |                        |
-| S tr 19 +4 +4 Dex 10 +0 +2 Con 17 +3 +3                                               |                        |
-| I nt 12 +1 +1 WIS 11 +0 +2 Cha 15 +2 +2                                               |                        |
-| Skills Perception +4, Stealth +2 Immunities Fire                                      |                        |
-| Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14 Languages Draconic |                        |
-|                                                                                       | CR 4 (XP 1,100; PB +2) |
+- At Will: Detect Magic, Detect Thoughts, Disguise Self, Mage Hand, Minor Illusion
+- 1/Day Each: Fly, Invisibility, Major Image, Plane Shift
 
-## Actions
+### Red Dragons
 
-Multiattack. The dragon makes two Rend attacks.
+#### Red Dragon Wyrmling
 
-Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage plus 3 (1d6) Fire damage.
+*Medium Dragon (Chromatic), Chaotic Evil*
 
-Fire Breath (Recharge 5-6). Dexterity Saving Throw: DC 13, each creature in a 15-foot Cone. Failure: 24 (7d6) Fire damage. Success: Half damage.
+**AC** 17
+**Initiative** +2 (12)
+**HP** 75 (10d8 + 30)
+**Speed** 30 ft., Climb 30 ft., Fly 60 ft.
 
-## Young Red Dragon
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 10    | +0  | +2   |
+| CON  | 17    | +3  | +3   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 15    | +2  | +2   |
 
-<!-- image -->
+**Skills** Perception +4, Stealth +2
+**Immunities** Fire
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 4 (XP 1,100; PB +2)
 
-## Actions
+##### Actions
 
-Multiattack. The dragon makes three Rend attacks.
+**Multiattack.** The dragon makes two Rend attacks.
 
-Rend. Melee Attack Roll: +10, reach 10 ft. Hit: 13 (2d6 + 6) Slashing damage plus 3 (1d6) Fire damage.
+**Rend.** Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage plus 3 (1d6) Fire damage.
 
-Fire Breath (Recharge 5-6). Dexterity Saving Throw: DC 17, each creature in a 30-foot Cone. Failure: 56 (16d6) Fire damage. Success: Half damage.
+**Fire Breath (Recharge 5-6).** Dexterity Saving Throw: DC 13, each creature in a 15-foot Cone. Failure: 24 (7d6) Fire damage. Success: Half damage.
 
-<!-- image -->
+#### Young Red Dragon
 
-| Adult Red Dragon                                                    |     |
-|---------------------------------------------------------------------|-----|
-| Huge Dragon (Chromatic), Chaotic Evil                               |     |
-| AC 19 Initiative +12 (22) HP 256 (19d12 + 133)                      |     |
-| Speed 40 ft., Climb 40 ft., Fly 80 ft. MOD SAVE MOD SAVE MOD SAVE   |     |
-| S tr 27 +8 +8 Dex 10 +0 +6 Con 25 +7 +7                             |     |
-| I nt 16 +3 +3 WIS 13 +1 +7 Cha 23 +6 +6                             |     |
-| Senses Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 23 |     |
-| Languages Common, Draconic                                          |     |
-| CR 17 (XP 18,000, or 20,000 in lair; PB                             |     |
-|                                                                     | +6) |
+*Large Dragon (Chromatic), Chaotic Evil*
 
-## Traits
+**AC** 18
+**Initiative** +4 (14)
+**HP** 178 (17d10 + 85)
+**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
-Legendary Resistance (3/Day, or 4/Day in Lair). If the dragon fails a saving throw, it can choose to succeed instead.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 10    | +0  | +4   |
+| CON  | 21    | +5  | +5   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 11    | +0  | +4   |
+| CHA  | 19    | +4  | +4   |
 
-## Actions
+**Skills** Perception +8, Stealth +4
+**Immunities** Fire
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18
+**Languages** Common, Draconic
+**CR** 10 (XP 5,900; PB +4)
 
-Multiattack. The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast Scorching Ray .
+##### Actions
 
-Rend. Melee Attack Roll: +14, reach 10 ft. Hit: 13 (1d10 + 8) Slashing damage plus 5 (2d4) Fire damage.
+**Multiattack.** The dragon makes three Rend attacks.
 
-Fire Breath (Recharge 5-6). Dexterity Saving Throw: DC 21, each creature in a 60-foot Cone. Failure: 59 (17d6) Fire damage. Success: Half damage.
+**Rend.** Melee Attack Roll: +10, reach 10 ft. Hit: 13 (2d6 + 6) Slashing damage plus 3 (1d6) Fire damage.
 
-Spellcasting. The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 20, +12 to hit with spell attacks):
+**Fire Breath (Recharge 5-6).** Dexterity Saving Throw: DC 17, each creature in a 30-foot Cone. Failure: 56 (16d6) Fire damage. Success: Half damage.
 
-At Will: Command (level 2 version), Detect Magic , Scorching Ray
+#### Adult Red Dragon
 
-1/Day: Fireball
+*Huge Dragon (Chromatic), Chaotic Evil*
 
-## Legendary Actions
+**AC** 19
+**Initiative** +12 (22)
+**HP** 256 (19d12 + 133)
+**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 27    | +8  | +8   |
+| DEX  | 10    | +0  | +6   |
+| CON  | 25    | +7  | +7   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 13    | +1  | +7   |
+| CHA  | 23    | +6  | +6   |
 
-Commanding Presence. The dragon uses Spellcasting to cast Command (level 2 version). The dragon can't take this action again until the start of its next turn.
+**Skills** Perception +13, Stealth +6
+**Immunities** Fire
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 23
+**Languages** Common, Draconic
+**CR** 17 (XP 18,000, or 20,000 in lair; PB +6)
 
-Fiery Rays. The dragon uses Spellcasting to cast Scorching Ray . The dragon can't take this action again until the start of its next turn.
+##### Traits
 
-Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
+**Legendary Resistance (3/Day, or 4/Day in Lair).** If the dragon fails a saving throw, it can choose to succeed instead.
 
-<!-- image -->
+##### Actions
 
-| Ancient Red Dragon                                                                             |     |
-|------------------------------------------------------------------------------------------------|-----|
-| Gargantuan Dragon (Chromatic), Chaotic Evil AC 22 Initiative +14 (24)                          |     |
-| HP 507 (26d20 + 234)                                                                           |     |
-| Speed 40 ft., Climb 40 ft., Fly 80 ft.                                                         |     |
-| MOD SAVE MOD SAVE MOD SAVE                                                                     |     |
-| S tr 30 +10 +10 Dex 10 +0 +7 Con 29 +9 +9                                                      |     |
-| I nt 18 +4 +4 WIS 15 +2 +9 Cha 27 +8 +8                                                        |     |
-| Skills Perception +16, Stealth +7 Immunities Fire                                              |     |
-| Senses Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26 Languages Common, Draconic |     |
-| CR 24 (XP 62,000, or 75,000 in lair; PB                                                        |     |
-|                                                                                                | +7) |
+**Multiattack.** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast Scorching Ray.
 
-## Traits
+**Rend.** Melee Attack Roll: +14, reach 10 ft. Hit: 13 (1d10 + 8) Slashing damage plus 5 (2d4) Fire damage.
 
-Legendary Resistance (4/Day, or 5/Day in Lair). If the dragon fails a saving throw, it can choose to succeed instead.
+**Fire Breath (Recharge 5-6).** Dexterity Saving Throw: DC 21, each creature in a 60-foot Cone. Failure: 59 (17d6) Fire damage. Success: Half damage.
 
-## Actions
+**Spellcasting.** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 20, +12 to hit with spell attacks):
 
-Multiattack. The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast Scorching Ray (level 3 version).
+- At Will: Command (level 2 version), Detect Magic, Scorching Ray
+- 1/Day: Fireball
 
-Rend. Melee Attack Roll: +17, reach 15 ft. Hit: 19 (2d8 + 10) Slashing damage plus 10 (3d6) Fire damage.
+##### Legendary Actions
 
-Fire Breath (Recharge 5-6). Dexterity Saving Throw: DC 24, each creature in a 90-foot Cone. Failure: 91 (26d6) Fire damage. Success: Half damage.
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-Spellcasting. The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks):
+**Commanding Presence.** The dragon uses Spellcasting to cast Command (level 2 version). The dragon can't take this action again until the start of its next turn.
 
-At Will: Command (level 2 version), Detect Magic , Scorching Ray (level 3 version)
+**Fiery Rays.** The dragon uses Spellcasting to cast Scorching Ray. The dragon can't take this action again until the start of its next turn.
 
-1/Day Each: Fireball (level 6 version), Scrying
+**Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-## Legendary Actions
+#### Ancient Red Dragon
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+*Gargantuan Dragon (Chromatic), Chaotic Evil*
 
-Commanding Presence. The dragon uses Spellcasting to cast Command (level 2 version). The dragon can't take this action again until the start of its next turn.
+**AC** 22
+**Initiative** +14 (24)
+**HP** 507 (26d20 + 234)
+**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
-Fiery Rays. The dragon uses Spellcasting to cast Scorching Ray (level 3 version). The dragon can't take this action again until the start of its next turn.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 30    | +10 | +10  |
+| DEX  | 10    | +0  | +7   |
+| CON  | 29    | +9  | +9   |
+| INT  | 18    | +4  | +4   |
+| WIS  | 15    | +2  | +9   |
+| CHA  | 27    | +8  | +8   |
 
-Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
+**Skills** Perception +16, Stealth +7
+**Immunities** Fire
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
+**Languages** Common, Draconic
+**CR** 24 (XP 62,000, or 75,000 in lair; PB +7)
 
-## Remorhaz
+##### Traits
 
-<!-- image -->
+**Legendary Resistance (4/Day, or 5/Day in Lair).** If the dragon fails a saving throw, it can choose to succeed instead.
 
-| Remorhaz                                                            | Remorhaz                                                            | Remorhaz                                                            | Remorhaz                                                            | Remorhaz                                                            | Remorhaz                                                            | Remorhaz                                                            | Remorhaz                                                            | Remorhaz                                                            | Remorhaz                                                            |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| Huge Monstrosity, Unaligned                                         | Huge Monstrosity, Unaligned                                         | Huge Monstrosity, Unaligned                                         | Huge Monstrosity, Unaligned                                         | Huge Monstrosity, Unaligned                                         | Huge Monstrosity, Unaligned                                         | Huge Monstrosity, Unaligned                                         | Huge Monstrosity, Unaligned                                         | Huge Monstrosity, Unaligned                                         | Huge Monstrosity, Unaligned                                         |
-| AC 17 Initiative +5 (15)                                            | AC 17 Initiative +5 (15)                                            | AC 17 Initiative +5 (15)                                            | AC 17 Initiative +5 (15)                                            | AC 17 Initiative +5 (15)                                            | AC 17 Initiative +5 (15)                                            | AC 17 Initiative +5 (15)                                            | AC 17 Initiative +5 (15)                                            | AC 17 Initiative +5 (15)                                            | AC 17 Initiative +5 (15)                                            |
-| HP 195 (17d12 + 85)                                                 | HP 195 (17d12 + 85)                                                 | HP 195 (17d12 + 85)                                                 | HP 195 (17d12 + 85)                                                 | HP 195 (17d12 + 85)                                                 | HP 195 (17d12 + 85)                                                 | HP 195 (17d12 + 85)                                                 | HP 195 (17d12 + 85)                                                 | HP 195 (17d12 + 85)                                                 | HP 195 (17d12 + 85)                                                 |
-| Speed 40 ft., Burrow 30 ft.                                         | Speed 40 ft., Burrow 30 ft.                                         | Speed 40 ft., Burrow 30 ft.                                         | Speed 40 ft., Burrow 30 ft.                                         | Speed 40 ft., Burrow 30 ft.                                         | Speed 40 ft., Burrow 30 ft.                                         | Speed 40 ft., Burrow 30 ft.                                         | Speed 40 ft., Burrow 30 ft.                                         | Speed 40 ft., Burrow 30 ft.                                         | Speed 40 ft., Burrow 30 ft.                                         |
-| MOD SAVE MOD SAVE MOD SAVE                                          | MOD SAVE MOD SAVE MOD SAVE                                          | MOD SAVE MOD SAVE MOD SAVE                                          | MOD SAVE MOD SAVE MOD SAVE                                          | MOD SAVE MOD SAVE MOD SAVE                                          | MOD SAVE MOD SAVE MOD SAVE                                          | MOD SAVE MOD SAVE MOD SAVE                                          | MOD SAVE MOD SAVE MOD SAVE                                          | MOD SAVE MOD SAVE MOD SAVE                                          | MOD SAVE MOD SAVE MOD SAVE                                          |
-| S tr                                                                | 24                                                                  | +7                                                                  | +7                                                                  | Dex 13                                                              | +1                                                                  | +1                                                                  | Con 21                                                              | +5                                                                  | +5                                                                  |
-| I nt                                                                | 4                                                                   | -3                                                                  | -3                                                                  | WIS 10                                                              | +0                                                                  | +0                                                                  | Cha 5                                                               | -3                                                                  | -3                                                                  |
-| Immunities Cold, Fire                                               | Immunities Cold, Fire                                               | Immunities Cold, Fire                                               | Immunities Cold, Fire                                               | Immunities Cold, Fire                                               | Immunities Cold, Fire                                               | Immunities Cold, Fire                                               | Immunities Cold, Fire                                               | Immunities Cold, Fire                                               | Immunities Cold, Fire                                               |
-| Senses Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10 | Senses Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10 | Senses Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10 | Senses Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10 | Senses Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10 | Senses Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10 | Senses Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10 | Senses Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10 | Senses Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10 | Senses Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10 |
+##### Actions
 
-## Traits
+**Multiattack.** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast Scorching Ray (level 3 version).
 
-Heat Aura. At the end of each of the remorhaz's turns, each creature in a 5-foot Emanation originating from the remorhaz takes 16 (3d10) Fire damage.
+**Rend.** Melee Attack Roll: +17, reach 15 ft. Hit: 19 (2d8 + 10) Slashing damage plus 10 (3d6) Fire damage.
 
-## Actions
+**Fire Breath (Recharge 5-6).** Dexterity Saving Throw: DC 24, each creature in a 90-foot Cone. Failure: 91 (26d6) Fire damage. Success: Half damage.
 
-Bite. Melee Attack Roll: +11, reach 10 ft. Hit: 18 (2d10 + 7) Piercing damage plus 14 (4d6) Fire damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17), and it has the Restrained condition until the grapple ends.
+**Spellcasting.** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks):
 
-## Bonus Actions
+- At Will: Command (level 2 version), Detect Magic, Scorching Ray (level 3 version)
+- 1/Day Each: Fireball (level 6 version), Scrying
 
-Swallow. Strength Saving Throw: DC 19, one Large or smaller creature Grappled by the remorhaz (it can have up to two creatures swallowed at a time). Failure: The target is swallowed by the remorhaz, and the Grappled condition ends. A swallowed creature has the Blinded
+##### Legendary Actions
 
-and Restrained conditions, it has Total Cover against attacks and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage plus 10 (3d6) Fire damage at the start of each of the remorhaz's turns.
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+
+**Commanding Presence.** The dragon uses Spellcasting to cast Command (level 2 version). The dragon can't take this action again until the start of its next turn.
+
+**Fiery Rays.** The dragon uses Spellcasting to cast Scorching Ray (level 3 version). The dragon can't take this action again until the start of its next turn.
+
+**Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
+
+### Remorhaz
+
+#### Remorhaz
+
+*Huge Monstrosity, Unaligned*
+
+**AC** 17
+**Initiative** +5 (15)
+**HP** 195 (17d12 + 85)
+**Speed** 40 ft., Burrow 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 24    | +7  | +7   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 21    | +5  | +5   |
+| INT  | 4     | -3  | -3   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
+
+**Immunities** Cold, Fire
+**Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10
+**Languages** None
+**CR** 11 (XP 7,200; PB +4)
+
+##### Traits
+
+**Heat Aura.** At the end of each of the remorhaz's turns, each creature in a 5-foot Emanation originating from the remorhaz takes 16 (3d10) Fire damage.
+
+##### Actions
+
+**Bite.** Melee Attack Roll: +11, reach 10 ft. Hit: 18 (2d10 + 7) Piercing damage plus 14 (4d6) Fire damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17), and it has the Restrained condition until the grapple ends.
+
+##### Bonus Actions
+
+**Swallow.** Strength Saving Throw: DC 19, one Large or smaller creature Grappled by the remorhaz (it can have up to two creatures swallowed at a time). Failure: The target is swallowed by the remorhaz, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, it has Total Cover against attacks and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage plus 10 (3d6) Fire damage at the start of each of the remorhaz's turns.
 
 If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the remorhaz and has the Prone condition. If the remorhaz dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse by using 15 feet of movement, exiting Prone.
 
-## Roc
+### Roc
 
-<!-- image -->
+#### Roc
 
-## Actions
+*Gargantuan Monstrosity, Unaligned*
 
-Multiattack. The roc makes two Beak attacks. It can replace one attack with a Talons attack.
+**AC** 15
+**Initiative** +8 (18)
+**HP** 248 (16d20 + 80)
+**Speed** 20 ft., Fly 120 ft.
 
-Beak. Melee Attack Roll: +13, reach 10 ft. Hit: 28 (3d12 + 9) Piercing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 28    | +9  | +9   |
+| DEX  | 10    | +0  | +4   |
+| CON  | 20    | +5  | +5   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 10    | +0  | +4   |
+| CHA  | 9     | -1  | -1   |
 
-Talons. Melee Attack Roll: +13, reach 5 ft. Hit: 23 (4d6 + 9) Slashing damage. If the target is a Huge or smaller creature, it has the Grappled condition (escape DC 19) from both talons, and it has the Restrained condition until the grapple ends.
+**Skills** Perception +8
+**Senses** Passive Perception 18
+**Languages** None
+**CR** 11 (XP 7,200; PB +4)
 
-## Bonus Actions
+##### Actions
 
-Swoop (Recharge 5-6). If the roc has a creature Grappled, the roc flies up to half its Fly Speed without provoking Opportunity Attacks and drops that creature.
+**Multiattack.** The roc makes two Beak attacks. It can replace one attack with a Talons attack.
 
-## Roper
+**Beak.** Melee Attack Roll: +13, reach 10 ft. Hit: 28 (3d12 + 9) Piercing damage.
 
-| Roper                          |
-|--------------------------------|
-| Large Aberration, Neutral Evil |
-| AC 20 Initiative               |
-| HP 93 (11d10 + 33)             |
-| Speed 10 ft., Climb 20 ft.     |
+**Talons.** Melee Attack Roll: +13, reach 5 ft. Hit: 23 (4d6 + 9) Slashing damage. If the target is a Huge or smaller creature, it has the Grappled condition (escape DC 19) from both talons, and it has the Restrained condition until the grapple ends.
 
-<!-- image -->
+##### Bonus Actions
 
-Skills Perception +6, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 16 Languages None CR 5 (XP 1,800; PB +3)
+**Swoop (Recharge 5-6).** If the roc has a creature Grappled, the roc flies up to half its Fly Speed without provoking Opportunity Attacks and drops that creature.
 
-## Traits
+### Roper
 
-Spider Climb. The roper can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+#### Roper
 
-## Actions
+*Large Aberration, Neutral Evil*
 
-Multiattack. The roper makes two Tentacle attacks, uses Reel, and makes two Bite attacks.
+**AC** 20
+**Initiative** +5 (15)
+**HP** 93 (11d10 + 33)
+**Speed** 10 ft., Climb 20 ft.
 
-Bite. Melee Attack Roll: +7, reach 5 ft. Hit: 17 (3d8 + 4) Piercing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 17    | +3  | +3   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 16    | +3  | +3   |
+| CHA  | 6     | -2  | -2   |
 
-Tentacle. Melee Attack Roll: +7, reach 60 ft. Hit: The target has the Grappled condition (escape DC 14) from one of six tentacles, and the target has the Poisoned condition until the grapple ends.
+**Skills** Perception +6, Stealth +5
+**Senses** Darkvision 60 ft.; Passive Perception 16
+**Languages** None
+**CR** 5 (XP 1,800; PB +3)
+
+##### Traits
+
+**Spider Climb.** The roper can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+
+##### Actions
+
+**Multiattack.** The roper makes two Tentacle attacks, uses Reel, and makes two Bite attacks.
+
+**Bite.** Melee Attack Roll: +7, reach 5 ft. Hit: 17 (3d8 + 4) Piercing damage.
+
+**Tentacle.** Melee Attack Roll: +7, reach 60 ft. Hit: The target has the Grappled condition (escape DC 14) from one of six tentacles, and the target has the Poisoned condition until the grapple ends.
 
 The tentacle can be damaged, freeing a creature it has Grappled when destroyed (AC 20, HP 10, Immunity to Poison and Psychic damage). Damaging the tentacle deals no damage to the roper, and a destroyed tentacle regrows at the start of the roper's next turn.
 
-Reel. The roper pulls each creature Grappled by it up to 30 feet straight toward it.
+**Reel.** The roper pulls each creature Grappled by it up to 30 feet straight toward it.
 
-## Rust Monster
+### Rust Monster
 
-<!-- image -->
+#### Rust Monster
 
-Iron Scent. The rust monster can pinpoint the location of ferrous metal within 30 feet of itself.
+*Medium Monstrosity, Unaligned*
 
-## Actions
+**AC** 14
+**Initiative** +1 (11)
+**HP** 33 (6d8 + 6)
+**Speed** 40 ft.
 
-Multiattack. The rust monster makes one Bite attack and uses Antennae twice.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
 
-Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1) Piercing damage.
+**Senses** Darkvision 60 ft.; Passive Perception 11
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-Antennae. The rust monster targets one nonmagical metal object-armor or a weapon-worn or carried by a creature within 5 feet of itself. Dexterity Saving Throw: DC 11, the creature with the object. Failure: The object takes a -1 penalty to the AC it offers (armor) or to its attack rolls (weapon). Armor is destroyed if the penalty reduces its AC to 10, and a weapon is destroyed if its penalty reaches -5. The penalty can be removed by casting the Mending spell on the armor or weapon.
+##### Traits
 
-Destroy Metal. The rust monster touches a nonmagical metal object within 5 feet of itself that isn't being worn or carried. The touch destroys a 1-foot Cube of the object.
+**Iron Scent.** The rust monster can pinpoint the location of ferrous metal within 30 feet of itself.
 
-## Reactions
+##### Actions
 
-Reflexive Antennae. Trigger: An attack roll hits the rust monster. Response: The rust monster uses Antennae.
+**Multiattack.** The rust monster makes one Bite attack and uses Antennae twice.
 
-## Sahuagin
+**Bite.** Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1) Piercing damage.
 
-<!-- image -->
+**Antennae.** The rust monster targets one nonmagical metal object—armor or a weapon—worn or carried by a creature within 5 feet of itself. Dexterity Saving Throw: DC 11, the creature with the object. Failure: The object takes a -1 penalty to the AC it offers (armor) or to its attack rolls (weapon). Armor is destroyed if the penalty reduces its AC to 10, and a weapon is destroyed if its penalty reaches -5. The penalty can be removed by casting the Mending spell on the armor or weapon.
 
-| Sahuagin Warrior                                                       |
-|------------------------------------------------------------------------|
-| Medium Fiend, Lawful Evil                                              |
-| AC 12 Initiative +0 (10) HP 22 (4d8 + 4)                               |
-| Speed 30 ft., Swim 40 ft.                                              |
-| MOD SAVE MOD SAVE MOD SAVE S tr 13 +1 +1 Dex 11 +0 +0 Con 12 +1 +1     |
-| Skills Perception +5 Resistances Acid, Cold Senses Darkvision 120 ft.; |
-| Passive Perception 15 Languages Sahuagin                               |
-| CR 1/2 (XP 100; PB +2)                                                 |
+**Destroy Metal.** The rust monster touches a nonmagical metal object within 5 feet of itself that isn't being worn or carried. The touch destroys a 1-foot Cube of the object.
 
-## Traits
+##### Reactions
 
-Blood Frenzy. The sahuagin has Advantage on attack rolls against any creature that doesn't have all its Hit Points.
+**Reflexive Antennae.** Trigger: An attack roll hits the rust monster. Response: The rust monster uses Antennae.
 
-Limited Amphibiousness. The sahuagin can breathe air and water, but it must be submerged at least once every 4 hours to avoid suffocating outside water.
+### Sahuagin
 
-Shark Telepathy. The sahuagin can magically control sharks within 120 feet of itself, using a special telepathy.
+#### Sahuagin Warrior
 
-## Actions
+*Medium Fiend, Lawful Evil*
 
-Multiattack. The sahuagin makes two Claw attacks.
+**AC** 12
+**Initiative** +0 (10)
+**HP** 22 (4d8 + 4)
+**Speed** 30 ft., Swim 40 ft.
 
-Claw. Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Slashing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 12    | +1  | +1   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 9     | -1  | -1   |
 
-## Bonus Actions
+**Skills** Perception +5
+**Resistances** Acid, Cold
+**Senses** Darkvision 120 ft.; Passive Perception 15
+**Languages** Sahuagin
+**CR** 1/2 (XP 100; PB +2)
 
-Aquatic Charge. The sahuagin swims up to its Swim Speed straight toward an enemy it can see.
+##### Traits
 
-## Salamander
+**Blood Frenzy.** The sahuagin has Advantage on attack rolls against any creature that doesn't have all its Hit Points.
 
-<!-- image -->
+**Limited Amphibiousness.** The sahuagin can breathe air and water, but it must be submerged at least once every 4 hours to avoid suffocating outside water.
 
-| Salamander                                   | Salamander                                   | Salamander                                   | Salamander                                   | Salamander                                   | Salamander                    | Salamander                    | Salamander                    | Salamander                    | Salamander                    | Salamander                    | Salamander                    |
-|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-| Large Elemental, Neutral Evil                | Large Elemental, Neutral Evil                | Large Elemental, Neutral Evil                | Large Elemental, Neutral Evil                | Large Elemental, Neutral Evil                | Large Elemental, Neutral Evil | Large Elemental, Neutral Evil | Large Elemental, Neutral Evil | Large Elemental, Neutral Evil | Large Elemental, Neutral Evil | Large Elemental, Neutral Evil | Large Elemental, Neutral Evil |
-| AC 15                                        | AC 15                                        | AC 15                                        | AC 15                                        | AC 15                                        | Initiative +2 (12)            | Initiative +2 (12)            | Initiative +2 (12)            | Initiative +2 (12)            | Initiative +2 (12)            | Initiative +2 (12)            | Initiative +2 (12)            |
-| HP 90 (12d10 + 24)                           | HP 90 (12d10 + 24)                           | HP 90 (12d10 + 24)                           | HP 90 (12d10 + 24)                           | HP 90 (12d10 + 24)                           |                               |                               |                               |                               |                               |                               |                               |
-| Speed 30 ft., Climb 30 ft.                   | Speed 30 ft., Climb 30 ft.                   | Speed 30 ft., Climb 30 ft.                   | Speed 30 ft., Climb 30 ft.                   | Speed 30 ft., Climb 30 ft.                   |                               |                               |                               |                               |                               |                               |                               |
-|                                              |                                              | MOD SAVE                                     | MOD SAVE                                     | MOD SAVE                                     | MOD SAVE                      | MOD SAVE                      | MOD SAVE                      | MOD                           | SAVE                          | SAVE                          | SAVE                          |
-| S tr                                         | 18                                           | +4                                           | +4                                           | Dex 14                                       | +2                            | +2                            | Con 15                        | +2                            | +2                            | +2                            | +2                            |
-| I nt                                         | 11                                           | +0                                           | +0                                           | WIS 10                                       | +0                            | +0                            | Cha 12                        | +1                            | +1                            | +1                            | +1                            |
-| Vulnerabilities Cold Immunities Fire         | Vulnerabilities Cold Immunities Fire         | Vulnerabilities Cold Immunities Fire         | Vulnerabilities Cold Immunities Fire         | Vulnerabilities Cold Immunities Fire         |                               |                               |                               |                               |                               |                               |                               |
-| Senses Darkvision 60 ft.; Passive Perception | Senses Darkvision 60 ft.; Passive Perception | Senses Darkvision 60 ft.; Passive Perception | Senses Darkvision 60 ft.; Passive Perception | Senses Darkvision 60 ft.; Passive Perception |                               |                               |                               |                               |                               |                               |                               |
-| Languages Primordial (Ignan)                 | Languages Primordial (Ignan)                 | Languages Primordial (Ignan)                 | Languages Primordial (Ignan)                 | Languages Primordial (Ignan)                 |                               |                               |                               |                               |                               |                               |                               |
-| CR 5 (XP 1,800; PB +3)                       | CR 5 (XP 1,800; PB +3)                       | CR 5 (XP 1,800; PB +3)                       | CR 5 (XP 1,800; PB +3)                       | CR 5 (XP 1,800; PB +3)                       |                               |                               |                               |                               |                               |                               |                               |
+**Shark Telepathy.** The sahuagin can magically control sharks within 120 feet of itself, using a special telepathy.
 
-## Traits
+##### Actions
 
-Fire Aura. At the end of each of the salamander's turns, each creature of the salamander's choice in a 5-foot Emanation originating from the salamander takes 7 (2d6) Fire damage.
+**Multiattack.** The sahuagin makes two Claw attacks.
 
-## Actions
+**Claw.** Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Slashing damage.
 
-Multiattack. The salamander makes two Flame Spear attacks. It can replace one attack with a use of Constrict.
+##### Bonus Actions
 
-Flame Spear. Melee or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit: 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. Hit or Miss: The spear magically returns to the salamander's hand immediately after a ranged attack.
+**Aquatic Charge.** The sahuagin swims up to its Swim Speed straight toward an enemy it can see.
 
-Constrict. Strength Saving Throw: DC 15, one Large or smaller creature the salamander can see within 10 feet. Failure: 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Fire damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.
+### Salamander
 
-## Satyr
+#### Salamander
 
-<!-- image -->
+*Large Elemental, Neutral Evil*
 
-## Traits
+**AC** 15
+**Initiative** +2 (12)
+**HP** 90 (12d10 + 24)
+**Speed** 30 ft., Climb 30 ft.
 
-Magic Resistance. The satyr has Advantage on saving throws against spells and other magical effects.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 15    | +2  | +2   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 12    | +1  | +1   |
 
-## Actions
+**Vulnerabilities** Cold
+**Immunities** Fire
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Primordial (Ignan)
+**CR** 5 (XP 1,800; PB +3)
 
-Hooves. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, the satyr pushes the target up to 10 feet straight away from itself.
+##### Traits
 
-Mockery. Wisdom Saving Throw: DC 12, one creature the satyr can see within 90 feet. Failure: 5 (1d6 + 2) Psychic damage.
+**Fire Aura.** At the end of each of the salamander's turns, each creature of the salamander's choice in a 5-foot Emanation originating from the salamander takes 7 (2d6) Fire damage.
 
-## Scout
+##### Actions
 
-<!-- image -->
+**Multiattack.** The salamander makes two Flame Spear attacks. It can replace one attack with a use of Constrict.
 
-## Actions
+**Flame Spear.** Melee or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit: 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. Hit or Miss: The spear magically returns to the salamander's hand immediately after a ranged attack.
 
-Multiattack. The scout makes two attacks, using Shortsword and Longbow in any combination.
+**Constrict.** Strength Saving Throw: DC 15, one Large or smaller creature the salamander can see within 10 feet. Failure: 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Fire damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.
 
-Shortsword. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage.
+### Satyr
 
-Longbow. Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing damage.
+#### Satyr
 
-## Sea Hag
+*Medium Fey, Chaotic Neutral*
 
-<!-- image -->
+**AC** 13
+**Initiative** +3 (13)
+**HP** 31 (7d8)
+**Speed** 40 ft.
 
-Amphibious. The hag can breathe air and water.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 12    | +1  | +1   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 11    | +0  | +0   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 14    | +2  | +2   |
 
-Coven Magic. While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save DC 11): Augury , Find Familiar , Identify , Locate Object , Scrying , or Unseen Servant . The hag must finish a Long Rest before using this trait to cast that spell again.
+**Skills** Perception +2, Performance +6, Stealth +5
+**Senses** Passive Perception 12
+**Languages** Common, Elvish, Sylvan
+**CR** 1/2 (XP 100; PB +2)
 
-Vile Appearance. Wisdom Saving Throw: DC 11, any Beast or Humanoid that starts its turn within 30 feet of the hag and can see the hag's true form. Failure: The target has the Frightened condition until the start of its next turn. Success: The target is immune to this hag's Vile Appearance for 24 hours.
+##### Traits
 
-## Actions
+**Magic Resistance.** The satyr has Advantage on saving throws against spells and other magical effects.
 
-Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.
+##### Actions
 
-Death Glare (Recharge 5-6). Wisdom Saving Throw: DC 11, one Frightened creature the hag can see within 30 feet. Failure: If the target has 20 Hit Points or fewer, it drops to 0 Hit Points. Otherwise, the target takes 13 (3d8) Psychic damage.
+**Hooves.** Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, the satyr pushes the target up to 10 feet straight away from itself.
 
-Illusory Appearance. The hag casts Disguise Self , using Constitution as the spellcasting ability (spell save DC 13). The spell's duration is 24 hours.
+**Mockery.** Wisdom Saving Throw: DC 12, one creature the satyr can see within 90 feet. Failure: 5 (1d6 + 2) Psychic damage.
 
-## Shadow
+### Scout
 
-<!-- image -->
+#### Scout
 
-## Traits
+*Medium or Small Humanoid, Neutral*
 
-Amorphous. The shadow can move through a space as narrow as 1 inch without expending extra movement to do so.
+**AC** 13
+**Initiative** +2 (12)
+**HP** 16 (3d8 + 3)
+**Speed** 30 ft.
 
-Sunlight Weakness. While in sunlight, the shadow has Disadvantage on D20 Tests.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 11    | +0  | +0   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 11    | +0  | +0   |
 
-## Actions
+**Skills** Nature +4, Perception +5, Stealth +6, Survival +5
+**Gear** Leather Armor, Longbow, Shortsword
+**Senses** Passive Perception 15
+**Languages** Common plus one other language
+**CR** 1/2 (XP 100; PB +2)
 
-Draining Swipe. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Necrotic damage, and the target's Strength score decreases by 1d4. The target dies if this reduces that score to 0. If a Humanoid is slain by this attack, a Shadow rises from the corpse 1d4 hours later.
+##### Actions
 
-## Bonus Actions
+**Multiattack.** The scout makes two attacks, using Shortsword and Longbow in any combination.
 
-Shadow Stealth. While in Dim Light or Darkness, the shadow takes the Hide action.
+**Shortsword.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage.
 
-## Shambling Mound
+**Longbow.** Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing damage.
 
-<!-- image -->
+### Sea Hag
 
-| Shambling Mound                                                              |
-|------------------------------------------------------------------------------|
-| Large Plant, Unaligned AC 15 Initiative -1 (9)                               |
-| S tr 18 +4 +4 Dex 8 -1 -1 Con 16 +3 +3 I nt 5 -3 -3 WIS 10 +0 +0 Cha 5 -3 -3 |
-| Speed 30 ft., Swim 20 ft. MOD SAVE MOD SAVE MOD SAVE                         |
-| Skills Stealth +3 Resistances Cold, Fire                                     |
-| Immunities Lightning; Deafened,                                              |
-| Exhaustion                                                                   |
-| Senses Blindsight 60 ft.; Passive Perception 10 Languages None               |
-| CR 5 (XP 1,800; PB +3)                                                       |
+#### Sea Hag
 
-## Traits
+*Medium Fey, Chaotic Evil*
 
-Lightning Absorption . Whenever the shambling mound is subjected to Lightning damage, it regains a number of Hit Points equal to the Lightning damage dealt.
+**AC** 14
+**Initiative** +1 (11)
+**HP** 52 (7d8 + 21)
+**Speed** 30 ft., Swim 40 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 16    | +3  | +3   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 13    | +1  | +1   |
 
-Multiattack. The shambling mound makes three Charged Tendril attacks. It can replace one attack with a use of Engulf.
+**Senses** Darkvision 60 ft.; Passive Perception 11
+**Languages** Common, Giant, Primordial (Aquan)
+**CR** 2 (XP 450; PB +2)
 
-Charged Tendril. Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4) Lightning damage. If the target is a Medium or smaller creature, the shambling mound pulls the target 5 feet straight toward itself.
+##### Traits
 
-Engulf. Strength Saving Throw: DC 15, one Medium or smaller creature within 5 feet. Failure: The target is pulled into the shambling mound's space and has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Blinded and Restrained conditions, and it takes 10 (3d6) Lightning damage at the start of each of its turns. When the shambling mound moves, the Grappled target moves with it, costing it no extra movement. The shambling mound can have only one creature Grappled by this action at a time.
+**Amphibious.** The hag can breathe air and water.
 
-## Shield Guardian
+**Coven Magic.** While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save DC 11): Augury, Find Familiar, Identify, Locate Object, Scrying, or Unseen Servant. The hag must finish a Long Rest before using this trait to cast that spell again.
 
-<!-- image -->
+**Vile Appearance.** Wisdom Saving Throw: DC 11, any Beast or Humanoid that starts its turn within 30 feet of the hag and can see the hag's true form. Failure: The target has the Frightened condition until the start of its next turn. Success: The target is immune to this hag's Vile Appearance for 24 hours.
 
-| Shield Guardian                                                                             | Shield Guardian                                                                             | Shield Guardian                                                                             | Shield Guardian                                                                             | Shield Guardian                                                                             | Shield Guardian                                                                             | Shield Guardian                                                                             | Shield Guardian                                                                             | Shield Guardian                                                                             | Shield Guardian                                                                             | Shield Guardian                                                                             |
-|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Large Construct, Unaligned                                                                  | Large Construct, Unaligned                                                                  | Large Construct, Unaligned                                                                  | Large Construct, Unaligned                                                                  | Large Construct, Unaligned                                                                  | Large Construct, Unaligned                                                                  | Large Construct, Unaligned                                                                  | Large Construct, Unaligned                                                                  | Large Construct, Unaligned                                                                  | Large Construct, Unaligned                                                                  | Large Construct, Unaligned                                                                  |
-| AC 17                                                                                       | AC 17                                                                                       | AC 17                                                                                       | AC 17                                                                                       | AC 17                                                                                       | Initiative -1 (9)                                                                           | Initiative -1 (9)                                                                           | Initiative -1 (9)                                                                           | Initiative -1 (9)                                                                           | Initiative -1 (9)                                                                           | Initiative -1 (9)                                                                           |
-| HP 142 (15d10 + 60)                                                                         | HP 142 (15d10 + 60)                                                                         | HP 142 (15d10 + 60)                                                                         | HP 142 (15d10 + 60)                                                                         | HP 142 (15d10 + 60)                                                                         | HP 142 (15d10 + 60)                                                                         | HP 142 (15d10 + 60)                                                                         | HP 142 (15d10 + 60)                                                                         | HP 142 (15d10 + 60)                                                                         | HP 142 (15d10 + 60)                                                                         | HP 142 (15d10 + 60)                                                                         |
-|                                                                                             |                                                                                             | MOD SAVE                                                                                    | MOD SAVE                                                                                    | MOD SAVE                                                                                    |                                                                                             | MOD                                                                                         | SAVE                                                                                        |                                                                                             | MOD                                                                                         | SAVE                                                                                        |
-| S tr                                                                                        | 18                                                                                          | +4                                                                                          | +4                                                                                          | Dex                                                                                         | 8                                                                                           | -1                                                                                          | -1                                                                                          | Con 18                                                                                      | +4                                                                                          | +4                                                                                          |
-| I nt                                                                                        | 7                                                                                           | -2                                                                                          | -2                                                                                          | WIS                                                                                         | 10                                                                                          | +0                                                                                          | +0                                                                                          | Cha 3                                                                                       | -4                                                                                          | -4                                                                                          |
-| Immunities Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned          | Immunities Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned          | Immunities Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned          | Immunities Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned          | Immunities Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned          | Immunities Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned          | Immunities Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned          | Immunities Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned          | Immunities Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned          | Immunities Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned          | Immunities Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned          |
-| Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10                          | Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10                          | Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10                          | Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10                          | Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10                          | Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10                          | Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10                          | Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10                          | Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10                          | Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10                          | Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10                          |
-| Languages Understands commands given in any language but can't speak CR 7 (XP 2,900; PB +3) | Languages Understands commands given in any language but can't speak CR 7 (XP 2,900; PB +3) | Languages Understands commands given in any language but can't speak CR 7 (XP 2,900; PB +3) | Languages Understands commands given in any language but can't speak CR 7 (XP 2,900; PB +3) | Languages Understands commands given in any language but can't speak CR 7 (XP 2,900; PB +3) | Languages Understands commands given in any language but can't speak CR 7 (XP 2,900; PB +3) | Languages Understands commands given in any language but can't speak CR 7 (XP 2,900; PB +3) | Languages Understands commands given in any language but can't speak CR 7 (XP 2,900; PB +3) | Languages Understands commands given in any language but can't speak CR 7 (XP 2,900; PB +3) | Languages Understands commands given in any language but can't speak CR 7 (XP 2,900; PB +3) | Languages Understands commands given in any language but can't speak CR 7 (XP 2,900; PB +3) |
+##### Actions
 
-## Traits
+**Claw.** Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.
 
-Bound. The guardian is magically bound to an amulet. While the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (round up) is transferred to the guardian.
+**Death Glare (Recharge 5-6).** Wisdom Saving Throw: DC 11, one Frightened creature the hag can see within 30 feet. Failure: If the target has 20 Hit Points or fewer, it drops to 0 Hit Points. Otherwise, the target takes 13 (3d8) Psychic damage.
 
-Regeneration. The guardian regains 10 Hit Points at the start of each of its turns if it has at least 1 Hit Point.
+**Illusory Appearance.** The hag casts Disguise Self, using Constitution as the spellcasting ability (spell save DC 13). The spell's duration is 24 hours.
 
-Spell Storing. A spellcaster who wears the guardian's amulet can cause the guardian to store one spell of level 4 or lower. To do so, the wearer must cast the spell on the guardian while within 5 feet of it. The spell has no effect but is stored within the guardian. Any previously stored spell is lost when a new spell is stored. The guardian can cast the spell stored with any parameters set by the original caster, requiring no spell components and using the caster's spellcasting ability. The stored spell is then lost.
+### Shadow
 
-## Actions
+#### Shadow
 
-Multiattack. The guardian makes two Fist attacks.
+*Medium Undead, Chaotic Evil*
 
-Fist. Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Force damage.
+**AC** 12
+**Initiative** +2 (12)
+**HP** 27 (5d8 + 5)
+**Speed** 40 ft.
 
-## Reactions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 6     | -2  | -2   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 13    | +1  | +1   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 8     | -1  | -1   |
 
-Protection. Trigger: An attack roll hits the wearer of the guardian's amulet while the wearer is within 5 feet of the guardian. Response: The wearer gains a +5 bonus to AC, including against the triggering attack and possibly causing it to miss, until the start of the guardian's next turn.
+**Skills** Stealth +6
+**Vulnerabilities** Radiant
+**Resistances** Acid, Cold, Fire, Lightning, Thunder
+**Immunities** Necrotic, Poison; Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-## Silver Dragons
+##### Traits
 
-<!-- image -->
+**Amorphous.** The shadow can move through a space as narrow as 1 inch without expending extra movement to do so.
 
-## Actions
+**Sunlight Weakness.** While in sunlight, the shadow has Disadvantage on D20 Tests.
 
-Multiattack. The dragon makes two Rend attacks.
+##### Actions
 
-Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Piercing damage.
+**Draining Swipe.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Necrotic damage, and the target's Strength score decreases by 1d4. The target dies if this reduces that score to 0. If a Humanoid is slain by this attack, a Shadow rises from the corpse 1d4 hours later.
 
-Cold Breath (Recharge 5-6) . Constitution Saving Throw: DC 13, each creature in a 15-foot Cone. Failure: 18 (4d8) Cold damage. Success: Half damage.
+##### Bonus Actions
 
-Paralyzing Breath. Constitution Saving Throw: DC 13, each creature in a 15-foot Cone. First Failure: The target has the Incapacitated condition until the end of its next turn, when it repeats the save. Second Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+**Shadow Stealth.** While in Dim Light or Darkness, the shadow takes the Hide action.
 
-<!-- image -->
+### Shambling Mound
 
-| Young Silver Dragon                                                                                                   | Young Silver Dragon                                                                                                   | Young Silver Dragon                                                                                                   | Young Silver Dragon                                                                                                   | Young Silver Dragon                                                                                                   | Young Silver Dragon                                                                                                   | Young Silver Dragon                                                                                                   | Young Silver Dragon                                                                                                   | Young Silver Dragon                                                                                                   | Young Silver Dragon                                                                                                   | Young Silver Dragon                                                                                                   |
-|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Large Dragon (Metallic), Lawful Good                                                                                  | Large Dragon (Metallic), Lawful Good                                                                                  | Large Dragon (Metallic), Lawful Good                                                                                  | Large Dragon (Metallic), Lawful Good                                                                                  | Large Dragon (Metallic), Lawful Good                                                                                  | Large Dragon (Metallic), Lawful Good                                                                                  | Large Dragon (Metallic), Lawful Good                                                                                  | Large Dragon (Metallic), Lawful Good                                                                                  | Large Dragon (Metallic), Lawful Good                                                                                  | Large Dragon (Metallic), Lawful Good                                                                                  | Large Dragon (Metallic), Lawful Good                                                                                  |
-| AC 18 Initiative +4 (14) HP 168 (16d10 + 80)                                                                          | AC 18 Initiative +4 (14) HP 168 (16d10 + 80)                                                                          | AC 18 Initiative +4 (14) HP 168 (16d10 + 80)                                                                          | AC 18 Initiative +4 (14) HP 168 (16d10 + 80)                                                                          | AC 18 Initiative +4 (14) HP 168 (16d10 + 80)                                                                          | AC 18 Initiative +4 (14) HP 168 (16d10 + 80)                                                                          | AC 18 Initiative +4 (14) HP 168 (16d10 + 80)                                                                          | AC 18 Initiative +4 (14) HP 168 (16d10 + 80)                                                                          | AC 18 Initiative +4 (14) HP 168 (16d10 + 80)                                                                          | AC 18 Initiative +4 (14) HP 168 (16d10 + 80)                                                                          | AC 18 Initiative +4 (14) HP 168 (16d10 + 80)                                                                          |
-| Speed 40 ft., Fly 80 ft.                                                                                              | Speed 40 ft., Fly 80 ft.                                                                                              | Speed 40 ft., Fly 80 ft.                                                                                              | Speed 40 ft., Fly 80 ft.                                                                                              | Speed 40 ft., Fly 80 ft.                                                                                              | Speed 40 ft., Fly 80 ft.                                                                                              | Speed 40 ft., Fly 80 ft.                                                                                              | Speed 40 ft., Fly 80 ft.                                                                                              | Speed 40 ft., Fly 80 ft.                                                                                              | Speed 40 ft., Fly 80 ft.                                                                                              | Speed 40 ft., Fly 80 ft.                                                                                              |
-|                                                                                                                       |                                                                                                                       | MOD                                                                                                                   | SAVE                                                                                                                  |                                                                                                                       | MOD                                                                                                                   | SAVE                                                                                                                  | MOD                                                                                                                   |                                                                                                                       | SAVE                                                                                                                  |                                                                                                                       |
-| S tr                                                                                                                  | 23                                                                                                                    | +6                                                                                                                    | +6                                                                                                                    | Dex 10                                                                                                                | +0                                                                                                                    | +4                                                                                                                    | Con 21                                                                                                                | +5                                                                                                                    | +5                                                                                                                    |                                                                                                                       |
-| I nt                                                                                                                  | 14                                                                                                                    | +2                                                                                                                    | +2                                                                                                                    | WIS                                                                                                                   | 11 +0                                                                                                                 | +4                                                                                                                    | Cha 19                                                                                                                | +4                                                                                                                    | +4                                                                                                                    |                                                                                                                       |
-| Skills History +6, Perception +8, Stealth +4 Immunities Cold                                                          | Skills History +6, Perception +8, Stealth +4 Immunities Cold                                                          | Skills History +6, Perception +8, Stealth +4 Immunities Cold                                                          | Skills History +6, Perception +8, Stealth +4 Immunities Cold                                                          | Skills History +6, Perception +8, Stealth +4 Immunities Cold                                                          | Skills History +6, Perception +8, Stealth +4 Immunities Cold                                                          | Skills History +6, Perception +8, Stealth +4 Immunities Cold                                                          | Skills History +6, Perception +8, Stealth +4 Immunities Cold                                                          | Skills History +6, Perception +8, Stealth +4 Immunities Cold                                                          | Skills History +6, Perception +8, Stealth +4 Immunities Cold                                                          | Skills History +6, Perception +8, Stealth +4 Immunities Cold                                                          |
-| Senses Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18 Languages Common, Draconic CR 9 (XP 5,000; PB +4) | Senses Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18 Languages Common, Draconic CR 9 (XP 5,000; PB +4) | Senses Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18 Languages Common, Draconic CR 9 (XP 5,000; PB +4) | Senses Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18 Languages Common, Draconic CR 9 (XP 5,000; PB +4) | Senses Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18 Languages Common, Draconic CR 9 (XP 5,000; PB +4) | Senses Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18 Languages Common, Draconic CR 9 (XP 5,000; PB +4) | Senses Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18 Languages Common, Draconic CR 9 (XP 5,000; PB +4) | Senses Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18 Languages Common, Draconic CR 9 (XP 5,000; PB +4) | Senses Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18 Languages Common, Draconic CR 9 (XP 5,000; PB +4) | Senses Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18 Languages Common, Draconic CR 9 (XP 5,000; PB +4) | Senses Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18 Languages Common, Draconic CR 9 (XP 5,000; PB +4) |
-| Actions                                                                                                               | Actions                                                                                                               | Actions                                                                                                               | Actions                                                                                                               | Actions                                                                                                               | Actions                                                                                                               | Actions                                                                                                               | Actions                                                                                                               | Actions                                                                                                               | Actions                                                                                                               | Actions                                                                                                               |
+#### Shambling Mound
 
-Multiattack. The dragon makes three Rend attacks. It can replace one attack with a use of Paralyzing Breath.
+*Large Plant, Unaligned*
 
-Rend. Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage.
+**AC** 15
+**Initiative** -1 (9)
+**HP** 110 (13d10 + 39)
+**Speed** 30 ft., Swim 20 ft.
 
-Cold Breath (Recharge 5-6) . Constitution Saving Throw: DC 17, each creature in a 30-foot Cone. Failure: 49 (11d8) Cold damage. Success: Half damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 16    | +3  | +3   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
 
-Paralyzing Breath. Constitution Saving Throw: DC 17, each creature in a 30-foot Cone. First Failure: The target has the Incapacitated condition until the end of its next turn, when it repeats the save. Second Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+**Skills** Stealth +3
+**Resistances** Cold, Fire
+**Immunities** Lightning; Deafened, Exhaustion
+**Senses** Blindsight 60 ft.; Passive Perception 10
+**Languages** None
+**CR** 5 (XP 1,800; PB +3)
 
-<!-- image -->
+##### Traits
 
-| Adult Silver Dragon                                                                                            |     |
-|----------------------------------------------------------------------------------------------------------------|-----|
-| Huge Dragon (Metallic), Lawful Good                                                                            |     |
-| AC 19 Initiative +10 (20) HP 216 (16d12 + 112) Speed 40 ft., Fly 80 ft.                                        |     |
-| MOD SAVE MOD SAVE MOD SAVE S tr 27 +8 +8 Dex 10 +0 +5 Con 25 +7 +7                                             |     |
-| I nt 16 +3 +3 WIS 13 +1 +6 Cha 22 +6 +6 Skills History +8, Perception +11, Stealth +5                          |     |
-| Immunities Cold Senses Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21 Languages Common, Draconic |     |
-| CR 16 (XP 15,000, or 18,000 in lair; PB                                                                        |     |
-|                                                                                                                | +5) |
+**Lightning Absorption.** Whenever the shambling mound is subjected to Lightning damage, it regains a number of Hit Points equal to the Lightning damage dealt.
 
-## Traits
+##### Actions
 
-Legendary Resistance (3/Day, or 4/Day in Lair). If the dragon fails a saving throw, it can choose to succeed instead.
+**Multiattack.** The shambling mound makes three Charged Tendril attacks. It can replace one attack with a use of Engulf.
 
-## Actions
+**Charged Tendril.** Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4) Lightning damage. If the target is a Medium or smaller creature, the shambling mound pulls the target 5 feet straight toward itself.
 
-Multiattack. The dragon makes three Rend attacks. It can replace one attack with a use of (A) Paralyzing Breath or (B) Spellcasting to cast Ice Knife .
+**Engulf.** Strength Saving Throw: DC 15, one Medium or smaller creature within 5 feet. Failure: The target is pulled into the shambling mound's space and has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Blinded and Restrained conditions, and it takes 10 (3d6) Lightning damage at the start of each of its turns. When the shambling mound moves, the Grappled target moves with it, costing it no extra movement. The shambling mound can have only one creature Grappled by this action at a time.
 
-Rend. Melee Attack Roll: +13, reach 10 ft. Hit: 17 (2d8 + 8) Slashing damage plus 4 (1d8) Cold damage.
+### Shield Guardian
 
-Cold Breath (Recharge 5-6) . Constitution Saving Throw: DC 20, each creature in a 60-foot Cone. Failure: 54 (12d8) Cold damage. Success: Half damage.
+#### Shield Guardian
 
-Paralyzing Breath. Constitution Saving Throw: DC 20, each creature in a 60-foot Cone. First Failure: The target has the Incapacitated condition until the end of its next turn, when it repeats the save. Second Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+*Large Construct, Unaligned*
 
-Spellcasting. The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 19, +11 to hit with spell attacks):
+**AC** 17
+**Initiative** -1 (9)
+**HP** 142 (15d10 + 60)
+**Speed** 30 ft.
 
-- At Will: Detect Magic , Hold Monster , Ice Knife , Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 18    | +4  | +4   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
+
+**Immunities** Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10
+**Languages** Understands commands given in any language but can't speak
+**CR** 7 (XP 2,900; PB +3)
+
+##### Traits
+
+**Bound.** The guardian is magically bound to an amulet. While the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (round up) is transferred to the guardian.
+
+**Regeneration.** The guardian regains 10 Hit Points at the start of each of its turns if it has at least 1 Hit Point.
+
+**Spell Storing.** A spellcaster who wears the guardian's amulet can cause the guardian to store one spell of level 4 or lower. To do so, the wearer must cast the spell on the guardian while within 5 feet of it. The spell has no effect but is stored within the guardian. Any previously stored spell is lost when a new spell is stored. The guardian can cast the spell stored with any parameters set by the original caster, requiring no spell components and using the caster's spellcasting ability. The stored spell is then lost.
+
+##### Actions
+
+**Multiattack.** The guardian makes two Fist attacks.
+
+**Fist.** Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Force damage.
+
+##### Reactions
+
+**Protection.** Trigger: An attack roll hits the wearer of the guardian's amulet while the wearer is within 5 feet of the guardian. Response: The wearer gains a +5 bonus to AC, including against the triggering attack and possibly causing it to miss, until the start of the guardian's next turn.
+
+### Silver Dragons
+
+#### Silver Dragon Wyrmling
+
+*Medium Dragon (Metallic), Lawful Good*
+
+**AC** 17
+**Initiative** +2 (12)
+**HP** 45 (6d8 + 18)
+**Speed** 30 ft., Fly 60 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 10    | +0  | +2   |
+| CON  | 17    | +3  | +3   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 15    | +2  | +2   |
+
+**Skills** Perception +4, Stealth +2
+**Immunities** Cold
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 2 (XP 450; PB +2)
+
+##### Actions
+
+**Multiattack.** The dragon makes two Rend attacks.
+
+**Rend.** Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Piercing damage.
+
+**Cold Breath (Recharge 5-6).** Constitution Saving Throw: DC 13, each creature in a 15-foot Cone. Failure: 18 (4d8) Cold damage. Success: Half damage.
+
+**Paralyzing Breath.** Constitution Saving Throw: DC 13, each creature in a 15-foot Cone. First Failure: The target has the Incapacitated condition until the end of its next turn, when it repeats the save. Second Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+
+#### Young Silver Dragon
+
+*Large Dragon (Metallic), Lawful Good*
+
+**AC** 18
+**Initiative** +4 (14)
+**HP** 168 (16d10 + 80)
+**Speed** 40 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 10    | +0  | +4   |
+| CON  | 21    | +5  | +5   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 11    | +0  | +4   |
+| CHA  | 19    | +4  | +4   |
+
+**Skills** History +6, Perception +8, Stealth +4
+**Immunities** Cold
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18
+**Languages** Common, Draconic
+**CR** 9 (XP 5,000; PB +4)
+
+##### Actions
+
+**Multiattack.** The dragon makes three Rend attacks. It can replace one attack with a use of Paralyzing Breath.
+
+**Rend.** Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage.
+
+**Cold Breath (Recharge 5-6).** Constitution Saving Throw: DC 17, each creature in a 30-foot Cone. Failure: 49 (11d8) Cold damage. Success: Half damage.
+
+**Paralyzing Breath.** Constitution Saving Throw: DC 17, each creature in a 30-foot Cone. First Failure: The target has the Incapacitated condition until the end of its next turn, when it repeats the save. Second Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+
+#### Adult Silver Dragon
+
+*Huge Dragon (Metallic), Lawful Good*
+
+**AC** 19
+**Initiative** +10 (20)
+**HP** 216 (16d12 + 112)
+**Speed** 40 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 27    | +8  | +8   |
+| DEX  | 10    | +0  | +5   |
+| CON  | 25    | +7  | +7   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 13    | +1  | +6   |
+| CHA  | 22    | +6  | +6   |
+
+**Skills** History +8, Perception +11, Stealth +5
+**Immunities** Cold
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
+**Languages** Common, Draconic
+**CR** 16 (XP 15,000, or 18,000 in lair; PB +5)
+
+##### Traits
+
+**Legendary Resistance (3/Day, or 4/Day in Lair).** If the dragon fails a saving throw, it can choose to succeed instead.
+
+##### Actions
+
+**Multiattack.** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Paralyzing Breath or (B) Spellcasting to cast Ice Knife.
+
+**Rend.** Melee Attack Roll: +13, reach 10 ft. Hit: 17 (2d8 + 8) Slashing damage plus 4 (1d8) Cold damage.
+
+**Cold Breath (Recharge 5-6).** Constitution Saving Throw: DC 20, each creature in a 60-foot Cone. Failure: 54 (12d8) Cold damage. Success: Half damage.
+
+**Paralyzing Breath.** Constitution Saving Throw: DC 20, each creature in a 60-foot Cone. First Failure: The target has the Incapacitated condition until the end of its next turn, when it repeats the save. Second Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+
+**Spellcasting.** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 19, +11 to hit with spell attacks):
+
+- At Will: Detect Magic, Hold Monster, Ice Knife, Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)
 - 1/Day Each: Ice Storm (level 5 version), Zone of Truth
 
-## Legendary Actions
+##### Legendary Actions
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-Chill. The dragon uses Spellcasting to cast Hold Monster . The dragon can't take this action again until the start of its next turn.
+**Chill.** The dragon uses Spellcasting to cast Hold Monster. The dragon can't take this action again until the start of its next turn.
 
-Cold Gale. Dexterity Saving Throw: DC 19, each creature in a 60-foot-long, 10-foot-wide Line. Failure: 14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. Success: Half damage only. Failure or Success: The dragon can't take this action again until the start of its next turn.
+**Cold Gale.** Dexterity Saving Throw: DC 19, each creature in a 60-foot-long, 10-foot-wide Line. Failure: 14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. Success: Half damage only. Failure or Success: The dragon can't take this action again until the start of its next turn.
 
-Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
+**Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-<!-- image -->
+#### Ancient Silver Dragon
 
-| Ancient Silver Dragon                                                                    |
-|------------------------------------------------------------------------------------------|
-| Gargantuan Dragon (Metallic), Lawful Good AC 22 Initiative +14 (24) HP 468 (24d20 + 216) |
-| MOD SAVE MOD SAVE MOD                                                                    |
-| Speed 40 ft., Fly 80 ft. SAVE                                                            |
-| S tr 30 +10 +10 Dex 10 +0 +7 Con 29 +9 +9                                                |
-| Skills History +11, Perception +16, Stealth +7                                           |
-| Immunities Cold Senses Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26      |
-| Languages Common, Draconic                                                               |
-| CR 23 (XP 50,000, or 62,000 in lair; PB                                                  |
-| +7)                                                                                      |
+*Gargantuan Dragon (Metallic), Lawful Good*
 
-## Traits
+**AC** 22
+**Initiative** +14 (24)
+**HP** 468 (24d20 + 216)
+**Speed** 40 ft., Fly 80 ft.
 
-Legendary Resistance (4/Day, or 5/Day in Lair). If the dragon fails a saving throw, it can choose to succeed instead.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 30    | +10 | +10  |
+| DEX  | 10    | +0  | +7   |
+| CON  | 29    | +9  | +9   |
+| INT  | 18    | +4  | +4   |
+| WIS  | 15    | +2  | +9   |
+| CHA  | 26    | +8  | +8   |
 
-## Actions
+**Skills** History +11, Perception +16, Stealth +7
+**Immunities** Cold
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
+**Languages** Common, Draconic
+**CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
 
-Multiattack. The dragon makes three Rend attacks. It can replace one attack with a use of (A) Paralyzing Breath or (B) Spellcasting to cast Ice Knife (level 2 version).
+##### Traits
 
-Rend. Melee Attack Roll: +17, reach 15 ft. Hit: 19 (2d8 + 10) Slashing damage plus 9 (2d8) Cold damage.
+**Legendary Resistance (4/Day, or 5/Day in Lair).** If the dragon fails a saving throw, it can choose to succeed instead.
 
-Cold Breath (Recharge 5-6) . Constitution Saving Throw: DC 24, each creature in a 90-foot Cone. Failure: 67 (15d8) Cold damage. Success: Half damage.
+##### Actions
 
-Paralyzing Breath. Constitution Saving Throw: DC 24, each creature in a 90-foot Cone. First Failure: The target has the Incapacitated condition until the end of its next turn, when it repeats the save. Second Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+**Multiattack.** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Paralyzing Breath or (B) Spellcasting to cast Ice Knife (level 2 version).
 
-Spellcasting. The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks):
+**Rend.** Melee Attack Roll: +17, reach 15 ft. Hit: 19 (2d8 + 10) Slashing damage plus 9 (2d8) Cold damage.
 
-- At Will: Detect Magic , Hold Monster , Ice Knife (level 2 version), Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)
-- 1/Day Each: Control Weather , Ice Storm (level 7 version), Teleport , Zone of Truth
+**Cold Breath (Recharge 5-6).** Constitution Saving Throw: DC 24, each creature in a 90-foot Cone. Failure: 67 (15d8) Cold damage. Success: Half damage.
 
-## Legendary Actions
+**Paralyzing Breath.** Constitution Saving Throw: DC 24, each creature in a 90-foot Cone. First Failure: The target has the Incapacitated condition until the end of its next turn, when it repeats the save. Second Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+**Spellcasting.** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks):
 
-Chill. The dragon uses Spellcasting to cast Hold Monster . The dragon can't take this action again until the start of its next turn.
+- At Will: Detect Magic, Hold Monster, Ice Knife (level 2 version), Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell)
+- 1/Day Each: Control Weather, Ice Storm (level 7 version), Teleport, Zone of Truth
 
-Cold Gale. Dexterity Saving Throw: DC 23, each creature in a 60-foot-long, 10-foot-wide Line. Failure: 14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. Success: Half damage only. Failure or Success: The dragon can't take this action again until the start of its next turn.
+##### Legendary Actions
 
-Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-## Skeletons
+**Chill.** The dragon uses Spellcasting to cast Hold Monster. The dragon can't take this action again until the start of its next turn.
 
-| Skeleton                   | Skeleton                   | Skeleton                   | Skeleton                   | Skeleton                   | Skeleton                   | Skeleton                   | Skeleton                   | Skeleton                   | Skeleton                   | Skeleton                   |
-|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-| Medium Undead, Lawful Evil | Medium Undead, Lawful Evil | Medium Undead, Lawful Evil | Medium Undead, Lawful Evil | Medium Undead, Lawful Evil | Medium Undead, Lawful Evil | Medium Undead, Lawful Evil | Medium Undead, Lawful Evil | Medium Undead, Lawful Evil | Medium Undead, Lawful Evil | Medium Undead, Lawful Evil |
-| AC 14                      | AC 14                      | AC 14                      | AC 14                      | AC 14                      | Initiative +3 (13)         | Initiative +3 (13)         | Initiative +3 (13)         | Initiative +3 (13)         | Initiative +3 (13)         | Initiative +3 (13)         |
-| HP 13 (2d8 + 4)            | HP 13 (2d8 + 4)            | HP 13 (2d8 + 4)            | HP 13 (2d8 + 4)            | HP 13 (2d8 + 4)            | HP 13 (2d8 + 4)            | HP 13 (2d8 + 4)            | HP 13 (2d8 + 4)            | HP 13 (2d8 + 4)            | HP 13 (2d8 + 4)            | HP 13 (2d8 + 4)            |
-| Speed 30 ft.               | Speed 30 ft.               | Speed 30 ft.               | Speed 30 ft.               | Speed 30 ft.               | Speed 30 ft.               | Speed 30 ft.               | Speed 30 ft.               | Speed 30 ft.               | Speed 30 ft.               | Speed 30 ft.               |
-|                            |                            | MOD                        | SAVE                       |                            | MOD                        | SAVE                       |                            | MOD                        | SAVE                       |                            |
-| S tr                       | 10                         | +0                         | +0                         | Dex 16                     | +3                         | +3                         | Con 15                     | +2                         | +2                         |                            |
-| I nt                       | 6                          | -2                         | -2                         | WIS                        | 8 -1                       | -1                         | Cha 5                      | -3                         | -3                         |                            |
+**Cold Gale.** Dexterity Saving Throw: DC 23, each creature in a 60-foot-long, 10-foot-wide Line. Failure: 14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. Success: Half damage only. Failure or Success: The dragon can't take this action again until the start of its next turn.
 
-<!-- image -->
+**Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-## Actions
+### Skeletons
 
-Shortsword. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage.
+#### Skeleton
 
-Shortbow. Ranged Attack Roll: +5, range 80/320 ft. Hit: 6 (1d6 + 3) Piercing damage.
+*Medium Undead, Lawful Evil*
 
-## Warhorse Skeleton
+**AC** 14
+**Initiative** +3 (13)
+**HP** 13 (2d8 + 4)
+**Speed** 30 ft.
 
-Large Undead, Lawful Evil
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 15    | +2  | +2   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 5     | -3  | -3   |
 
-<!-- image -->
+**Vulnerabilities** Bludgeoning
+**Immunities** Poison; Exhaustion, Poisoned
+**Gear** Shortbow, Shortsword
+**Senses** Darkvision 60 ft.; Passive Perception 9
+**Languages** Understands Common plus one other language but can't speak
+**CR** 1/4 (XP 50; PB +2)
 
-| AC 13            | Initiative +1 (11)        |
-|------------------|---------------------------|
-| HP 22 (3d10 + 6) |                           |
-| Speed 60 ft.     |                           |
-| S tr 18 +4 +4    | Dex 12 +1 +1 Con 15 +2 +2 |
-| I nt 2 -4 -4     | WIS 8 -1 -1 Cha 5 -3 -3   |
+##### Actions
 
-## Vulnerabilities Bludgeoning
+**Shortsword.** Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage.
 
-Immunities Poison; Exhaustion, Poisoned Senses Darkvision 60 ft.; Passive Perception 9 Languages None CR 1/2 (XP 100; PB +2)
+**Shortbow.** Ranged Attack Roll: +5, range 80/320 ft. Hit: 6 (1d6 + 3) Piercing damage.
 
-## Actions
+#### Warhorse Skeleton
 
-Hooves. Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
+*Large Undead, Lawful Evil*
 
-<!-- image -->
+**AC** 13
+**Initiative** +1 (11)
+**HP** 22 (3d10 + 6)
+**Speed** 60 ft.
 
-| Minotaur Skeleton         | Minotaur Skeleton         | Minotaur Skeleton         | Minotaur Skeleton         | Minotaur Skeleton         | Minotaur Skeleton         | Minotaur Skeleton         | Minotaur Skeleton         | Minotaur Skeleton         | Minotaur Skeleton         | Minotaur Skeleton         |
-|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
-| Large Undead, Lawful Evil | Large Undead, Lawful Evil | Large Undead, Lawful Evil | Large Undead, Lawful Evil | Large Undead, Lawful Evil | Large Undead, Lawful Evil | Large Undead, Lawful Evil | Large Undead, Lawful Evil | Large Undead, Lawful Evil | Large Undead, Lawful Evil | Large Undead, Lawful Evil |
-| AC 12 Initiative +0 (10)  | AC 12 Initiative +0 (10)  | AC 12 Initiative +0 (10)  | AC 12 Initiative +0 (10)  | AC 12 Initiative +0 (10)  | AC 12 Initiative +0 (10)  | AC 12 Initiative +0 (10)  | AC 12 Initiative +0 (10)  | AC 12 Initiative +0 (10)  | AC 12 Initiative +0 (10)  | AC 12 Initiative +0 (10)  |
-| HP 45 (6d10 + 12)         | HP 45 (6d10 + 12)         | HP 45 (6d10 + 12)         | HP 45 (6d10 + 12)         | HP 45 (6d10 + 12)         | HP 45 (6d10 + 12)         | HP 45 (6d10 + 12)         | HP 45 (6d10 + 12)         | HP 45 (6d10 + 12)         | HP 45 (6d10 + 12)         | HP 45 (6d10 + 12)         |
-|                           |                           | MOD                       | SAVE                      |                           |                           | MOD                       | SAVE                      |                           | MOD                       | SAVE                      |
-| S tr                      | 18                        | +4                        | +4                        | Dex                       | 11                        | +0                        | +0                        | Con 15                    | +2                        | +2                        |
-| I nt                      | 6                         | -2                        | -2                        | WIS                       | 8                         | -1                        | -1                        | Cha 5                     | -3                        | -3                        |
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 15    | +2  | +2   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 5     | -3  | -3   |
 
-## Vulnerabilities Bludgeoning
+**Vulnerabilities** Bludgeoning
+**Immunities** Poison; Exhaustion, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 9
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-Immunities Poison; Exhaustion, Poisoned Senses Darkvision 60 ft.; Passive Perception 9 Languages Understands Abyssal but can't speak CR 2 (XP 450; PB +2)
+##### Actions
 
-## Actions
+**Hooves.** Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
 
-Gore. Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
+#### Minotaur Skeleton
 
-Slam. Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning damage.
+*Large Undead, Lawful Evil*
 
-## Solar
+**AC** 12
+**Initiative** +0 (10)
+**HP** 45 (6d10 + 12)
+**Speed** 40 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 15    | +2  | +2   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 5     | -3  | -3   |
 
-## Traits
+**Vulnerabilities** Bludgeoning
+**Immunities** Poison; Exhaustion, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 9
+**Languages** Understands Abyssal but can't speak
+**CR** 2 (XP 450; PB +2)
 
-| Solar                                          |                                                |                                                |                                                |                                                |                                                |                                                |                                                |                                                |
-|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| Large Celestial (Angel), Lawful Good           | Large Celestial (Angel), Lawful Good           | Large Celestial (Angel), Lawful Good           | Large Celestial (Angel), Lawful Good           | Large Celestial (Angel), Lawful Good           | Large Celestial (Angel), Lawful Good           | Large Celestial (Angel), Lawful Good           | Large Celestial (Angel), Lawful Good           | Large Celestial (Angel), Lawful Good           |
-| AC 21 Initiative +20 (30) HP 297 (22d10 + 176) | AC 21 Initiative +20 (30) HP 297 (22d10 + 176) | AC 21 Initiative +20 (30) HP 297 (22d10 + 176) | AC 21 Initiative +20 (30) HP 297 (22d10 + 176) | AC 21 Initiative +20 (30) HP 297 (22d10 + 176) | AC 21 Initiative +20 (30) HP 297 (22d10 + 176) | AC 21 Initiative +20 (30) HP 297 (22d10 + 176) | AC 21 Initiative +20 (30) HP 297 (22d10 + 176) | AC 21 Initiative +20 (30) HP 297 (22d10 + 176) |
-| Speed 50 ft., Fly 150 ft. (hover)              | Speed 50 ft., Fly 150 ft. (hover)              | Speed 50 ft., Fly 150 ft. (hover)              | Speed 50 ft., Fly 150 ft. (hover)              | Speed 50 ft., Fly 150 ft. (hover)              | Speed 50 ft., Fly 150 ft. (hover)              | Speed 50 ft., Fly 150 ft. (hover)              | Speed 50 ft., Fly 150 ft. (hover)              | Speed 50 ft., Fly 150 ft. (hover)              |
-| S tr 26                                        | +8                                             | +8                                             | Dex 22                                         | +6 +6                                          | Con 26                                         | +8                                             | +8                                             |                                                |
-| I nt 25                                        |                                                | +7 +7                                          | WIS 25                                         | +7                                             | +7 Cha 30                                      | +10                                            | +10                                            |                                                |
-| Skills Perception +14                          | Skills Perception +14                          | Skills Perception +14                          | Skills Perception +14                          | Skills Perception +14                          | Skills Perception +14                          | Skills Perception +14                          | Skills Perception +14                          | Skills Perception +14                          |
+##### Actions
 
-Divine Awareness. The solar knows if it hears a lie.
+**Gore.** Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
 
-Exalted Restoration. If the solar dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its Hit Points somewhere in Mount Celestia.
+**Slam.** Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning damage.
 
-Legendary Resistance (4/Day). If the solar fails a saving throw, it can choose to succeed instead.
+### Solar
 
-Magic Resistance. The solar has Advantage on saving throws against spells and other magical effects.
+#### Solar
 
-## Actions
+*Large Celestial (Angel), Lawful Good*
 
-Multiattack. The solar makes two Flying Sword attacks. It can replace one attack with a use of Slaying Bow.
+**AC** 21
+**Initiative** +20 (30)
+**HP** 297 (22d10 + 176)
+**Speed** 50 ft., Fly 150 ft. (hover)
 
-Flying Sword. Melee or Ranged Attack Roll: +15, reach 10 ft. or range 120 ft. Hit: 22 (4d6 + 8) Slashing damage plus 36 (8d8) Radiant damage. Hit or Miss: The sword magically returns to the solar's hand or hovers within 5 feet of the solar immediately after a ranged attack.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 26    | +8  | +8   |
+| DEX  | 22    | +6  | +6   |
+| CON  | 26    | +8  | +8   |
+| INT  | 25    | +7  | +7   |
+| WIS  | 25    | +7  | +7   |
+| CHA  | 30    | +10 | +10  |
 
-Slaying Bow. Dexterity Saving Throw: DC 21, one creature the solar can see within 600 feet. Failure: If the creature has 100 Hit Points or fewer, it dies. It otherwise takes 24 (4d8 + 6) Piercing damage plus 36 (8d8) Radiant damage.
+**Skills** Perception +14
+**Immunities** Poison, Radiant; Charmed, Exhaustion, Frightened, Poisoned
+**Senses** Truesight 120 ft.; Passive Perception 24
+**Languages** All; telepathy 120 ft.
+**CR** 21 (XP 33,000; PB +7)
 
-Spellcasting. The solar casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 25):
+##### Traits
 
-At Will: Detect Evil and Good 1/Day Each: Commune , Control Weather , Dispel Evil and Good , Resurrection
+**Divine Awareness.** The solar knows if it hears a lie.
 
-## Bonus Actions
+**Exalted Restoration.** If the solar dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its Hit Points somewhere in Mount Celestia.
 
-Divine Aid (3/Day). The solar casts Cure Wounds (level 2 version), Lesser Restoration , or Remove Curse , using the same spellcasting ability as Spellcasting.
+**Legendary Resistance (4/Day).** If the solar fails a saving throw, it can choose to succeed instead.
 
-## Legendary Actions
+**Magic Resistance.** The solar has Advantage on saving throws against spells and other magical effects.
 
-Legendary Action Uses: 3. Immediately after another creature's turn, the solar can expend a use to take one of the following actions. The solar regains all expended uses at the start of each of its turns.
+##### Actions
 
-Blinding Gaze. Constitution Saving Throw: DC 25, one creature the solar can see within 120 feet. Failure: The target has the Blinded condition for 1 minute. Failure or Success: The solar can't take this action again until the start of its next turn.
+**Multiattack.** The solar makes two Flying Sword attacks. It can replace one attack with a use of Slaying Bow.
 
-Radiant Teleport. The solar teleports up to 60 feet to an unoccupied space it can see. Dexterity Saving Throw: DC 25, each creature in a 10-foot Emanation originating from the solar at its destination space. Failure: 11 (2d10) Radiant damage. Success: Half damage.
+**Flying Sword.** Melee or Ranged Attack Roll: +15, reach 10 ft. or range 120 ft. Hit: 22 (4d6 + 8) Slashing damage plus 36 (8d8) Radiant damage. Hit or Miss: The sword magically returns to the solar's hand or hovers within 5 feet of the solar immediately after a ranged attack.
 
-## Specter
+**Slaying Bow.** Dexterity Saving Throw: DC 21, one creature the solar can see within 600 feet. Failure: If the creature has 100 Hit Points or fewer, it dies. It otherwise takes 24 (4d8 + 6) Piercing damage plus 36 (8d8) Radiant damage.
 
-<!-- image -->
+**Spellcasting.** The solar casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 25):
 
-Resistances Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+- At Will: Detect Evil and Good
+- 1/Day Each: Commune, Control Weather, Dispel Evil and Good, Resurrection
 
-Immunities Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+##### Bonus Actions
 
-Senses Darkvision 60 ft.; Passive Perception 10 Understands Common plus one other language
+**Divine Aid (3/Day).** The solar casts Cure Wounds (level 2 version), Lesser Restoration, or Remove Curse, using the same spellcasting ability as Spellcasting.
 
-- Languages but can't speak
+##### Legendary Actions
 
-CR 1 (XP 200; PB +2)
+**Legendary Action Uses: 3.** Immediately after another creature's turn, the solar can expend a use to take one of the following actions. The solar regains all expended uses at the start of each of its turns.
 
-## Traits
+**Blinding Gaze.** Constitution Saving Throw: DC 25, one creature the solar can see within 120 feet. Failure: The target has the Blinded condition for 1 minute. Failure or Success: The solar can't take this action again until the start of its next turn.
 
-Incorporeal Movement. The specter can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
+**Radiant Teleport.** The solar teleports up to 60 feet to an unoccupied space it can see. Dexterity Saving Throw: DC 25, each creature in a 10-foot Emanation originating from the solar at its destination space. Failure: 11 (2d10) Radiant damage. Success: Half damage.
 
-Sunlight Sensitivity. While in sunlight, the specter has Disadvantage on ability checks and attack rolls.
+### Specter
 
-## Actions
+#### Specter
 
-Life Drain. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d6) Necrotic damage. If the target is a creature, its Hit Point maximum decreases by an amount equal to the damage taken.
+*Medium Undead, Chaotic Evil*
 
-## Sphinxes
+**AC** 12
+**Initiative** +2 (12)
+**HP** 22 (5d8)
+**Speed** 30 ft., Fly 50 ft. (hover)
 
-## Sphinx of Wonder
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 1     | -5  | -5   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 11    | +0  | +0   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 11    | +0  | +0   |
 
-<!-- image -->
+**Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+**Immunities** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Understands Common plus one other language but can't speak
+**CR** 1 (XP 200; PB +2)
 
-## Traits
+##### Traits
 
-Magic Resistance. The sphinx has Advantage on saving throws against spells and other magical effects.
+**Incorporeal Movement.** The specter can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
 
-## Actions
+**Sunlight Sensitivity.** While in sunlight, the specter has Disadvantage on ability checks and attack rolls.
 
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage plus 7 (2d6) Radiant damage.
+##### Actions
 
-## Reactions
+**Life Drain.** Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d6) Necrotic damage. If the target is a creature, its Hit Point maximum decreases by an amount equal to the damage taken.
 
-Burst of Ingenuity (2/Day). Trigger: The sphinx or another creature within 30 feet makes an ability check or a saving throw. Response: The sphinx adds 2 to the roll.
+### Sphinxes
 
-<!-- image -->
+#### Sphinx of Wonder
 
-| Sphinx of Lore                                                                                                     |                                     |
-|--------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| Large Celestial, Lawful Neutral                                                                                    |                                     |
-| AC 17 Initiative +10 (20) HP 170 (20d10 + 60) Speed 40 ft., Fly 60 ft.                                             |                                     |
-| S tr 18 +4 +4 Dex 15 +2 +2 Con 16 +3 +3 I nt 18 +4 +4 WIS 18 +4 +4 Cha 18 +4 +4                                    |                                     |
-| Skills Arcana +12, History +12, Perception +8, Religion +12                                                        |                                     |
-| Resistances Necrotic, Radiant Immunities Psychic; Charmed, Frightened Senses Truesight 120 ft.; Passive Perception |                                     |
-| 18 Languages Celestial, Common CR 11                                                                               |                                     |
-|                                                                                                                    | (XP 7,200, or 8,400 in lair; PB +4) |
+*Tiny Celestial, Lawful Good*
 
-## Traits
+**AC** 13
+**Initiative** +3 (13)
+**HP** 24 (7d4 + 7)
+**Speed** 20 ft., Fly 40 ft.
 
-Inscrutable. No magic can observe the sphinx remotely or detect its thoughts without its permission. Wisdom (Insight) checks made to ascertain its intentions or sincerity are made with Disadvantage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 6     | -2  | -2   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 13    | +1  | +1   |
+| INT  | 15    | +2  | +2   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 11    | +0  | +0   |
 
-Legendary Resistance (3/Day, or 4/Day in Lair). If the sphinx fails a saving throw, it can choose to succeed instead.
+**Skills** Arcana +4, Religion +4, Stealth +5
+**Resistances** Necrotic, Psychic, Radiant
+**Senses** Darkvision 60 ft.; Passive Perception 11
+**Languages** Celestial, Common
+**CR** 1 (XP 200; PB +2)
 
-## Actions
+##### Traits
 
-Multiattack. The sphinx makes three Claw attacks.
+**Magic Resistance.** The sphinx has Advantage on saving throws against spells and other magical effects.
 
-Claw. Melee Attack Roll: +8, reach 5 ft. Hit: 14 (3d6 + 4) Slashing damage.
+##### Actions
 
-Mind-Rending Roar (Recharge 5-6). Wisdom Saving Throw: DC 16, each enemy in a 300-foot Emanation originating from the sphinx. Failure: 35 (10d6) Psychic damage, and the target has the Incapacitated condition until the start of the sphinx's next turn.
+**Rend.** Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage plus 7 (2d6) Radiant damage.
 
-Spellcasting. The sphinx casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
+##### Reactions
 
-- At Will: Detect Magic , Identify , Mage Hand , Minor Illusion , Prestidigitation
-- 1/Day Each: Dispel Magic , Legend Lore , Locate Object , Plane Shift , Remove Curse , Tongues
+**Burst of Ingenuity (2/Day).** Trigger: The sphinx or another creature within 30 feet makes an ability check or a saving throw. Response: The sphinx adds 2 to the roll.
 
-## Legendary Actions
+#### Sphinx of Lore
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the sphinx can expend a use to take one of the following actions. The sphinx regains all expended uses at the start of each of its turns.
+*Large Celestial, Lawful Neutral*
 
-Arcane Prowl. The sphinx can teleport up to 30 feet to an unoccupied space it can see, and it makes one Claw attack.
+**AC** 17
+**Initiative** +10 (20)
+**HP** 170 (20d10 + 60)
+**Speed** 40 ft., Fly 60 ft.
 
-Weight of Years. Constitution Saving Throw: DC 16, one creature the sphinx can see within 120 feet. Failure: The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. Failure or Success: The sphinx can't take this action again until the start of its next turn.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 16    | +3  | +3   |
+| INT  | 18    | +4  | +4   |
+| WIS  | 18    | +4  | +4   |
+| CHA  | 18    | +4  | +4   |
 
-| Sphinx of Valor                                                                                        |
-|--------------------------------------------------------------------------------------------------------|
-| Large Celestial, Lawful Neutral AC 17 Initiative +12 (22) HP 199 (19d10 + 95) Speed 40 ft., Fly 60 ft. |
+**Skills** Arcana +12, History +12, Perception +8, Religion +12
+**Resistances** Necrotic, Radiant
+**Immunities** Psychic; Charmed, Frightened
+**Senses** Truesight 120 ft.; Passive Perception 18
+**Languages** Celestial, Common
+**CR** 11 (XP 7,200, or 8,400 in lair; PB +4)
 
-## Traits
+##### Traits
 
-Inscrutable. No magic can observe the sphinx remotely or detect its thoughts without its permission. Wisdom (Insight) checks made to ascertain its intentions or sincerity are made with Disadvantage.
+**Inscrutable.** No magic can observe the sphinx remotely or detect its thoughts without its permission. Wisdom (Insight) checks made to ascertain its intentions or sincerity are made with Disadvantage.
 
-Legendary Resistance (3/Day, or 4/Day in Lair). If the sphinx fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (3/Day, or 4/Day in Lair).** If the sphinx fails a saving throw, it can choose to succeed instead.
 
-## Actions
+##### Actions
 
-Multiattack. The sphinx makes two Claw attacks and uses Roar.
+**Multiattack.** The sphinx makes three Claw attacks.
 
-Claw. Melee Attack Roll: +12, reach 5 ft. Hit: 20 (4d6 + 6) Slashing damage.
+**Claw.** Melee Attack Roll: +8, reach 5 ft. Hit: 14 (3d6 + 4) Slashing damage.
 
-Roar (3/Day). The sphinx emits a magical roar. Whenever it roars, the roar has a different effect, as detailed below (the sequence resets when it takes a Long Rest):
+**Mind-Rending Roar (Recharge 5-6).** Wisdom Saving Throw: DC 16, each enemy in a 300-foot Emanation originating from the sphinx. Failure: 35 (10d6) Psychic damage, and the target has the Incapacitated condition until the start of the sphinx's next turn.
 
-- First Roar. Wisdom Saving Throw: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. Failure: The target has the Frightened condition for 1 minute.
-- Second Roar. Wisdom Saving Throw: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
-- Third Roar. Constitution Saving Throw: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. Failure: 44 (8d10) Thunder damage, and the target has the Prone condition. Success: Half damage only.
+**Spellcasting.** The sphinx casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-Spellcasting. The sphinx casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 20):
+- At Will: Detect Magic, Identify, Mage Hand, Minor Illusion, Prestidigitation
+- 1/Day Each: Dispel Magic, Legend Lore, Locate Object, Plane Shift, Remove Curse, Tongues
 
-At Will: Detect Evil and Good , Thaumaturgy 1/Day Each: Detect Magic , Dispel Magic , Greater Restoration , Heroes' Feast , Zone of Truth
+##### Legendary Actions
 
-## Legendary Actions
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the sphinx can expend a use to take one of the following actions. The sphinx regains all expended uses at the start of each of its turns.
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the sphinx can expend a use to take one of the following actions. The sphinx regains all expended uses at the start of each of its turns.
+**Arcane Prowl.** The sphinx can teleport up to 30 feet to an unoccupied space it can see, and it makes one Claw attack.
 
-Arcane Prowl. The sphinx can teleport up to 30 feet to an unoccupied space it can see, and it makes one Claw attack.
+**Weight of Years.** Constitution Saving Throw: DC 16, one creature the sphinx can see within 120 feet. Failure: The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. Failure or Success: The sphinx can't take this action again until the start of its next turn.
 
-Weight of Years. Constitution Saving Throw: DC 16, one creature the sphinx can see within 120 feet. Failure: The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. Failure or Success: The sphinx can't take this action again until the start of its next turn.
+#### Sphinx of Valor
 
-## Spirit Naga
+*Large Celestial, Lawful Neutral*
 
-<!-- image -->
+**AC** 17
+**Initiative** +12 (22)
+**HP** 199 (19d10 + 95)
+**Speed** 40 ft., Fly 60 ft.
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 22    | +6  | +6   |
+| DEX  | 10    | +0  | +6   |
+| CON  | 20    | +5  | +11  |
+| INT  | 16    | +3  | +9   |
+| WIS  | 23    | +6  | +12  |
+| CHA  | 18    | +4  | +4   |
 
-Fiendish Restoration. If it dies, the naga returns to life in 1d6 days and regains all its Hit Points. Only a Wish spell can prevent this trait from functioning.
+**Skills** Arcana +9, Perception +12, Religion +15
+**Resistances** Necrotic, Radiant
+**Immunities** Psychic; Charmed, Frightened
+**Senses** Truesight 120 ft.; Passive Perception 22
+**Languages** Celestial, Common
+**CR** 17 (XP 18,000, or 20,000 in lair; PB +6)
 
-## Actions
+##### Traits
 
-Multiattack. The naga makes three attacks, using Bite or Necrotic Ray in any combination.
+**Inscrutable.** No magic can observe the sphinx remotely or detect its thoughts without its permission. Wisdom (Insight) checks made to ascertain its intentions or sincerity are made with Disadvantage.
 
-Bite. Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Piercing damage plus 14 (4d6) Poison damage.
+**Legendary Resistance (3/Day, or 4/Day in Lair).** If the sphinx fails a saving throw, it can choose to succeed instead.
 
-Necrotic Ray. Ranged Attack Roll: +6, range 60 ft. Hit: 21 (6d6) Necrotic damage.
+##### Actions
 
-Spellcasting. The naga casts one of the following spells, requiring no Somatic or Material components and using Intelligence as the spellcasting ability (spell save DC 14):
+**Multiattack.** The sphinx makes two Claw attacks and uses Roar.
 
-- At Will: Detect Magic , Mage Hand , Minor Illusion , Water Breathing
-- 2/Day Each: Detect Thoughts , Dimension Door , Hold Person (level 3 version), Lightning Bolt (level 4 version)
+**Claw.** Melee Attack Roll: +12, reach 5 ft. Hit: 20 (4d6 + 6) Slashing damage.
 
-## Sprite
+**Roar (3/Day).** The sphinx emits a magical roar. Whenever it roars, the roar has a different effect, as detailed below (the sequence resets when it takes a Long Rest):
 
-<!-- image -->
+- **First Roar.** Wisdom Saving Throw: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. Failure: The target has the Frightened condition for 1 minute.
+- **Second Roar.** Wisdom Saving Throw: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+- **Third Roar.** Constitution Saving Throw: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. Failure: 44 (8d10) Thunder damage, and the target has the Prone condition. Success: Half damage only.
 
-## Actions
+**Spellcasting.** The sphinx casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 20):
 
-Needle Sword. Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage.
+- At Will: Detect Evil and Good, Thaumaturgy
+- 1/Day Each: Detect Magic, Dispel Magic, Greater Restoration, Heroes' Feast, Zone of Truth
 
-Enchanting Bow. Ranged Attack Roll: +6, range 40/160 ft. Hit: 1 Piercing damage, and the target has the Charmed condition until the start of the sprite's next turn.
+##### Legendary Actions
 
-Heart Sight. Charisma Saving Throw: DC 10, one creature within 5 feet the sprite can see (Celestials, Fiends, and Undead automatically fail the save). Failure: The sprite knows the target's emotions and alignment.
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the sphinx can expend a use to take one of the following actions. The sphinx regains all expended uses at the start of each of its turns.
 
-Invisibility. The sprite casts Invisibility on itself, requiring no spell components and using Charisma as the spellcasting ability.
+**Arcane Prowl.** The sphinx can teleport up to 30 feet to an unoccupied space it can see, and it makes one Claw attack.
 
-## Spy Spy
+**Weight of Years.** Constitution Saving Throw: DC 16, one creature the sphinx can see within 120 feet. Failure: The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. Failure or Success: The sphinx can't take this action again until the start of its next turn.
 
-Medium or Small Humanoid, Neutral
+### Spirit Naga
 
-<!-- image -->
+#### Spirit Naga
 
-Skills Deception +5, Insight +4, Investigation +5, Perception +6, Sleight of Hand +4, Stealth +6
+*Large Fiend, Chaotic Evil*
 
-Gear Hand Crossbow, Shortsword, Thieves' Tools Senses Passive Perception 16
+**AC** 17
+**Initiative** +3 (13)
+**HP** 135 (18d10 + 36)
+**Speed** 40 ft.
 
-Languages Common plus one other language CR 1 (XP 200; PB +2)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 17    | +3  | +6   |
+| CON  | 14    | +2  | +5   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 15    | +2  | +5   |
+| CHA  | 16    | +3  | +6   |
 
-## Actions
+**Immunities** Poison; Charmed, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 12
+**Languages** Abyssal, Common
+**CR** 8 (XP 3,900; PB +3)
 
-Shortsword. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage plus 7 (2d6) Poison damage.
+##### Traits
 
-Hand Crossbow. Ranged Attack Roll: +4, range 30/120 ft. Hit: 5 (1d6 + 2) Piercing damage plus 7 (2d6) Poison damage.
+**Fiendish Restoration.** If it dies, the naga returns to life in 1d6 days and regains all its Hit Points. Only a Wish spell can prevent this trait from functioning.
 
-## Bonus Actions
+##### Actions
 
-Cunning Action. The spy takes the Dash, Disengage, or Hide action.
+**Multiattack.** The naga makes three attacks, using Bite or Necrotic Ray in any combination.
 
-## Stirge
+**Bite.** Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Piercing damage plus 14 (4d6) Poison damage.
 
-<!-- image -->
+**Necrotic Ray.** Ranged Attack Roll: +6, range 60 ft. Hit: 21 (6d6) Necrotic damage.
 
-<!-- image -->
+**Spellcasting.** The naga casts one of the following spells, requiring no Somatic or Material components and using Intelligence as the spellcasting ability (spell save DC 14):
 
-## Actions
+- At Will: Detect Magic, Mage Hand, Minor Illusion, Water Breathing
+- 2/Day Each: Detect Thoughts, Dimension Door, Hold Person (level 3 version), Lightning Bolt (level 4 version)
 
-Proboscis. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage, and the stirge attaches to the target. While attached, the stirge can't make Proboscis attacks, and the target takes 5 (2d4) Necrotic damage at the start of each of the stirge's turns.
+### Sprite
+
+#### Sprite
+
+*Tiny Fey, Neutral Good*
+
+**AC** 15
+**Initiative** +4 (14)
+**HP** 10 (4d4)
+**Speed** 10 ft., Fly 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 3     | -4  | -4   |
+| DEX  | 18    | +4  | +4   |
+| CON  | 10    | +0  | +0   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 11    | +0  | +0   |
+
+**Skills** Perception +3, Stealth +8
+**Senses** Passive Perception 13
+**Languages** Common, Elvish, Sylvan
+**CR** 1/4 (XP 50; PB +2)
+
+##### Actions
+
+**Needle Sword.** Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage.
+
+**Enchanting Bow.** Ranged Attack Roll: +6, range 40/160 ft. Hit: 1 Piercing damage, and the target has the Charmed condition until the start of the sprite's next turn.
+
+**Heart Sight.** Charisma Saving Throw: DC 10, one creature within 5 feet the sprite can see (Celestials, Fiends, and Undead automatically fail the save). Failure: The sprite knows the target's emotions and alignment.
+
+**Invisibility.** The sprite casts Invisibility on itself, requiring no spell components and using Charisma as the spellcasting ability.
+
+### Spy
+
+#### Spy
+
+*Medium or Small Humanoid, Neutral*
+
+**AC** 12
+**Initiative** +4 (14)
+**HP** 27 (6d8)
+**Speed** 30 ft., Climb 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 10    | +0  | +0   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 16    | +3  | +3   |
+
+**Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Sleight of Hand +4, Stealth +6
+**Gear** Hand Crossbow, Shortsword, Thieves' Tools
+**Senses** Passive Perception 16
+**Languages** Common plus one other language
+**CR** 1 (XP 200; PB +2)
+
+##### Actions
+
+**Shortsword.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage plus 7 (2d6) Poison damage.
+
+**Hand Crossbow.** Ranged Attack Roll: +4, range 30/120 ft. Hit: 5 (1d6 + 2) Piercing damage plus 7 (2d6) Poison damage.
+
+##### Bonus Actions
+
+**Cunning Action.** The spy takes the Dash, Disengage, or Hide action.
+
+### Stirge
+
+#### Stirge
+
+*Tiny Monstrosity, Unaligned*
+
+**AC** 13
+**Initiative** +3 (13)
+**HP** 5 (2d4)
+**Speed** 10 ft., Fly 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 4     | -3  | -3   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 11    | +0  | +0   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 6     | -2  | -2   |
+
+**Senses** Darkvision 60 ft.; Passive Perception 9
+**Languages** None
+**CR** 1/8 (XP 25; PB +2)
+
+##### Actions
+
+**Proboscis.** Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage, and the stirge attaches to the target. While attached, the stirge can't make Proboscis attacks, and the target takes 5 (2d4) Necrotic damage at the start of each of the stirge's turns.
 
 The stirge can detach itself by spending 5 feet of its movement. The target or a creature within 5 feet of it can detach the stirge as an action.
 
-## Stone Giant
+### Stone Giant
 
-<!-- image -->
+#### Stone Giant
 
-## Actions
+*Huge Giant, Neutral*
 
-Multiattack. The giant makes two attacks, using Stone Club or Boulder in any combination.
+**AC** 17
+**Initiative** +5 (15)
+**HP** 126 (11d12 + 55)
+**Speed** 40 ft.
 
-Stone Club. Melee Attack Roll: +9, reach 15 ft. Hit: 22 (3d10 + 6) Bludgeoning damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 15    | +2  | +5   |
+| CON  | 20    | +5  | +8   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 12    | +1  | +4   |
+| CHA  | 9     | -1  | -1   |
 
-Boulder. Ranged Attack Roll: +9, range 60/240 ft. Hit: 15 (2d8 + 6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
+**Skills** Athletics +12, Perception +4, Stealth +5
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** Giant
+**CR** 7 (XP 2,900; PB +3)
 
-## Reactions
+##### Actions
 
-Deflect Missile (Recharge 5-6). Trigger: The giant is hit by a ranged attack roll and takes Bludgeoning, Piercing, or Slashing damage from it. Response: The giant reduces the damage it takes from the attack by 11 (1d10 + 6), and if that damage is reduced to 0, the giant can redirect some of the attack's force. Dexterity Saving Throw: DC 17, one creature the giant can see within 60 feet. Failure: 11 (1d10 + 6) Force damage.
+**Multiattack.** The giant makes two attacks, using Stone Club or Boulder in any combination.
 
-## Stone Golem
+**Stone Club.** Melee Attack Roll: +9, reach 15 ft. Hit: 22 (3d10 + 6) Bludgeoning damage.
 
-<!-- image -->
+**Boulder.** Ranged Attack Roll: +9, range 60/240 ft. Hit: 15 (2d8 + 6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-Immunities Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned Senses Darkvision 120 ft.; Passive Perception 10 Languages Understands Common plus two other languages but can't speak CR 10 (XP 5,900; PB +4)
+##### Reactions
 
-## Traits
+**Deflect Missile (Recharge 5-6).** Trigger: The giant is hit by a ranged attack roll and takes Bludgeoning, Piercing, or Slashing damage from it. Response: The giant reduces the damage it takes from the attack by 11 (1d10 + 6), and if that damage is reduced to 0, the giant can redirect some of the attack's force. Dexterity Saving Throw: DC 17, one creature the giant can see within 60 feet. Failure: 11 (1d10 + 6) Force damage.
 
-Immutable Form. The golem can't shape-shift.
+### Stone Golem
 
-Magic Resistance. The golem has Advantage on saving throws against spells and other magical effects.
+#### Stone Golem
 
-## Actions
+*Large Construct, Unaligned*
 
-Multiattack. The golem makes two attacks, using Slam or Force Bolt in any combination.
+**AC** 18
+**Initiative** +3 (13)
+**HP** 220 (21d10 + 105)
+**Speed** 30 ft.
 
-Slam. Melee Attack Roll: +10, reach 5 ft. Hit: 15 (2d8 + 6) Bludgeoning damage plus 9 (2d8) Force damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 22    | +6  | +6   |
+| DEX  | 9     | -1  | -1   |
+| CON  | 20    | +5  | +5   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 1     | -5  | -5   |
 
-Force Bolt. Ranged Attack Roll: +9, range 120 ft. Hit: 22 (4d10) Force damage.
+**Immunities** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Senses** Darkvision 120 ft.; Passive Perception 10
+**Languages** Understands Common plus two other languages but can't speak
+**CR** 10 (XP 5,900; PB +4)
 
-## Bonus Actions
+##### Traits
 
-Slow (Recharge 5-6). The golem casts the Slow spell, requiring no spell components and using Constitution as the spellcasting ability (spell save DC 17).
+**Immutable Form.** The golem can't shape-shift.
 
-## Storm Giant
+**Magic Resistance.** The golem has Advantage on saving throws against spells and other magical effects.
 
-<!-- image -->
+##### Actions
 
-## Traits
+**Multiattack.** The golem makes two attacks, using Slam or Force Bolt in any combination.
 
-Amphibious. The giant can breathe air and water.
+**Slam.** Melee Attack Roll: +10, reach 5 ft. Hit: 15 (2d8 + 6) Bludgeoning damage plus 9 (2d8) Force damage.
 
-## Actions
+**Force Bolt.** Ranged Attack Roll: +9, range 120 ft. Hit: 22 (4d10) Force damage.
 
-Multiattack. The giant makes two attacks, using Storm Sword or Thunderbolt in any combination.
+##### Bonus Actions
 
-Storm Sword. Melee Attack Roll: +14, reach 10 ft. Hit: 23 (4d6 + 9) Slashing damage plus 13 (3d8) Lightning damage.
+**Slow (Recharge 5-6).** The golem casts the Slow spell, requiring no spell components and using Constitution as the spellcasting ability (spell save DC 17).
 
-Thunderbolt. Ranged Attack Roll: +14, range 500 ft. Hit: 22 (2d12 + 9) Lightning damage, and the target has the Blinded and Deafened conditions until the start of the giant's next turn.
+### Storm Giant
 
-Lightning Storm (Recharge 5-6). Dexterity Saving Throw: DC 18, each creature in a 10-foot-radius, 40-foot-high Cylinder originating from a point the giant can see within 500 feet. Failure: 55 (10d10) Lightning damage. Success: Half damage.
+#### Storm Giant
 
-Spellcasting. The giant casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 18):
+*Huge Giant, Chaotic Good*
 
-At Will: Detect Magic , Light 1/Day: Control Weather
+**AC** 16
+**Initiative** +7 (17)
+**HP** 230 (20d12 + 100)
+**Speed** 50 ft., Fly 25 ft. (hover), Swim 50 ft.
 
-## Succubus
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 29    | +9  | +14  |
+| DEX  | 14    | +2  | +2   |
+| CON  | 20    | +5  | +10  |
+| INT  | 16    | +3  | +3   |
+| WIS  | 20    | +5  | +10  |
+| CHA  | 18    | +4  | +9   |
 
-<!-- image -->
+**Skills** Arcana +8, Athletics +14, History +8, Perception +10
+**Resistances** Cold
+**Immunities** Lightning, Thunder
+**Senses** Darkvision 120 ft., Truesight 30 ft.; Passive Perception 20
+**Languages** Common, Giant
+**CR** 13 (XP 10,000; PB +5)
 
-| Succubus                   | Succubus                   | Succubus                   | Succubus                   | Succubus                   | Succubus                   | Succubus                   | Succubus                   | Succubus                   |
-|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-| Medium Fiend, Neutral Evil | Medium Fiend, Neutral Evil | Medium Fiend, Neutral Evil | Medium Fiend, Neutral Evil | Medium Fiend, Neutral Evil | Medium Fiend, Neutral Evil | Medium Fiend, Neutral Evil | Medium Fiend, Neutral Evil | Medium Fiend, Neutral Evil |
-| AC 15 Initiative +3 (13)   | AC 15 Initiative +3 (13)   | AC 15 Initiative +3 (13)   | AC 15 Initiative +3 (13)   | AC 15 Initiative +3 (13)   | AC 15 Initiative +3 (13)   | AC 15 Initiative +3 (13)   | AC 15 Initiative +3 (13)   | AC 15 Initiative +3 (13)   |
-| HP 71 (13d8 + 13)          | HP 71 (13d8 + 13)          | HP 71 (13d8 + 13)          | HP 71 (13d8 + 13)          | HP 71 (13d8 + 13)          | HP 71 (13d8 + 13)          | HP 71 (13d8 + 13)          | HP 71 (13d8 + 13)          | HP 71 (13d8 + 13)          |
-|                            |                            | MOD                        | SAVE                       | MOD                        | SAVE                       |                            | MOD                        | SAVE                       |
-| S tr                       | 8                          | -1                         | -1                         | Dex 17 +3                  | +3                         | Con 13                     | +1                         | +1                         |
-| I nt                       | 15                         | +2                         | +2                         | WIS 12 +1                  | +1                         | Cha 20                     | +5                         | +5                         |
+##### Traits
 
-Skills Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+**Amphibious.** The giant can breathe air and water.
 
-Resistances Cold, Fire, Poison, Psychic Senses Darkvision 60 ft.; Passive Perception 15 Languages Abyssal, Common, Infernal; telepathy 60 ft. CR 4 (XP 1,100; PB +2)
+##### Actions
 
-## Traits
+**Multiattack.** The giant makes two attacks, using Storm Sword or Thunderbolt in any combination.
 
-Incubus Form. When the succubus finishes a Long Rest, it can shape-shift into an Incubus , using that stat block instead of this one.
+**Storm Sword.** Melee Attack Roll: +14, reach 10 ft. Hit: 23 (4d6 + 9) Slashing damage plus 13 (3d8) Lightning damage.
 
-## Actions
+**Thunderbolt.** Ranged Attack Roll: +14, range 500 ft. Hit: 22 (2d12 + 9) Lightning damage, and the target has the Blinded and Deafened conditions until the start of the giant's next turn.
 
-Multiattack. The succubus makes one Fiendish Touch attack and uses Charm or Draining Kiss.
+**Lightning Storm (Recharge 5-6).** Dexterity Saving Throw: DC 18, each creature in a 10-foot-radius, 40-foot-high Cylinder originating from a point the giant can see within 500 feet. Failure: 55 (10d10) Lightning damage. Success: Half damage.
 
-Fiendish Touch. Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Psychic damage.
+**Spellcasting.** The giant casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 18):
 
-Charm. The succubus casts Dominate Person (level 8 version), requiring no spell components and using Charisma as the spellcasting ability (spell save DC 15).
+- At Will: Detect Magic, Light
+- 1/Day: Control Weather
 
-Draining Kiss. Constitution Saving Throw: DC 15, one creature Charmed by the succubus within 5 feet. Failure: 13 (3d8) Psychic damage. Success: Half damage. Failure or Success: The target's Hit Point maximum decreases by an amount equal to the damage taken.
+### Succubus
 
-## Bonus Actions
+#### Succubus
 
-Shape-Shift. The succubus shape-shifts into a Medium or Small Humanoid, or it returns to its true form. Its game statistics are the same in each form, except its Fly Speed is available only in its true form. Any equipment it is wearing or carrying isn't transformed.
+*Medium Fiend, Neutral Evil*
 
-## Tarrasque
+**AC** 15
+**Initiative** +3 (13)
+**HP** 71 (13d8 + 13)
+**Speed** 30 ft., Fly 60 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 8     | -1  | -1   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 13    | +1  | +1   |
+| INT  | 15    | +2  | +2   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 20    | +5  | +5   |
 
-| Tarrasque                                                                                                                                   |
-|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Gargantuan Monstrosity (Titan), Unaligned                                                                                                   |
-| AC 25 Initiative +18 (28) HP 697 (34d20 + 340)                                                                                              |
-| Speed 60 ft., Burrow 40 ft., Climb 60 ft. MOD SAVE MOD SAVE MOD SAVE                                                                        |
-| S tr 30 +10 +10 Dex 11 +0 +9 Con 30 +10 +10                                                                                                 |
-| I nt 3 -4 +5 WIS 11 +0 +9 Cha 11 +0 +9                                                                                                      |
-| Skills Perception +9 Resistances Bludgeoning, Piercing, Slashing                                                                            |
-| Immunities Fire, Poison; Charmed, Deafened, Frightened, Paralyzed, Poisoned Senses Blindsight 120 ft.; Passive Perception 19 Languages None |
-| CR 30 (XP 155,000; PB +9)                                                                                                                   |
+**Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+**Resistances** Cold, Fire, Poison, Psychic
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** Abyssal, Common, Infernal; telepathy 60 ft.
+**CR** 4 (XP 1,100; PB +2)
 
-## Traits
+##### Traits
 
-Legendary Resistance (6/Day). If the tarrasque fails a saving throw, it can choose to succeed instead.
+**Incubus Form.** When the succubus finishes a Long Rest, it can shape-shift into an Incubus, using that stat block instead of this one.
 
-Magic Resistance. The tarrasque has Advantage on saving throws against spells and other magical effects.
+##### Actions
 
-Reflective Carapace. If the tarrasque is targeted by a Magic Missile spell or a spell that requires a ranged attack roll, roll 1d6. On a 1-5 , the tarrasque is unaffected. On a 6 , the tarrasque is unaffected and reflects the spell, turning the caster into the target.
+**Multiattack.** The succubus makes one Fiendish Touch attack and uses Charm or Draining Kiss.
 
-Siege Monster. The tarrasque deals double damage to objects and structures.
+**Fiendish Touch.** Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Psychic damage.
 
-## Actions
+**Charm.** The succubus casts Dominate Person (level 8 version), requiring no spell components and using Charisma as the spellcasting ability (spell save DC 15).
 
-Multiattack. The tarrasque makes one Bite attack and three other attacks, using Claw or Tail in any combination.
+**Draining Kiss.** Constitution Saving Throw: DC 15, one creature Charmed by the succubus within 5 feet. Failure: 13 (3d8) Psychic damage. Success: Half damage. Failure or Success: The target's Hit Point maximum decreases by an amount equal to the damage taken.
 
-Bite. Melee Attack Roll: +19, reach 15 ft. Hit: 36 (4d12 + 10) Piercing damage, and the target has the Grappled
+##### Bonus Actions
 
-condition (escape DC 20). Until the grapple ends, the target has the Restrained condition and can't teleport.
+**Shape-Shift.** The succubus shape-shifts into a Medium or Small Humanoid, or it returns to its true form. Its game statistics are the same in each form, except its Fly Speed is available only in its true form. Any equipment it is wearing or carrying isn't transformed.
 
-Claw. Melee Attack Roll: +19, reach 15 ft. Hit: 28 (4d8 + 10) Slashing damage.
+### Tarrasque
 
-Tail. Melee Attack Roll: +19, reach 30 ft. Hit: 23 (3d8 + 10) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
+#### Tarrasque
 
-Thunderous Bellow (Recharge 5-6). Constitution Saving Throw: DC 27, each creature and each object that isn't being worn or carried in a 150-foot Cone. Failure: 78 (12d12) Thunder damage, and the target has the Deafened and Frightened conditions until the end of its next turn. Success: Half damage only.
+*Gargantuan Monstrosity (Titan), Unaligned*
 
-## Bonus Actions
+**AC** 25
+**Initiative** +18 (28)
+**HP** 697 (34d20 + 340)
+**Speed** 60 ft., Burrow 40 ft., Climb 60 ft.
 
-Swallow. Strength Saving Throw: DC 27, one Large or smaller creature Grappled by the tarrasque (it can have up to six creatures swallowed at a time). Failure: The target is swallowed, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions and can't teleport, it has Total Cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) Acid damage at the start of each of the tarrasque's turns.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 30    | +10 | +10  |
+| DEX  | 11    | +0  | +9   |
+| CON  | 30    | +10 | +10  |
+| INT  | 3     | -4  | +5   |
+| WIS  | 11    | +0  | +9   |
+| CHA  | 11    | +0  | +9   |
+
+**Skills** Perception +9
+**Resistances** Bludgeoning, Piercing, Slashing
+**Immunities** Fire, Poison; Charmed, Deafened, Frightened, Paralyzed, Poisoned
+**Senses** Blindsight 120 ft.; Passive Perception 19
+**Languages** None
+**CR** 30 (XP 155,000; PB +9)
+
+##### Traits
+
+**Legendary Resistance (6/Day).** If the tarrasque fails a saving throw, it can choose to succeed instead.
+
+**Magic Resistance.** The tarrasque has Advantage on saving throws against spells and other magical effects.
+
+**Reflective Carapace.** If the tarrasque is targeted by a Magic Missile spell or a spell that requires a ranged attack roll, roll 1d6. On a 1-5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected and reflects the spell, turning the caster into the target.
+
+**Siege Monster.** The tarrasque deals double damage to objects and structures.
+
+##### Actions
+
+**Multiattack.** The tarrasque makes one Bite attack and three other attacks, using Claw or Tail in any combination.
+
+**Bite.** Melee Attack Roll: +19, reach 15 ft. Hit: 36 (4d12 + 10) Piercing damage, and the target has the Grappled condition (escape DC 20). Until the grapple ends, the target has the Restrained condition and can't teleport.
+
+**Claw.** Melee Attack Roll: +19, reach 15 ft. Hit: 28 (4d8 + 10) Slashing damage.
+
+**Tail.** Melee Attack Roll: +19, reach 30 ft. Hit: 23 (3d8 + 10) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
+
+**Thunderous Bellow (Recharge 5-6).** Constitution Saving Throw: DC 27, each creature and each object that isn't being worn or carried in a 150-foot Cone. Failure: 78 (12d12) Thunder damage, and the target has the Deafened and Frightened conditions until the end of its next turn. Success: Half damage only.
+
+##### Bonus Actions
+
+**Swallow.** Strength Saving Throw: DC 27, one Large or smaller creature Grappled by the tarrasque (it can have up to six creatures swallowed at a time). Failure: The target is swallowed, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions and can't teleport, it has Total Cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) Acid damage at the start of each of the tarrasque's turns.
 
 If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 10 feet of the tarrasque and has the Prone condition. If the tarrasque dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 20 feet of movement, exiting Prone.
 
-## Legendary Actions
+##### Legendary Actions
 
-Legendary Action Uses: 3. Immediately after another creature's turn, the tarrasque can expend a use to take one of the following actions. The tarrasque regains all expended uses at the start of each of its turns.
+**Legendary Action Uses: 3.** Immediately after another creature's turn, the tarrasque can expend a use to take one of the following actions. The tarrasque regains all expended uses at the start of each of its turns.
 
-Onslaught. The tarrasque moves up to half its Speed, and it makes one Claw or Tail attack.
+**Onslaught.** The tarrasque moves up to half its Speed, and it makes one Claw or Tail attack.
 
-World-Shaking Movement. The tarrasque moves up to its Speed. At the end of this movement, the tarrasque creates an instantaneous shock wave in a 60-foot Emanation originating from itself. Creatures in that area lose Concentration and, if Medium or smaller, have the Prone condition. The tarrasque can't take this action again until the start of its next turn.
+**World-Shaking Movement.** The tarrasque moves up to its Speed. At the end of this movement, the tarrasque creates an instantaneous shock wave in a 60-foot Emanation originating from itself. Creatures in that area lose Concentration and, if Medium or smaller, have the Prone condition. The tarrasque can't take this action again until the start of its next turn.
 
-## Toughs
+### Toughs
 
-## Tough
+#### Tough
 
-Medium or Small Humanoid, Neutral
+*Medium or Small Humanoid, Neutral*
 
-AC 12 HP 32 (5d8 + 10) Speed 30 ft.
+**AC** 12
+**Initiative** +1 (11)
+**HP** 32 (5d8 + 10)
+**Speed** 30 ft.
 
-Initiative +1 (11)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 14    | +2  | +2   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 11    | +0  | +0   |
 
-<!-- image -->
+**Gear** Heavy Crossbow, Leather Armor, Mace
+**Senses** Passive Perception 10
+**Languages** Common
+**CR** 1/2 (XP 100; PB +2)
 
-|         | MOD SAVE   | MOD SAVE            | MOD SAVE   |
-|---------|------------|---------------------|------------|
-| S tr 15 | +2 +2      | Dex 12 +1 +1 Con 14 | +2 +2      |
-| I nt 10 | +0 +0      | WIS 10 +0 +0 Cha    | 11 +0 +0   |
+##### Traits
 
-Gear Heavy Crossbow, Leather Armor, Mace
+**Pack Tactics.** The tough has Advantage on an attack roll against a creature if at least one of the tough's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-Senses Passive Perception 10
+##### Actions
 
-Languages Common CR 1/2 (XP 100; PB +2)
+**Mace.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage.
 
-## Traits
+**Heavy Crossbow.** Ranged Attack Roll: +3, range 100/400 ft. Hit: 6 (1d10 + 1) Piercing damage.
 
-Pack Tactics. The tough has Advantage on an attack roll against a creature if at least one of the tough's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+#### Tough Boss
 
-## Actions
+*Medium or Small Humanoid, Neutral*
 
-Mace. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage.
+**AC** 16
+**Initiative** +2 (12)
+**HP** 82 (11d8 + 33)
+**Speed** 30 ft.
 
-Heavy Crossbow. Ranged Attack Roll: +3, range 100/400 ft. Hit: 6 (1d10 + 1) Piercing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +5   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 16    | +3  | +5   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 11    | +0  | +2   |
 
-<!-- image -->
+**Gear** Chain Mail, Heavy Crossbow, Warhammer
+**Senses** Passive Perception 10
+**Languages** Common plus one other language
+**CR** 4 (XP 1,100; PB +2)
 
-## Traits
+##### Traits
 
-Pack Tactics. The tough has Advantage on an attack roll against a creature if at least one of the tough's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+**Pack Tactics.** The tough has Advantage on an attack roll against a creature if at least one of the tough's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-## Actions
+##### Actions
 
-Multiattack. The tough makes two attacks, using Warhammer or Heavy Crossbow in any combination.
+**Multiattack.** The tough makes two attacks, using Warhammer or Heavy Crossbow in any combination.
 
-Warhammer. Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Bludgeoning damage. If the target is a Large or smaller creature, the tough pushes the target up to 10 feet straight away from itself.
+**Warhammer.** Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Bludgeoning damage. If the target is a Large or smaller creature, the tough pushes the target up to 10 feet straight away from itself.
 
-Heavy Crossbow. Ranged Attack Roll: +4, range 100/400 ft. Hit: 13 (2d10 + 2) Piercing damage.
+**Heavy Crossbow.** Ranged Attack Roll: +4, range 100/400 ft. Hit: 13 (2d10 + 2) Piercing damage.
 
-## Treant
+### Treant
 
-<!-- image -->
+#### Treant
 
-## Traits
+*Huge Plant, Chaotic Good*
 
-Siege Monster. The treant deals double damage to objects and structures.
+**AC** 16
+**Initiative** +3 (13)
+**HP** 138 (12d12 + 60)
+**Speed** 30 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 21    | +5  | +5   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 16    | +3  | +3   |
+| CHA  | 12    | +1  | +1   |
 
-Multiattack. The treant makes two Slam attacks.
+**Vulnerabilities** Fire
+**Resistances** Bludgeoning, Piercing
+**Senses** Passive Perception 13
+**Languages** Common, Druidic, Elvish, Sylvan
+**CR** 9 (XP 5,000; PB +4)
 
-Slam. Melee Attack Roll: +10, reach 5 ft. Hit: 16 (3d6 + 6) Bludgeoning damage.
+##### Traits
 
-Hail of Bark. Ranged Attack Roll: +10, range 180 ft. Hit: 28 (4d10 + 6) Piercing damage.
+**Siege Monster.** The treant deals double damage to objects and structures.
 
-Animate Trees (1/Day). The treant magically animates up to two trees it can see within 60 feet of itself. Each tree uses the Treant stat block, except it has Intelligence and Charisma scores of 1, it can't speak, and it lacks this action. The tree takes its turn immediately after the treant on the same Initiative count, and it obeys the treant. A tree remains animate for 1 day or until it dies, the treant dies, or it is more than 120 feet from the treant. The tree then takes root if possible.
+##### Actions
 
-## Troll
+**Multiattack.** The treant makes two Slam attacks.
 
-<!-- image -->
+**Slam.** Melee Attack Roll: +10, reach 5 ft. Hit: 16 (3d6 + 6) Bludgeoning damage.
 
-## Traits
+**Hail of Bark.** Ranged Attack Roll: +10, range 180 ft. Hit: 28 (4d10 + 6) Piercing damage.
 
-Loathsome Limbs (4/Day). If the troll ends any turn Bloodied and took 15+ Slashing damage during that turn, one of the troll's limbs is severed, falls into the troll's space, and becomes a Troll Limb . The limb acts immediately after the troll's turn. The troll has 1 Exhaustion level for each missing limb, and it grows replacement limbs the next time it regains Hit Points.
+**Animate Trees (1/Day).** The treant magically animates up to two trees it can see within 60 feet of itself. Each tree uses the Treant stat block, except it has Intelligence and Charisma scores of 1, it can't speak, and it lacks this action. The tree takes its turn immediately after the treant on the same Initiative count, and it obeys the treant. A tree remains animate for 1 day or until it dies, the treant dies, or it is more than 120 feet from the treant. The tree then takes root if possible.
 
-Regeneration. The troll regains 15 Hit Points at the start of each of its turns. If the troll takes Acid or Fire damage, this trait doesn't function on the troll's next turn. The troll dies only if it starts its turn with 0 Hit Points and doesn't regenerate.
+### Troll
 
-## Actions
+#### Troll
 
-Multiattack. The troll makes three Rend attacks.
+*Large Giant, Chaotic Evil*
 
-Rend. Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage.
+**AC** 15
+**Initiative** +1 (11)
+**HP** 94 (9d10 + 45)
+**Speed** 30 ft.
 
-## Bonus Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 20    | +5  | +5   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 9     | -1  | -1   |
+| CHA  | 7     | -2  | -2   |
 
-Charge. The troll moves up to half its Speed straight toward an enemy it can see.
+**Skills** Perception +5
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** Giant
+**CR** 5 (XP 1,800; PB +3)
 
-<!-- image -->
+##### Traits
 
-## Traits
+**Loathsome Limbs (4/Day).** If the troll ends any turn Bloodied and took 15+ Slashing damage during that turn, one of the troll's limbs is severed, falls into the troll's space, and becomes a Troll Limb. The limb acts immediately after the troll's turn. The troll has 1 Exhaustion level for each missing limb, and it grows replacement limbs the next time it regains Hit Points.
 
-Regeneration. The limb regains 5 Hit Points at the start of each of its turns. If the limb takes Acid or Fire damage, this trait doesn't function on the limb's next turn. The limb dies only if it starts its turn with 0 Hit Points and doesn't regenerate.
+**Regeneration.** The troll regains 15 Hit Points at the start of each of its turns. If the troll takes Acid or Fire damage, this trait doesn't function on the troll's next turn. The troll dies only if it starts its turn with 0 Hit Points and doesn't regenerate.
 
-Troll Spawn. The limb uncannily has the same senses as a whole troll. If the limb isn't destroyed within 24 hours, roll 1d12. On a 12, the limb turns into a Troll . Otherwise, the limb withers away.
+##### Actions
 
-## Actions
+**Multiattack.** The troll makes three Rend attacks.
 
-Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4) Slashing damage.
+**Rend.** Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage.
 
-## Unicorn
+##### Bonus Actions
 
-<!-- image -->
+**Charge.** The troll moves up to half its Speed straight toward an enemy it can see.
 
-## Traits
+#### Troll Limb
 
-Legendary Resistance (3/Day). If the unicorn fails a saving throw, it can choose to succeed instead.
+*Small Giant, Chaotic Evil*
 
-Magic Resistance . The unicorn has Advantage on saving throws against spells and other magical effects.
+**AC** 13
+**Initiative** +1 (11)
+**HP** 14 (4d6)
+**Speed** 20 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 10    | +0  | +0   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 9     | -1  | -1   |
+| CHA  | 1     | -5  | -5   |
 
-Multiattack. The unicorn makes one Hooves attack and one Radiant Horn attack.
+**Senses** Darkvision 60 ft.; Passive Perception 9
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-Hooves. Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning damage.
+##### Traits
 
-Radiant Horn. Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d10 + 4) Radiant damage.
+**Regeneration.** The limb regains 5 Hit Points at the start of each of its turns. If the limb takes Acid or Fire damage, this trait doesn't function on the limb's next turn. The limb dies only if it starts its turn with 0 Hit Points and doesn't regenerate.
 
-Spellcasting. The unicorn casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 14):
+**Troll Spawn.** The limb uncannily has the same senses as a whole troll. If the limb isn't destroyed within 24 hours, roll 1d12. On a 12, the limb turns into a Troll. Otherwise, the limb withers away.
 
-At Will: Detect Evil and Good , Druidcraft 1/Day Each: Calm Emotions , Dispel Evil and Good , Entangle , Pass without Trace , Word of Recall
+##### Actions
 
-## Bonus Actions
+**Rend.** Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4) Slashing damage.
 
-Unicorn's Blessing (3/Day). The unicorn touches another creature with its horn and casts Cure Wounds or Lesser Restoration on that creature, using the same spellcasting ability as Spellcasting.
+### Unicorn
 
-## Legendary Actions
+#### Unicorn
 
-Legendary Action Uses: 3. Immediately after another creature's turn, the unicorn can expend a use to take one of the following actions. The unicorn regains all expended uses at the start of each of its turns.
+*Large Celestial, Lawful Good*
 
-Charging Horn. The unicorn moves up to half its Speed without provoking Opportunity Attacks, and it makes one Radiant Horn attack.
+**AC** 12
+**Initiative** +8 (18)
+**HP** 97 (13d10 + 26)
+**Speed** 50 ft.
 
-Shimmering Shield. The unicorn targets itself or one creature it can see within 60 feet of itself. The target gains 10 (3d6) Temporary Hit Points, and its AC increases by 2 until the end of the unicorn's next turn.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 15    | +2  | +2   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 17    | +3  | +3   |
+| CHA  | 16    | +3  | +3   |
 
-The unicorn can't take this action again until the start of its next turn.
+**Immunities** Poison; Charmed, Paralyzed, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** Celestial, Elvish, Sylvan; telepathy 120 ft.
+**CR** 5 (XP 1,800; PB +3)
 
-## Vampires
+##### Traits
 
-<!-- image -->
+**Legendary Resistance (3/Day).** If the unicorn fails a saving throw, it can choose to succeed instead.
 
-| Vampire Familiar                                                     | Vampire Familiar                                                     | Vampire Familiar                                                     | Vampire Familiar                                                     | Vampire Familiar                                                     | Vampire Familiar                                                     | Vampire Familiar                                                     | Vampire Familiar                                                     | Vampire Familiar                                                     | Vampire Familiar                                                     |
-|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| Medium or Small Humanoid, Neutral Evil                               | Medium or Small Humanoid, Neutral Evil                               | Medium or Small Humanoid, Neutral Evil                               | Medium or Small Humanoid, Neutral Evil                               | Medium or Small Humanoid, Neutral Evil                               | Medium or Small Humanoid, Neutral Evil                               | Medium or Small Humanoid, Neutral Evil                               | Medium or Small Humanoid, Neutral Evil                               | Medium or Small Humanoid, Neutral Evil                               | Medium or Small Humanoid, Neutral Evil                               |
-| AC 15                                                                | AC 15                                                                | AC 15                                                                | AC 15                                                                | AC 15                                                                | Initiative +5 (15)                                                   | Initiative +5 (15)                                                   | Initiative +5 (15)                                                   | Initiative +5 (15)                                                   | Initiative +5 (15)                                                   |
-| Speed 30 ft., Climb 30 ft.                                           | Speed 30 ft., Climb 30 ft.                                           | Speed 30 ft., Climb 30 ft.                                           | Speed 30 ft., Climb 30 ft.                                           | Speed 30 ft., Climb 30 ft.                                           | Speed 30 ft., Climb 30 ft.                                           | Speed 30 ft., Climb 30 ft.                                           | Speed 30 ft., Climb 30 ft.                                           | Speed 30 ft., Climb 30 ft.                                           | Speed 30 ft., Climb 30 ft.                                           |
-| S tr                                                                 | 17                                                                   | MOD +3                                                               | SAVE +3                                                              | Dex 16                                                               | MOD +3                                                               | SAVE +5                                                              | Con 15                                                               | MOD +2                                                               | SAVE +2                                                              |
-| I nt                                                                 | 10                                                                   | +0                                                                   | +0                                                                   | WIS 10                                                               | +0                                                                   | +2                                                                   | Cha 14                                                               | +2                                                                   | +2                                                                   |
-| Skills Perception +4, Persuasion +4, Stealth +7 Resistances Necrotic | Skills Perception +4, Persuasion +4, Stealth +7 Resistances Necrotic | Skills Perception +4, Persuasion +4, Stealth +7 Resistances Necrotic | Skills Perception +4, Persuasion +4, Stealth +7 Resistances Necrotic | Skills Perception +4, Persuasion +4, Stealth +7 Resistances Necrotic | Skills Perception +4, Persuasion +4, Stealth +7 Resistances Necrotic | Skills Perception +4, Persuasion +4, Stealth +7 Resistances Necrotic | Skills Perception +4, Persuasion +4, Stealth +7 Resistances Necrotic | Skills Perception +4, Persuasion +4, Stealth +7 Resistances Necrotic | Skills Perception +4, Persuasion +4, Stealth +7 Resistances Necrotic |
+**Magic Resistance.** The unicorn has Advantage on saving throws against spells and other magical effects.
 
-## Traits
+##### Actions
 
-Vampiric Connection. While the familiar and its vampire master are on the same plane of existence, the vampire can communicate with the familiar telepathically, and the vampire can perceive through the familiar's senses.
+**Multiattack.** The unicorn makes one Hooves attack and one Radiant Horn attack.
 
-## Actions
+**Hooves.** Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning damage.
 
-Multiattack. The familiar makes two Umbral Dagger attacks.
+**Radiant Horn.** Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d10 + 4) Radiant damage.
 
-Umbral Dagger. Melee or Ranged Attack Roll: +5, reach 5 ft. or range 20/60 ft. Hit: 5 (1d4 + 3) Piercing damage plus 7 (3d4) Necrotic damage. If the target is reduced to 0 Hit Points by this attack, the target becomes Stable but has the Poisoned condition for 1 hour. While it has the Poisoned condition, the target has the Paralyzed condition.
+**Spellcasting.** The unicorn casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 14):
 
-## Bonus Actions
+- At Will: Detect Evil and Good, Druidcraft
+- 1/Day Each: Calm Emotions, Dispel Evil and Good, Entangle, Pass without Trace, Word of Recall
 
-Deathless Agility. The familiar takes the Dash or Disengage action.
+##### Bonus Actions
 
-## Vampire Spawn
+**Unicorn's Blessing (3/Day).** The unicorn touches another creature with its horn and casts Cure Wounds or Lesser Restoration on that creature, using the same spellcasting ability as Spellcasting.
 
-Medium or Small Undead, Neutral Evil
+##### Legendary Actions
 
-AC 16 HP 90 (12d8 + 36) Speed 30 ft.
+**Legendary Action Uses: 3.** Immediately after another creature's turn, the unicorn can expend a use to take one of the following actions. The unicorn regains all expended uses at the start of each of its turns.
 
-Initiative +3 (13)
+**Charging Horn.** The unicorn moves up to half its Speed without provoking Opportunity Attacks, and it makes one Radiant Horn attack.
 
-<!-- image -->
+**Shimmering Shield.** The unicorn targets itself or one creature it can see within 60 feet of itself. The target gains 10 (3d6) Temporary Hit Points, and its AC increases by 2 until the end of the unicorn's next turn. The unicorn can't take this action again until the start of its next turn.
 
-|         | MOD SAVE   | MOD    | SAVE MOD   |        | SAVE   |
-|---------|------------|--------|------------|--------|--------|
-| S tr 16 | +3 +3      | Dex 16 | +3 +6      | Con 16 | +3 +3  |
-| I nt 11 | +0 +0      | WIS 10 | +0 +3      | Cha 12 | +1 +1  |
+### Vampires
 
-Skills Perception +3, Stealth +6 Resistances Necrotic Senses Darkvision 60 ft.; Passive Perception 13 Languages Common plus one other language CR 5 (XP 1,800; PB +3)
+#### Vampire Familiar
 
-## Traits
+*Medium or Small Humanoid, Neutral Evil*
 
-Spider Climb. The vampire can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+**AC** 15
+**Initiative** +5 (15)
+**HP** 65 (10d8 + 20)
+**Speed** 30 ft., Climb 30 ft.
 
-Vampire Weakness. The vampire has these weaknesses:
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 16    | +3  | +5   |
+| CON  | 15    | +2  | +2   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 10    | +0  | +2   |
+| CHA  | 14    | +2  | +2   |
 
-Forbiddance. The vampire can't enter a residence without an invitation from an occupant.
+**Skills** Perception +4, Persuasion +4, Stealth +7
+**Resistances** Necrotic
+**Immunities** Charmed (except from its vampire master)
+**Gear** Daggers (10)
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** Common plus one other language
+**CR** 3 (XP 700; PB +2)
 
-- Running Water. The vampire takes 20 Acid damage if it ends its turn in running water.
-- Stake to the Heart. The vampire is destroyed if a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition.
-- Sunlight. The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
+##### Traits
 
-## Actions
+**Vampiric Connection.** While the familiar and its vampire master are on the same plane of existence, the vampire can communicate with the familiar telepathically, and the vampire can perceive through the familiar's senses.
 
-Multiattack. The vampire makes two Claw attacks and uses Bite.
+##### Actions
 
-Claw. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (2d4 + 3) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from one of two claws.
+**Multiattack.** The familiar makes two Umbral Dagger attacks.
 
-Bite. Constitution Saving Throw: DC 14, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. Failure: 5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount.
+**Umbral Dagger.** Melee or Ranged Attack Roll: +5, reach 5 ft. or range 20/60 ft. Hit: 5 (1d4 + 3) Piercing damage plus 7 (3d4) Necrotic damage. If the target is reduced to 0 Hit Points by this attack, the target becomes Stable but has the Poisoned condition for 1 hour. While it has the Poisoned condition, the target has the Paralyzed condition.
 
-## Bonus Actions
+##### Bonus Actions
 
-Deathless Agility. The vampire takes the Dash or Disengage action.
+**Deathless Agility.** The familiar takes the Dash or Disengage action.
 
-## Vampire
+#### Vampire Spawn
 
-Medium or Small Undead, Lawful Evil
+*Medium or Small Undead, Neutral Evil*
 
-AC 16 HP 195 (23d8 + 92) Speed 40 ft., Climb 40 ft.
+**AC** 16
+**Initiative** +3 (13)
+**HP** 90 (12d8 + 36)
+**Speed** 30 ft.
 
-Initiative +14 (24)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 16    | +3  | +6   |
+| CON  | 16    | +3  | +3   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 10    | +0  | +3   |
+| CHA  | 12    | +1  | +1   |
 
-<!-- image -->
+**Skills** Perception +3, Stealth +6
+**Resistances** Necrotic
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** Common plus one other language
+**CR** 5 (XP 1,800; PB +3)
 
-|         | MOD SAVE   |        | MOD SAVE MOD   |        | SAVE   |
-|---------|------------|--------|----------------|--------|--------|
-| S tr 18 | +4 +4      | Dex 18 | +4 +9          | Con 18 | +4 +9  |
-| I nt 17 | +3 +3      | WIS 15 | +2 +7          | Cha 18 | +4 +9  |
+##### Traits
 
-Skills Perception +7, Stealth +9 Resistances Necrotic Senses Darkvision 120 ft.; Passive Perception 17 Languages Common plus two other languages CR 13 (XP 10,000, or 11,500 in lair; PB +5)
+**Spider Climb.** The vampire can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-## Traits
+**Vampire Weakness.** The vampire has these weaknesses:
 
-Legendary Resistance (3/Day, or 4/Day in Lair). If the vampire fails a saving throw, it can choose to succeed instead.
+- **Forbiddance.** The vampire can't enter a residence without an invitation from an occupant.
+- **Running Water.** The vampire takes 20 Acid damage if it ends its turn in running water.
+- **Stake to the Heart.** The vampire is destroyed if a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition.
+- **Sunlight.** The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
 
-Misty Escape. If the vampire drops to 0 Hit Points outside its resting place, the vampire uses Shape-Shift to become mist (no action required). If it can't use ShapeShift, it is destroyed.
+##### Actions
+
+**Multiattack.** The vampire makes two Claw attacks and uses Bite.
+
+**Claw.** Melee Attack Roll: +6, reach 5 ft. Hit: 8 (2d4 + 3) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from one of two claws.
+
+**Bite.** Constitution Saving Throw: DC 14, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. Failure: 5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount.
+
+##### Bonus Actions
+
+**Deathless Agility.** The vampire takes the Dash or Disengage action.
+
+#### Vampire
+
+*Medium or Small Undead, Lawful Evil*
+
+**AC** 16
+**Initiative** +14 (24)
+**HP** 195 (23d8 + 92)
+**Speed** 40 ft., Climb 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 18    | +4  | +9   |
+| CON  | 18    | +4  | +9   |
+| INT  | 17    | +3  | +3   |
+| WIS  | 15    | +2  | +7   |
+| CHA  | 18    | +4  | +9   |
+
+**Skills** Perception +7, Stealth +9
+**Resistances** Necrotic
+**Senses** Darkvision 120 ft.; Passive Perception 17
+**Languages** Common plus two other languages
+**CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
+
+##### Traits
+
+**Legendary Resistance (3/Day, or 4/Day in Lair).** If the vampire fails a saving throw, it can choose to succeed instead.
+
+**Misty Escape.** If the vampire drops to 0 Hit Points outside its resting place, the vampire uses Shape-Shift to become mist (no action required). If it can't use Shape-Shift, it is destroyed.
 
 While it has 0 Hit Points in mist form, it can't return to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it returns to its vampire form and has the Paralyzed condition until it regains any Hit Points, and it regains 1 Hit Point after spending 1 hour there.
 
-Spider Climb. The vampire can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+**Spider Climb.** The vampire can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-Vampire Weakness. The vampire has these weaknesses:
+**Vampire Weakness.** The vampire has these weaknesses:
 
-Forbiddance. The vampire can't enter a residence without an invitation from an occupant.
+- **Forbiddance.** The vampire can't enter a residence without an invitation from an occupant.
+- **Running Water.** The vampire takes 20 Acid damage if it ends its turn in running water.
+- **Stake to the Heart.** If a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition in its resting place, the vampire has the Paralyzed condition until the weapon is removed.
+- **Sunlight.** The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
 
-- Running Water. The vampire takes 20 Acid damage if it ends its turn in running water.
-- Stake to the Heart. If a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition in its resting place, the vampire has the Paralyzed condition until the weapon is removed.
-- Sunlight. The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
+##### Actions
 
-## Actions
+**Multiattack (Vampire Form Only).** The vampire makes two Grave Strike attacks and uses Bite.
 
-Multiattack (Vampire Form Only). The vampire makes two Grave Strike attacks and uses Bite.
+**Grave Strike (Vampire Form Only).** Melee Attack Roll: +9, reach 5 ft. Hit: 8 (1d8 + 4) Bludgeoning damage plus 7 (2d6) Necrotic damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two hands.
 
-Grave Strike (Vampire Form Only). Melee Attack Roll: +9, reach 5 ft. Hit: 8 (1d8 + 4) Bludgeoning damage plus 7 (2d6) Necrotic damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two hands.
+**Bite (Bat or Vampire Form Only).** Constitution Saving Throw: DC 17, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. Failure: 6 (1d4 + 4) Piercing damage plus 13 (3d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount. A Humanoid reduced to 0 Hit Points by this damage and then buried rises the following sunset as a Vampire Spawn under the vampire's control.
 
-Bite (Bat or Vampire Form Only). Constitution Saving Throw: DC 17, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. Failure: 6 (1d4 + 4) Piercing damage plus 13 (3d8) Necrotic damage. The target's Hit Point maximum
+##### Bonus Actions
 
-decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount. A Humanoid reduced to 0 Hit Points by this damage and then buried rises the following sunset as a Vampire Spawn under the vampire's control.
+**Charm (Recharge 5-6).** The vampire casts Charm Person, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 17), and the duration is 24 hours. The Charmed target is a willing recipient of the vampire's Bite, the damage of which doesn't end the spell. When the spell ends, the target is unaware it was Charmed by the vampire.
 
-## Bonus Actions
-
-Charm (Recharge 5-6). The vampire casts Charm Person , requiring no spell components and using Charisma as the spellcasting ability (spell save DC 17), and the duration is 24 hours. The Charmed target is a willing recipient of the vampire's Bite, the damage of which doesn't end the spell. When the spell ends, the target is unaware it was Charmed by the vampire.
-
-Shape-Shift. If the vampire isn't in sunlight or running water, it shape-shifts into a Tiny bat (Speed 5 ft., Fly Speed 30 ft.) or a Medium cloud of mist (Speed 5 ft., Fly Speed 20 ft. [hover]), or it returns to its vampire form. Anything it is wearing transforms with it.
+**Shape-Shift.** If the vampire isn't in sunlight or running water, it shape-shifts into a Tiny bat (Speed 5 ft., Fly Speed 30 ft.) or a Medium cloud of mist (Speed 5 ft., Fly Speed 20 ft. [hover]), or it returns to its vampire form. Anything it is wearing transforms with it.
 
 While in bat form, the vampire can't speak. Its game statistics, other than its size and Speed, are unchanged.
 
 While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless and can enter an enemy's space and stop there. If air can pass through a space, the mist can do so, but it can't pass through liquid. It has Resistance to all damage, except the damage it takes from sunlight.
 
-## Legendary Actions
+##### Legendary Actions
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the vampire can expend a use to take one of the following actions. The vampire regains all expended uses at the start of each of its turns.
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the vampire can expend a use to take one of the following actions. The vampire regains all expended uses at the start of each of its turns.
 
-Beguile. The vampire casts Command , requiring no spell components and using Charisma as the spellcasting ability (spell save DC 17). The vampire can't take this action again until the start of its next turn.
+**Beguile.** The vampire casts Command, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 17). The vampire can't take this action again until the start of its next turn.
 
-Deathless Strike. The vampire moves up to half its Speed, and it makes one Grave Strike attack.
+**Deathless Strike.** The vampire moves up to half its Speed, and it makes one Grave Strike attack.
 
-## Vrock
+### Vrock
 
-| Vrock                             |
-|-----------------------------------|
-| Large Fiend (Demon), Chaotic Evil |
-| AC 15 Initiative                  |
-| HP 152 (16d10 + 64)               |
-| Speed 40 ft., Fly 60 ft.          |
+#### Vrock
 
-<!-- image -->
+*Large Fiend (Demon), Chaotic Evil*
 
-Resistances Cold, Fire, Lightning Immunities Poison; Poisoned Senses Darkvision 120 ft.; Passive Perception 11 Languages Abyssal; telepathy 120 ft. CR 6 (XP 2,300; PB +3)
+**AC** 15
+**Initiative** +2 (12)
+**HP** 152 (16d10 + 64)
+**Speed** 40 ft., Fly 60 ft.
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 15    | +2  | +5   |
+| CON  | 18    | +4  | +4   |
+| INT  | 8     | -1  | -1   |
+| WIS  | 13    | +1  | +4   |
+| CHA  | 8     | -1  | +2   |
 
-Demonic Restoration. If the vrock dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+**Resistances** Cold, Fire, Lightning
+**Immunities** Poison; Poisoned
+**Senses** Darkvision 120 ft.; Passive Perception 11
+**Languages** Abyssal; telepathy 120 ft.
+**CR** 6 (XP 2,300; PB +3)
 
-Magic Resistance. The vrock has Advantage on saving throws against spells and other magical effects.
+##### Traits
 
-## Actions
+**Demonic Restoration.** If the vrock dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
 
-Multiattack. The vrock makes two Shred attacks.
+**Magic Resistance.** The vrock has Advantage on saving throws against spells and other magical effects.
 
-Shred. Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage plus 10 (3d6) Poison damage.
+##### Actions
 
-Spores (Recharge 6). Constitution Saving Throw: DC 15, each creature in a 20-foot Emanation originating from the vrock. Failure: The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. While Poisoned, the target takes 5 (1d10) Poison damage at the start of each of its turns. Emptying a flask of Holy Water on the target ends the effect early.
+**Multiattack.** The vrock makes two Shred attacks.
 
-Stunning Screech (1/Day). Constitution Saving Throw: DC 15, each creature in a 20-foot Emanation originating from the vrock (demons succeed automatically). Failure: 10 (3d6) Thunder damage, and the target has the Stunned condition until the end of the vrock's next turn.
+**Shred.** Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage plus 10 (3d6) Poison damage.
 
-## Warriors
+**Spores (Recharge 6).** Constitution Saving Throw: DC 15, each creature in a 20-foot Emanation originating from the vrock. Failure: The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. While Poisoned, the target takes 5 (1d10) Poison damage at the start of each of its turns. Emptying a flask of Holy Water on the target ends the effect early.
 
-| AC 13      | Initiative +0 (10)   |        |    |           |    |    |
-|------------|----------------------|--------|----|-----------|----|----|
-| HP 9 (2d8) | HP 9 (2d8)           |        |    |           |    |    |
-| Speed 30   | ft.                  |        |    |           |    |    |
-| S tr 13    | +1 +1                | Dex 11 | +0 | +0 Con 11 | +0 | +0 |
-| I nt 8     | -1 -1                | WIS 11 | +0 | +0 Cha 8  | -1 | -1 |
+**Stunning Screech (1/Day).** Constitution Saving Throw: DC 15, each creature in a 20-foot Emanation originating from the vrock (demons succeed automatically). Failure: 10 (3d6) Thunder damage, and the target has the Stunned condition until the end of the vrock's next turn.
 
-<!-- image -->
+### Warriors
 
-## Traits
+#### Warrior Infantry
 
-Pack Tactics. The warrior has Advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+*Medium or Small Humanoid, Neutral*
 
-## Actions
+**AC** 13
+**Initiative** +0 (10)
+**HP** 9 (2d8)
+**Speed** 30 ft.
 
-Spear. Melee or Ranged Attack Roll: +3, reach 5 ft. or range 20/60 ft. Hit: 4 (1d6 + 1) Piercing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 11    | +0  | +0   |
+| INT  | 8     | -1  | -1   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 8     | -1  | -1   |
 
-## Warrior Veteran
+**Gear** Chain Shirt, Spear
+**Senses** Passive Perception 10
+**Languages** Common
+**CR** 1/8 (XP 25; PB +2)
 
-Medium or Small Humanoid, Neutral
+##### Traits
 
-<!-- image -->
+**Pack Tactics.** The warrior has Advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-Skills Athletics +5, Perception +2
+##### Actions
 
-Gear Greatsword, Heavy Crossbow, Splint Armor
+**Spear.** Melee or Ranged Attack Roll: +3, reach 5 ft. or range 20/60 ft. Hit: 4 (1d6 + 1) Piercing damage.
 
-Senses Passive Perception 12
+#### Warrior Veteran
 
-Languages Common plus one other language CR 3 (XP 700; PB +2)
+*Medium or Small Humanoid, Neutral*
 
-## Actions
+**AC** 17
+**Initiative** +3 (13)
+**HP** 65 (10d8 + 20)
+**Speed** 30 ft.
 
-Multiattack. The warrior makes two Greatsword or Heavy Crossbow attacks.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 14    | +2  | +2   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 10    | +0  | +0   |
 
-Greatsword. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.
+**Skills** Athletics +5, Perception +2
+**Gear** Greatsword, Heavy Crossbow, Splint Armor
+**Senses** Passive Perception 12
+**Languages** Common plus one other language
+**CR** 3 (XP 700; PB +2)
 
-Heavy Crossbow. Ranged Attack Roll: +3, range 100/400 ft. Hit: 12 (2d10 + 1) Piercing damage.
+##### Actions
 
-## Reactions
+**Multiattack.** The warrior makes two Greatsword or Heavy Crossbow attacks.
 
-Parry. Trigger: The warrior is hit by a melee attack roll while holding a weapon. Response: The warrior adds 2 to its AC against that attack, possibly causing it to miss.
+**Greatsword.** Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.
 
-## Water Elemental
+**Heavy Crossbow.** Ranged Attack Roll: +3, range 100/400 ft. Hit: 12 (2d10 + 1) Piercing damage.
 
-<!-- image -->
+##### Reactions
 
-## Resistances Acid, Fire
+**Parry.** Trigger: The warrior is hit by a melee attack roll while holding a weapon. Response: The warrior adds 2 to its AC against that attack, possibly causing it to miss.
 
-Immunities Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious Senses Darkvision 60 ft.; Passive Perception 10 Languages Primordial (Aquan) CR 5 (XP 1,800; PB +3)
+### Water Elemental
 
-## Traits
+#### Water Elemental
 
-Freeze. If the elemental takes Cold damage, its Speed decreases by 20 feet until the end of its next turn.
+*Large Elemental, Neutral*
 
-Water Form. The elemental can enter an enemy's space and stop there. It can move through a space as narrow as 1 inch without expending extra movement to do so.
+**AC** 14
+**Initiative** +2 (12)
+**HP** 114 (12d10 + 48)
+**Speed** 30 ft., Swim 90 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 18    | +4  | +4   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 8     | -1  | -1   |
 
-Multiattack. The elemental makes two Slam attacks.
+**Resistances** Acid, Fire
+**Immunities** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Primordial (Aquan)
+**CR** 5 (XP 1,800; PB +3)
 
-Slam. Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
+##### Traits
 
-Whelm (Recharge 4-6). Strength Saving Throw: DC 15, each creature in the elemental's space. Failure: 22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Restrained condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning damage at the start of each of the elemental's turns. The elemental can grapple one Large creature or up to two Medium or smaller creatures at a time with Whelm. As an action, a creature within 5 feet of the elemental can pull a creature out of it by succeeding on a DC 14 Strength (Athletics) check. Success: Half damage only.
+**Freeze.** If the elemental takes Cold damage, its Speed decreases by 20 feet until the end of its next turn.
 
-## Werebear
+**Water Form.** The elemental can enter an enemy's space and stop there. It can move through a space as narrow as 1 inch without expending extra movement to do so.
 
-## Werebear
+##### Actions
 
-Medium or Small Monstrosity (Lycanthrope), Neutral Good
+**Multiattack.** The elemental makes two Slam attacks.
 
-```
-AC 15 Initiative +3 (13) HP 135 (18d8 + 54) Speed 30 ft., 40 ft. (bear form only), Climb 30 ft. (bear form only) MOD SAVE MOD SAVE MOD SAVE Str 19 +4 +4 Dex 10 +0 +0 Con 1 7 +3 +3 Int 11 +0 +0 WIS 12 +1 +1 Cha 12 +1 +1 Skills Perception +7 Gear Handaxes (4) Senses Darkvision 60 ft.; Passive Perception 17 Languages Common (can't speak in bear form) CR 5 (XP 1,800; PB +3)
-```
+**Slam.** Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
 
-## Actions
+**Whelm (Recharge 4-6).** Strength Saving Throw: DC 15, each creature in the elemental's space. Failure: 22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Restrained condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning damage at the start of each of the elemental's turns. The elemental can grapple one Large creature or up to two Medium or smaller creatures at a time with Whelm. As an action, a creature within 5 feet of the elemental can pull a creature out of it by succeeding on a DC 14 Strength (Athletics) check. Success: Half damage only.
 
-Multiattack. The werebear makes two attacks, using Handaxe or Rend in any combination. It can replace one attack with a Bite attack.
+### Werebear
 
-Bite (Bear or Hybrid Form Only). Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. Constitution Saving Throw: DC 14. Failure: The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Werebear under the GM's
+#### Werebear
 
-control and has 10 Hit Points. Success: The target is immune to this werebear's curse for 24 hours.
+*Medium or Small Monstrosity (Lycanthrope), Neutral Good*
 
-Handaxe (Humanoid or Hybrid Form Only). Melee or Ranged Attack Roll: +7, reach 5 ft or range 20/60 ft. Hit: 14 (3d6 + 4) Slashing damage.
+**AC** 15
+**Initiative** +3 (13)
+**HP** 135 (18d8 + 54)
+**Speed** 30 ft., 40 ft. (bear form only), Climb 30 ft. (bear form only)
 
-Rend (Bear or Hybrid Form Only). Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 17    | +3  | +3   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 12    | +1  | +1   |
 
-## Bonus Actions
+**Skills** Perception +7
+**Gear** Handaxes (4)
+**Senses** Darkvision 60 ft.; Passive Perception 17
+**Languages** Common (can't speak in bear form)
+**CR** 5 (XP 1,800; PB +3)
 
-Shape-Shift. The werebear shape-shifts into a Large bear-humanoid hybrid form or a Large bear, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+##### Actions
 
-## Wereboar
+**Multiattack.** The werebear makes two attacks, using Handaxe or Rend in any combination. It can replace one attack with a Bite attack.
 
-<!-- image -->
+**Bite (Bear or Hybrid Form Only).** Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. Constitution Saving Throw: DC 14. Failure: The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Werebear under the GM's control and has 10 Hit Points. Success: The target is immune to this werebear's curse for 24 hours.
 
-| Wereboar                                                | Wereboar                                                | Wereboar                                                | Wereboar                                                | Wereboar                                                | Wereboar                                                | Wereboar                                                | Wereboar                                                | Wereboar                                                | Wereboar                                                | Wereboar                                                |
-|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
-| Medium or Small Monstrosity (Lycanthrope), Neutral Evil | Medium or Small Monstrosity (Lycanthrope), Neutral Evil | Medium or Small Monstrosity (Lycanthrope), Neutral Evil | Medium or Small Monstrosity (Lycanthrope), Neutral Evil | Medium or Small Monstrosity (Lycanthrope), Neutral Evil | Medium or Small Monstrosity (Lycanthrope), Neutral Evil | Medium or Small Monstrosity (Lycanthrope), Neutral Evil | Medium or Small Monstrosity (Lycanthrope), Neutral Evil | Medium or Small Monstrosity (Lycanthrope), Neutral Evil | Medium or Small Monstrosity (Lycanthrope), Neutral Evil | Medium or Small Monstrosity (Lycanthrope), Neutral Evil |
-| AC 15 Initiative +2 (12)                                | AC 15 Initiative +2 (12)                                | AC 15 Initiative +2 (12)                                | AC 15 Initiative +2 (12)                                | AC 15 Initiative +2 (12)                                | AC 15 Initiative +2 (12)                                | AC 15 Initiative +2 (12)                                | AC 15 Initiative +2 (12)                                | AC 15 Initiative +2 (12)                                | AC 15 Initiative +2 (12)                                | AC 15 Initiative +2 (12)                                |
-| HP 97 (15d8 + 30)                                       | HP 97 (15d8 + 30)                                       | HP 97 (15d8 + 30)                                       | HP 97 (15d8 + 30)                                       | HP 97 (15d8 + 30)                                       | HP 97 (15d8 + 30)                                       | HP 97 (15d8 + 30)                                       | HP 97 (15d8 + 30)                                       | HP 97 (15d8 + 30)                                       | HP 97 (15d8 + 30)                                       | HP 97 (15d8 + 30)                                       |
-| Speed 30 ft., 40 ft. (boar form only)                   | Speed 30 ft., 40 ft. (boar form only)                   | Speed 30 ft., 40 ft. (boar form only)                   | Speed 30 ft., 40 ft. (boar form only)                   | Speed 30 ft., 40 ft. (boar form only)                   | Speed 30 ft., 40 ft. (boar form only)                   | Speed 30 ft., 40 ft. (boar form only)                   | Speed 30 ft., 40 ft. (boar form only)                   | Speed 30 ft., 40 ft. (boar form only)                   | Speed 30 ft., 40 ft. (boar form only)                   | Speed 30 ft., 40 ft. (boar form only)                   |
-|                                                         |                                                         | MOD SAVE                                                | MOD SAVE                                                | MOD SAVE                                                |                                                         | MOD SAVE                                                | MOD SAVE                                                |                                                         | MOD                                                     | SAVE                                                    |
-| S tr                                                    | 17                                                      | +3                                                      | +3                                                      | Dex                                                     | 10                                                      | +0                                                      | +0                                                      | Con 15                                                  | +2                                                      | +2                                                      |
-| I nt                                                    | 10                                                      | +0                                                      | +0                                                      | WIS                                                     | 11                                                      | +0                                                      | +0                                                      | Cha 8                                                   | -1                                                      | -1                                                      |
-| Skills Perception +2                                    | Skills Perception +2                                    | Skills Perception +2                                    | Skills Perception +2                                    | Skills Perception +2                                    | Skills Perception +2                                    | Skills Perception +2                                    | Skills Perception +2                                    | Skills Perception +2                                    | Skills Perception +2                                    | Skills Perception +2                                    |
-| Gear Javelins (6)                                       | Gear Javelins (6)                                       | Gear Javelins (6)                                       | Gear Javelins (6)                                       | Gear Javelins (6)                                       | Gear Javelins (6)                                       | Gear Javelins (6)                                       | Gear Javelins (6)                                       | Gear Javelins (6)                                       | Gear Javelins (6)                                       | Gear Javelins (6)                                       |
-| Senses Passive Perception 12                            | Senses Passive Perception 12                            | Senses Passive Perception 12                            | Senses Passive Perception 12                            | Senses Passive Perception 12                            | Senses Passive Perception 12                            | Senses Passive Perception 12                            | Senses Passive Perception 12                            | Senses Passive Perception 12                            | Senses Passive Perception 12                            | Senses Passive Perception 12                            |
-| Languages Common (can't speak in boar form)             | Languages Common (can't speak in boar form)             | Languages Common (can't speak in boar form)             | Languages Common (can't speak in boar form)             | Languages Common (can't speak in boar form)             | Languages Common (can't speak in boar form)             | Languages Common (can't speak in boar form)             | Languages Common (can't speak in boar form)             | Languages Common (can't speak in boar form)             | Languages Common (can't speak in boar form)             | Languages Common (can't speak in boar form)             |
+**Handaxe (Humanoid or Hybrid Form Only).** Melee or Ranged Attack Roll: +7, reach 5 ft or range 20/60 ft. Hit: 14 (3d6 + 4) Slashing damage.
 
-## Actions
+**Rend (Bear or Hybrid Form Only).** Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage.
 
-Multiattack. The wereboar makes two attacks, using Javelin or Tusk in any combination. It can replace one attack with a Gore attack.
+##### Bonus Actions
 
-Gore (Boar or Hybrid Form Only). Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. Constitution Saving Throw: DC 12. Failure: The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Wereboar under the GM's control and has 10 Hit Points. Success: The target is immune to this wereboar's curse for 24 hours.
+**Shape-Shift.** The werebear shape-shifts into a Large bear-humanoid hybrid form or a Large bear, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 
-Javelin (Humanoid or Hybrid Form Only). Melee or Ranged Attack Roll: +5, reach 5 ft. or range 30/120 ft. Hit: 13 (3d6 + 3) Piercing damage.
+### Wereboar
 
-Tusk (Boar or Hybrid Form Only). Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage. If the target is a Medium or smaller creature and the wereboar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing damage and has the Prone condition.
+#### Wereboar
 
-## Bonus Actions
+*Medium or Small Monstrosity (Lycanthrope), Neutral Evil*
 
-Shape-Shift. The wereboar shape-shifts into a Medium boar-humanoid hybrid or a Small boar, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+**AC** 15
+**Initiative** +2 (12)
+**HP** 97 (15d8 + 30)
+**Speed** 30 ft., 40 ft. (boar form only)
 
-## Wererat
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 15    | +2  | +2   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 8     | -1  | -1   |
 
-<!-- image -->
+**Skills** Perception +2
+**Gear** Javelins (6)
+**Senses** Passive Perception 12
+**Languages** Common (can't speak in boar form)
+**CR** 4 (XP 1,100; PB +2)
 
-| Wererat                                                            |                      |
-|--------------------------------------------------------------------|----------------------|
-| Medium or Small Monstrosity (Lycanthrope), Lawful Evil             |                      |
-| AC 13 Initiative +3 (13) HP 60 (11d8 + 11)                         |                      |
-| Speed 30 ft., Climb 30 ft.                                         |                      |
-| MOD SAVE MOD SAVE MOD SAVE S tr 10 +0 +0 Dex 16 +3 +3 Con 12 +1 +1 |                      |
-| I WIS 10 +0 +0 Cha 8 -1 -1 Skills Perception +4, Stealth +5        | nt 11 +0 +0          |
-| Gear Hand Crossbow Senses Darkvision 60 ft.; Passive Perception    |                      |
-| 14 Languages Common (can't speak in rat form)                      |                      |
-|                                                                    | CR 2 (XP 450; PB +2) |
+##### Actions
 
-## Actions
+**Multiattack.** The wereboar makes two attacks, using Javelin or Tusk in any combination. It can replace one attack with a Gore attack.
 
-Multiattack. The wererat makes two attacks, using Scratch or Hand Crossbow in any combination. It can replace one attack with a Bite attack.
+**Gore (Boar or Hybrid Form Only).** Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. Constitution Saving Throw: DC 12. Failure: The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Wereboar under the GM's control and has 10 Hit Points. Success: The target is immune to this wereboar's curse for 24 hours.
 
-Bite (Rat or Hybrid Form Only). Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. Constitution Saving Throw: DC 11. Failure: The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Wererat under the GM's control and has 10 Hit Points. Success: The target is immune to this wererat's curse for 24 hours.
+**Javelin (Humanoid or Hybrid Form Only).** Melee or Ranged Attack Roll: +5, reach 5 ft. or range 30/120 ft. Hit: 13 (3d6 + 3) Piercing damage.
 
-Scratch. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage.
+**Tusk (Boar or Hybrid Form Only).** Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage. If the target is a Medium or smaller creature and the wereboar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing damage and has the Prone condition.
 
-Hand Crossbow (Humanoid or Hybrid Form Only). Ranged Attack Roll: +5, range 30/120 ft. Hit: 6 (1d6 + 3) Piercing damage.
+##### Bonus Actions
 
-## Bonus Actions
+**Shape-Shift.** The wereboar shape-shifts into a Medium boar-humanoid hybrid or a Small boar, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 
-Shape-Shift. The wererat shape-shifts into a Medium rat-humanoid hybrid or a Small rat, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+### Wererat
 
-## Weretiger
+#### Wererat
 
-<!-- image -->
+*Medium or Small Monstrosity (Lycanthrope), Lawful Evil*
 
-## Actions
+**AC** 13
+**Initiative** +3 (13)
+**HP** 60 (11d8 + 11)
+**Speed** 30 ft., Climb 30 ft.
 
-Multiattack. The weretiger makes two attacks, using Scratch or Longbow in any combination. It can replace one attack with a Bite attack.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 12    | +1  | +1   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 8     | -1  | -1   |
 
-Bite (Tiger or Hybrid Form Only). Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. Constitution Saving Throw: DC 13. Failure: The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Weretiger under the GM's control and has 10 Hit Points. Success: The target is immune to this weretiger's curse for 24 hours.
+**Skills** Perception +4, Stealth +5
+**Gear** Hand Crossbow
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** Common (can't speak in rat form)
+**CR** 2 (XP 450; PB +2)
 
-Scratch. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.
+##### Actions
 
-Longbow (Humanoid or Hybrid Form Only). Ranged Attack Roll: +4, range 150/600 ft. Hit: 11 (2d8 + 2) Piercing damage.
+**Multiattack.** The wererat makes two attacks, using Scratch or Hand Crossbow in any combination. It can replace one attack with a Bite attack.
 
-## Bonus Actions
+**Bite (Rat or Hybrid Form Only).** Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. Constitution Saving Throw: DC 11. Failure: The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Wererat under the GM's control and has 10 Hit Points. Success: The target is immune to this wererat's curse for 24 hours.
 
-Prowl (Tiger or Hybrid Form Only). The weretiger moves up to its Speed without provoking Opportunity Attacks. At the end of this movement, the weretiger can take the Hide action.
+**Scratch.** Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage.
 
-Shape-Shift. The weretiger shape-shifts into a Large tiger-humanoid hybrid or a Large tiger, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+**Hand Crossbow (Humanoid or Hybrid Form Only).** Ranged Attack Roll: +5, range 30/120 ft. Hit: 6 (1d6 + 3) Piercing damage.
 
-## Werewolf
+##### Bonus Actions
 
-## Werewolf
+**Shape-Shift.** The wererat shape-shifts into a Medium rat-humanoid hybrid or a Small rat, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 
-Medium or Small Monstrosity (Lycanthrope), Chaotic Evil
+### Weretiger
 
-AC
+#### Weretiger
 
-15
+*Medium or Small Monstrosity (Lycanthrope), Neutral*
 
-HP
+**AC** 12
+**Initiative** +2 (12)
+**HP** 120 (16d8 + 48)
+**Speed** 30 ft., 40 ft. (tiger form only)
 
-71 (11d8 + 22)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 16    | +3  | +3   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 11    | +0  | +0   |
 
-Speed
+**Skills** Perception +5, Stealth +4
+**Gear** Longbow
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** Common (can't speak in tiger form)
+**CR** 4 (XP 1,100; PB +2)
 
-30 ft., 40 ft. (wolf form only)
+##### Actions
 
-Initiative
+**Multiattack.** The weretiger makes two attacks, using Scratch or Longbow in any combination. It can replace one attack with a Bite attack.
 
-+4 (14)
+**Bite (Tiger or Hybrid Form Only).** Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. Constitution Saving Throw: DC 13. Failure: The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Weretiger under the GM's control and has 10 Hit Points. Success: The target is immune to this weretiger's curse for 24 hours.
 
-<!-- image -->
+**Scratch.** Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.
 
-## Traits
+**Longbow (Humanoid or Hybrid Form Only).** Ranged Attack Roll: +4, range 150/600 ft. Hit: 11 (2d8 + 2) Piercing damage.
 
-Pack Tactics. The werewolf has Advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+##### Bonus Actions
 
-## Actions
+**Prowl (Tiger or Hybrid Form Only).** The weretiger moves up to its Speed without provoking Opportunity Attacks. At the end of this movement, the weretiger can take the Hide action.
 
-Multiattack. The werewolf makes two attacks, using Scratch or Longbow in any combination. It can replace one attack with a Bite attack.
+**Shape-Shift.** The weretiger shape-shifts into a Large tiger-humanoid hybrid or a Large tiger, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 
-Bite (Wolf or Hybrid Form Only). Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. Constitution Saving Throw: DC 12. Failure: The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Werewolf under the GM's control and has 10 Hit Points. Success: The target is immune to this werewolf's curse for 24 hours.
+### Werewolf
 
-Scratch. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.
+#### Werewolf
 
-Longbow (Humanoid or Hybrid Form Only). Ranged Attack Roll: +4, range 150/600 ft. Hit: 11 (2d8 + 2) Piercing damage.
+*Medium or Small Monstrosity (Lycanthrope), Chaotic Evil*
 
-## Bonus Actions
+**AC** 15
+**Initiative** +4 (14)
+**HP** 71 (11d8 + 22)
+**Speed** 30 ft., 40 ft. (wolf form only)
 
-Shape-Shift. The werewolf shape-shifts into a Large wolf-humanoid hybrid or a Medium wolf, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 14    | +2  | +2   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 10    | +0  | +0   |
 
-## White Dragons
+**Skills** Perception +4, Stealth +4
+**Gear** Longbow
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** Common (can't speak in wolf form)
+**CR** 3 (XP 700; PB +2)
 
-## White Dragon Wyrmling
+##### Traits
 
-Medium Dragon (Chromatic), Chaotic Evil
+**Pack Tactics.** The werewolf has Advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-AC
+##### Actions
 
-16
+**Multiattack.** The werewolf makes two attacks, using Scratch or Longbow in any combination. It can replace one attack with a Bite attack.
 
-HP
+**Bite (Wolf or Hybrid Form Only).** Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. Constitution Saving Throw: DC 12. Failure: The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Werewolf under the GM's control and has 10 Hit Points. Success: The target is immune to this werewolf's curse for 24 hours.
 
-32 (5d8 + 10)
+**Scratch.** Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.
 
-Speed
+**Longbow (Humanoid or Hybrid Form Only).** Ranged Attack Roll: +4, range 150/600 ft. Hit: 11 (2d8 + 2) Piercing damage.
 
-30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.
+##### Bonus Actions
 
-Initiative
+**Shape-Shift.** The werewolf shape-shifts into a Large wolf-humanoid hybrid or a Medium wolf, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 
-+2 (12)
+### White Dragons
 
-<!-- image -->
+#### White Dragon Wyrmling
 
-| MOD SAVE MOD SAVE                                                                                          | MOD SAVE   |
-|------------------------------------------------------------------------------------------------------------|------------|
-| S tr 14 +2 +2 Dex 10 +0 +2 Con                                                                             | 14 +2 +2   |
-| I nt 5 -3 -3 WIS 10 +0 +2 Cha                                                                              | 11 +0 +0   |
-| Skills Perception +4, Stealth +2 Immunities Cold                                                           |            |
-| Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14 Languages Draconic CR 2 (450 XP; PB +2) |            |
+*Medium Dragon (Chromatic), Chaotic Evil*
 
-## Traits
+**AC** 16
+**Initiative** +2 (12)
+**HP** 32 (5d8 + 10)
+**Speed** 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.
 
-Ice Walk. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 10    | +0  | +2   |
+| CON  | 14    | +2  | +2   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 10    | +0  | +2   |
+| CHA  | 11    | +0  | +0   |
 
-## Actions
+**Skills** Perception +4, Stealth +2
+**Immunities** Cold
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 2 (450 XP; PB +2)
 
-Multiattack. The dragon makes two Rend attacks.
+##### Traits
 
-Rend. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage plus 2 (1d4) Cold damage.
+**Ice Walk.** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
 
-Cold Breath (Recharge 5-6). Constitution Saving Throw: DC 12, each creature in a 15-foot Cone. Failure: 22 (5d8) Cold damage. Success: Half damage.
+##### Actions
 
-<!-- image -->
+**Multiattack.** The dragon makes two Rend attacks.
 
-Ice Walk. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
+**Rend.** Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage plus 2 (1d4) Cold damage.
 
-## Actions
+**Cold Breath (Recharge 5-6).** Constitution Saving Throw: DC 12, each creature in a 15-foot Cone. Failure: 22 (5d8) Cold damage. Success: Half damage.
 
-Multiattack. The dragon makes three Rend attacks.
+#### Young White Dragon
 
-Rend. Melee Attack Roll: +7, reach 10 ft. Hit: 9 (2d4 + 4) Slashing damage plus 2 (1d4) Cold damage.
+*Large Dragon (Chromatic), Chaotic Evil*
 
-Cold Breath (Recharge 5-6). Constitution Saving Throw: DC 15, each creature in a 30-foot Cone. Failure: 40 (9d8) Cold damage. Success: Half damage.
+**AC** 17
+**Initiative** +3 (13)
+**HP** 123 (13d10 + 52)
+**Speed** 40 ft., Burrow 20 ft., Fly 80 ft., Swim 40 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 10    | +0  | +3   |
+| CON  | 18    | +4  | +4   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 11    | +0  | +3   |
+| CHA  | 12    | +1  | +1   |
 
-## Traits
+**Skills** Perception +6, Stealth +3
+**Immunities** Cold
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 16
+**Languages** Common, Draconic
+**CR** 6 (2,300 XP; PB +3)
 
-Ice Walk. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
+##### Traits
 
-Legendary Resistance (3/Day, or 4/Day in Lair). If the dragon fails a saving throw, it can choose to succeed instead.
+**Ice Walk.** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
 
-## Actions
+##### Actions
 
-Multiattack. The dragon makes three Rend attacks.
+**Multiattack.** The dragon makes three Rend attacks.
 
-Rend. Melee Attack Roll: +11, reach 10 ft. Hit: 13 (2d6 + 6) Slashing damage plus 4 (1d8) Cold damage.
+**Rend.** Melee Attack Roll: +7, reach 10 ft. Hit: 9 (2d4 + 4) Slashing damage plus 2 (1d4) Cold damage.
 
-Cold Breath (Recharge 5-6). Constitution Saving Throw: DC 19, each creature in a 60-foot Cone. Failure: 54 (12d8) Cold damage. Success: Half damage.
+**Cold Breath (Recharge 5-6).** Constitution Saving Throw: DC 15, each creature in a 30-foot Cone. Failure: 40 (9d8) Cold damage. Success: Half damage.
 
-## Legendary Actions
+#### Adult White Dragon
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+*Huge Dragon (Chromatic), Chaotic Evil*
 
-Freezing Burst. Constitution Saving Throw: DC 14, each creature in a 30-foot-radius Sphere centered on a point the dragon can see within 120 feet. Failure: 7 (2d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
+**AC** 18
+**Initiative** +10 (20)
+**HP** 200 (16d12 + 96)
+**Speed** 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.
 
-Frightful Presence. The dragon casts Fear , requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14). The dragon can't take this action again until the start of its next turn.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 22    | +6  | +6   |
+| DEX  | 10    | +0  | +5   |
+| CON  | 22    | +6  | +6   |
+| INT  | 8     | -1  | -1   |
+| WIS  | 12    | +1  | +6   |
+| CHA  | 12    | +1  | +1   |
 
-Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
+**Skills** Perception +11, Stealth +5
+**Immunities** Cold
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
+**Languages** Common, Draconic
+**CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
 
-<!-- image -->
+##### Traits
 
-Ice Walk. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
+**Ice Walk.** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
 
-Legendary Resistance (4/Day, or 5/Day in Lair). If the dragon fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (3/Day, or 4/Day in Lair).** If the dragon fails a saving throw, it can choose to succeed instead.
 
-## Actions
+##### Actions
 
-Multiattack. The dragon makes three Rend attacks.
+**Multiattack.** The dragon makes three Rend attacks.
 
-Rend. Melee Attack Roll: +14, reach 15 ft. Hit: 17 (2d8 + 8) Slashing damage plus 7 (2d6) Cold damage.
+**Rend.** Melee Attack Roll: +11, reach 10 ft. Hit: 13 (2d6 + 6) Slashing damage plus 4 (1d8) Cold damage.
 
-Cold Breath (Recharge 5-6). Constitution Saving Throw: DC 22, each creature in a 90-foot Cone. Failure: 63 (14d8) Cold damage. Success: Half damage.
+**Cold Breath (Recharge 5-6).** Constitution Saving Throw: DC 19, each creature in a 60-foot Cone. Failure: 54 (12d8) Cold damage. Success: Half damage.
 
-## Legendary Actions
+##### Legendary Actions
 
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-Freezing Burst. Constitution Saving Throw: DC 20, each creature in a 30-foot-radius Sphere centered on a point the dragon can see within 120 feet. Failure: 14 (4d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
+**Freezing Burst.** Constitution Saving Throw: DC 14, each creature in a 30-foot-radius Sphere centered on a point the dragon can see within 120 feet. Failure: 7 (2d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
 
-Frightful Presence. The dragon casts Fear , requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18). The dragon can't take this action again until the start of its next turn.
+**Frightful Presence.** The dragon casts Fear, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14). The dragon can't take this action again until the start of its next turn.
 
-Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
+**Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
 
-## Wight
+#### Ancient White Dragon
 
-<!-- image -->
+*Gargantuan Dragon (Chromatic), Chaotic Evil*
 
-## Traits
+**AC** 20
+**Initiative** +12 (22)
+**HP** 333 (18d20 + 144)
+**Speed** 40 ft., Burrow 40 ft., Fly 80 ft., Swim 40 ft.
 
-Sunlight Sensitivity. While in sunlight, the wight has Disadvantage on ability checks and attack rolls.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 26    | +8  | +8   |
+| DEX  | 10    | +0  | +6   |
+| CON  | 26    | +8  | +8   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 13    | +1  | +7   |
+| CHA  | 18    | +4  | +4   |
 
-## Actions
+**Skills** Perception +13, Stealth +6
+**Immunities** Cold
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 23
+**Languages** Common, Draconic
+**CR** 20 (XP 25,000, or 33,000 in lair; PB +6)
 
-Multiattack. The wight makes two attacks, using Necrotic Sword or Necrotic Bow in any combination. It can replace one attack with a use of Life Drain.
+##### Traits
 
-Necrotic Sword. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage plus 4 (1d8) Necrotic damage.
+**Ice Walk.** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
 
-Necrotic Bow. Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing damage plus 4 (1d8) Necrotic damage.
+**Legendary Resistance (4/Day, or 5/Day in Lair).** If the dragon fails a saving throw, it can choose to succeed instead.
 
-Life Drain. Constitution Saving Throw: DC 13, one creature within 5 feet. Failure: 6 (1d8 + 2) Necrotic damage, and the target's Hit Point maximum decreases by an amount equal to the damage taken.
+##### Actions
+
+**Multiattack.** The dragon makes three Rend attacks.
+
+**Rend.** Melee Attack Roll: +14, reach 15 ft. Hit: 17 (2d8 + 8) Slashing damage plus 7 (2d6) Cold damage.
+
+**Cold Breath (Recharge 5-6).** Constitution Saving Throw: DC 22, each creature in a 90-foot Cone. Failure: 63 (14d8) Cold damage. Success: Half damage.
+
+##### Legendary Actions
+
+**Legendary Action Uses: 3 (4 in Lair).** Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+
+**Freezing Burst.** Constitution Saving Throw: DC 20, each creature in a 30-foot-radius Sphere centered on a point the dragon can see within 120 feet. Failure: 14 (4d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
+
+**Frightful Presence.** The dragon casts Fear, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18). The dragon can't take this action again until the start of its next turn.
+
+**Pounce.** The dragon moves up to half its Speed, and it makes one Rend attack.
+
+### Wight
+
+#### Wight
+
+*Medium Undead, Neutral Evil*
+
+**AC** 14
+**Initiative** +4 (14)
+**HP** 82 (11d8 + 33)
+**Speed** 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 16    | +3  | +3   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 15    | +2  | +2   |
+
+**Skills** Perception +3, Stealth +4
+**Resistances** Necrotic
+**Immunities** Poison; Exhaustion, Poisoned
+**Gear** Studded Leather Armor
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** Common plus one other language
+**CR** 3 (XP 700; PB +2)
+
+##### Traits
+
+**Sunlight Sensitivity.** While in sunlight, the wight has Disadvantage on ability checks and attack rolls.
+
+##### Actions
+
+**Multiattack.** The wight makes two attacks, using Necrotic Sword or Necrotic Bow in any combination. It can replace one attack with a use of Life Drain.
+
+**Necrotic Sword.** Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage plus 4 (1d8) Necrotic damage.
+
+**Necrotic Bow.** Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing damage plus 4 (1d8) Necrotic damage.
+
+**Life Drain.** Constitution Saving Throw: DC 13, one creature within 5 feet. Failure: 6 (1d8 + 2) Necrotic damage, and the target's Hit Point maximum decreases by an amount equal to the damage taken.
 
 A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight's control, unless the Humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at a time.
 
-## Will-o'-Wisp
+### Will-o'-Wisp
 
-## Will-o'-Wisp
+#### Will-o'-Wisp
 
-Tiny Undead, Chaotic Evil
+*Tiny Undead, Chaotic Evil*
 
-AC
+**AC** 19
+**Initiative** +9 (19)
+**HP** 27 (11d4)
+**Speed** 5 ft., Fly 50 ft. (hover)
 
-19
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 1     | -5  | -5   |
+| DEX  | 28    | +9  | +9   |
+| CON  | 10    | +0  | +0   |
+| INT  | 13    | +1  | +1   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 11    | +0  | +0   |
 
-Initiative +9 (19)
+**Resistances** Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing
+**Immunities** Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+**Senses** Darkvision 120 ft.; Passive Perception 12
+**Languages** Common plus one other language
+**CR** 2 (XP 450; PB +2)
 
-HP
+##### Traits
 
-27 (11d4)
+**Ephemeral.** The wisp can't wear or carry anything.
 
-Speed
+**Illumination.** The wisp sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet.
 
-5 ft., Fly 50 ft. (hover)
+**Incorporeal Movement.** The wisp can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
 
-<!-- image -->
+##### Actions
 
-|         | MOD SAVE   | MOD    | SAVE MOD   |        | SAVE   |
-|---------|------------|--------|------------|--------|--------|
-| S tr 1  | -5 -5      | Dex 28 | +9 +9      | Con 10 | +0 +0  |
-| I nt 13 | +1 +1      | WIS 14 | +2 +2      | Cha 11 | +0 +0  |
+**Shock.** Melee Attack Roll: +4, reach 5 ft. Hit: 11 (2d8 + 2) Lightning damage.
 
-Resistances Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing
+##### Bonus Actions
 
-Immunities Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+**Consume Life.** Constitution Saving Throw: DC 10, one living creature the wisp can see within 5 feet that has 0 Hit Points. Failure: The target dies, and the wisp regains 10 (3d6) Hit Points.
 
-Senses Darkvision 120 ft.; Passive Perception 12 Languages Common plus one other language CR 2 (XP 450; PB +2)
+**Vanish.** The wisp and its light have the Invisible condition until the wisp's Concentration ends on this effect, which ends early immediately after the wisp makes an attack roll or uses Consume Life.
 
-## Traits
+### Winter Wolf
 
-Ephemeral. The wisp can't wear or carry anything.
+#### Winter Wolf
 
-Illumination. The wisp sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet.
+*Large Monstrosity, Neutral Evil*
 
-Incorporeal Movement. The wisp can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
+**AC** 13
+**Initiative** +1 (11)
+**HP** 75 (10d10 + 20)
+**Speed** 50 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 14    | +2  | +2   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 8     | -1  | -1   |
 
-Shock. Melee Attack Roll: +4, reach 5 ft. Hit: 11 (2d8 + 2) Lightning damage.
+**Skills** Perception +5, Stealth +5
+**Immunities** Cold
+**Senses** Passive Perception 15
+**Languages** Common, Giant
+**CR** 3 (XP 700; PB +2)
 
-## Bonus Actions
+##### Traits
 
-Consume Life. Constitution Saving Throw: DC 10, one living creature the wisp can see within 5 feet that has 0 Hit Points. Failure: The target dies, and the wisp regains 10 (3d6) Hit Points.
+**Pack Tactics.** The wolf has Advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-Vanish. The wisp and its light have the Invisible condition until the wisp's Concentration ends on this effect, which ends early immediately after the wisp makes an attack roll or uses Consume Life.
+##### Actions
 
-## Winter Wolf
+**Bite.** Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-<!-- image -->
+**Cold Breath (Recharge 5-6).** Constitution Saving Throw: DC 12, each creature in a 15-foot Cone. Failure: 18 (4d8) Cold damage. Success: Half damage.
 
-## Traits
+### Worg
 
-Pack Tactics. The wolf has Advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+#### Worg
 
-## Actions
+*Large Fey, Neutral Evil*
 
-Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, it has the Prone condition.
+**AC** 13
+**Initiative** +1 (11)
+**HP** 26 (4d10 + 4)
+**Speed** 50 ft.
 
-Cold Breath (Recharge 5-6). Constitution Saving Throw: DC 12, each creature in a 15-foot Cone. Failure: 18 (4d8) Cold damage. Success: Half damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 13    | +1  | +1   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 8     | -1  | -1   |
 
-## Worg
+**Skills** Perception +4
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** Goblin, Worg
+**CR** 1/2 (XP 100; PB +2)
 
-<!-- image -->
+##### Actions
 
-## Actions
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage, and the next attack roll made against the target before the start of the worg's next turn has Advantage.
 
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage, and the next attack roll made against the target before the start of the worg's next turn has Advantage.
+### Wraith
 
-## Wraith
+#### Wraith
 
-<!-- image -->
+*Medium or Small Undead, Neutral Evil*
 
-## Traits
+**AC** 13
+**Initiative** +3 (13)
+**HP** 67 (9d8 + 27)
+**Speed** 5 ft., Fly 60 ft. (hover)
 
-Incorporeal Movement. The wraith can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 6     | -2  | -2   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 16    | +3  | +3   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 15    | +2  | +2   |
 
-Sunlight Sensitivity. While in sunlight, the wraith has Disadvantage on ability checks and attack rolls.
+**Resistances** Acid, Bludgeoning, Cold, Fire, Piercing, Slashing
+**Immunities** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+**Senses** Darkvision 60 ft.; Passive Perception 12
+**Languages** Common plus two other languages
+**CR** 5 (XP 1,800; PB +3)
 
-## Actions
+##### Traits
 
-Life Drain. Melee Attack Roll: +6, reach 5 ft. Hit: 21 (4d8 + 3) Necrotic damage. If the target is a creature, its Hit Point maximum decreases by an amount equal to the damage taken.
+**Incorporeal Movement.** The wraith can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
 
-Create Specter. The wraith targets a Humanoid corpse within 10 feet of itself that has been dead for no longer than 1 minute. The target's spirit rises as a Specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at a time.
+**Sunlight Sensitivity.** While in sunlight, the wraith has Disadvantage on ability checks and attack rolls.
 
-## Wyvern
+##### Actions
 
-<!-- image -->
+**Life Drain.** Melee Attack Roll: +6, reach 5 ft. Hit: 21 (4d8 + 3) Necrotic damage. If the target is a creature, its Hit Point maximum decreases by an amount equal to the damage taken.
 
-## Actions
+**Create Specter.** The wraith targets a Humanoid corpse within 10 feet of itself that has been dead for no longer than 1 minute. The target's spirit rises as a Specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at a time.
 
-Multiattack. The wyvern makes one Bite attack and one Sting attack.
+### Wyvern
 
-Bite. Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage.
+#### Wyvern
 
-Sting. Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage plus 24 (7d6) Poison damage, and the target has the Poisoned condition until the start of the wyvern's next turn.
+*Large Dragon, Unaligned*
 
-## Xorn
+**AC** 14
+**Initiative** +0 (10)
+**HP** 127 (15d10 + 45)
+**Speed** 30 ft., Fly 80 ft.
 
-## Xorn
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 16    | +3  | +3   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
 
-Medium Elemental, Neutral
+**Skills** Perception +4
+**Senses** Darkvision 120 ft.; Passive Perception 14
+**Languages** None
+**CR** 6 (XP 2,300; PB +3)
 
-AC
+##### Actions
 
-19
+**Multiattack.** The wyvern makes one Bite attack and one Sting attack.
 
-HP 84 (8d8 + 48)
+**Bite.** Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage.
 
-Speed 20 ft., Burrow 20 ft.
+**Sting.** Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage plus 24 (7d6) Poison damage, and the target has the Poisoned condition until the start of the wyvern's next turn.
 
-Initiative +0 (10)
+### Xorn
 
-<!-- image -->
+#### Xorn
 
-|         | MOD SAVE   | MOD    | SAVE MOD   |        | SAVE   |
-|---------|------------|--------|------------|--------|--------|
-| S tr 17 | +3 +3      | Dex 10 | +0 +0      | Con 22 | +6 +6  |
-| I nt 11 | +0 +0      | WIS 10 | +0 +0      | Cha 11 | +0 +0  |
+*Medium Elemental, Neutral*
 
-Skills Perception +6, Stealth +6
+**AC** 19
+**Initiative** +0 (10)
+**HP** 84 (8d8 + 48)
+**Speed** 20 ft., Burrow 20 ft.
 
-Immunities Poison; Paralyzed, Petrified, Poisoned Senses Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 16 Languages Primordial (Terran)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 22    | +6  | +6   |
+| INT  | 11    | +0  | +0   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 11    | +0  | +0   |
 
-CR 5 (XP 1,800; PB +3)
+**Skills** Perception +6, Stealth +6
+**Immunities** Poison; Paralyzed, Petrified, Poisoned
+**Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 16
+**Languages** Primordial (Terran)
+**CR** 5 (XP 1,800; PB +3)
 
-## Traits
+##### Traits
 
-Earth Glide. The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.
+**Earth Glide.** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.
 
-Treasure Sense. The xorn can pinpoint the location of precious metals and stones within 60 feet of itself.
+**Treasure Sense.** The xorn can pinpoint the location of precious metals and stones within 60 feet of itself.
 
-## Actions
+##### Actions
 
-Multiattack. The xorn makes one Bite attack and three Claw attacks.
+**Multiattack.** The xorn makes one Bite attack and three Claw attacks.
 
-Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 17 (4d6 + 3) Piercing damage.
+**Bite.** Melee Attack Roll: +6, reach 5 ft. Hit: 17 (4d6 + 3) Piercing damage.
 
-Claw. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage.
+**Claw.** Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage.
 
-## Bonus Actions
+##### Bonus Actions
 
-Charge. The xorn moves up to its Speed or Burrow Speed straight toward an enemy it can sense.
+**Charge.** The xorn moves up to its Speed or Burrow Speed straight toward an enemy it can sense.
 
-## Zombies
+### Zombies
 
-<!-- image -->
+#### Zombie
 
-Immunities Poison; Exhaustion, Poisoned
+*Medium Undead, Neutral Evil*
 
-Senses Darkvision 60 ft.; Passive Perception 8
+**AC** 8
+**Initiative** -2 (8)
+**HP** 15 (2d8 + 6)
+**Speed** 20 ft.
 
-Languages Understands Common plus one other language but can't speak
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 6     | -2  | -2   |
+| CON  | 16    | +3  | +3   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 6     | -2  | +0   |
+| CHA  | 5     | -3  | -3   |
 
-CR 1/4 (XP 50; PB +2)
+**Immunities** Poison; Exhaustion, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 8
+**Languages** Understands Common plus one other language but can't speak
+**CR** 1/4 (XP 50; PB +2)
 
-## Traits
+##### Traits
 
-Undead Fortitude. If damage reduces the zombie to 0 Hit Points, it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a Critical Hit. On a successful save, the zombie drops to 1 Hit Point instead.
+**Undead Fortitude.** If damage reduces the zombie to 0 Hit Points, it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a Critical Hit. On a successful save, the zombie drops to 1 Hit Point instead.
 
-## Actions
+##### Actions
 
-Slam. Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1) Bludgeoning damage.
+**Slam.** Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1) Bludgeoning damage.
 
-<!-- image -->
+#### Ogre Zombie
 
-## Traits
+*Large Undead, Neutral Evil*
 
-Undead Fortitude. If damage reduces the zombie to 0 Hit Points, it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a Critical Hit. On a successful save, the zombie drops to 1 Hit Point instead.
+**AC** 8
+**Initiative** -2 (8)
+**HP** 85 (9d10 + 36)
+**Speed** 30 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 6     | -2  | -2   |
+| CON  | 18    | +4  | +4   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 6     | -2  | +0   |
+| CHA  | 5     | -3  | -3   |
 
-Slam. Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage.
+**Immunities** Poison; Exhaustion, Poisoned
+**Senses** Darkvision 60 ft.; Passive Perception 8
+**Languages** Understands Common and Giant but can't speak
+**CR** 2 (XP 450; PB +2)
+
+##### Traits
+
+**Undead Fortitude.** If damage reduces the zombie to 0 Hit Points, it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a Critical Hit. On a successful save, the zombie drops to 1 Hit Point instead.
+
+##### Actions
+
+**Slam.** Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage.
 
 ## Animals
 
-<!-- image -->
+### Allosaurus
 
-Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Piercing damage.
+#### Allosaurus
 
-Claws. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage. If the target is a Large or smaller creature and the allosaurus moved 30+ feet straight toward it immediately before the hit, the target has the
+*Large Beast (Dinosaur), Unaligned*
 
-Prone condition, and the allosaurus can make one Bite attack against it.
+**AC** 13
+**Initiative** +1 (11)
+**HP** 51 (6d10 + 18)
+**Speed** 60 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 17    | +3  | +3   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 5     | -3  | -3   |
 
-## Actions
+**Skills** Perception +5
+**Senses** Passive Perception 15
+**Languages** None
+**CR** 2 (XP 450; PB +2)
 
-Multiattack. The ankylosaurus makes two Tail attacks.
+##### Actions
 
-Tail. Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
+**Bite.** Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Piercing damage.
 
-<!-- image -->
+**Claws.** Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage. If the target is a Large or smaller creature and the allosaurus moved 30+ feet straight toward it immediately before the hit, the target has the Prone condition, and the allosaurus can make one Bite attack against it.
 
-## Actions
+### Ankylosaurus
 
-Multiattack. The ape makes two Fist attacks.
+#### Ankylosaurus
 
-Fist. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage.
+*Huge Beast (Dinosaur), Unaligned*
 
-Rock (Recharge 6). Ranged Attack Roll: +5, range 25/50 ft. Hit: 10 (2d6 + 3) Bludgeoning damage.
+**AC** 15
+**Initiative** +0 (10)
+**HP** 68 (8d12 + 16)
+**Speed** 30 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +6   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 15    | +2  | +2   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 5     | -3  | -3   |
 
-<!-- image -->
+**Senses** Passive Perception 11
+**Languages** None
+**CR** 3 (XP 700; PB +2)
 
-Skills
+##### Actions
 
-Stealth +5
+**Multiattack.** The ankylosaurus makes two Tail attacks.
 
-Senses
+**Tail.** Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
 
-Passive Perception 12
+### Ape
 
-Languages
+#### Ape
 
-None
+*Medium Beast, Unaligned*
 
-CR
+**AC** 12
+**Initiative** +2 (12)
+**HP** 19 (3d8 + 6)
+**Speed** 30 ft., Climb 30 ft.
 
-4 (XP 1,100; PB +2)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 14    | +2  | +2   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
 
-## Traits
+**Skills** Athletics +5, Perception +3
+**Senses** Passive Perception 13
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-Amphibious. The archelon can breathe air and water.
+##### Actions
 
-## Actions
+**Multiattack.** The ape makes two Fist attacks.
 
-Multiattack. The archelon makes two Bite attacks.
+**Fist.** Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage.
 
-Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 14 (3d6 + 4) Piercing damage.
+**Rock (Recharge 6).** Ranged Attack Roll: +5, range 25/50 ft. Hit: 10 (2d6 + 3) Bludgeoning damage.
 
-Senses
+### Archelon
 
-Passive Perception 11
+#### Archelon
 
-Languages
+*Huge Beast (Dinosaur), Unaligned*
 
-None
+**AC** 17
+**Initiative** +3 (13)
+**HP** 90 (12d12 + 12)
+**Speed** 20 ft., Swim 80 ft.
 
-CR
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 13    | +1  | +1   |
+| INT  | 4     | -3  | -3   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 6     | -2  | -2   |
 
-0 (XP 10; PB +2)
+**Skills** Stealth +5
+**Senses** Passive Perception 12
+**Languages** None
+**CR** 4 (XP 1,100; PB +2)
 
-<!-- image -->
+##### Traits
 
-Pack Tactics. The baboon has Advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+**Amphibious.** The archelon can breathe air and water.
 
-## Actions
+##### Actions
 
-Bite. Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage.
+**Multiattack.** The archelon makes two Bite attacks.
 
-<!-- image -->
+**Bite.** Melee Attack Roll: +6, reach 5 ft. Hit: 14 (3d6 + 4) Piercing damage.
 
-## Actions
+### Baboon
 
-Bite. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage.
+#### Baboon
 
-<!-- image -->
+*Small Beast, Unaligned*
 
-```
-Senses Blindsight 60 ft.; Passive Perception 11 Languages None CR 0 (XP 10; PB +2)
-```
+**AC** 12
+**Initiative** +2 (12)
+**HP** 3 (1d6)
+**Speed** 30 ft., Climb 30 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 8     | -1  | -1   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 11    | +0  | +0   |
+| INT  | 4     | -3  | -3   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage.
+**Senses** Passive Perception 11
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-Skills
+##### Traits
 
-Perception +5
+**Pack Tactics.** The baboon has Advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-Senses
+##### Actions
 
-Darkvision 60 ft.; Passive Perception 15
+**Bite.** Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage.
 
-Languages
+### Badger
 
-None
+#### Badger
 
-CR
+*Tiny Beast, Unaligned*
 
-1/2 (XP 100; PB +2)
+**AC** 11
+**Initiative** +0 (10)
+**HP** 5 (1d4 + 3)
+**Speed** 20 ft., Burrow 5 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 16    | +3  | +3   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 5     | -3  | -3   |
 
-## Actions
+**Skills** Perception +3
+**Resistances** Poison
+**Senses** Darkvision 30 ft.; Passive Perception 13
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-Multiattack. The bear makes two Rend attacks.
+##### Actions
 
-Rend. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage.
+**Bite.** Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage.
 
-Skills
+### Bat
 
-Perception +6
+#### Bat
 
-Senses
+*Tiny Beast, Unaligned*
 
-Passive Perception 16
+**AC** 12
+**Initiative** +2 (12)
+**HP** 1 (1d4 - 1)
+**Speed** 5 ft., Fly 30 ft.
 
-Languages
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 2     | -4  | -4   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 8     | -1  | -1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 4     | -3  | -3   |
 
-None
+**Senses** Blindsight 60 ft.; Passive Perception 11
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-CR
+##### Actions
 
-1/8 (XP 25; PB +2)
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage.
 
-<!-- image -->
+### Black Bear
 
-## Traits
+#### Black Bear
 
-Pack Tactics. The hawk has Advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+*Medium Beast, Unaligned*
 
-## Actions
+**AC** 11
+**Initiative** +1 (11)
+**HP** 19 (3d8 + 6)
+**Speed** 30 ft., Climb 30 ft., Swim 30 ft.
 
-Beak. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage, or 6 (1d8 + 2) Piercing damage if the target is Bloodied.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 14    | +2  | +2   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
 
-Senses
+**Skills** Perception +5
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-Passive Perception 9
+##### Actions
 
-Languages
+**Multiattack.** The bear makes two Rend attacks.
 
-None
+**Rend.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage.
 
-CR 1/4 (XP 50; PB +2)
+### Blood Hawk
 
-## Traits
+#### Blood Hawk
 
-<!-- image -->
+*Small Beast, Unaligned*
 
-Bloodied Fury. While Bloodied, the boar has Advantage on attack rolls.
+**AC** 12
+**Initiative** +2 (12)
+**HP** 7 (2d6)
+**Speed** 10 ft., Fly 60 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 6     | -2  | -2   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 10    | +0  | +0   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 5     | -3  | -3   |
 
-Gore. Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Piercing damage. If the target is a Medium or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Piercing damage and has the Prone condition.
+**Skills** Perception +6
+**Senses** Passive Perception 16
+**Languages** None
+**CR** 1/8 (XP 25; PB +2)
 
-Skills
+##### Traits
 
-Perception +3
+**Pack Tactics.** The hawk has Advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-Senses
+##### Actions
 
-Darkvision 60 ft.; Passive Perception 13
+**Beak.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage, or 6 (1d8 + 2) Piercing damage if the target is Bloodied.
 
-Languages
+### Boar
 
-None
+#### Boar
 
-CR
+*Medium Beast, Unaligned*
 
-1 (XP 200; PB +2)
+**AC** 11
+**Initiative** +0 (10)
+**HP** 13 (2d8 + 4)
+**Speed** 40 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 14    | +2  | +2   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 9     | -1  | -1   |
+| CHA  | 5     | -3  | -3   |
 
-Multiattack. The bear makes one Bite attack and one Claw attack.
+**Senses** Passive Perception 9
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-Bite . Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage.
+##### Traits
 
-Claw . Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
+**Bloodied Fury.** While Bloodied, the boar has Advantage on attack rolls.
 
-Senses
+##### Actions
 
-Darkvision 60 ft.; Passive Perception 10
+**Gore.** Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Piercing damage. If the target is a Medium or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Piercing damage and has the Prone condition.
 
-Languages
+### Brown Bear
 
-None
+#### Brown Bear
 
-CR
+*Large Beast, Unaligned*
 
-1/8 (XP 25; PB +2)
+**AC** 11
+**Initiative** +1 (11)
+**HP** 22 (3d10 + 6)
+**Speed** 40 ft., Climb 30 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 15    | +2  | +2   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
 
-## Actions
+**Skills** Perception +3
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 1 (XP 200; PB +2)
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage.
+##### Actions
 
-<!-- image -->
+**Multiattack.** The bear makes one Bite attack and one Claw attack.
 
-Skills
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage.
 
-Perception +3, Stealth +4
+**Claw.** Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-Senses
+### Camel
 
-Darkvision 60 ft.; Passive Perception 13
+#### Camel
 
-Languages
+*Large Beast, Unaligned*
 
-None
+**AC** 10
+**Initiative** -1 (9)
+**HP** 17 (2d10 + 6)
+**Speed** 50 ft.
 
-CR
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 17    | +3  | +5   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
 
-0 (XP 10; PB +2)
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** None
+**CR** 1/8 (XP 25; PB +2)
 
-## Traits
+##### Actions
 
-Jumper. The cat's jump distance is determined using its Dexterity rather than its Strength.
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage.
 
-## Actions
+### Cat
 
-Scratch. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slashing damage.
+#### Cat
 
-<!-- image -->
+*Tiny Beast, Unaligned*
 
-## Actions
+**AC** 12
+**Initiative** +2 (12)
+**HP** 2 (1d4)
+**Speed** 40 ft., Climb 40 ft.
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 3     | -4  | -4   |
+| DEX  | 15    | +2  | +4   |
+| CON  | 10    | +0  | +0   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
 
-Constrict. Strength Saving Throw: DC 12, one Medium or smaller creature the snake can see within 5 feet. Failure: 7 (3d4) Bludgeoning damage, and the target has the Grappled condition (escape DC 12).
+**Skills** Perception +3, Stealth +4
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-<!-- image -->
+##### Traits
 
-## Traits
+**Jumper.** The cat's jump distance is determined using its Dexterity rather than its Strength.
 
-Amphibious. The crab can breathe air and water.
+##### Actions
 
-## Actions
+**Scratch.** Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slashing damage.
 
-Claw. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage.
+### Constrictor Snake
 
-Skills
+#### Constrictor Snake
 
-Stealth +2
+*Large Beast, Unaligned*
 
-Senses
+**AC** 13
+**Initiative** +2 (12)
+**HP** 13 (2d10 + 2)
+**Speed** 30 ft., Swim 30 ft.
 
-Passive Perception 10
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
 
-Languages
+**Skills** Perception +2, Stealth +4
+**Senses** Blindsight 10 ft.; Passive Perception 12
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-None
+##### Actions
 
-CR
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage.
 
-1/2 (XP 100; PB +2)
+**Constrict.** Strength Saving Throw: DC 12, one Medium or smaller creature the snake can see within 5 feet. Failure: 7 (3d4) Bludgeoning damage, and the target has the Grappled condition (escape DC 12).
 
-<!-- image -->
+### Crab
 
-Hold Breath. The crocodile can hold its breath for 1 hour.
+#### Crab
 
-## Actions
+*Tiny Beast, Unaligned*
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12). While Grappled, the target has the Restrained condition.
+**AC** 11
+**Initiative** +0 (10)
+**HP** 3 (1d4 + 1)
+**Speed** 20 ft., Swim 20 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 6     | -2  | -2   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 12    | +1  | +1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 2     | -4  | -4   |
 
-Agile. The deer doesn't provoke an Opportunity Attack when it moves out of an enemy's reach.
+**Skills** Stealth +2
+**Senses** Blindsight 30 ft.; Passive Perception 9
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-## Actions
+##### Traits
 
-Ram. Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Bludgeoning damage.
+**Amphibious.** The crab can breathe air and water.
 
-<!-- image -->
+##### Actions
 
-Pack Tactics. The wolf has Advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+**Claw.** Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage.
 
-## Actions
+### Crocodile
 
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage. If the target is a Large or smaller creature, it has the Prone condition.
+#### Crocodile
 
-## Draft Horse
+*Large Beast, Unaligned*
 
-```
-Large Beast, Unaligned AC 10 Initiative +0 (10) HP 15 (2d10 + 4) Speed 40 ft.
-```
+**AC** 12
+**Initiative** +0 (10)
+**HP** 13 (2d10 + 2)
+**Speed** 20 ft., Swim 30 ft.
 
-Senses
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 13    | +1  | +3   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
 
-Passive Perception 10
+**Skills** Stealth +2
+**Senses** Passive Perception 10
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-Languages
+##### Traits
 
-None
+**Hold Breath.** The crocodile can hold its breath for 1 hour.
 
-CR
+##### Actions
 
-1/4 (XP 50; PB +2)
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12). While Grappled, the target has the Restrained condition.
 
-<!-- image -->
+### Deer
 
-Hooves. Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Bludgeoning damage.
+#### Deer
 
-## Eagle
+*Medium Beast, Unaligned*
 
-Small Beast, Unaligned
+**AC** 13
+**Initiative** +3 (13)
+**HP** 4 (1d8)
+**Speed** 50 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 11    | +0  | +0   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 11    | +0  | +0   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 5     | -3  | -3   |
 
-Skills Perception +6 Senses Passive Perception 16 Languages None CR 0 (XP 10; PB +2)
+**Skills** Perception +4
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-## Actions
+##### Traits
 
-Talons. Melee Attack Roll: +4, reach 5 feet. Hit: 4 (1d4 + 2) Slashing damage.
+**Agile.** The deer doesn't provoke an Opportunity Attack when it moves out of an enemy's reach.
 
-<!-- image -->
+##### Actions
 
-## Actions
+**Ram.** Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Bludgeoning damage.
 
-Multiattack. The elephant makes two Gore attacks.
+### Dire Wolf
 
-Gore . Melee Attack Roll: +8, reach 5 ft. Hit: 15 (2d8 + 6) Piercing damage. If the target is a Huge or smaller creature and the elephant moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
+#### Dire Wolf
 
-## Bonus Actions
+*Large Beast, Unaligned*
 
-Trample. Dexterity Saving Throw: DC 16, one creature within 5 feet that has the Prone condition. Failure: 17 (2d10 + 6) Bludgeoning damage. Success: Half damage.
+**AC** 14
+**Initiative** +2 (12)
+**HP** 22 (3d10 + 6)
+**Speed** 50 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 15    | +2  | +2   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
 
-## Actions
+**Skills** Perception +5, Stealth +4
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** None
+**CR** 1 (XP 200; PB +2)
 
-Ram. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature and the elk moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Bludgeoning damage and has the Prone condition.
+##### Traits
 
-<!-- image -->
+**Pack Tactics.** The wolf has Advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-## Traits
+##### Actions
 
-Flyby. The snake doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-## Actions
+### Draft Horse
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage plus 5 (2d4) Poison damage.
+#### Draft Horse
 
-<!-- image -->
+*Large Beast, Unaligned*
 
-Skills Perception +1, Stealth +3 Senses Darkvision 30 ft.; Passive Perception 11 Languages None CR 0 (XP 10; PB +2)
+**AC** 10
+**Initiative** +0 (10)
+**HP** 15 (2d10 + 4)
+**Speed** 40 ft.
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 15    | +2  | +2   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 7     | -2  | -2   |
 
-Amphibious. The frog can breathe air and water.
+**Senses** Passive Perception 10
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-Standing Leap. The frog's Long Jump is up to 10 feet and its High Jump is up to 5 feet with or without a running start.
+##### Actions
 
-## Actions
+**Hooves.** Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Bludgeoning damage.
 
-Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 1 Piercing damage.
+### Eagle
 
-<!-- image -->
+#### Eagle
 
-## Actions
+*Small Beast, Unaligned*
 
-Multiattack. The ape makes two Fist attacks.
+**AC** 12
+**Initiative** +2 (12)
+**HP** 4 (1d6 + 1)
+**Speed** 10 ft., Fly 60 ft.
 
-Fist. Melee Attack Roll: +9, reach 10 ft. Hit: 22 (3d10 + 6) Bludgeoning damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 6     | -2  | -2   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 7     | -2  | -2   |
 
-Boulder Toss (Recharge 6). The ape hurls a boulder at a point it can see within 90 feet. Dexterity Saving Throw: DC 17, each creature in a 5-foot-radius Sphere centered on that point. Failure: 24 (7d6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition. Success: Half damage only.
+**Skills** Perception +6
+**Senses** Passive Perception 16
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-## Bonus Actions
+##### Actions
 
-Leap. The ape jumps up to 30 feet by spending 10 feet of movement.
+**Talons.** Melee Attack Roll: +4, reach 5 feet. Hit: 4 (1d4 + 2) Slashing damage.
 
-<!-- image -->
+### Elephant
 
-## Actions
+#### Elephant
 
-Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Piercing damage.
+*Huge Beast, Unaligned*
 
-<!-- image -->
+**AC** 12
+**Initiative** -1 (9)
+**HP** 76 (8d12 + 24)
+**Speed** 40 ft.
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 22    | +6  | +6   |
+| DEX  | 9     | -1  | -1   |
+| CON  | 17    | +3  | +3   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 6     | -2  | -2   |
 
-Bloodied Fury. The boar has Advantage on melee attack rolls while it is Bloodied.
+**Senses** Passive Perception 10
+**Languages** None
+**CR** 4 (XP 1,100; PB +2)
 
-## Actions
+##### Actions
 
-Gore. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage. If the target is a Large or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing damage and has the Prone condition.
+**Multiattack.** The elephant makes two Gore attacks.
 
-<!-- image -->
+**Gore.** Melee Attack Roll: +8, reach 5 ft. Hit: 15 (2d8 + 6) Piercing damage. If the target is a Huge or smaller creature and the elephant moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
 
-<!-- image -->
+##### Bonus Actions
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage, and the target has the Poisoned condition until the start of the centipede's next turn.
+**Trample.** Dexterity Saving Throw: DC 16, one creature within 5 feet that has the Prone condition. Failure: 17 (2d10 + 6) Bludgeoning damage. Success: Half damage.
 
-<!-- image -->
+### Elk
 
-## Actions
+#### Elk
 
-Multiattack. The snake makes one Bite attack and uses Constrict.
+*Large Beast, Unaligned*
 
-Bite. Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage.
+**AC** 10
+**Initiative** +0 (10)
+**HP** 11 (2d10)
+**Speed** 50 ft.
 
-Constrict. Strength Saving Throw: DC 14, one Large or smaller creature the snake can see within 10 feet. Failure: 13 (2d8 + 4) Bludgeoning damage, and the target has the Grappled condition (escape DC 14).
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 11    | +0  | +0   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 6     | -2  | -2   |
 
-<!-- image -->
+**Skills** Perception +2
+**Senses** Darkvision 60 ft.; Passive Perception 12
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-Amphibious. The crab can breathe air and water.
+##### Actions
 
-## Actions
+**Ram.** Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature and the elk moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Bludgeoning damage and has the Prone condition.
 
-Claw. Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 11) from one of two claws.
+### Flying Snake
 
-<!-- image -->
+#### Flying Snake
 
-## Actions
+*Tiny Monstrosity, Unaligned*
 
-Multiattack. The crocodile makes one Bite attack and one Tail attack.
+**AC** 14
+**Initiative** +2 (12)
+**HP** 5 (2d4)
+**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
-Bite. Melee Attack Roll: +8, reach 5 ft. Hit: 21 (3d10 + 5) Piercing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 15). While Grappled, the target has the Restrained condition and can't be targeted by the crocodile's Tail.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 4     | -3  | -3   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 11    | +0  | +0   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 5     | -3  | -3   |
 
-Tail. Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
+**Senses** Blindsight 10 ft.; Passive Perception 11
+**Languages** None
+**CR** 1/8 (XP 25; PB +2)
 
-<!-- image -->
+##### Traits
 
-Multiattack. The eagle makes two Rend attacks.
+**Flyby.** The snake doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage plus 3 (1d6) Radiant damage.
+##### Actions
 
-<!-- image -->
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage plus 5 (2d4) Poison damage.
 
-## Actions
+### Frog
 
-Ram. Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning damage plus 5 (2d4) Radiant damage. If the target is a Huge or smaller creature and the elk moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
+#### Frog
 
-<!-- image -->
+*Tiny Beast, Unaligned*
 
-Illumination. The beetle sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
+**AC** 11
+**Initiative** +1 (11)
+**HP** 1 (1d4 - 1)
+**Speed** 20 ft., Swim 20 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 1     | -5  | -5   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 8     | -1  | -1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 3     | -4  | -4   |
 
-Bite. Melee Attack Roll: +1, reach 5 ft. Hit: 1 Fire damage.
+**Skills** Perception +1, Stealth +3
+**Senses** Darkvision 30 ft.; Passive Perception 11
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-<!-- image -->
+##### Traits
 
-<!-- image -->
+**Amphibious.** The frog can breathe air and water.
 
-## Traits
+**Standing Leap.** The frog's Long Jump is up to 10 feet and its High Jump is up to 5 feet with or without a running start.
 
-Amphibious. The frog can breathe air and water.
+##### Actions
 
-Standing Leap. The frog's Long Jump is up to 20 feet and its High Jump is up to 10 feet with or without a running start.
+**Bite.** Melee Attack Roll: +3, reach 5 ft. Hit: 1 Piercing damage.
 
-## Actions
+### Giant Ape
 
-Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 11).
+#### Giant Ape
 
-Swallow. The frog swallows a Small or smaller target it is grappling. While swallowed, the target isn't Grappled but has the Blinded and Restrained conditions, and it has Total Cover against attacks and other effects outside the frog. While swallowing the target, the frog can't use Bite, and if the frog dies, the swallowed target is no longer Restrained and can escape from the corpse using 5 feet of movement, exiting with the Prone condition.
+*Huge Beast, Unaligned*
+
+**AC** 12
+**Initiative** +5 (15)
+**HP** 168 (16d12 + 64)
+**Speed** 40 ft., Climb 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 18    | +4  | +4   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
+
+**Skills** Athletics +9, Perception +4, Survival +4
+**Senses** Passive Perception 14
+**Languages** None
+**CR** 7 (XP 2,900; PB +3)
+
+##### Actions
+
+**Multiattack.** The ape makes two Fist attacks.
+
+**Fist.** Melee Attack Roll: +9, reach 10 ft. Hit: 22 (3d10 + 6) Bludgeoning damage.
+
+**Boulder Toss (Recharge 6).** The ape hurls a boulder at a point it can see within 90 feet. Dexterity Saving Throw: DC 17, each creature in a 5-foot-radius Sphere centered on that point. Failure: 24 (7d6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition. Success: Half damage only.
+
+##### Bonus Actions
+
+**Leap.** The ape jumps up to 30 feet by spending 10 feet of movement.
+
+### Giant Badger
+
+#### Giant Badger
+
+*Medium Beast, Unaligned*
+
+**AC** 13
+**Initiative** +0 (10)
+**HP** 15 (2d8 + 6)
+**Speed** 30 ft., Burrow 10 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 17    | +3  | +3   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 5     | -3  | -3   |
+
+**Skills** Perception +3
+**Resistances** Poison
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
+
+##### Actions
+
+**Bite.** Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Piercing damage.
+
+### Giant Bat
+
+#### Giant Bat
+
+*Large Beast, Unaligned*
+
+**AC** 13
+**Initiative** +3 (13)
+**HP** 22 (4d10)
+**Speed** 10 ft., Fly 60 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 11    | +0  | +0   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
+
+**Senses** Blindsight 120 ft.; Passive Perception 11
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
+
+##### Actions
+
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage.
+
+### Giant Boar
+
+#### Giant Boar
+
+*Large Beast, Unaligned*
+
+**AC** 13
+**Initiative** +0 (10)
+**HP** 42 (5d10 + 15)
+**Speed** 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +5   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 16    | +3  | +3   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 7     | -2  | -2   |
+| CHA  | 5     | -3  | -3   |
+
+**Senses** Passive Perception 8
+**Languages** None
+**CR** 2 (XP 450; PB +2)
+
+##### Traits
+
+**Bloodied Fury.** The boar has Advantage on melee attack rolls while it is Bloodied.
+
+##### Actions
+
+**Gore.** Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage. If the target is a Large or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing damage and has the Prone condition.
+
+### Giant Centipede
+
+#### Giant Centipede
+
+*Small Beast, Unaligned*
+
+**AC** 14
+**Initiative** +2 (12)
+**HP** 9 (2d6 + 2)
+**Speed** 30 ft., Climb 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 5     | -3  | -3   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 7     | -2  | -2   |
+| CHA  | 3     | -4  | -4   |
+
+**Senses** Blindsight 30 ft.; Passive Perception 8
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
+
+##### Actions
+
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage, and the target has the Poisoned condition until the start of the centipede's next turn.
+
+### Giant Constrictor Snake
+
+#### Giant Constrictor Snake
+
+*Huge Beast, Unaligned*
+
+**AC** 12
+**Initiative** +2 (12)
+**HP** 60 (8d12 + 8)
+**Speed** 30 ft., Swim 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
+
+**Skills** Perception +2
+**Senses** Blindsight 10 ft.; Passive Perception 12
+**Languages** None
+**CR** 2 (XP 450; PB +2)
+
+##### Actions
+
+**Multiattack.** The snake makes one Bite attack and uses Constrict.
+
+**Bite.** Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage.
+
+**Constrict.** Strength Saving Throw: DC 14, one Large or smaller creature the snake can see within 10 feet. Failure: 13 (2d8 + 4) Bludgeoning damage, and the target has the Grappled condition (escape DC 14).
+
+### Giant Crab
+
+#### Giant Crab
+
+*Medium Beast, Unaligned*
+
+**AC** 15
+**Initiative** +1 (11)
+**HP** 13 (3d8)
+**Speed** 30 ft., Swim 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 11    | +0  | +0   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 9     | -1  | -1   |
+| CHA  | 3     | -4  | -4   |
+
+**Skills** Stealth +3
+**Senses** Blindsight 30 ft.; Passive Perception 9
+**Languages** None
+**CR** 1/8 (XP 25; PB +2)
+
+##### Traits
+
+**Amphibious.** The crab can breathe air and water.
+
+##### Actions
+
+**Claw.** Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 11) from one of two claws.
+
+### Giant Crocodile
+
+#### Giant Crocodile
+
+*Huge Beast, Unaligned*
+
+**AC** 14
+**Initiative** -1 (9)
+**HP** 85 (9d12 + 27)
+**Speed** 30 ft., Swim 50 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 21    | +5  | +5   |
+| DEX  | 9     | -1  | -1   |
+| CON  | 17    | +3  | +3   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 7     | -2  | -2   |
+
+**Skills** Stealth +5
+**Senses** Passive Perception 10
+**Languages** None
+**CR** 5 (XP 1,800; PB +3)
+
+##### Traits
+
+**Hold Breath.** The crocodile can hold its breath for 1 hour.
+
+##### Actions
+
+**Multiattack.** The crocodile makes one Bite attack and one Tail attack.
+
+**Bite.** Melee Attack Roll: +8, reach 5 ft. Hit: 21 (3d10 + 5) Piercing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 15). While Grappled, the target has the Restrained condition and can't be targeted by the crocodile's Tail.
+
+**Tail.** Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
+
+### Giant Eagle
+
+#### Giant Eagle
+
+*Large Celestial, Neutral Good*
+
+**AC** 13
+**Initiative** +3 (13)
+**HP** 26 (4d10 + 4)
+**Speed** 10 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 13    | +1  | +1   |
+| INT  | 8     | -1  | -1   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 10    | +0  | +0   |
+
+**Skills** Perception +6
+**Resistances** Necrotic, Radiant
+**Senses** Passive Perception 16
+**Languages** Celestial; understands Common and Primordial (Auran) but can't speak them
+**CR** 1 (XP 200; PB +2)
+
+##### Actions
+
+**Multiattack.** The eagle makes two Rend attacks.
+
+**Rend.** Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage plus 3 (1d6) Radiant damage.
+
+### Giant Elk
+
+#### Giant Elk
+
+*Huge Celestial, Neutral Good*
+
+**AC** 14
+**Initiative** +6 (16)
+**HP** 42 (5d12 + 10)
+**Speed** 60 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +6   |
+| DEX  | 18    | +4  | +6   |
+| CON  | 14    | +2  | +2   |
+| INT  | 7     | -2  | -2   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 10    | +0  | +0   |
+
+**Skills** Perception +4
+**Resistances** Necrotic, Radiant
+**Senses** Darkvision 90 ft.; Passive Perception 14
+**Languages** Celestial; understands Common, Elvish, and Sylvan but can't speak them
+**CR** 2 (XP 450; PB +2)
+
+##### Actions
+
+**Ram.** Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning damage plus 5 (2d4) Radiant damage. If the target is a Huge or smaller creature and the elk moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
+
+### Giant Fire Beetle
+
+#### Giant Fire Beetle
+
+*Small Beast, Unaligned*
+
+**AC** 13
+**Initiative** +0 (10)
+**HP** 4 (1d6 + 1)
+**Speed** 30 ft., Climb 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 8     | -1  | -1   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 12    | +1  | +1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 7     | -2  | -2   |
+| CHA  | 3     | -4  | -4   |
+
+**Resistances** Fire
+**Senses** Blindsight 30 ft.; Passive Perception 8
+**Languages** None
+**CR** 0 (XP 10; PB +2)
+
+##### Traits
+
+**Illumination.** The beetle sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
+
+##### Actions
+
+**Bite.** Melee Attack Roll: +1, reach 5 ft. Hit: 1 Fire damage.
+
+### Giant Frog
+
+#### Giant Frog
+
+*Medium Beast, Unaligned*
+
+**AC** 11
+**Initiative** +1 (11)
+**HP** 18 (4d8)
+**Speed** 30 ft., Swim 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 12    | +1  | +1   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 11    | +0  | +0   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
+
+**Skills** Perception +2, Stealth +4
+**Senses** Darkvision 30 ft.; Passive Perception 12
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
+
+##### Traits
+
+**Amphibious.** The frog can breathe air and water.
+
+**Standing Leap.** The frog's Long Jump is up to 20 feet and its High Jump is up to 10 feet with or without a running start.
+
+##### Actions
+
+**Bite.** Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 11).
+
+**Swallow.** The frog swallows a Small or smaller target it is grappling. While swallowed, the target isn't Grappled but has the Blinded and Restrained conditions, and it has Total Cover against attacks and other effects outside the frog. While swallowing the target, the frog can't use Bite, and if the frog dies, the swallowed target is no longer Restrained and can escape from the corpse using 5 feet of movement, exiting with the Prone condition.
 
 At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid damage. If that damage doesn't kill it, the frog disgorges it, causing it to exit Prone.
 
-<!-- image -->
+### Giant Goat
 
-Ram. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature and the goat moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
+#### Giant Goat
 
-<!-- image -->
+*Large Beast, Unaligned*
 
-## Actions
+**AC** 11
+**Initiative** +1 (11)
+**HP** 19 (3d10 + 3)
+**Speed** 40 ft., Climb 30 ft.
 
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +5   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 12    | +1  | +1   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
 
-## Bonus Actions
+**Skills** Perception +3
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-Rampage (1/Day). Immediately after dealing damage to a creature that was already Bloodied, the hyena can move up to half its Speed, and it makes one Bite attack.
+##### Actions
 
-<!-- image -->
+**Ram.** Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature and the goat moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
 
-## Traits
+### Giant Hyena
 
-Spider Climb. The lizard can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+#### Giant Hyena
 
-## Actions
+*Large Beast, Unaligned*
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage.
+**AC** 12
+**Initiative** +2 (12)
+**HP** 45 (6d10 + 12)
+**Speed** 50 ft.
 
-## Giant Octopus
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 14    | +2  | +2   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
 
-```
-Large Beast, Unaligned AC 11 Initiative +1 (11) HP 45 (7d10 + 7) Speed 10 ft., Swim 60 ft.
-```
+**Skills** Perception +3
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 1 (XP 200; PB +2)
 
-<!-- image -->
+##### Actions
 
-Skills Perception +4, Stealth +5 Senses Darkvision 60 ft.; Passive Perception 14 Languages None CR 1 (XP 200; PB +2)
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.
 
-## Traits
+##### Bonus Actions
 
-Water Breathing. The octopus can breathe only underwater. It can hold its breath for 1 hour outside water.
+**Rampage (1/Day).** Immediately after dealing damage to a creature that was already Bloodied, the hyena can move up to half its Speed, and it makes one Bite attack.
 
-## Actions
+### Giant Lizard
 
-Tentacles. Melee Attack Roll: +5, reach 10 ft. Hit: 10 (2d6 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from all eight tentacles. While Grappled, the target has the Restrained condition.
+#### Giant Lizard
 
-## Reactions
+*Large Beast, Unaligned*
 
-Ink Cloud (1/Day). Trigger: The octopus takes damage while underwater. Response: The octopus releases ink that fills a 10-foot Cube centered on itself, and the octopus moves up to its Swim Speed. The Cube is Heavily Obscured for 1 minute or until a strong current or similar effect disperses the ink.
+**AC** 12
+**Initiative** +1 (11)
+**HP** 19 (3d10 + 3)
+**Speed** 40 ft., Climb 40 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 12    | +1  | +3   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
 
-## Traits
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-Flyby. The owl doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
+##### Traits
 
-## Actions
+**Spider Climb.** The lizard can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-Talons. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.
+##### Actions
 
-Spellcasting. The owl casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability:
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage.
 
-At Will: Detect Evil and Good , Detect Magic 1/Day: Clairvoyance
+### Giant Octopus
 
-Skills
+#### Giant Octopus
 
-Perception +2
+*Large Beast, Unaligned*
 
-Senses
+**AC** 11
+**Initiative** +1 (11)
+**HP** 45 (7d10 + 7)
+**Speed** 10 ft., Swim 60 ft.
 
-Darkvision 60 ft.; Passive Perception 12
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 13    | +1  | +1   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 4     | -3  | -3   |
 
-Languages
+**Skills** Perception +4, Stealth +5
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** None
+**CR** 1 (XP 200; PB +2)
 
-None
+##### Traits
 
-CR
+**Water Breathing.** The octopus can breathe only underwater. It can hold its breath for 1 hour outside water.
 
-1/8 (XP 25; PB +2)
+##### Actions
 
-<!-- image -->
+**Tentacles.** Melee Attack Roll: +5, reach 10 ft. Hit: 10 (2d6 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from all eight tentacles. While Grappled, the target has the Restrained condition.
 
-## Traits
+##### Reactions
 
-Pack Tactics. The rat has Advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+**Ink Cloud (1/Day).** Trigger: The octopus takes damage while underwater. Response: The octopus releases ink that fills a 10-foot Cube centered on itself, and the octopus moves up to its Swim Speed. The Cube is Heavily Obscured for 1 minute or until a strong current or similar effect disperses the ink.
 
-## Actions
+### Giant Owl
 
-Bite. Melee Attack Roll: +5, reach 5 feet. Hit: 5 (1d4 + 3) Piercing damage.
+#### Giant Owl
 
-<!-- image -->
+*Large Celestial, Neutral*
 
-## Actions
+**AC** 12
+**Initiative** +2 (12)
+**HP** 19 (3d10 + 3)
+**Speed** 5 ft., Fly 60 ft.
 
-Multiattack. The scorpion makes two Claw attacks and one Sting attack.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 14    | +2  | +4   |
+| CHA  | 10    | +0  | +0   |
 
-Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 13) from one of two claws.
+**Skills** Perception +6, Stealth +6
+**Resistances** Necrotic, Radiant
+**Senses** Darkvision 120 ft.; Passive Perception 16
+**Languages** Celestial; understands Common, Elvish, and Sylvan but can't speak them
+**CR** 1/4 (XP 50; PB +2)
 
-Sting. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage plus 11 (2d10) Poison damage.
+##### Traits
 
-<!-- image -->
+**Flyby.** The owl doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
-<!-- image -->
+##### Actions
 
-## Actions
+**Talons.** Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.
 
-Ram. Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Bludgeoning damage, or 11 (2d8 + 2) Bludgeoning damage if the seahorse moved 20+ feet straight toward the target immediately before the hit.
+**Spellcasting.** The owl casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability:
 
-## Bonus Actions
+- At Will: Detect Evil and Good, Detect Magic
+- 1/Day: Clairvoyance
 
-Bubble Dash. While underwater, the seahorse moves up to half its Swim Speed without provoking Opportunity Attacks.
+### Giant Rat
 
-<!-- image -->
+#### Giant Rat
 
-Water Breathing. The shark can breathe only underwater.
+*Small Beast, Unaligned*
 
-## Actions
+**AC** 13
+**Initiative** +3 (13)
+**HP** 7 (2d6)
+**Speed** 30 ft., Climb 30 ft.
 
-Multiattack. The shark makes two Bite attacks.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 7     | -2  | -2   |
+| DEX  | 16    | +3  | +5   |
+| CON  | 11    | +0  | +0   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 4     | -3  | -3   |
 
-Bite. Melee Attack Roll: +9 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. Hit: 22 (3d10 + 6) Piercing damage.
+**Skills** Perception +2
+**Senses** Darkvision 60 ft.; Passive Perception 12
+**Languages** None
+**CR** 1/8 (XP 25; PB +2)
 
-<!-- image -->
+##### Traits
 
-<!-- image -->
+**Pack Tactics.** The rat has Advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-Skills Perception +4, Stealth +7 Senses Darkvision 60 ft.; Passive Perception 14 Languages None CR 1 (XP 200; PB +2)
+##### Actions
 
-## Traits
+**Bite.** Melee Attack Roll: +5, reach 5 feet. Hit: 5 (1d4 + 3) Piercing damage.
 
-Spider Climb. The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+### Giant Scorpion
 
-Web Walker. The spider ignores movement restrictions caused by webs, and it knows the location of any other creature in contact with the same web.
+#### Giant Scorpion
 
-## Actions
+*Large Beast, Unaligned*
 
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage plus 7 (2d6) Poison damage.
+**AC** 15
+**Initiative** +1 (11)
+**HP** 52 (7d10 + 14)
+**Speed** 40 ft.
 
-Web (Recharge 5-6). Dexterity Saving Throw: DC 13, one creature the spider can see within 60 feet. Failure: The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Poison and Psychic damage).
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 15    | +2  | +2   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 9     | -1  | -1   |
+| CHA  | 3     | -4  | -4   |
 
-<!-- image -->
+**Senses** Blindsight 60 ft.; Passive Perception 9
+**Languages** None
+**CR** 3 (XP 700; PB +2)
 
-## Traits
+##### Actions
 
-Amphibious. The toad can breathe air and water.
+**Multiattack.** The scorpion makes two Claw attacks and one Sting attack.
 
-Standing Leap. The toad's Long Jump is up to 20 feet and its High Jump is up to 10 feet with or without a running start.
+**Claw.** Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 13) from one of two claws.
 
-## Actions
+**Sting.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage plus 11 (2d10) Poison damage.
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage plus 5 (2d4) Poison damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12).
+### Giant Seahorse
 
-Swallow. The toad swallows a Medium or smaller target it is grappling. While swallowed, the target isn't Grappled but has the Blinded and Restrained conditions, and it has Total Cover against attacks and other effects outside the toad. In addition, the target takes 10 (3d6) Acid damage at the end of each of the toad's turns. The toad can have only one target swallowed at a time, and it can't use Bite while it has a swallowed target. If the toad dies, a swallowed creature is no longer Restrained and can escape from the corpse using 5 feet of movement, exiting with the Prone condition.
+#### Giant Seahorse
 
-## Giant Venomous Snake
+*Large Beast, Unaligned*
 
-<!-- image -->
+**AC** 14
+**Initiative** +1 (11)
+**HP** 16 (3d10)
+**Speed** 5 ft., Swim 40 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 11    | +0  | +0   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 5     | -3  | -3   |
 
-Bite. Melee Attack Roll: +6, reach 10 ft. Hit: 6 (1d4 + 4) Piercing damage plus 4 (1d8) Poison damage.
+**Senses** Passive Perception 11
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-<!-- image -->
+##### Traits
 
-## Traits
+**Water Breathing.** The seahorse can breathe only underwater.
 
-Pack Tactics. The vulture has Advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+##### Actions
 
-## Actions
+**Ram.** Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Bludgeoning damage, or 11 (2d8 + 2) Bludgeoning damage if the seahorse moved 20+ feet straight toward the target immediately before the hit.
 
-Gouge. Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage, and the target has the Poisoned condition until the end of its next turn.
+##### Bonus Actions
 
-## Giant Wasp
+**Bubble Dash.** While underwater, the seahorse moves up to half its Swim Speed without provoking Opportunity Attacks.
 
-Medium Beast, Unaligned
+### Giant Shark
 
-AC 13 HP 22 (5d8) Speed 10 ft., Fly 50 ft.
+#### Giant Shark
 
-Initiative +2 (12)
+*Huge Beast, Unaligned*
 
-```
-MOD SAVE MOD SAVE MOD SAVE Str 10 +0 +0 Dex 14 +2 +2 Con 10 +0 +0 Int 1 -5 -5 WIS 10 +0 +0 Cha 3 -4 -4 Senses Passive Perception 10 Languages None CR 1/2 (XP 100; PB +2) Traits
-```
+**AC** 13
+**Initiative** +3 (13)
+**HP** 92 (8d12 + 40)
+**Speed** 5 ft., Swim 60 ft.
 
-Flyby. The wasp doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 21    | +5  | +5   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
 
-## Actions
+**Skills** Perception +3
+**Senses** Blindsight 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 5 (XP 1,800; PB +3)
 
-Sting. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage plus 5 (2d4) Poison damage.
+##### Traits
 
-## Giant Weasel
+**Water Breathing.** The shark can breathe only underwater.
 
-Medium Beast, Unaligned
+##### Actions
 
-AC
+**Multiattack.** The shark makes two Bite attacks.
 
-13
+**Bite.** Melee Attack Roll: +9 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. Hit: 22 (3d10 + 6) Piercing damage.
 
-HP
+### Giant Spider
 
-9 (2d8)
+#### Giant Spider
 
-Speed
+*Large Beast, Unaligned*
 
-Str
+**AC** 14
+**Initiative** +3 (13)
+**HP** 26 (4d10 + 4)
+**Speed** 30 ft., Climb 30 ft.
 
-40 ft., Climb 30 ft.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 12    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 4     | -3  | -3   |
 
-MOD SAVE
+**Skills** Perception +4, Stealth +7
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** None
+**CR** 1 (XP 200; PB +2)
 
-11
+##### Traits
 
-Int
+**Spider Climb.** The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-4
+**Web Walker.** The spider ignores movement restrictions caused by webs, and it knows the location of any other creature in contact with the same web.
 
-+0
+##### Actions
 
-+0
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage plus 7 (2d6) Poison damage.
 
--3
+**Web (Recharge 5-6).** Dexterity Saving Throw: DC 13, one creature the spider can see within 60 feet. Failure: The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Poison and Psychic damage).
 
--3
+### Giant Toad
 
-Dex
+#### Giant Toad
 
-Initiative
+*Large Beast, Unaligned*
 
-+3 (13)
+**AC** 11
+**Initiative** +1 (11)
+**HP** 39 (6d10 + 6)
+**Speed** 30 ft., Swim 30 ft.
 
-MOD SAVE
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
 
-17
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** None
+**CR** 1 (XP 200; PB +2)
 
-+3
+##### Traits
 
-+3
+**Amphibious.** The toad can breathe air and water.
 
-Con
+**Standing Leap.** The toad's Long Jump is up to 20 feet and its High Jump is up to 10 feet with or without a running start.
 
-10
+##### Actions
 
-12
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage plus 5 (2d4) Poison damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12).
 
-WIS
+**Swallow.** The toad swallows a Medium or smaller target it is grappling. While swallowed, the target isn't Grappled but has the Blinded and Restrained conditions, and it has Total Cover against attacks and other effects outside the toad. In addition, the target takes 10 (3d6) Acid damage at the end of each of the toad's turns. The toad can have only one target swallowed at a time, and it can't use Bite while it has a swallowed target. If the toad dies, a swallowed creature is no longer Restrained and can escape from the corpse using 5 feet of movement, exiting with the Prone condition.
 
-+1
+### Giant Venomous Snake
 
-+1
+#### Giant Venomous Snake
 
-Cha
+*Medium Beast, Unaligned*
 
-5
+**AC** 14
+**Initiative** +4 (14)
+**HP** 11 (2d8 + 2)
+**Speed** 40 ft., Swim 40 ft.
 
-Skills Acrobatics +5, Perception +3, Stealth +5
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 18    | +4  | +4   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
 
-```
-Senses Darkvision 60 ft.; Passive Perception 13 Languages None CR 1/8 (XP 25; PB +2)
-```
+**Skills** Perception +2
+**Senses** Blindsight 10 ft.; Passive Perception 12
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-## Actions
+##### Actions
 
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage.
+**Bite.** Melee Attack Roll: +6, reach 10 ft. Hit: 6 (1d4 + 4) Piercing damage plus 4 (1d8) Poison damage.
 
-## Giant Wolf Spider
+### Giant Vulture
 
-```
-Medium Beast, Unaligned AC 13 Initiative +3 (13) HP 11 (2d8 + 2) Speed 40 ft., Climb 40 ft. MOD SAVE MOD SAVE MOD SAVE Str 12 +1 +1 Dex 16 +3 +3 Con 13 +1 +1 Int 3 -4 -4 WIS 12 +1 +1 Cha 4 -3 -3 Skills Perception +3, Stealth +7 Senses Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 13 Languages None CR 1/4 (XP 50; PB +2)
-```
+#### Giant Vulture
 
-## Traits
+*Large Monstrosity, Neutral Evil*
 
-Spider Climb. The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+**AC** 10
+**Initiative** +0 (10)
+**HP** 25 (3d10 + 9)
+**Speed** 10 ft., Fly 60 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 16    | +3  | +3   |
+| INT  | 6     | -2  | -2   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
 
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage plus 5 (2d4) Poison damage.
+**Skills** Perception +3
+**Resistances** Necrotic
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** Understands Common but can't speak
+**CR** 1 (XP 200; PB +2)
 
-MOD SAVE
+##### Traits
 
-+0
+**Pack Tactics.** The vulture has Advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-+0
+##### Actions
 
--3
+**Gouge.** Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage, and the target has the Poisoned condition until the end of its next turn.
 
--3
+### Giant Wasp
 
-```
-Goat Medium Beast, Unaligned AC 10 Initiative +0 (10) HP 4 (1d8) Speed 40 ft., Climb 30 ft. MOD SAVE MOD SAVE MOD SAVE Str 11 +0 +2 Dex 10 +0 +0 Con 1 1 +0 +0 Int 2 -4 -4 WIS 10 +0 +0 Cha 5 -3 -3 Skills Perception +2 Senses Darkvision 60 ft.; Passive Perception 12 Languages None CR 0 (XP 10; PB +2)
-```
+#### Giant Wasp
 
-## Actions
+*Medium Beast, Unaligned*
 
-Ram. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage, or 2 (1d4) Bludgeoning damage if the goat moved 20+ feet straight toward the target immediately before the hit.
+**AC** 13
+**Initiative** +2 (12)
+**HP** 22 (5d8)
+**Speed** 10 ft., Fly 50 ft.
 
-## Hawk
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 10    | +0  | +0   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 10    | +0  | +0   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
 
-Tiny Beast, Unaligned
+**Senses** Passive Perception 10
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-```
-AC 13 Initiative +3 (13) HP 1 (1d4 - 1) Speed 10 ft., Fly 60 ft. MOD SAVE MOD SAVE MOD SAVE Str 5 -3 -3 Dex 16 +3 +3 Con 8 -1 -1 Int 2 -4 -4 WIS 14 +2 +2 Cha 6 -2 -2
-```
+##### Traits
 
-```
-Skills Perception +6 Senses Passive Perception 16 Languages None CR 0 (XP 10; PB +2)
-```
+**Flyby.** The wasp doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
-## Actions
+##### Actions
 
-Talons. Melee Attack Roll: +5, reach 5 ft. Hit: 1 Slashing damage.
+**Sting.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage plus 5 (2d4) Poison damage.
 
-<!-- image -->
+### Giant Weasel
 
-Hold Breath. The hippopotamus can hold its breath for 10 minutes.
+#### Giant Weasel
 
-## Actions
+*Medium Beast, Unaligned*
 
-Multiattack. The hippopotamus makes two Bite attacks.
+**AC** 13
+**Initiative** +3 (13)
+**HP** 9 (2d8)
+**Speed** 40 ft., Climb 30 ft.
 
-Bite. Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Piercing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 11    | +0  | +0   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 10    | +0  | +0   |
+| INT  | 4     | -3  | -3   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 5     | -3  | -3   |
 
-## Hunter Shark
+**Skills** Acrobatics +5, Perception +3, Stealth +5
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 1/8 (XP 25; PB +2)
 
-Large Beast, Unaligned
+##### Actions
 
-AC
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage.
 
-12
+### Giant Wolf Spider
 
-HP
+#### Giant Wolf Spider
 
-45 (6d10 + 12)
+*Medium Beast, Unaligned*
 
-Speed
+**AC** 13
+**Initiative** +3 (13)
+**HP** 11 (2d8 + 2)
+**Speed** 40 ft., Climb 40 ft.
 
-Str
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 12    | +1  | +1   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 13    | +1  | +1   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 4     | -3  | -3   |
 
-5 ft., Swim 40 ft.
+**Skills** Perception +3, Stealth +7
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-MOD SAVE
+##### Traits
 
-18
+**Spider Climb.** The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-Int
+##### Actions
 
-1
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage plus 5 (2d4) Poison damage.
 
-+4
+### Goat
 
-+4
+#### Goat
 
--5
+*Medium Beast, Unaligned*
 
--5
+**AC** 10
+**Initiative** +0 (10)
+**HP** 4 (1d8)
+**Speed** 40 ft., Climb 30 ft.
 
-Dex
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 11    | +0  | +2   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 11    | +0  | +0   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
 
-Initiative
+**Skills** Perception +2
+**Senses** Darkvision 60 ft.; Passive Perception 12
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-+2 (12)
+##### Actions
 
-MOD SAVE
+**Ram.** Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage, or 2 (1d4) Bludgeoning damage if the goat moved 20+ feet straight toward the target immediately before the hit.
 
-14
+### Hawk
 
-+2
+#### Hawk
 
-+2
+*Tiny Beast, Unaligned*
 
-Con
+**AC** 13
+**Initiative** +3 (13)
+**HP** 1 (1d4 - 1)
+**Speed** 10 ft., Fly 60 ft.
 
-15
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 5     | -3  | -3   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 8     | -1  | -1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 6     | -2  | -2   |
 
-10
+**Skills** Perception +6
+**Senses** Passive Perception 16
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-WIS
+##### Actions
 
-+0
+**Talons.** Melee Attack Roll: +5, reach 5 ft. Hit: 1 Slashing damage.
 
-+0
+### Hippopotamus
 
-Cha
+#### Hippopotamus
 
-4
+*Large Beast, Unaligned*
 
-Skills
+**AC** 14
+**Initiative** -2 (8)
+**HP** 82 (11d10 + 22)
+**Speed** 30 ft., Swim 30 ft.
 
-Perception +2
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 21    | +5  | +7   |
+| DEX  | 7     | -2  | -2   |
+| CON  | 15    | +2  | +2   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 4     | -3  | -3   |
 
-Senses
+**Skills** Perception +3
+**Senses** Passive Perception 13
+**Languages** None
+**CR** 4 (XP 1,100; PB +2)
 
-Blindsight 60 ft.; Passive Perception 12
+##### Traits
 
-Languages
+**Hold Breath.** The hippopotamus can hold its breath for 10 minutes.
 
-None
+##### Actions
 
-CR
+**Multiattack.** The hippopotamus makes two Bite attacks.
 
-2 (XP 450; PB +2)
+**Bite.** Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Piercing damage.
 
-## Traits
+### Hunter Shark
 
-Water Breathing. The shark can breathe only underwater.
+#### Hunter Shark
 
-## Actions
+*Large Beast, Unaligned*
 
-Bite. Melee Attack Roll: +6 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. Hit: 14 (3d6 + 4) Piercing damage.
+**AC** 12
+**Initiative** +2 (12)
+**HP** 45 (6d10 + 12)
+**Speed** 5 ft., Swim 40 ft.
 
-## Hyena
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 15    | +2  | +2   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 4     | -3  | -3   |
 
-Medium Beast, Unaligned
+**Skills** Perception +2
+**Senses** Blindsight 60 ft.; Passive Perception 12
+**Languages** None
+**CR** 2 (XP 450; PB +2)
 
-```
-AC 11 Initiative +1 (11) HP 5 (1d8 + 1) Speed 50 ft. MOD SAVE MOD SAVE MOD SAVE Str 11 +0 +0 Dex 13 +1 +1 Con 12 +1 +1 Int 2 -4 -4 WIS 12 +1 +1 Cha 5 -3 -3
-```
+##### Traits
 
-Skills
+**Water Breathing.** The shark can breathe only underwater.
 
-Perception +3
+##### Actions
 
-Senses
+**Bite.** Melee Attack Roll: +6 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. Hit: 14 (3d6 + 4) Piercing damage.
 
-Darkvision 60 ft.; Passive Perception 13
+### Hyena
 
-Languages
+#### Hyena
 
-None
+*Medium Beast, Unaligned*
 
-CR
+**AC** 11
+**Initiative** +1 (11)
+**HP** 5 (1d8 + 1)
+**Speed** 50 ft.
 
-0 (XP 10; PB +2)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 11    | +0  | +0   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 12    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 5     | -3  | -3   |
 
-## Traits
+**Skills** Perception +3
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-Pack Tactics. The hyena has Advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+##### Traits
 
-## Actions
+**Pack Tactics.** The hyena has Advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-Bite. Melee Attack Roll: +2, reach 5 ft. Hit: 3 (1d6) Piercing damage.
+##### Actions
 
-MOD SAVE
+**Bite.** Melee Attack Roll: +2, reach 5 ft. Hit: 3 (1d6) Piercing damage.
 
-+2
+### Jackal
 
-+2
+#### Jackal
 
--3
+*Small Beast, Unaligned*
 
--3
+**AC** 12
+**Initiative** +2 (12)
+**HP** 3 (1d6)
+**Speed** 40 ft.
 
-Skills
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 8     | -1  | -1   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 11    | +0  | +0   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
 
-Perception +5, Stealth +4
+**Skills** Perception +5, Stealth +4
+**Senses** Darkvision 90 ft.; Passive Perception 15
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-Senses
+##### Actions
 
-Darkvision 90 ft.;
+**Bite.** Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage.
 
-Passive Perception 15
+### Killer Whale
 
-Languages
+#### Killer Whale
 
-None
+*Huge Beast, Unaligned*
 
-CR
+**AC** 12
+**Initiative** +2 (12)
+**HP** 90 (12d12 + 12)
+**Speed** 5 ft., Swim 60 ft.
 
-0 (XP 10; PB +2)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 13    | +1  | +1   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
 
-<!-- image -->
+**Skills** Perception +3, Stealth +4
+**Senses** Blindsight 120 ft.; Passive Perception 13
+**Languages** None
+**CR** 3 (XP 700; PB +2)
 
-Bite. Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage.
+##### Traits
 
-## Killer Whale
+**Hold Breath.** The whale can hold its breath for 30 minutes.
 
-<!-- image -->
+##### Actions
 
-Skills
+**Bite.** Melee Attack Roll: +6, reach 5 ft. Hit: 21 (5d6 + 4) Piercing damage.
 
-Perception +3, Stealth +4
+### Lion
 
-Senses
+#### Lion
 
-Blindsight 120 ft.; Passive Perception 13
+*Large Beast, Unaligned*
 
-Languages
+**AC** 12
+**Initiative** +2 (12)
+**HP** 22 (4d10)
+**Speed** 50 ft.
 
-None
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 11    | +0  | +0   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 8     | -1  | -1   |
 
-CR
+**Skills** Perception +3, Stealth +4
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 1 (XP 200; PB +2)
 
-3 (XP 700; PB +2)
+##### Traits
 
-## Traits
+**Pack Tactics.** The lion has Advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-Hold Breath. The whale can hold its breath for 30 minutes.
+**Running Leap.** With a 10-foot running start, the lion can Long Jump up to 25 feet.
 
-## Actions
+##### Actions
 
-Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 21 (5d6 + 4) Piercing damage.
+**Multiattack.** The lion makes two Rend attacks. It can replace one attack with a use of Roar.
 
-<!-- image -->
+**Rend.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage.
 
-Skills Perception +3, Stealth +4
+**Roar.** Wisdom Saving Throw: DC 11, one creature within 15 feet. Failure: The target has the Frightened condition until the start of the lion's next turn.
 
-Senses
+### Lizard
 
-Darkvision 60 ft.; Passive Perception 13
+#### Lizard
 
-Languages
+*Tiny Beast, Unaligned*
 
-None
+**AC** 10
+**Initiative** +0 (10)
+**HP** 2 (1d4)
+**Speed** 20 ft., Climb 20 ft.
 
-CR
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 2     | -4  | -4   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 10    | +0  | +0   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 3     | -4  | -4   |
 
-1 (XP 200; PB +2)
+**Senses** Darkvision 30 ft.; Passive Perception 9
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-## Traits
+##### Traits
 
-Pack Tactics. The lion has Advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+**Spider Climb.** The lizard can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-Running Leap. With a 10-foot running start, the lion can Long Jump up to 25 feet.
+##### Actions
 
-## Actions
+**Bite.** Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage.
 
-Multiattack. The lion makes two Rend attacks. It can replace one attack with a use of Roar.
+### Mammoth
 
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage.
+#### Mammoth
 
-Roar. Wisdom Saving Throw: DC 11, one creature within 15 feet. Failure: The target has the Frightened condition until the start of the lion's next turn.
+*Huge Beast, Unaligned*
 
-<!-- image -->
+**AC** 13
+**Initiative** +2 (12)
+**HP** 126 (11d12 + 55)
+**Speed** 50 ft.
 
-Senses Darkvision 30 ft.; Passive Perception 9 Languages None CR 0 (XP 10; PB +2)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 24    | +7  | +10  |
+| DEX  | 9     | -1  | -1   |
+| CON  | 21    | +5  | +8   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 6     | -2  | -2   |
 
-## Traits
+**Senses** Passive Perception 10
+**Languages** None
+**CR** 6 (XP 2,300; PB +3)
 
-Spider Climb. The lizard can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+##### Actions
 
-## Actions
+**Multiattack.** The mammoth makes two Gore attacks.
 
-Bite. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage.
+**Gore.** Melee Attack Roll: +10, reach 10 ft. Hit: 18 (2d10 + 7) Piercing damage. If the target is a Huge or smaller creature and the mammoth moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
 
-Senses
+##### Bonus Actions
 
-Passive Perception 10
+**Trample.** Dexterity Saving Throw: DC 18, one creature within 5 feet that has the Prone condition. Failure: 29 (4d10 + 7) Bludgeoning damage. Success: Half damage.
 
-Languages
+### Mastiff
 
-None
+#### Mastiff
 
-CR
+*Medium Beast, Unaligned*
 
-6 (XP 2,300; PB +3)
+**AC** 12
+**Initiative** +2 (12)
+**HP** 5 (1d8 + 1)
+**Speed** 40 ft.
 
-<!-- image -->
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +3   |
+| CHA  | 7     | -2  | -2   |
 
-Multiattack. The mammoth makes two Gore attacks.
+**Skills** Perception +5
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** None
+**CR** 1/8 (XP 25; PB +2)
 
-Gore. Melee Attack Roll: +10, reach 10 ft. Hit: 18 (2d10 + 7) Piercing damage. If the target is a Huge or smaller creature and the mammoth moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
+##### Actions
 
-## Bonus Actions
+**Bite.** Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition.
 
-Trample. Dexterity Saving Throw: DC 18, one creature within 5 feet that has the Prone condition. Failure: 29 (4d10 + 7) Bludgeoning damage. Success: Half damage.
+### Mule
 
-## Mastiff
+#### Mule
 
-<!-- image -->
+*Medium Beast, Unaligned*
 
-## Actions
+**AC** 10
+**Initiative** +0 (10)
+**HP** 11 (2d8 + 2)
+**Speed** 40 ft.
 
-Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +4   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
 
-Senses
+**Senses** Passive Perception 10
+**Languages** None
+**CR** 1/8 (XP 25; PB +2)
 
-Passive Perception 10
+##### Traits
 
-Languages
+**Beast of Burden.** The mule counts as one size larger for the purpose of determining its carrying capacity.
 
-None
+##### Actions
 
-CR
+**Hooves.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage.
 
-1/8 (XP 25; PB +2)
+### Octopus
 
-<!-- image -->
+#### Octopus
 
-Beast of Burden. The mule counts as one size larger for the purpose of determining its carrying capacity.
+*Small Beast, Unaligned*
 
-## Actions
+**AC** 12
+**Initiative** +2 (12)
+**HP** 3 (1d6)
+**Speed** 5 ft., Swim 30 ft.
 
-Hooves. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 4     | -3  | -3   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 11    | +0  | +0   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 4     | -3  | -3   |
 
-## Octopus
+**Skills** Perception +2, Stealth +6
+**Senses** Darkvision 30 ft.; Passive Perception 12
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-Small Beast, Unaligned
+##### Traits
 
-AC
+**Compression.** The octopus can move through a space as narrow as 1 inch without expending extra movement to do so.
 
-12
+**Water Breathing.** The octopus can breathe only underwater.
 
-Initiative
+##### Actions
 
-+2 (12)
+**Tentacles.** Melee Attack Roll: +4, reach 5 ft. Hit: 1 Bludgeoning damage.
 
-HP
+##### Reactions
 
-3 (1d6)
+**Ink Cloud (1/Day).** Trigger: A creature ends its turn within 5 feet of the octopus while underwater. Response: The octopus releases ink that fills a 5-foot Cube centered on itself, and the octopus moves up to its Swim Speed. The Cube is Heavily Obscured for 1 minute or until a strong current or similar effect disperses the ink.
 
-Speed
+### Owl
 
-5 ft., Swim 30 ft.
+#### Owl
 
-<!-- image -->
+*Tiny Beast, Unaligned*
 
-Skills Perception +2, Stealth +6
+**AC** 11
+**Initiative** +1 (11)
+**HP** 1 (1d4 - 1)
+**Speed** 5 ft., Fly 60 ft.
 
-Senses Darkvision 30 ft.; Passive Perception 12 Languages None
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 3     | -4  | -4   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 8     | -1  | -1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
 
-CR 0 (XP 10; PB +2)
+**Skills** Perception +5, Stealth +5
+**Senses** Darkvision 120 ft.; Passive Perception 15
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-## Traits
+##### Traits
 
-Compression. The octopus can move through a space as narrow as 1 inch without expending extra movement to do so.
+**Flyby.** The owl doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
-Water Breathing. The octopus can breathe only underwater.
+##### Actions
 
-## Actions
+**Talons.** Melee Attack Roll: +3, reach 5 ft. Hit: 1 Slashing damage.
 
-Tentacles. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Bludgeoning damage.
+### Panther
 
-## Reactions
+#### Panther
 
-Ink Cloud (1/Day). Trigger: A creature ends its turn within 5 feet of the octopus while underwater. Response: The octopus releases ink that fills a 5-foot Cube centered on itself, and the octopus moves up to its Swim Speed. The Cube is Heavily Obscured for 1 minute or until a strong current or similar effect disperses the ink.
+*Medium Beast, Unaligned*
 
-<!-- image -->
+**AC** 13
+**Initiative** +3 (13)
+**HP** 13 (3d8)
+**Speed** 50 ft., Climb 40 ft.
 
-Skills Perception +5, Stealth +5 Senses Darkvision 120 ft.; Passive Perception 15 Languages None CR 0 (XP 10; PB +2)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 10    | +0  | +0   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 14    | +2  | +2   |
+| CHA  | 7     | -2  | -2   |
 
-## Traits
+**Skills** Perception +4, Stealth +7
+**Senses** Darkvision 60 ft.; Passive Perception 14
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-Flyby. The owl doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
+##### Actions
 
-## Actions
+**Rend.** Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage.
 
-Talons. Melee Attack Roll: +3, reach 5 ft. Hit: 1 Slashing damage.
+##### Bonus Actions
 
-## Panther
+**Nimble Escape.** The panther takes the Disengage or Hide action.
 
-```
-Medium Beast, Unaligned AC 13 Initiative +3 (13) HP 13 (3d8) Speed 50 ft., Climb 40 ft.
-```
+### Piranha
 
-<!-- image -->
+#### Piranha
 
-Skills Perception +4, Stealth +7 Languages None
+*Tiny Beast, Unaligned*
 
-Senses Darkvision 60 ft.; Passive Perception 14
+**AC** 13
+**Initiative** +3 (13)
+**HP** 1 (1d4 - 1)
+**Speed** 5 ft., Swim 40 ft.
 
-CR 1/4 (XP 50; PB +2)
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 2     | -4  | -4   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 9     | -1  | -1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 7     | -2  | -2   |
+| CHA  | 2     | -4  | -4   |
 
-## Actions
+**Senses** Darkvision 60 ft.; Passive Perception 8
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage.
+##### Traits
 
-## Bonus Actions
+**Water Breathing.** The piranha can breathe only underwater.
 
-Nimble Escape. The panther takes the Disengage or Hide action.
+##### Actions
 
-<!-- image -->
+**Bite.** Melee Attack Roll: +5 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. Hit: 1 Piercing damage.
 
-Senses Darkvision 60 ft.; Passive Perception 8 Languages None CR 0 (XP 10; PB +2)
+### Plesiosaurus
 
-## Traits
+#### Plesiosaurus
 
-Water Breathing. The piranha can breathe only underwater.
+*Large Beast (Dinosaur), Unaligned*
 
-## Actions
+**AC** 13
+**Initiative** +2 (12)
+**HP** 68 (8d10 + 24)
+**Speed** 20 ft., Swim 40 ft.
 
-Bite. Melee Attack Roll: +5 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. Hit: 1 Piercing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 16    | +3  | +3   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 5     | -3  | -3   |
 
-Skills Perception +3, Stealth +4
+**Skills** Perception +3, Stealth +4
+**Senses** Passive Perception 13
+**Languages** None
+**CR** 2 (XP 450; PB +2)
 
-Senses
+##### Traits
 
-Passive Perception 13
+**Hold Breath.** The plesiosaurus can hold its breath for 1 hour.
 
-Languages
+##### Actions
 
-None
+**Bite.** Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage.
 
-CR 2 (XP 450; PB +2)
+### Polar Bear
 
-<!-- image -->
+#### Polar Bear
 
-Hold Breath. The plesiosaurus can hold its breath for 1 hour.
+*Large Beast, Unaligned*
 
-## Actions
+**AC** 12
+**Initiative** +2 (12)
+**HP** 42 (5d10 + 15)
+**Speed** 40 ft., Swim 40 ft.
 
-Bite. Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 20    | +5  | +5   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 16    | +3  | +3   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 7     | -2  | -2   |
 
-```
-Polar Bear Large Beast, Unaligned AC 12 Initiative +2 (12) HP 42 (5d10 + 15) Speed 40 ft., Swim 40 ft. MOD SAVE MOD SAVE MOD SAVE Str 20 +5 +5 Dex 14 +2 +2 Con 16 +3 +3 Int 2 -4 -4 WIS 13 +1 +1 Cha 7 -2 -2 Skills Perception +5, Stealth +4 Resistances Cold Senses Darkvision 60 ft.; Passive Perception 15 Languages None CR 2 (XP 450; PB +2)
-```
+**Skills** Perception +5, Stealth +4
+**Resistances** Cold
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** None
+**CR** 2 (XP 450; PB +2)
 
-## Actions
+##### Actions
 
-Multiattack. The bear makes two Rend attacks.
+**Multiattack.** The bear makes two Rend attacks.
 
-Rend. Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d8 + 5) Slashing damage.
+**Rend.** Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d8 + 5) Slashing damage.
 
-## Pony
+### Pony
 
-Senses
+#### Pony
 
-Passive Perception 10
+*Medium Beast, Unaligned*
 
-Languages
+**AC** 10
+**Initiative** +0 (10)
+**HP** 11 (2d8 + 2)
+**Speed** 40 ft.
 
-None
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +4   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 7     | -2  | -2   |
 
-CR
+**Senses** Passive Perception 10
+**Languages** None
+**CR** 1/8 (XP 25; PB +2)
 
-1/8 (XP 25; PB +2)
+##### Actions
 
-## Actions
+**Hooves.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage.
 
-<!-- image -->
+### Pteranodon
 
-Hooves. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage.
+#### Pteranodon
 
-## Pteranodon
+*Medium Beast (Dinosaur), Unaligned*
 
-<!-- image -->
+**AC** 13
+**Initiative** +2 (12)
+**HP** 13 (3d8)
+**Speed** 10 ft., Fly 60 ft.
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 12    | +1  | +1   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 10    | +0  | +0   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 9     | -1  | -1   |
+| CHA  | 5     | -3  | -3   |
 
-Flyby. The pteranodon doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
+**Skills** Perception +1
+**Senses** Passive Perception 11
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-## Actions
+##### Traits
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage.
+**Flyby.** The pteranodon doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
-```
-Rat Tiny Beast, Unaligned AC 10 Initiative +0 (10) HP 1 (1d4 - 1) Speed 20 ft., Climb 20 ft. MOD SAVE MOD SAVE MOD SAVE Str 2 -4 -4 Dex 11 +0 +0 Con 9 -1 -1 Int 2 -4 -4 WIS 10 +0 +0 Cha 4 -3 -3 Skills Perception +2 Senses Darkvision 30 ft.; Passive Perception 12 Languages None CR 0 (XP 10; PB +2)
-```
+##### Actions
 
-## Traits
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage.
 
-Agile. The rat doesn't provoke an Opportunity Attack when it moves out of an enemy's reach.
+### Rat
 
-## Actions
+#### Rat
 
-Bite. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage.
+*Tiny Beast, Unaligned*
 
-<!-- image -->
+**AC** 10
+**Initiative** +0 (10)
+**HP** 1 (1d4 - 1)
+**Speed** 20 ft., Climb 20 ft.
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 2     | -4  | -4   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 9     | -1  | -1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 4     | -3  | -3   |
 
-Mimicry. The raven can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful DC 10 Wisdom (Insight) check.
+**Skills** Perception +2
+**Senses** Darkvision 30 ft.; Passive Perception 12
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-## Actions
+##### Traits
 
-Beak. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage.
+**Agile.** The rat doesn't provoke an Opportunity Attack when it moves out of an enemy's reach.
 
-Skills
+##### Actions
 
-Perception +2
+**Bite.** Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage.
 
-Senses
+### Raven
 
-Blindsight 30 ft.; Passive Perception 12
+#### Raven
 
-Languages
+*Tiny Beast, Unaligned*
 
-None
+**AC** 12
+**Initiative** +2 (12)
+**HP** 2 (1d4)
+**Speed** 10 ft., Fly 50 ft.
 
-CR
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 2     | -4  | -4   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 10    | +0  | +0   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
 
-1/2 (XP 100; PB +2)
+**Skills** Perception +3
+**Senses** Passive Perception 13
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-<!-- image -->
+##### Traits
 
-## Traits
+**Mimicry.** The raven can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful DC 10 Wisdom (Insight) check.
 
-Pack Tactics. The shark has Advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+##### Actions
 
-Water Breathing. The shark can breathe only underwater.
+**Beak.** Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage.
 
-## Actions
+### Reef Shark
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Piercing damage.
+#### Reef Shark
 
-Senses
+*Medium Beast, Unaligned*
 
-Passive Perception 11
+**AC** 12
+**Initiative** +2 (12)
+**HP** 22 (4d8 + 4)
+**Speed** 5 ft., Swim 30 ft.
 
-Languages
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 13    | +1  | +1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 4     | -3  | -3   |
 
-None
+**Skills** Perception +2
+**Senses** Blindsight 30 ft.; Passive Perception 12
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-CR
+##### Traits
 
-2 (XP 450; PB +2)
+**Pack Tactics.** The shark has Advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-<!-- image -->
+**Water Breathing.** The shark can breathe only underwater.
 
-## Actions
+##### Actions
 
-Gore. Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage. If target is a Large or smaller creature and the rhinoceros moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Piercing damage.
 
-## Riding Horse
+### Rhinoceros
 
-Large Beast, Unaligned
+#### Rhinoceros
 
-AC
+*Large Beast, Unaligned*
 
-11
+**AC** 13
+**Initiative** -1 (9)
+**HP** 45 (6d10 + 12)
+**Speed** 40 ft.
 
-HP
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 21    | +5  | +5   |
+| DEX  | 8     | -1  | -1   |
+| CON  | 15    | +2  | +2   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
 
-13 (2d10 + 2)
+**Senses** Passive Perception 11
+**Languages** None
+**CR** 2 (XP 450; PB +2)
 
-Speed
+##### Actions
 
-60 ft.
+**Gore.** Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage. If target is a Large or smaller creature and the rhinoceros moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
 
-Initiative
+### Riding Horse
 
-+1 (11)
+#### Riding Horse
 
-Senses
+*Large Beast, Unaligned*
 
-Passive Perception 10
+**AC** 11
+**Initiative** +1 (11)
+**HP** 13 (2d10 + 2)
+**Speed** 60 ft.
 
-Languages
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 12    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 7     | -2  | -2   |
 
-None
+**Senses** Passive Perception 10
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-CR
+##### Actions
 
-1/4 (XP 50; PB +2)
+**Hooves.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage.
 
-<!-- image -->
+### Saber-Toothed Tiger
 
-<!-- image -->
+#### Saber-Toothed Tiger
 
-## Traits
+*Large Beast, Unaligned*
 
-Water Breathing. The seahorse can breathe only underwater.
+**AC** 13
+**Initiative** +3 (13)
+**HP** 52 (7d10 + 14)
+**Speed** 40 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +6   |
+| DEX  | 17    | +3  | +5   |
+| CON  | 15    | +2  | +2   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 8     | -1  | -1   |
 
-Bubble Dash. While underwater, the seahorse moves up to its Swim Speed without provoking Opportunity Attacks.
+**Skills** Perception +5, Stealth +7
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** None
+**CR** 2 (XP 450; PB +2)
 
-<!-- image -->
+##### Traits
 
-## Traits
+**Running Leap.** With a 10-foot running start, the tiger can Long Jump up to 25 feet.
 
-Spider Climb. The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+##### Actions
 
-Web Walker. The spider ignores movement restrictions caused by webs, and the spider knows the location of any other creature in contact with the same web.
+**Multiattack.** The tiger makes two Rend attacks.
 
-## Actions
+**Rend.** Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Slashing damage.
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage plus 2 (1d4) Poison damage.
+##### Bonus Actions
 
-## Swarm of Bats
+**Nimble Escape.** The tiger takes the Disengage or Hide action.
 
-Large Swarm of Tiny Beasts, Unaligned
+### Scorpion
 
-```
-AC 12 Initiative +2 (12) HP 11 (2d10) Speed 5 ft., Fly 30 ft.
-```
+#### Scorpion
 
-<!-- image -->
+*Tiny Beast, Unaligned*
 
-Resistances Bludgeoning, Piercing, Slashing Immunities Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned Senses Blindsight 60 ft.; Passive Perception 11 Languages None CR 1/4 (XP 50; PB +2)
+**AC** 11
+**Initiative** +0 (10)
+**HP** 1 (1d4 - 1)
+**Speed** 10 ft.
 
-## Traits
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 2     | -4  | -4   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 8     | -1  | -1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 8     | -1  | -1   |
+| CHA  | 2     | -4  | -4   |
 
-Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain Hit Points or gain Temporary Hit Points.
+**Senses** Blindsight 10 ft.; Passive Perception 9
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-## Actions
+##### Actions
 
-Bites. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (2d4) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
+**Sting.** Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage plus 3 (1d6) Poison damage.
 
-<!-- image -->
+### Seahorse
 
-## Traits
+#### Seahorse
 
-Spider Climb. If the swarm has a Climb Speed, the swarm can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+*Tiny Beast, Unaligned*
 
-Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain Hit Points or gain Temporary Hit Points.
+**AC** 12
+**Initiative** +1 (11)
+**HP** 1 (1d4 - 1)
+**Speed** 5 ft., Swim 20 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 1     | -5  | -5   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 8     | -1  | -1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 2     | -4  | -4   |
 
-Bites. Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Poison damage, or 3 (1d4 + 1) Poison damage if the swarm is Bloodied.
+**Skills** Perception +2, Stealth +5
+**Senses** Passive Perception 12
+**Languages** None
+**CR** 0 (XP 0; PB +2)
 
-<!-- image -->
+##### Traits
 
-## Traits
+**Water Breathing.** The seahorse can breathe only underwater.
 
-Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny piranha. The swarm can't regain Hit Points or gain Temporary Hit Points.
+##### Actions
 
-Water Breathing. The swarm can breathe only underwater.
+**Bubble Dash.** While underwater, the seahorse moves up to its Swim Speed without provoking Opportunity Attacks.
 
-## Actions
+### Spider
 
-Bites. Melee Attack Roll: +5 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage, or 5 (1d4 + 3) Piercing damage if the swarm is Bloodied.
+#### Spider
 
-<!-- image -->
+*Tiny Beast, Unaligned*
 
-Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain Hit Points or gain Temporary Hit Points.
+**AC** 12
+**Initiative** +2 (12)
+**HP** 1 (1d4 - 1)
+**Speed** 20 ft., Climb 20 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 2     | -4  | -4   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 8     | -1  | -1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 2     | -4  | -4   |
 
-Bites. Melee Attack Roll: +2, reach 5 ft. Hit: 5 (2d4) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
+**Skills** Stealth +4
+**Senses** Darkvision 30 ft.; Passive Perception 10
+**Languages** None
+**CR** 0 (XP 10; PB +2)
 
-<!-- image -->
+##### Traits
 
-| Swarm of Ravens                                                                                                                                                                                         |        |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Medium Swarm of Tiny Beasts, Unaligned                                                                                                                                                                  |        |
-| AC 12 Initiative +2 (12) HP 11 (2d8 + 2)                                                                                                                                                                |        |
-| Speed 10 ft., Fly 50 ft. MOD SAVE MOD SAVE MOD SAVE                                                                                                                                                     |        |
-| S tr 6 -2 -2 Dex 14 +2 +2 Con 12 +1 +1                                                                                                                                                                  |        |
-| I nt 5 -3 -3 WIS 12 +1 +1 Cha 6 -2 -2                                                                                                                                                                   |        |
-| Skills Perception +5 Resistances Bludgeoning, Piercing, Slashing Immunities Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned Senses Passive Perception 15 Languages None |        |
-| CR 1/4 (XP 50; PB +2)                                                                                                                                                                                   |        |
-|                                                                                                                                                                                                         | Traits |
+**Spider Climb.** The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain Hit Points or gain Temporary Hit Points.
+**Web Walker.** The spider ignores movement restrictions caused by webs, and the spider knows the location of any other creature in contact with the same web.
 
-## Actions
+##### Actions
 
-Beaks. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage plus 2 (1d4) Poison damage.
 
-Cacophony (Recharge 6). Wisdom Saving Throw: DC 10, one creature in the swarm's space. Failure: The target has the Deafened condition until the start of the swarm's next turn. While Deafened, the target also has Disadvantage on ability checks and attack rolls.
+### Swarm of Bats
 
-<!-- image -->
+#### Swarm of Bats
 
-## Traits
+*Large Swarm of Tiny Beasts, Unaligned*
 
-Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain Hit Points or gain Temporary Hit Points.
+**AC** 12
+**Initiative** +2 (12)
+**HP** 11 (2d10)
+**Speed** 5 ft., Fly 30 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 5     | -3  | -3   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 10    | +0  | +0   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 4     | -3  | -3   |
 
-Bites. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage-or 6 (1d4 + 4) Piercing damage if the swarm is Bloodied-plus 10 (3d6) Poison damage.
+**Resistances** Bludgeoning, Piercing, Slashing
+**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+**Senses** Blindsight 60 ft.; Passive Perception 11
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
 
-Skills Perception +3, Stealth +7 Senses Darkvision 60 ft.; Passive Perception 13 Languages None CR 1 (XP 200; PB +2)
+##### Traits
 
-## Actions
+**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain Hit Points or gain Temporary Hit Points.
 
-<!-- image -->
+##### Actions
 
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
+**Bites.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (2d4) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
 
-## Bonus Actions
+### Swarm of Insects
 
-Nimble Escape. The tiger takes the Disengage or Hide action.
+#### Swarm of Insects
 
-<!-- image -->
+*Medium Swarm of Tiny Beasts, Unaligned*
 
-## Actions
+**AC** 11
+**Initiative** +1 (11)
+**HP** 19 (3d8 + 6)
+**Speed** 20 ft., Climb or Fly 20 ft. (GM's choice)
 
-Multiattack. The triceratops makes two Gore attacks.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 3     | -4  | -4   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 14    | +2  | +2   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 7     | -2  | -2   |
+| CHA  | 1     | -5  | -5   |
 
-Gore. Melee Attack Roll: +9, reach 5 ft. Hit: 19 (2d12 + 6) Piercing damage. If the target is Huge or smaller and the triceratops moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
+**Resistances** Bludgeoning, Piercing, Slashing
+**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+**Senses** Blindsight 30 ft.; Passive Perception 8
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
 
-<!-- image -->
+##### Traits
 
-## Actions
+**Spider Climb.** If the swarm has a Climb Speed, the swarm can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-Multiattack. The tyrannosaurus makes one Bite attack and one Tail attack.
+**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain Hit Points or gain Temporary Hit Points.
 
-Bite. Melee Attack Roll: +10, reach 10 ft. Hit: 33 (4d12 + 7) Piercing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17). While Grappled, the target has the Restrained condition and can't be targeted by the tyrannosaurus's Tail.
+##### Actions
 
-Tail. Melee Attack Roll: +10, reach 15 ft. Hit: 25 (4d8 + 7) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
+**Bites.** Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Poison damage, or 3 (1d4 + 1) Poison damage if the swarm is Bloodied.
 
-<!-- image -->
+### Swarm of Piranhas
 
-<!-- image -->
+#### Swarm of Piranhas
 
-## Traits
+*Medium Swarm of Tiny Beasts, Unaligned*
 
-Pack Tactics. The vulture has Advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+**AC** 13
+**Initiative** +3 (13)
+**HP** 28 (8d8 - 8)
+**Speed** 5 ft., Swim 40 ft.
 
-## Actions
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 13    | +1  | +1   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 9     | -1  | -1   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 7     | -2  | -2   |
+| CHA  | 2     | -4  | -4   |
 
-Beak. Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Piercing damage.
+**Resistances** Bludgeoning, Piercing, Slashing
+**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+**Senses** Darkvision 60 ft.; Passive Perception 8
+**Languages** None
+**CR** 1 (XP 200; PB +2)
 
-<!-- image -->
+##### Traits
 
-## Actions
+**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny piranha. The swarm can't regain Hit Points or gain Temporary Hit Points.
 
-Hooves. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4) Bludgeoning damage. If the target is a Large or smaller creature and the horse moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
+**Water Breathing.** The swarm can breathe only underwater.
 
-<!-- image -->
+##### Actions
 
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 1 Piercing damage.
+**Bites.** Melee Attack Roll: +5 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage, or 5 (1d4 + 3) Piercing damage if the swarm is Bloodied.
 
-<!-- image -->
+### Swarm of Rats
 
-## Traits
+#### Swarm of Rats
 
-Pack Tactics. The wolf has Advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+*Medium Swarm of Tiny Beasts, Unaligned*
 
-## Actions
+**AC** 10
+**Initiative** +0 (10)
+**HP** 14 (4d8 - 4)
+**Speed** 30 ft., Climb 30 ft.
 
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition.
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 9     | -1  | -1   |
+| DEX  | 11    | +0  | +2   |
+| CON  | 9     | -1  | -1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
+
+**Resistances** Bludgeoning, Piercing, Slashing
+**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+**Senses** Darkvision 30 ft.; Passive Perception 10
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
+
+##### Traits
+
+**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain Hit Points or gain Temporary Hit Points.
+
+##### Actions
+
+**Bites.** Melee Attack Roll: +2, reach 5 ft. Hit: 5 (2d4) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
+
+### Swarm of Ravens
+
+#### Swarm of Ravens
+
+*Medium Swarm of Tiny Beasts, Unaligned*
+
+**AC** 12
+**Initiative** +2 (12)
+**HP** 11 (2d8 + 2)
+**Speed** 10 ft., Fly 50 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 6     | -2  | -2   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 5     | -3  | -3   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
+
+**Skills** Perception +5
+**Resistances** Bludgeoning, Piercing, Slashing
+**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+**Senses** Passive Perception 15
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
+
+##### Traits
+
+**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain Hit Points or gain Temporary Hit Points.
+
+##### Actions
+
+**Beaks.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
+
+**Cacophony (Recharge 6).** Wisdom Saving Throw: DC 10, one creature in the swarm's space. Failure: The target has the Deafened condition until the start of the swarm's next turn. While Deafened, the target also has Disadvantage on ability checks and attack rolls.
+
+### Swarm of Venomous Snakes
+
+#### Swarm of Venomous Snakes
+
+*Medium Swarm of Tiny Beasts, Unaligned*
+
+**AC** 14
+**Initiative** +4 (14)
+**HP** 36 (8d8)
+**Speed** 30 ft., Swim 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 8     | -1  | -1   |
+| DEX  | 18    | +4  | +4   |
+| CON  | 11    | +0  | +0   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
+
+**Resistances** Bludgeoning, Piercing, Slashing
+**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+**Senses** Blindsight 10 ft.; Passive Perception 10
+**Languages** None
+**CR** 2 (XP 450; PB +2)
+
+##### Traits
+
+**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain Hit Points or gain Temporary Hit Points.
+
+##### Actions
+
+**Bites.** Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage—or 6 (1d4 + 4) Piercing damage if the swarm is Bloodied—plus 10 (3d6) Poison damage.
+
+### Tiger
+
+#### Tiger
+
+*Large Beast, Unaligned*
+
+**AC** 13
+**Initiative** +3 (13)
+**HP** 30 (4d10 + 8)
+**Speed** 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 14    | +2  | +2   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 8     | -1  | -1   |
+
+**Skills** Perception +3, Stealth +7
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 1 (XP 200; PB +2)
+
+##### Actions
+
+**Rend.** Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
+
+##### Bonus Actions
+
+**Nimble Escape.** The tiger takes the Disengage or Hide action.
+
+### Triceratops
+
+#### Triceratops
+
+*Huge Beast (Dinosaur), Unaligned*
+
+**AC** 14
+**Initiative** -1 (9)
+**HP** 114 (12d12 + 36)
+**Speed** 50 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 22    | +6  | +6   |
+| DEX  | 9     | -1  | -1   |
+| CON  | 17    | +3  | +3   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
+
+**Senses** Passive Perception 10
+**Languages** None
+**CR** 5 (XP 1,800; PB +3)
+
+##### Actions
+
+**Multiattack.** The triceratops makes two Gore attacks.
+
+**Gore.** Melee Attack Roll: +9, reach 5 ft. Hit: 19 (2d12 + 6) Piercing damage. If the target is Huge or smaller and the triceratops moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
+
+### Tyrannosaurus Rex
+
+#### Tyrannosaurus Rex
+
+*Huge Beast (Dinosaur), Unaligned*
+
+**AC** 13
+**Initiative** +3 (13)
+**HP** 136 (13d12 + 52)
+**Speed** 50 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 25    | +7  | +10  |
+| DEX  | 10    | +0  | +0   |
+| CON  | 19    | +4  | +4   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +4   |
+| CHA  | 9     | -1  | -1   |
+
+**Skills** Perception +4
+**Senses** Passive Perception 14
+**Languages** None
+**CR** 8 (XP 3,900; PB +3)
+
+##### Actions
+
+**Multiattack.** The tyrannosaurus makes one Bite attack and one Tail attack.
+
+**Bite.** Melee Attack Roll: +10, reach 10 ft. Hit: 33 (4d12 + 7) Piercing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17). While Grappled, the target has the Restrained condition and can't be targeted by the tyrannosaurus's Tail.
+
+**Tail.** Melee Attack Roll: +10, reach 15 ft. Hit: 25 (4d8 + 7) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
+
+### Venomous Snake
+
+#### Venomous Snake
+
+*Tiny Beast, Unaligned*
+
+**AC** 12
+**Initiative** +2 (12)
+**HP** 5 (2d4)
+**Speed** 30 ft., Swim 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 2     | -4  | -4   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 11    | +0  | +0   |
+| INT  | 1     | -5  | -5   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
+
+**Senses** Blindsight 10 ft.; Passive Perception 10
+**Languages** None
+**CR** 1/8 (XP 25; PB +2)
+
+##### Actions
+
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage plus 3 (1d6) Poison damage.
+
+### Vulture
+
+#### Vulture
+
+*Medium Beast, Unaligned*
+
+**AC** 10
+**Initiative** +0 (10)
+**HP** 5 (1d8 + 1)
+**Speed** 10 ft., Fly 50 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 7     | -2  | -2   |
+| DEX  | 10    | +0  | +0   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 4     | -3  | -3   |
+
+**Skills** Perception +3
+**Senses** Passive Perception 13
+**Languages** None
+**CR** 0 (XP 10; PB +2)
+
+##### Traits
+
+**Pack Tactics.** The vulture has Advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+
+##### Actions
+
+**Beak.** Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Piercing damage.
+
+### Warhorse
+
+#### Warhorse
+
+*Large Beast, Unaligned*
+
+**AC** 11
+**Initiative** +1 (11)
+**HP** 19 (3d10 + 3)
+**Speed** 60 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 12    | +1  | +1   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +3   |
+| CHA  | 7     | -2  | -2   |
+
+**Senses** Passive Perception 11
+**Languages** None
+**CR** 1/2 (XP 100; PB +2)
+
+##### Actions
+
+**Hooves.** Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4) Bludgeoning damage. If the target is a Large or smaller creature and the horse moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
+
+### Weasel
+
+#### Weasel
+
+*Tiny Beast, Unaligned*
+
+**AC** 13
+**Initiative** +3 (13)
+**HP** 1 (1d4 - 1)
+**Speed** 30 ft., Climb 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 3     | -4  | -4   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 8     | -1  | -1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 3     | -4  | -4   |
+
+**Skills** Acrobatics +5, Perception +3, Stealth +5
+**Senses** Darkvision 60 ft.; Passive Perception 13
+**Languages** None
+**CR** 0 (XP 10; PB +2)
+
+##### Actions
+
+**Bite.** Melee Attack Roll: +5, reach 5 ft. Hit: 1 Piercing damage.
+
+### Wolf
+
+#### Wolf
+
+*Medium Beast, Unaligned*
+
+**AC** 12
+**Initiative** +2 (12)
+**HP** 11 (2d8 + 2)
+**Speed** 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 15    | +2  | +2   |
+| CON  | 12    | +1  | +1   |
+| INT  | 3     | -4  | -4   |
+| WIS  | 12    | +1  | +1   |
+| CHA  | 6     | -2  | -2   |
+
+**Skills** Perception +5, Stealth +4
+**Senses** Darkvision 60 ft.; Passive Perception 15
+**Languages** None
+**CR** 1/4 (XP 50; PB +2)
+
+##### Traits
+
+**Pack Tactics.** The wolf has Advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+
+##### Actions
+
+**Bite.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition.
