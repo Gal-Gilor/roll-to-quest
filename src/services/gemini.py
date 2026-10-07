@@ -35,7 +35,7 @@ RETRYABLE_STATUS_CODES = (429, 500, 503)
 
 def _is_retryable(exception: Exception) -> bool:
     """Return True if the exception is a transient API error worth retrying."""
-    return isinstance(exception, APIError) and exception.status_code in RETRYABLE_STATUS_CODES
+    return isinstance(exception, APIError) and exception.code in RETRYABLE_STATUS_CODES
 
 
 def gemini_async_retry(
