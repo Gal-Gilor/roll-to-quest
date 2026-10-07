@@ -1,4 +1,4 @@
-## Magic Items A–Z
+## Magic Items A-Z
 
 Magic items are presented in alphabetical order.
 
@@ -59,7 +59,7 @@ While wearing this amulet, you can't be targeted by Divination spells or perceiv
 
 *Wondrous Item, Very Rare (Requires Attunement)*
 
-While wearing this amulet, you can take a Magic action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence (Arcana) check. On a successful check, you cast Plane Shift . On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling 1d100 and consulting the following table.
+While wearing this amulet, you can take a Magic action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence (Arcana) check. On a successful check, you cast Plane Shift. On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling 1d100 and consulting the following table.
 
 ##### 1d100 Destination
 
@@ -194,11 +194,11 @@ If the bag is pierced or torn, it is destroyed, and anything contained within it
 
 *Wondrous Item, Uncommon*
 
-This bag has an interior space considerably larger than its outside dimensions-roughly 2 feet square and 4 feet deep on the inside. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 5 pounds, regardless of its contents. Retrieving an item from the bag requires a Utilize action.
+This bag has an interior space considerably larger than its outside dimensions—roughly 2 feet square and 4 feet deep on the inside. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 5 pounds, regardless of its contents. Retrieving an item from the bag requires a Utilize action.
 
 If the bag is overloaded, pierced, or torn, it is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth unharmed, but the bag must be put right before it can be used again. The bag holds enough air for 10 minutes of breathing, divided by the number of breathing creatures inside.
 
-Placing a Bag of Holding inside an extradimensional space created by a Handy Haversack , Portable Hole , or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within a 10-foot-radius Sphere centered on the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way and can't be reopened.
+Placing a Bag of Holding inside an extradimensional space created by a Handy Haversack, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within a 10-foot-radius Sphere centered on the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way and can't be reopened.
 
 ### Bag of Tricks
 
@@ -352,7 +352,7 @@ These furred boots are snug and feel warm. While wearing them, you gain the foll
 
 *Wondrous Item, Rare*
 
-While this bowl is filled with water and you are within 5 feet of it, you can take a Magic action to summon a Water Elemental . The elemental appears in an unoccupied space as close to the bowl as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The bowl can't be used this way again until the next dawn.
+While this bowl is filled with water and you are within 5 feet of it, you can take a Magic action to summon a Water Elemental. The elemental appears in an unoccupied space as close to the bowl as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The bowl can't be used this way again until the next dawn.
 
 The bowl is about 1 foot in diameter and half as deep. It holds about 3 gallons.
 
@@ -372,7 +372,7 @@ While wearing these bracers, you gain a +2 bonus to Armor Class if you are weari
 
 *Wondrous Item, Rare*
 
-While you are within 5 feet of this brazier, you can take a Magic action to summon a Fire Elemental . The elemental appears in an unoccupied space as close to the brazier as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The brazier can't be used this way again until the next dawn.
+While you are within 5 feet of this brazier, you can take a Magic action to summon a Fire Elemental. The elemental appears in an unoccupied space as close to the brazier as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The brazier can't be used this way again until the next dawn.
 
 ### Brooch of Shielding
 
@@ -444,13 +444,13 @@ Four sizes of Carpet of Flying exist. The GM chooses the size of a given carpet 
 
 *Wondrous Item, Rare*
 
-While gently swinging this censer, you can take a Magic action to summon an Air Elemental . The elemental appears in an unoccupied space as close to the censer as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The censer can't be used this way again until the next dawn.
+While gently swinging this censer, you can take a Magic action to summon an Air Elemental. The elemental appears in an unoccupied space as close to the censer as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The censer can't be used this way again until the next dawn.
 
 ### Chime of Opening
 
 *Wondrous Item, Rare*
 
-This hollow metal tube measures about 1 foot long and weighs 1 pound. As a Magic action, you can strike the chime to cast Knock . The spell's customary knocking sound is replaced by the clear, ringing tone of the chime, which is audible out to 300 feet.
+This hollow metal tube measures about 1 foot long and weighs 1 pound. As a Magic action, you can strike the chime to cast Knock. The spell's customary knocking sound is replaced by the clear, ringing tone of the chime, which is audible out to 300 feet.
 
 The chime can be used 10 times. After the tenth time, it cracks and becomes useless.
 
@@ -504,7 +504,7 @@ You gain a +1 bonus to Armor Class and saving throws while you wear this cloak.
 
 While wearing this cloak, you have Advantage on Dexterity (Stealth) checks. In an area of Dim Light or Darkness, you can grip the edges of the cloak and use it to gain a Fly Speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in Dim Light or Darkness, you lose this Fly Speed.
 
-While wearing the cloak in an area of Dim Light or Darkness, you can cast Polymorph on yourself, shape-shifting into a Bat . While in that form, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
+While wearing the cloak in an area of Dim Light or Darkness, you can cast Polymorph on yourself, shape-shifting into a Bat. While in that form, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
 
 ### Cloak of the Manta Ray
 
@@ -563,9 +563,9 @@ This cube is 3 inches across and radiates palpable magical energy. The six sides
 
 The cube has 3 charges and regains 1d3 expended charges daily at dawn. As a Magic action, you can expend 1 of the cube's charges to cast one of the following spells using the cube.
 
-**Gate.** Pressing one side of the cube, you cast Gate , opening a portal to the plane of existence keyed to that side.
+**Gate.** Pressing one side of the cube, you cast Gate, opening a portal to the plane of existence keyed to that side.
 
-**Plane Shift.** Pressing one side of the cube twice, you cast Plane Shift , transporting the targets to the plane of existence keyed to that side.
+**Plane Shift.** Pressing one side of the cube twice, you cast Plane Shift, transporting the targets to the plane of existence keyed to that side.
 
 ### Dagger of Venom
 
@@ -740,13 +740,13 @@ This powder resembles fine sand. There is enough of it for one use. When you tak
 
 This small packet contains 1d6 + 4 pinches of dust. As a Utilize action, you can sprinkle a pinch of the dust over water, turning up to a 15-foot Cube of water into one marble-sized pellet, which floats or rests near where the dust was sprinkled. The pellet's weight is negligible. A creature can take a Utilize action to smash the pellet against a hard surface, causing the pellet to shatter and release the water the dust absorbed. Doing so destroys the pellet and ends its magic.
 
-As a Utilize action, you can sprinkle a pinch of the dust on an Elemental within 5 feet of yourself that is composed mostly of water (such as a Water Elemental ). Such a creature exposed to a pinch of the dust makes a DC 13 Constitution saving throw, taking 10d6 Necrotic damage on a failed save or half as much damage on a successful one.
+As a Utilize action, you can sprinkle a pinch of the dust on an Elemental within 5 feet of yourself that is composed mostly of water (such as a Water Elemental). Such a creature exposed to a pinch of the dust makes a DC 13 Constitution saving throw, taking 10d6 Necrotic damage on a failed save or half as much damage on a successful one.
 
 ### Dust of Sneezing and Choking
 
 *Wondrous Item, Uncommon*
 
-Found in a small container, this powder resembles Dust of Disappearance , and Identify reveals it to be such. There is enough of it for one use.
+Found in a small container, this powder resembles Dust of Disappearance, and Identify reveals it to be such. There is enough of it for one use.
 
 As a Utilize action, you can throw the dust into the air, forcing yourself and every creature in a 30-foot Emanation originating from you to make a DC 15 Constitution saving throw. Constructs, Elementals, Oozes, Plants, and Undead succeed on the save automatically.
 
@@ -861,17 +861,17 @@ These crystal lenses fit over the eyes. While wearing them, you have Advantage o
 
 This object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly by rolling on the Feather Tokens table. The type of token determines its rarity.
 
-Anchor (Uncommon). You can take a Magic action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
+**Anchor (Uncommon).** You can take a Magic action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
 
-Bird (Rare). You can take a Magic action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a Roc , but it can't attack. It obeys your simple commands and can carry up to 500 pounds while flying at its maximum speed (16 miles per hour for a maximum of 144 miles per day, with a 1-hour rest for every 3 hours of flying) or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 Hit Points. You can dismiss the bird as a Magic action.
+**Bird (Rare).** You can take a Magic action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a Roc, but it can't attack. It obeys your simple commands and can carry up to 500 pounds while flying at its maximum speed (16 miles per hour for a maximum of 144 miles per day, with a 1-hour rest for every 3 hours of flying) or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 Hit Points. You can dismiss the bird as a Magic action.
 
-Fan (Uncommon). If you are on a boat or ship, you can take a Magic action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a strong wind. This wind can fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as a Magic action.
+**Fan (Uncommon).** If you are on a boat or ship, you can take a Magic action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a strong wind. This wind can fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as a Magic action.
 
-Swan Boat (Rare). You can take a Magic action to touch the token to a body of water at least 60 feet in diameter. The token disappears, and a 50-foot-long, 20-foot-wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can take a Magic action while on the boat to command it to move or to turn up to 90 degrees. The boat remains for 24 hours and then disappears. You can dismiss the boat as a Magic action.
+**Swan Boat (Rare).** You can take a Magic action to touch the token to a body of water at least 60 feet in diameter. The token disappears, and a 50-foot-long, 20-foot-wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can take a Magic action while on the boat to command it to move or to turn up to 90 degrees. The boat remains for 24 hours and then disappears. You can dismiss the boat as a Magic action.
 
-Tree (Uncommon). You must be outdoors to use this token. You can take a Magic action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius.
+**Tree (Uncommon).** You must be outdoors to use this token. You can take a Magic action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius.
 
-Whip (Rare). You can take a Magic action to throw the token to a point within 10 feet of yourself. The token disappears, and a floating whip takes its place. You can then take a Bonus Action to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes 1d6 + 5 Force damage.
+**Whip (Rare).** You can take a Magic action to throw the token to a point within 10 feet of yourself. The token disappears, and a floating whip takes its place. You can then take a Bonus Action to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes 1d6 + 5 Force damage.
 
 As a Bonus Action, you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of the whip. The whip disappears after 1 hour, when you take a Magic action to dismiss it, or when you die or have the Incapacitated condition.
 
@@ -896,47 +896,53 @@ The creature is Friendly to you and your allies. It understands your languages, 
 
 The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if its creature form drops to 0 Hit Points or if you take a Magic action while touching the creature to make it revert to figurine form. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.
 
-Bronze Griffon (Rare). This bronze statuette is of a griffon rampant. It can become a Griffon for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
+**Bronze Griffon (Rare).** This bronze statuette is of a griffon rampant. It can become a Griffon for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
 
-Ebony Fly (Rare). This ebony statuette, carved in the likeness of a horsefly, can become a Giant Fly (see the accompanying stat block) for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
+**Ebony Fly (Rare).** This ebony statuette, carved in the likeness of a horsefly, can become a Giant Fly (see the accompanying stat block) for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
 
 #### Giant Fly
 
 *Large Beast, Unaligned*
 
-**AC** 11 **Initiative** +1 (11) **HP** 19 (3d10 + 3)
-
+**AC** 11
+**Initiative** +1 (11)
+**HP** 19 (3d10 + 3)
 **Speed** 30 ft., Fly 60 ft.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 14 (+2) | 13 (+1) | 13 (+1) | 2 (−4) | 10 (+0) | 3 (−4) |
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 14    | +2  | +2   |
+| DEX  | 13    | +1  | +1   |
+| CON  | 13    | +1  | +1   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 3     | -4  | -4   |
 
 **Senses** Darkvision 60 ft., Passive Perception 10
 **Languages** None
 **CR** 0 (XP 0; PB +2)
 
-Golden Lions (Rare). These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a Lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.
+**Golden Lions (Rare).** These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a Lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.
 
-Ivory Goats (Rare). These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others. Their properties are as follows:
+**Ivory Goats (Rare).** These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others. Their properties are as follows:
 
-Goat of Terror. This figurine can become a Giant Goat for up to 3 hours. The goat can't attack, but you can (harmlessly) remove its horns and use them as weapons. One horn becomes a +1 Lance , and the other becomes a +2 Longsword . Removing a horn requires a Magic action, and the weapons disappear and the horns return when the goat reverts to figurine form. While you ride the goat, any Hostile creature that starts its turn within a 30-foot Emanation originating from the goat must succeed on a DC 15 Wisdom saving throw or have the Frightened condition for 1 minute, until you are no longer riding the goat, or until the goat reverts to figurine form. The Frightened creature repeats the save at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the save, a creature is immune to this effect for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.
+**Goat of Terror.** This figurine can become a Giant Goat for up to 3 hours. The goat can't attack, but you can (harmlessly) remove its horns and use them as weapons. One horn becomes a +1 Lance, and the other becomes a +2 Longsword. Removing a horn requires a Magic action, and the weapons disappear and the horns return when the goat reverts to figurine form. While you ride the goat, any Hostile creature that starts its turn within a 30-foot Emanation originating from the goat must succeed on a DC 15 Wisdom saving throw or have the Frightened condition for 1 minute, until you are no longer riding the goat, or until the goat reverts to figurine form. The Frightened creature repeats the save at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the save, a creature is immune to this effect for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.
 
-Goat of Traveling. This figurine can become a Large goat with the same statistics as a Riding Horse . It has 24 charges, and each hour or portion thereof it spends in goat form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all expended charges.
+**Goat of Traveling.** This figurine can become a Large goat with the same statistics as a Riding Horse. It has 24 charges, and each hour or portion thereof it spends in goat form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all expended charges.
 
-Goat of Travail. This figurine can become a Giant Goat for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.
+**Goat of Travail.** This figurine can become a Giant Goat for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.
 
-Marble Elephant (Rare). This marble statuette resembles a trumpeting elephant. It can become an Elephant for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
+**Marble Elephant (Rare).** This marble statuette resembles a trumpeting elephant. It can become an Elephant for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
 
-Obsidian Steed (Very Rare). This polished obsidian horse can become a Nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.
+**Obsidian Steed (Very Rare).** This polished obsidian horse can become a Nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.
 
 The figurine has a 10 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the plane of Hades, where the nightmare reverts to figurine form.
 
-Onyx Dog (Rare). This onyx statuette of a dog can become a Mastiff for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has Blindsight with a range of 60 feet. Once it has been used, it can't be used again until 7 days have passed.
+**Onyx Dog (Rare).** This onyx statuette of a dog can become a Mastiff for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has Blindsight with a range of 60 feet. Once it has been used, it can't be used again until 7 days have passed.
 
-Serpentine Owl (Rare). This serpentine statuette of an owl can become a Giant Owl for up to 8 hours. The owl can communicate telepathically with you at any range if you and it are on the same plane of existence. Once it has been used, it can't be used again until 2 days have passed.
+**Serpentine Owl (Rare).** This serpentine statuette of an owl can become a Giant Owl for up to 8 hours. The owl can communicate telepathically with you at any range if you and it are on the same plane of existence. Once it has been used, it can't be used again until 2 days have passed.
 
-Silver Raven (Uncommon). This silver statuette of a raven can become a Raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine grants you the ability to cast Animal Messenger on it.
+**Silver Raven (Uncommon).** This silver statuette of a raven can become a Raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine grants you the ability to cast Animal Messenger on it.
 
 ### Flame Tongue
 
@@ -950,9 +956,9 @@ While holding this magic weapon, you can take a Bonus Action and use a command w
 
 This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring a Magic action to use:
 
-- First Command Word. The box unfolds into a Rowboat.
-- Second Command Word. The box unfolds into a Keelboat.
-- Third Command Word. The Folding Boat folds back into a box if no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so.
+- **First Command Word.** The box unfolds into a Rowboat.
+- **Second Command Word.** The box unfolds into a Keelboat.
+- **Third Command Word.** The Folding Boat folds back into a box if no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so.
 
 When the box becomes a vessel, its weight becomes that of a normal vessel its size, and anything that was stored in the box remains in the boat.
 
@@ -980,9 +986,9 @@ Your Strength is 19 while you wear these gauntlets. They have no effect on you i
 
 This prism has 50 charges. While you are holding it, you can take a Magic action and use one of three command words to cause one of the following effects:
 
-- First Command Word. The gem sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. This effect doesn't expend a charge. It lasts until you take a Bonus Action to repeat the command word or until you use another function of the gem.
-- Second Command Word. You expend 1 charge and cause the gem to fire a brilliant beam of light at one creature you can see within 60 feet of yourself. The creature must succeed on a DC 15 Constitution saving throw or have the Blinded condition for 1 minute. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
-- Third Command Word. You expend 5 charges and cause the gem to flare with intense light in a 30-foot Cone. Each creature in the Cone makes a saving throw as if struck by the beam created with the second command word.
+- **First Command Word.** The gem sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. This effect doesn't expend a charge. It lasts until you take a Bonus Action to repeat the command word or until you use another function of the gem.
+- **Second Command Word.** You expend 1 charge and cause the gem to fire a brilliant beam of light at one creature you can see within 60 feet of yourself. The creature must succeed on a DC 15 Constitution saving throw or have the Blinded condition for 1 minute. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
+- **Third Command Word.** You expend 5 charges and cause the gem to flare with intense light in a 30-foot Cone. Each creature in the Cone makes a saving throw as if struck by the beam created with the second command word.
 
 When all of the gem's charges are expended, the gem becomes a nonmagical jewel worth 50 GP.
 
@@ -1057,7 +1063,7 @@ If any of its pouches is overloaded, pierced, or torn, the haversack ruptures an
 
 Each pouch of the haversack holds enough air for 10 minutes of breathing, divided by the number of breathing creatures inside.
 
-Placing the haversack inside an extradimensional space created by a Bag of Holding , Portable Hole , or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing the haversack inside an extradimensional space created by a Bag of Holding, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ### Hat of Disguise
 
@@ -1079,17 +1085,17 @@ Any spell you cast from the hat uses your spell save DC and spell attack bonus.
 
 ##### 1d100 Effect
 
-- 01-50 You cast a random spell determined by rolling 1d10: on a 1 , Enlarge/Reduce (enlarge effect); on a 2 , Enlarge/Reduce (reduce effect); on a 3 , Faerie Fire ; on a 4 , Fireball ; on a 5 , Gust of Wind ; on a 6 , Invisibility (cast on yourself); on a 7 , Lightning Bolt ; on an 8 , Phantasmal Force ; on a 9 , Polymorph ; on a 10 , Stinking Cloud .
+- 01-50 You cast a random spell determined by rolling 1d10: on a 1, Enlarge/Reduce (enlarge effect); on a 2, Enlarge/Reduce (reduce effect); on a 3, Faerie Fire; on a 4, Fireball; on a 5, Gust of Wind; on a 6, Invisibility (cast on yourself); on a 7, Lightning Bolt; on an 8, Phantasmal Force; on a 9, Polymorph; on a 10, Stinking Cloud.
 - 51-55 You have the Stunned condition until the end of your next turn, believing something awesome just happened.
 - 56-60 A harmless swarm of butterflies fills a 10-foot Cube within 30 feet of yourself. The swarm disperses after 1 minute.
-- 61-65 You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1 , a vial of Acid; on a 2 , a flask of Alchemist's Fire; on a 3 , a Crowbar; on a 4 , a lit Torch.
+- 61-65 You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1, a vial of Acid; on a 2, a flask of Alchemist's Fire; on a 3, a Crowbar; on a 4, a lit Torch.
 - 66-70 You suffer a bout of 'magic sickness' and have the Poisoned condition for 1 hour.
 - 71-75 You have the Petrified condition until the end of your next turn.
-- 76-80 You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1 , a Dagger; on a 2 , a Rope with a Grappling Hook tied to one end; on a 3 , a bag of Caltrops; on a 4 , a gem worth 50 GP.
-- 81-85 A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a 1 , a Camel ; on a 2 , a Constrictor Snake ; on a 3 , an Elephant ; on a 4 , a Mule .
+- 76-80 You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1, a Dagger; on a 2, a Rope with a Grappling Hook tied to one end; on a 3, a bag of Caltrops; on a 4, a gem worth 50 GP.
+- 81-85 A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a 1, a Camel; on a 2, a Constrictor Snake; on a 3, an Elephant; on a 4, a Mule.
 - 86-90 A Hostile Swarm of Bats flies out of the hat, occupies your space, and attacks you.
 - 91-95 A vertical, 10-foot-diameter, two-way portal to another plane of existence opens in an unoccupied space within 30 feet of you and remains open until the end of your next turn. The GM determines where it leads.
-- 96-00 You pull a magic item out of the hat. Roll 1d6 to determine the item's rarity: on a 1-3 , Common; on a 4-5 , Uncommon; on a 6 , Rare. The GM chooses the item, which disappears after 1 hour if it's not consumed or destroyed before then.
+- 96-00 You pull a magic item out of the hat. Roll 1d6 to determine the item's rarity: on a 1-3, Common; on a 4-5, Uncommon; on a 6, Rare. The GM chooses the item, which disappears after 1 hour if it's not consumed or destroyed before then.
 
 ### Headband of Intellect
 
@@ -1212,37 +1218,37 @@ As a Utilize action, you can seize and stow any number of Ioun Stones orbiting y
 
 The type of stone determines its rarity and effects.
 
-Absorption (Very Rare). While this pale lavender ellipsoid orbits your head, you can take a Reaction to cancel a spell of level 4 or lower cast by a creature you can see. A canceled spell has no effect, and any resources used to cast it are wasted. Once the stone has canceled 20 levels of spells, it burns out, turns dull gray, and loses its magic.
+**Absorption (Very Rare).** While this pale lavender ellipsoid orbits your head, you can take a Reaction to cancel a spell of level 4 or lower cast by a creature you can see. A canceled spell has no effect, and any resources used to cast it are wasted. Once the stone has canceled 20 levels of spells, it burns out, turns dull gray, and loses its magic.
 
-Agility (Very Rare). Your Dexterity increases by 2, to a maximum of 20, while this deep-red sphere orbits your head.
+**Agility (Very Rare).** Your Dexterity increases by 2, to a maximum of 20, while this deep-red sphere orbits your head.
 
-Awareness (Rare). While this dark-blue rhomboid orbits your head, you have Advantage on Initiative rolls and Wisdom (Perception) checks.
+**Awareness (Rare).** While this dark-blue rhomboid orbits your head, you have Advantage on Initiative rolls and Wisdom (Perception) checks.
 
-Fortitude (Very Rare). Your Constitution increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.
+**Fortitude (Very Rare).** Your Constitution increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.
 
-Greater Absorption (Legendary). While this marbled lavender and green ellipsoid orbits your head, you can take a Reaction to cancel a spell of level 8 or lower cast by a creature you can see. A canceled spell has no effect, and any resources used to cast it are wasted. Once the stone has canceled 20 levels of spells, it burns out, turns dull gray, and loses its magic.
+**Greater Absorption (Legendary).** While this marbled lavender and green ellipsoid orbits your head, you can take a Reaction to cancel a spell of level 8 or lower cast by a creature you can see. A canceled spell has no effect, and any resources used to cast it are wasted. Once the stone has canceled 20 levels of spells, it burns out, turns dull gray, and loses its magic.
 
-Insight (Very Rare). Your Wisdom increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.
+**Insight (Very Rare).** Your Wisdom increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.
 
-Intellect (Very Rare). Your Intelligence increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.
+**Intellect (Very Rare).** Your Intelligence increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.
 
-Leadership (Very Rare). Your Charisma increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head.
+**Leadership (Very Rare).** Your Charisma increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head.
 
-Mastery (Legendary). Your Proficiency Bonus increases by 1 while this pale green prism orbits your head.
+**Mastery (Legendary).** Your Proficiency Bonus increases by 1 while this pale green prism orbits your head.
 
-Protection (Rare). You gain a +1 bonus to Armor Class while this dusty-rose prism orbits your head.
+**Protection (Rare).** You gain a +1 bonus to Armor Class while this dusty-rose prism orbits your head.
 
-Regeneration (Legendary). You regain 15 Hit Points at the end of each hour this pearly white spindle orbits your head if you have at least 1 Hit Point.
+**Regeneration (Legendary).** You regain 15 Hit Points at the end of each hour this pearly white spindle orbits your head if you have at least 1 Hit Point.
 
-Reserve (Rare). This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 4 levels of spells at a time. When found, it contains 1d4 levels of stored spells chosen by the GM.
+**Reserve (Rare).** This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 4 levels of spells at a time. When found, it contains 1d4 levels of stored spells chosen by the GM.
 
 Any creature can cast a spell of level 1 through 4 into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
 
 While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space.
 
-Strength (Very Rare). Your Strength increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.
+**Strength (Very Rare).** Your Strength increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.
 
-Sustenance (Rare). You don't need to eat or drink while this clear spindle orbits your head.
+**Sustenance (Rare).** You don't need to eat or drink while this clear spindle orbits your head.
 
 ### Iron Bands
 
@@ -1391,7 +1397,7 @@ While within 5 feet of the mirror, you can take a Magic action to name one creat
 
 In a similar way, you can take a Magic action and use a second command word to free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
-Placing the mirror inside an extradimensional space created by a Bag of Holding , Portable Hole , or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing the mirror inside an extradimensional space created by a Bag of Holding, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ### Mithral Armor
 
@@ -1438,68 +1444,71 @@ Once a card is drawn, it disappears. Unless the card is the Fool or Jester, the 
 
 Each card's effect is described below.
 
-Balance. You can increase one of your ability scores by 2, to a maximum of 22, provided you also decrease another one of your ability scores by 2. You can't decrease an ability that has a score of 5 or lower. Alternatively, you can choose not to adjust your ability scores, in which case this card has no effect.
+**Balance.** You can increase one of your ability scores by 2, to a maximum of 22, provided you also decrease another one of your ability scores by 2. You can't decrease an ability that has a score of 5 or lower. Alternatively, you can choose not to adjust your ability scores, in which case this card has no effect.
 
-Comet. The next time you enter combat against one or more Hostile creatures, you can select one of them as your foe when you roll Initiative. If you reduce your foe to 0 Hit Points during that combat, you have Advantage on Death Saving Throws for 1 year. If someone else reduces your chosen foe to 0 Hit Points or you don't choose a foe, this card has no effect.
+**Comet.** The next time you enter combat against one or more Hostile creatures, you can select one of them as your foe when you roll Initiative. If you reduce your foe to 0 Hit Points during that combat, you have Advantage on Death Saving Throws for 1 year. If someone else reduces your chosen foe to 0 Hit Points or you don't choose a foe, this card has no effect.
 
-Donjon. You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a Wish spell can reveal the location of your prison. You draw no more cards.
+**Donjon.** You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a Wish spell can reveal the location of your prison. You draw no more cards.
 
-Euryale. The card's medusa-like visage curses you. You take a -2 penalty to saving throws while cursed in this way. Only a god or the magic of the Fates card can end this curse.
+**Euryale.** The card's medusa-like visage curses you. You take a -2 penalty to saving throws while cursed in this way. Only a god or the magic of the Fates card can end this curse.
 
-Fates. Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other time before you die.
+**Fates.** Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other time before you die.
 
-Flames. A powerful devil becomes your enemy. The devil seeks your ruin and torments you, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.
+**Flames.** A powerful devil becomes your enemy. The devil seeks your ruin and torments you, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.
 
-Fool. You have Disadvantage on D20 Tests for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
+**Fool.** You have Disadvantage on D20 Tests for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
 
-Gem. Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP each appear at your feet.
+**Gem.** Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP each appear at your feet.
 
-Jester. You have Advantage on D20 Tests for the next 72 hours, or you can draw two additional cards beyond your declared draws.
+**Jester.** You have Advantage on D20 Tests for the next 72 hours, or you can draw two additional cards beyond your declared draws.
 
-Key. A Rare or rarer magic weapon with which you are proficient appears on your person. The GM chooses the weapon.
+**Key.** A Rare or rarer magic weapon with which you are proficient appears on your person. The GM chooses the weapon.
 
-Knight. You gain the service of a Knight , who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your GM to create a name and backstory for this NPC. The GM can use a different stat block to represent the knight, as desired.
+**Knight.** You gain the service of a Knight, who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your GM to create a name and backstory for this NPC. The GM can use a different stat block to represent the knight, as desired.
 
-Moon. You gain the ability to cast Wish 1d3 times.
+**Moon.** You gain the ability to cast Wish 1d3 times.
 
-Puzzle. Permanently reduce your Intelligence or Wisdom by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.
+**Puzzle.** Permanently reduce your Intelligence or Wisdom by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.
 
-Rogue. An NPC of the GM's choice becomes Hostile toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a Wish spell or divine intervention can end the NPC's hostility toward you.
+**Rogue.** An NPC of the GM's choice becomes Hostile toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a Wish spell or divine intervention can end the NPC's hostility toward you.
 
-Ruin. All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
+**Ruin.** All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
 
-Sage. At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question.
+**Sage.** At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question.
 
-Skull. An Avatar of Death (see the accompanying stat block) appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 Hit Points or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death . The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
+**Skull.** An Avatar of Death (see the accompanying stat block) appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 Hit Points or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
 
-Star. Increase one of your ability scores by 2, to a maximum of 24.
+**Star.** Increase one of your ability scores by 2, to a maximum of 24.
 
-Sun. A magic item (chosen by the GM) appears on your person. In addition, you gain 10 Temporary Hit Points daily at dawn until you die.
+**Sun.** A magic item (chosen by the GM) appears on your person. In addition, you gain 10 Temporary Hit Points daily at dawn until you die.
 
-Talons. Every magic item you wear or carry disintegrates. Artifacts in your possession vanish instead.
+**Talons.** Every magic item you wear or carry disintegrates. Artifacts in your possession vanish instead.
 
-Throne. You gain proficiency and Expertise in your choice of History, Insight, Intimidation, or Persuasion. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.
+**Throne.** You gain proficiency and Expertise in your choice of History, Insight, Intimidation, or Persuasion. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.
 
-Void. Your soul is drawn from your body and contained in an object in a place of the GM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A Wish spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
+**Void.** Your soul is drawn from your body and contained in an object in a place of the GM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A Wish spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
 
 #### Avatar of Death
 
 *Medium Undead, Neutral Evil*
 
-**AC** 20 **Initiative** +3 (13) **HP** Half the HP maximum of its summoner
-
+**AC** 20
+**Initiative** +3 (13)
+**HP** Half the HP maximum of its summoner
 **Speed** 60 ft., Fly 60 ft. (hover)
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 16 (+3) | 16 (+3) | 16 (+3) | — | — | — |
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +3   |
+| DEX  | 16    | +3  | +3   |
+| CON  | 16    | +3  | +3   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 16    | +3  | +3   |
+| CHA  | 16    | +3  | +3   |
 
 **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned, Unconscious
-
 **Senses** Truesight 60 ft., Passive Perception 13
-
 **Languages** All languages known to its summoner
-
 **CR** None (XP 0; PB equals its summoner's)
 
 ##### Traits
@@ -1573,7 +1582,7 @@ Beads of this cloudy, gray oil form on the outside of its container and quickly 
 
 *Potion, Very Rare*
 
-One vial of this oil can coat one Melee weapon or twenty pieces of ammunition, but only ammunition and Melee weapons that are nonmagical and deal Slashing or Piercing damage are affected. Applying the oil takes 1 minute, after which the oil magically seeps into whatever it coats, turning the coated weapon into a +3 Weapon or the coated ammunition into +3 Ammunition .
+One vial of this oil can coat one Melee weapon or twenty pieces of ammunition, but only ammunition and Melee weapons that are nonmagical and deal Slashing or Piercing damage are affected. Applying the oil takes 1 minute, after which the oil magically seeps into whatever it coats, turning the coated weapon into a +3 Weapon or the coated ammunition into +3 Ammunition.
 
 This clear, gelatinous oil sparkles with tiny, ultrathin silver shards.
 
@@ -1657,9 +1666,9 @@ You can take a Magic action to unfold a Portable Hole and place it on or against
 
 You can take a Magic action to close a Portable Hole by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what's in it, the hole weighs next to nothing.
 
-If the hole is folded up, a creature within the hole's extradimensional space can take an action to make a DC 10 Strength (Athletics) check. On a successful check, the creature forces its way out and appears within 5 feet of the Portable Hole . A closed Portable Hole holds enough air for 1 hour of breathing, divided by the number of breathing creatures inside.
+If the hole is folded up, a creature within the hole's extradimensional space can take an action to make a DC 10 Strength (Athletics) check. On a successful check, the creature forces its way out and appears within 5 feet of the Portable Hole. A closed Portable Hole holds enough air for 1 hour of breathing, divided by the number of breathing creatures inside.
 
-Placing a Portable Hole inside an extradimensional space created by a Bag of Holding , Handy Haversack , or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing a Portable Hole inside an extradimensional space created by a Bag of Holding, Handy Haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ### Potion of Animal Friendship
 
@@ -1774,7 +1783,7 @@ This potion's syrupy liquid looks like liquefied iron.
 
 *Potion, Very Rare*
 
-When you drink this potion, your physical age is reduced by 1d6 + 6 years, to a minimum of 13 years. Each time you subsequently drink a Potion of Longevity , there is 10 percent cumulative chance that you instead age by 1d6 + 6 years.
+When you drink this potion, your physical age is reduced by 1d6 + 6 years, to a minimum of 13 years. Each time you subsequently drink a Potion of Longevity, there is 10 percent cumulative chance that you instead age by 1d6 + 6 years.
 
 Suspended in this amber liquid is a tiny heart that, against all reason, is still beating. These ingredients vanish when the potion is opened.
 
@@ -1990,11 +1999,11 @@ The ring has 6 charges and regains 1d6 expended charges daily at dawn. You can e
 As a Bonus Action, you can move each sphere up to 30 feet, but no farther than 120 feet away from yourself. The first time the sphere comes within 5 feet of a creature other than you that isn't behind Total Cover, the sphere discharges lightning at that creature and disappears. That creature makes a DC 15 Dexterity saving throw. On a failed save, the creature takes Lightning damage based on the number of spheres you created, as shown in the following table. On a successful save, the creature takes half as much damage.
 
 | Number of Spheres | Lightning Damage |
-|-------------------|-----------------|
-| 1                 | 4d12            |
-| 2                 | 5d4             |
-| 3                 | 2d6             |
-| 4                 | 2d4             |
+|-------------------|------------------|
+| 1                 | 4d12             |
+| 2                 | 5d4              |
+| 3                 | 2d6              |
+| 4                 | 2d4              |
 
 **Shooting Stars.** You can expend 1 to 3 charges as a Magic action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of yourself. Each creature in a 15-foot Cube originating from that point is showered in sparks and makes a DC 15 Dexterity saving throw, taking 5d4 Radiant damage on a failed save or half as much damage on a successful one.
 
@@ -2071,7 +2080,7 @@ This robe is adorned with eyelike patterns. While you wear the robe, you gain th
 - **All-Around Vision.** The robe gives you Advantage on Wisdom (Perception) checks that rely on sight.
 - **Special Senses.** You have Darkvision and Truesight, both with a range of 120 feet.
 
-**Drawbacks.** A Light spell cast on the robe or a Daylight spell cast within 5 feet of the robe gives you the Blinded condition for 1 minute. At the end of each of your turns, you make a Constitution saving throw (DC 11 for Light or DC 15 for Daylight ), ending the condition on yourself on a success.
+**Drawbacks.** A Light spell cast on the robe or a Daylight spell cast within 5 feet of the robe gives you the Blinded condition for 1 minute. At the end of each of your turns, you make a Constitution saving throw (DC 11 for Light or DC 15 for Daylight), ending the condition on yourself on a success.
 
 ### Robe of Scintillating Colors
 
@@ -2085,7 +2094,7 @@ This robe has 3 charges, and it regains 1d3 expended charges daily at dawn. Whil
 
 This black or dark-blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.
 
-Six stars, located on the robe's upper-front portion, are particularly large. While wearing this robe, you can take a Magic action to remove one of the stars and expend it to cast the level 5 version of Magic Missile . Daily at dusk, 1d6 removed stars reappear on the robe.
+Six stars, located on the robe's upper-front portion, are particularly large. While wearing this robe, you can take a Magic action to remove one of the stars and expend it to cast the level 5 version of Magic Missile. Daily at dusk, 1d6 removed stars reappear on the robe.
 
 While you wear the robe, you can take a Magic action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you take a Magic action to return to the plane you were on. You reappear in the last space you occupied or, if that space is occupied, the nearest unoccupied space.
 
@@ -2303,9 +2312,9 @@ While you wear these light shoes, you can move up, down, and across vertical sur
 
 *Wondrous Item, Legendary*
 
-This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with Oil of Slipperiness . When found, a container contains 1d6 + 1 ounces.
+This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with Oil of Slipperiness. When found, a container contains 1d6 + 1 ounces.
 
-One ounce of the glue can cover a 1-foot square surface. Applying an ounce of Sovereign Glue takes a Utilize action, and the applied glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of Universal Solvent or Oil of Etherealness , or with a Wish spell.
+One ounce of the glue can cover a 1-foot square surface. Applying an ounce of Sovereign Glue takes a Utilize action, and the applied glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of Universal Solvent or Oil of Etherealness, or with a Wish spell.
 
 ### Spellguard Shield
 
@@ -2344,13 +2353,13 @@ The level of the spell on the scroll determines the spell's saving throw DC and 
 
 This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
 
-The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an Artifact is susceptible to damage from a Sphere of Annihilation , it passes through the sphere unscathed. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes 8d10 Force damage.
+The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an Artifact is susceptible to damage from a Sphere of Annihilation, it passes through the sphere unscathed. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes 8d10 Force damage.
 
 **Controlling the Sphere.** A Sphere of Annihilation is stationary until someone takes control of it. If you are within 60 feet of a sphere, you can take a Magic action to make a DC 25 Intelligence (Arcana) check. On a successful check, you control the sphere until the start of your next turn, and if it was under another creature's control, that creature loses control of the sphere. On a failed check, the sphere moves 10 feet toward you in a straight line.
 
 While in control of the sphere, you can take a Bonus Action to cause it to move in one direction of your choice, up to a number of feet equal to 5 times your Intelligence modifier (minimum 5 feet). Any creature whose space the sphere enters must succeed on a DC 19 Dexterity saving throw or be touched by it, taking 8d10 Force damage. A creature reduced to 0 Hit Points by this damage is obliterated, leaving its possessions behind but no other physical remains.
 
-**Sphere Interactions.** If the sphere comes into contact with a planar portal (such as that created by the Gate spell) or an extradimensional space (such as that within a Portable Hole ), the GM determines randomly what happens using the following table.
+**Sphere Interactions.** If the sphere comes into contact with a planar portal (such as that created by the Gate spell) or an extradimensional space (such as that within a Portable Hole), the GM determines randomly what happens using the following table.
 
 ##### 1d100 Result
 
@@ -2364,9 +2373,9 @@ While in control of the sphere, you can take a Bonus Action to cause it to move 
 
 This staff has 10 charges. While holding the staff, you can use any of its properties:
 
-- Cast Spell. You can expend 1 of the staff's charges to cast Charm Person , Command , or Comprehend Languages from it using your spell save DC.
-- Reflect Enchantment. If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a Reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
-- Resist Enchantment. If you fail a saving throw against an Enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn.
+- **Cast Spell.** You can expend 1 of the staff's charges to cast Charm Person, Command, or Comprehend Languages from it using your spell save DC.
+- **Reflect Enchantment.** If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a Reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
+- **Resist Enchantment.** If you fail a saving throw against an Enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn.
 
 **Regaining Charges.** The staff regains 1d8 + 2 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff crumbles to dust and is destroyed.
 
@@ -2457,7 +2466,7 @@ The staff has 10 charges. When you hit with a melee attack using it, you can exp
 
 This staff has 10 charges.
 
-**Insect Cloud.** While holding the staff, you can take a Magic action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot Emanation originating from you. The insects remain for 10 minutes, making the area Heavily Obscured for creatures other than you. A strong wind (like that created by Gust of Wind ) disperses the swarm and ends the effect.
+**Insect Cloud.** While holding the staff, you can take a Magic action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot Emanation originating from you. The insects remain for 10 minutes, making the area Heavily Obscured for creatures other than you. A strong wind (like that created by Gust of Wind) disperses the swarm and ends the effect.
 
 **Spells.** While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC and spell attack modifier. The table indicates how many charges you must expend to cast the spell.
 
@@ -2565,7 +2574,7 @@ The staff can be wielded as a magic Quarterstaff. On a hit, it deals damage as a
 
 *Wondrous Item, Rare*
 
-While touching this 5-pound stone to the ground, you can take a Magic action to summon an Earth Elemental . The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The stone can't be used this way again until the next dawn.
+While touching this 5-pound stone to the ground, you can take a Magic action to summon an Earth Elemental. The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The stone can't be used this way again until the next dawn.
 
 ### Stone of Good Luck (Luckstone)
 
@@ -2579,7 +2588,7 @@ While this polished agate is on your person, you gain a +1 bonus to ability chec
 
 This item appears to be a sword hilt.
 
-**Blade of Radiance.** While grasping the hilt, you can take a Bonus Action to cause a blade of pure radiance to spring into existence or make the blade disappear. While the blade exists, this magic weapon functions as a Longsword with the Finesse property. If you are proficient with Longswords or Shortswords, you are proficient with the Sun Blade .
+**Blade of Radiance.** While grasping the hilt, you can take a Bonus Action to cause a blade of pure radiance to spring into existence or make the blade disappear. While the blade exists, this magic weapon functions as a Longsword with the Finesse property. If you are proficient with Longswords or Shortswords, you are proficient with the Sun Blade.
 
 You gain a +2 bonus to attack rolls and damage rolls made with this weapon, which deals Radiant damage instead of Slashing damage. When you hit an Undead with it, that target takes an extra 1d8 Radiant damage.
 
@@ -2619,7 +2628,7 @@ This talisman is a mighty symbol of goodness. A Fiend or an Undead that touches 
 
 *Wondrous Item, Legendary (Requires Attunement)*
 
-While holding or wearing this talisman, you have Advantage on any Intelligence (Arcana) check you make to control a Sphere of Annihilation . In addition, when you start your turn in control of a Sphere of Annihilation , you can take a Magic action to move it 10 feet plus a number of additional feet equal to 10 times your Intelligence modifier. This movement doesn't have to be in a straight line.
+While holding or wearing this talisman, you have Advantage on any Intelligence (Arcana) check you make to control a Sphere of Annihilation. In addition, when you start your turn in control of a Sphere of Annihilation, you can take a Magic action to move it 10 feet plus a number of additional feet equal to 10 times your Intelligence modifier. This movement doesn't have to be in a straight line.
 
 ### Talisman of Ultimate Evil
 
@@ -2673,7 +2682,7 @@ This magic weapon has 3 charges, and it regains 1d3 expended charges daily at da
 
 This tube holds milky liquid with a strong alcohol smell. When found, a tube contains 1d6 + 1 ounces.
 
-You can take a Utilize action to pour 1 or more ounces of solvent from the tube onto a surface within reach. Each ounce instantly dissolves up to 1 square foot of adhesive it touches, including Sovereign Glue .
+You can take a Utilize action to pour 1 or more ounces of solvent from the tube onto a surface within reach. Each ounce instantly dissolves up to 1 square foot of adhesive it touches, including Sovereign Glue.
 
 ### Vicious Weapon
 
@@ -2803,13 +2812,13 @@ This wand has 7 charges. While holding it, you can take a Magic action to expend
 
 ##### Wand of Wonder Effects
 
-- 01-20 You cast a spell originating from the chosen point. Roll 1d10 to determine the spell: on a 1-2, Darkness ; on a 3-4, Faerie Fire ; on a 5-6, Fireball ; on a 7-8, Slow ; on a 9-10, Stinking Cloud .
+- 01-20 You cast a spell originating from the chosen point. Roll 1d10 to determine the spell: on a 1-2, Darkness; on a 3-4, Faerie Fire; on a 5-6, Fireball; on a 7-8, Slow; on a 9-10, Stinking Cloud.
 - 21-25 Nothing happens at the chosen point of origin. Instead, you have the Stunned condition until the start of your next turn, believing something awesome just happened.
-- 26-30 You cast Gust of Wind . The Line created by the spell extends from you to the chosen point of origin.
+- 26-30 You cast Gust of Wind. The Line created by the spell extends from you to the chosen point of origin.
 - 31-35 Nothing happens at the chosen point of origin. Instead, you take 1d6 Psychic damage.
 - 36-40 Heavy rain falls for 1 minute in a 120-foot-high, 60-foot-radius Cylinder centered on the chosen point of origin. During that time, the area of effect is Lightly Obscured.
 - 41-45 A cloud of 600 oversized butterflies fills a 60-foot-high, 30-foot-radius Cylinder centered on the chosen point of origin. The butterflies remain for 10 minutes, during which time the area of effect is Heavily Obscured.
-- 46-50 You cast Lightning Bolt . The Line created by the spell extends from you to the chosen point of origin.
+- 46-50 You cast Lightning Bolt. The Line created by the spell extends from you to the chosen point of origin.
 - 51-55 The creature closest to the chosen point of origin is enlarged as if you had cast Enlarge/Reduce on it. If the target isn't you and can't be affected by that spell, you become the target instead.
 - 56-60 A magically formed creature appears in an unoccupied space as close to the chosen point of origin as possible. The creature isn't under your control, acts as it normally would, and disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine which creature appears. On a 1, a Rhinoceros appears; on a 2, an Elephant appears; and on a 3-4, a Rat appears.
 - 61-64 Grass covers a 60-foot-radius circle of ground, with the center of that circle as close to the chosen point of origin as possible. Grass that's already there grows to ten times its normal size and remains overgrown for 1 minute.
@@ -2819,7 +2828,7 @@ This wand has 7 charges. While holding it, you can take a Magic action to expend
 - 78-82 Nothing happens at the chosen point of origin. Instead, a burst of colorful, shimmering light extends from you in a 30-foot Emanation. Each creature in the area must succeed on a DC 15 Constitution saving throw or have the Blinded condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
 - 83-87 Nothing happens at the chosen point of origin. Instead, you cast Invisibility on yourself.
 - 88-92 Nothing happens at the chosen point of origin. Instead, a stream of 1d4 × 10 gems, each worth 1 GP, shoots from the wand's tip in a Line 30 feet long and 5 feet wide toward the chosen point of origin. Each gem deals 1 Bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the Line.
-- 93-97 You cast Polymorph , targeting the creature closest to the chosen point of origin. Roll 1d4 to determine the target's new form. On a 1, the new form is a Black Bear; on a 2, the new form is a Giant Wasp; on a 3-4, the new form is a Frog.
+- 93-97 You cast Polymorph, targeting the creature closest to the chosen point of origin. Roll 1d4 to determine the target's new form. On a 1, the new form is a Black Bear; on a 2, the new form is a Giant Wasp; on a 3-4, the new form is a Frog.
 - 98-00 The creature closest to the chosen point of origin makes a DC 15 Constitution saving throw. On a failed save, the creature has the Restrained condition and begins to turn to stone. While Restrained in this way, the creature repeats the save at the end of its next turn. On a successful save, the effect ends. On a failed save, the creature has the Petrified condition instead of the Restrained condition. The petrification lasts until the creature is freed by the Greater Restoration spell or similar magic.
 
 ### Weapon, +1, +2, or +3

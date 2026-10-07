@@ -68,7 +68,7 @@ The target repeats the save whenever it takes damage as well as after every 24 h
 **AC** 15
 **Initiative** +5 (15)
 **HP** 90 (12d10 + 24)
-**Speed** 0 ft., Fly 90 ft. (hover)
+**Speed** 10 ft., Fly 90 ft. (hover)
 
 | Stat | Value | MOD | SAVE |
 |------|-------|-----|------|
@@ -367,7 +367,7 @@ While grappling the target, the rug can't take this action, the rug halves the d
 | WIS  | 13    | +1  | +1   |
 | CHA  | 10    | +0  | +0   |
 
-**Immunities** Fire, Poison
+**Immunities** Fire, Poison; Poisoned
 **Senses** Passive Perception 11
 **Languages** Primordial (Ignan)
 **CR** 2 (XP 450; PB +2)
@@ -383,6 +383,8 @@ While grappling the target, the rug can't take this action, the rug halves the d
 **Burning Hammer.** Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Bludgeoning damage plus 3 (1d6) Fire damage.
 
 ### Balor
+
+#### Balor
 
 *Huge Fiend (Demon), Chaotic Evil*
 
@@ -497,6 +499,31 @@ While grappling the target, the rug can't take this action, the rug halves the d
 **Parry.** Trigger: The bandit is hit by a melee attack roll while holding a weapon. Response: The bandit adds 2 to its AC against that attack, possibly causing it to miss.
 
 ### Barbed Devil
+
+#### Barbed Devil
+
+*Medium Fiend (Devil), Lawful Evil*
+
+**AC** 15
+**Initiative** +3 (13)
+**HP** 110 (13d8 + 52)
+**Speed** 30 ft., Climb 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 16    | +3  | +6   |
+| DEX  | 17    | +3  | +3   |
+| CON  | 18    | +4  | +7   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 14    | +2  | +5   |
+| CHA  | 14    | +2  | +5   |
+
+**Skills** Deception +5, Insight +5, Perception +8
+**Resistances** Cold
+**Immunities** Fire, Poison; Poisoned
+**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 18
+**Languages** Infernal; telepathy 120 ft.
+**CR** 5 (XP 1,800; PB +3)
 
 ##### Traits
 
@@ -921,6 +948,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 #### Blue Dragon Wyrmling
 
+*Medium Dragon (Chromatic), Lawful Evil*
+
+**AC** 17
+**Initiative** +2 (12)
+**HP** 65 (10d8 + 20)
+**Speed** 30 ft., Burrow 15 ft., Fly 60 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 10    | +0  | +2   |
+| CON  | 15    | +2  | +2   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 15    | +2  | +2   |
+
+**Skills** Perception +4, Stealth +2
+**Immunities** Lightning
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 3 (XP 700; PB +2)
+
 ##### Actions
 
 **Multiattack.** The dragon makes two Rend attacks.
@@ -931,6 +980,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 #### Young Blue Dragon
 
+*Large Dragon (Chromatic), Lawful Evil*
+
+**AC** 18
+**Initiative** +4 (14)
+**HP** 152 (16d10 + 64)
+**Speed** 40 ft., Burrow 20 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 21    | +5  | +5   |
+| DEX  | 10    | +0  | +4   |
+| CON  | 19    | +4  | +4   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 13    | +1  | +5   |
+| CHA  | 17    | +3  | +3   |
+
+**Skills** Perception +9, Stealth +4
+**Immunities** Lightning
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 19
+**Languages** Common, Draconic
+**CR** 9 (XP 5,000; PB +4)
+
 ##### Actions
 
 **Multiattack.** The dragon makes three Rend attacks.
@@ -940,6 +1011,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Lightning Breath (Recharge 5-6).** Dexterity Saving Throw: DC 16, each creature in a 60-foot-long, 5-foot-wide Line. Failure: 55 (10d10) Lightning damage. Success: Half damage.
 
 #### Adult Blue Dragon
+
+*Huge Dragon (Chromatic), Lawful Evil*
+
+**AC** 19
+**Initiative** +10 (20)
+**HP** 212 (17d12 + 102)
+**Speed** 40 ft., Burrow 30 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 25    | +7  | +7   |
+| DEX  | 10    | +0  | +5   |
+| CON  | 23    | +6  | +6   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 15    | +2  | +7   |
+| CHA  | 20    | +5  | +5   |
+
+**Skills** Perception +12, Stealth +5
+**Immunities** Lightning
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
+**Languages** Common, Draconic
+**CR** 16 (XP 15,000, or 18,000 in lair; PB +5)
 
 ##### Traits
 
@@ -975,7 +1068,7 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **AC** 22
 **Initiative** +14 (24)
 **HP** 481 (26d20 + 208)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+**Speed** 40 ft., Burrow 40 ft., Fly 80 ft.
 
 | Stat | Value | MOD | SAVE |
 |------|-------|-----|------|
@@ -1021,6 +1114,8 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 ### Bone Devil
 
+#### Bone Devil
+
 *Large Fiend (Devil), Lawful Evil*
 
 **AC** 16
@@ -1040,6 +1135,9 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Skills** Deception +7, Insight +6
 **Resistances** Cold
 **Immunities** Fire, Poison; Poisoned
+**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 12
+**Languages** Infernal; telepathy 120 ft.
+**CR** 9 (XP 5,000; PB +4)
 
 ##### Traits
 
@@ -1059,6 +1157,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 #### Brass Dragon Wyrmling
 
+*Medium Dragon (Metallic), Chaotic Good*
+
+**AC** 15
+**Initiative** +2 (12)
+**HP** 22 (4d8 + 4)
+**Speed** 30 ft., Burrow 15 ft., Fly 60 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 10    | +0  | +2   |
+| CON  | 13    | +1  | +1   |
+| INT  | 10    | +0  | +0   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 13    | +1  | +1   |
+
+**Skills** Perception +4, Stealth +2
+**Immunities** Fire
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 1 (XP 200; PB +2)
+
 ##### Actions
 
 **Rend.** Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.
@@ -1068,6 +1188,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Sleep Breath.** Constitution Saving Throw: DC 11, each creature in a 15-foot Cone. Failure: The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. Second Failure: The target has the Unconscious condition for 1 minute. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
 
 #### Young Brass Dragon
+
+*Large Dragon (Metallic), Chaotic Good*
+
+**AC** 17
+**Initiative** +3 (13)
+**HP** 110 (13d10 + 39)
+**Speed** 40 ft., Burrow 20 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 10    | +0  | +3   |
+| CON  | 17    | +3  | +3   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 11    | +0  | +3   |
+| CHA  | 15    | +2  | +2   |
+
+**Skills** Perception +6, Persuasion +5, Stealth +3
+**Immunities** Fire
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 16
+**Languages** Common, Draconic
+**CR** 6 (XP 2,300; PB +3)
 
 ##### Actions
 
@@ -1080,6 +1222,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Sleep Breath.** Constitution Saving Throw: DC 14, each creature in a 30-foot Cone. Failure: The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. Second Failure: The target has the Unconscious condition for 1 minute. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
 
 #### Adult Brass Dragon
+
+*Huge Dragon (Metallic), Chaotic Good*
+
+**AC** 18
+**Initiative** +10 (20)
+**HP** 172 (15d12 + 75)
+**Speed** 40 ft., Burrow 30 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 23    | +6  | +6   |
+| DEX  | 10    | +0  | +5   |
+| CON  | 21    | +5  | +5   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 13    | +1  | +6   |
+| CHA  | 17    | +3  | +3   |
+
+**Skills** History +7, Perception +11, Persuasion +8, Stealth +5
+**Immunities** Fire
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
+**Languages** Common, Draconic
+**CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
 
 ##### Traits
 
@@ -1111,6 +1275,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Scorching Sands.** Dexterity Saving Throw: DC 16, one creature the dragon can see within 120 feet. Failure: 27 (6d8) Fire damage, and the target's Speed is halved until the end of its next turn. Failure or Success: The dragon can't take this action again until the start of its next turn.
 
 #### Ancient Brass Dragon
+
+*Gargantuan Dragon (Metallic), Chaotic Good*
+
+**AC** 20
+**Initiative** +12 (22)
+**HP** 332 (19d20 + 133)
+**Speed** 40 ft., Burrow 40 ft., Fly 80 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 27    | +8  | +8   |
+| DEX  | 10    | +0  | +6   |
+| CON  | 25    | +7  | +7   |
+| INT  | 16    | +3  | +3   |
+| WIS  | 15    | +2  | +8   |
+| CHA  | 22    | +6  | +6   |
+
+**Skills** History +9, Perception +14, Persuasion +12, Stealth +6
+**Immunities** Fire
+**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 24
+**Languages** Common, Draconic
+**CR** 20 (XP 25,000, or 33,000 in lair; PB +6)
 
 ##### Traits
 
@@ -1145,6 +1331,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 #### Bronze Dragon Wyrmling
 
+*Medium Dragon (Metallic), Lawful Good*
+
+**AC** 15
+**Initiative** +2 (12)
+**HP** 39 (6d8 + 12)
+**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 17    | +3  | +3   |
+| DEX  | 10    | +0  | +2   |
+| CON  | 15    | +2  | +2   |
+| INT  | 12    | +1  | +1   |
+| WIS  | 11    | +0  | +2   |
+| CHA  | 15    | +2  | +2   |
+
+**Skills** Perception +4, Stealth +2
+**Immunities** Lightning
+**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+**Languages** Draconic
+**CR** 2 (XP 450; PB +2)
+
 ##### Traits
 
 **Amphibious.** The dragon can breathe air and water.
@@ -1160,6 +1368,28 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Repulsion Breath.** Strength Saving Throw: DC 12, each creature in a 30-foot Cone. Failure: The target is pushed up to 30 feet straight away from the dragon and has the Prone condition.
 
 #### Young Bronze Dragon
+
+*Large Dragon (Metallic), Lawful Good*
+
+**AC** 17
+**Initiative** +3 (13)
+**HP** 142 (15d10 + 60)
+**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 21    | +5  | +5   |
+| DEX  | 10    | +0  | +3   |
+| CON  | 19    | +4  | +4   |
+| INT  | 14    | +2  | +2   |
+| WIS  | 13    | +1  | +4   |
+| CHA  | 17    | +3  | +3   |
+
+**Skills** Insight +4, Perception +7, Stealth +3
+**Immunities** Lightning
+**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
+**Languages** Common, Draconic
+**CR** 8 (XP 3,900; PB +3)
 
 ##### Traits
 
@@ -1244,9 +1474,9 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 | STR  | 29    | +9  | +9   |
 | DEX  | 10    | +0  | +7   |
 | CON  | 27    | +8  | +8   |
-| INT  | ?     | ?   | ?    |
-| WIS  | ?     | ?   | ?    |
-| CHA  | ?     | ?   | ?    |
+| INT  | 18    | +4  | +4   |
+| WIS  | 17    | +3  | +10  |
+| CHA  | 25    | +7  | +7   |
 
 **Skills** Insight +10, Perception +17, Stealth +7
 **Immunities** Lightning
@@ -1327,7 +1557,29 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 **Quick Grapple.** Dexterity Saving Throw: DC 13, one Medium or smaller creature the bugbear can see within 10 feet. Failure: The target has the Grappled condition (escape DC 13).
 
-#### Bugbear
+#### Bugbear Warrior
+
+*Medium Fey (Goblinoid), Chaotic Evil*
+
+**AC** 14
+**Initiative** +2 (12)
+**HP** 33 (6d8 + 6)
+**Speed** 30 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 15    | +2  | +2   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 13    | +1  | +1   |
+| INT  | 8     | -1  | -1   |
+| WIS  | 11    | +0  | +0   |
+| CHA  | 9     | -1  | -1   |
+
+**Skills** Stealth +6, Survival +2
+**Gear** Hide Armor, Light Hammers (3)
+**Senses** Darkvision 60 ft.; Passive Perception 10
+**Languages** Common, Goblin
+**CR** 1 (XP 200; PB +2)
 
 ##### Traits
 
@@ -1340,6 +1592,29 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 **Light Hammer.** Melee or Ranged Attack Roll: +4 (with Advantage if the target is Grappled by the bugbear), reach 10 ft. or range 20/60 ft. Hit: 9 (3d4 + 2) Bludgeoning damage.
 
 ### Bulette
+
+#### Bulette
+
+*Large Monstrosity, Unaligned*
+
+**AC** 17
+**Initiative** +0 (10)
+**HP** 94 (9d10 + 45)
+**Speed** 40 ft., Burrow 40 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 19    | +4  | +4   |
+| DEX  | 11    | +0  | +0   |
+| CON  | 21    | +5  | +5   |
+| INT  | 2     | -4  | -4   |
+| WIS  | 10    | +0  | +0   |
+| CHA  | 5     | -3  | -3   |
+
+**Skills** Perception +6
+**Senses** Darkvision 60 ft., Tremorsense 120 ft.; Passive Perception 16
+**Languages** None
+**CR** 5 (XP 1,800; PB +3)
 
 ##### Actions
 
@@ -1355,6 +1630,30 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 ### Centaur
 
+#### Centaur Trooper
+
+*Large Fey, Neutral Good*
+
+**AC** 16
+**Initiative** +2 (12)
+**HP** 45 (6d10 + 12)
+**Speed** 50 ft.
+
+| Stat | Value | MOD | SAVE |
+|------|-------|-----|------|
+| STR  | 18    | +4  | +4   |
+| DEX  | 14    | +2  | +2   |
+| CON  | 14    | +2  | +2   |
+| INT  | 9     | -1  | -1   |
+| WIS  | 13    | +1  | +1   |
+| CHA  | 11    | +0  | +0   |
+
+**Skills** Athletics +6, Perception +3
+**Gear** Breastplate, Longbow, Pike
+**Senses** Passive Perception 13
+**Languages** Elvish, Sylvan
+**CR** 2 (XP 450; PB +2)
+
 ##### Actions
 
 **Multiattack.** The centaur makes two attacks, using Pike or Longbow in any combination.
@@ -1369,10 +1668,12 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 ### Chain Devil
 
+#### Chain Devil
+
 *Medium Fiend (Devil), Lawful Evil*
 
 **AC** 15
-**Initiative** — *(value lost to OCR)*
+**Initiative** +5 (15)
 **HP** 85 (10d8 + 40)
 **Speed** 30 ft.
 
@@ -1411,6 +1712,8 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 
 ### Chimera
 
+#### Chimera
+
 *Large Monstrosity, Chaotic Evil*
 
 **AC** 14
@@ -1422,10 +1725,10 @@ In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
 |------|-------|-----|------|
 | STR  | 19    | +4  | +4   |
 | DEX  | 11    | +0  | +0   |
-| CON  | —     | +4  | +4   |
+| CON  | 19    | +4  | +4   |
 | INT  | 3     | -4  | -4   |
 | WIS  | 14    | +2  | +2   |
-| CHA  | —     | +0  | +0   |
+| CHA  | 10    | +0  | +0   |
 
 **Skills** Perception +8
 **Senses** Darkvision 60 ft.; Passive Perception 18
