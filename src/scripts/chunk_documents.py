@@ -63,7 +63,8 @@ from typing import Dict
 from typing import List
 from typing import Optional
 
-from src.services.splitter import MarkdownSplitter
+from markdown_chunkify import MarkdownSplitter
+
 from src.settings import logger
 
 

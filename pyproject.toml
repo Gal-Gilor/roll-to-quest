@@ -37,6 +37,7 @@ opencv-python = "^4.13.0.92"
 docling = "^2.73.1"
 pyyaml = "^6.0.3"
 neo4j = "^6.2.0"
+markdown-chunkify = {git = "https://github.com/Gal-Gilor/markdown-chunkify.git", rev = "52ab0ef327fbd5fbcab340ef04c2aee5525db864"}
 
 
 [[tool.poetry.source]]

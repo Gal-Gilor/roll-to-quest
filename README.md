@@ -100,7 +100,7 @@ poetry run pytest
 poetry run pytest --cov=src
 
 # Run specific test file
-poetry run pytest tests/test_splitters.py
+poetry run pytest tests/test_annotate_chunks.py
 ```
 
 ### Code Quality
@@ -130,7 +130,7 @@ generate_pairs.py → Anchor-positive pairs (JSONL)
 ### Key Components
 
 - `src/settings.py` - Configuration using pydantic-settings
-- `src/services/splitter.py` - Markdown splitter with hierarchy tracking
+- [markdown-chunkify](https://github.com/Gal-Gilor/markdown-chunkify) - Markdown splitter with hierarchy tracking, used by `chunk_documents.py`
 - `src/pair_generation/` - Async pair generation using Gemini API
 - `src/services/cloud_storage.py` - Async Google Cloud Storage wrapper
 - `src/templates/` - Jinja2 templates for prompts
