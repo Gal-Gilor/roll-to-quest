@@ -8,21 +8,19 @@ The three main pillars of D&D play are social interaction, exploration, and comb
 2. **The Players Describe What Their Characters Do.** Typically, the characters stick together as they travel through a dungeon or another environment. Sometimes different adventurers do different things: one adventurer might search a treasure chest while a second examines a mysterious symbol engraved on a wall and a third keeps watch for monsters. Outside combat, the GM ensures that every character has a chance to act and decides how to resolve their activity. In combat, the characters take turns.
 3. **The GM Narrates the Results of the Adventurers' Actions.** Sometimes resolving a task is easy. If an adventurer walks across a room and tries to open a door, the GM might say the door opens and describe what lies beyond. But the door might be locked, the floor might hide a trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the GM might ask the player to roll a die to help determine what happens. Describing the results often leads to another decision point, which brings the game back to step 1.
 
-This pattern holds during every game session (each time you sit down to play D&D), whether the
+This pattern holds during every game session (each time you sit down to play D&D), whether the adventurers are talking to a noble, exploring a ruin, or fighting a dragon. In certain situations-particularly combat-the action is more structured, and everyone takes turns.
 
-##### Exceptions Supersede General Rules
+**Exceptions Supersede General Rules**
 
 General rules govern each part of the game. For example, the combat rules tell you that melee attacks use Strength and ranged attacks use Dexterity. That's a general rule, and a general rule is in effect as long as something in the game doesn't explicitly say otherwise.
 
 The game also includes elements-class features, feats, weapon properties, spells, magic items, monster abilities, and the like-that sometimes contradict a general rule. When an exception and a general rule disagree, the exception wins. For example, if a feature says you can make melee attacks using your Charisma, you can do so, even though that statement disagrees with the general rule.
 
-adventurers are talking to a noble, exploring a ruin, or fighting a dragon. In certain situations-particularly combat-the action is more structured, and everyone takes turns.
-
 ## The Six Abilities
 
 All creatures-characters and monsters-have six abilities that measure physical and mental characteristics, as shown on the Ability Descriptions table.
 
-##### Ability Descriptions
+**Ability Descriptions**
 
 | Ability      | Score Measures…                     |
 |--------------|-------------------------------------|
@@ -37,7 +35,7 @@ All creatures-characters and monsters-have six abilities that measure physical a
 
 Each ability has a score from 1 to 20, although some monsters have a score as high as 30. The score represents the magnitude of an ability. The Ability Scores table summarizes what the scores mean.
 
-##### Ability Scores
+**Ability Scores**
 
 | Score | Meaning                                                                                                             |
 |-------|---------------------------------------------------------------------------------------------------------------------|
@@ -53,11 +51,11 @@ Each ability has a score from 1 to 20, although some monsters have a score as hi
 
 Each ability has a modifier that you apply whenever you make a D20 Test with that ability (explained in 'D20 Tests'). An ability modifier is derived from its score, as shown in the Ability Modifiers table.
 
-##### Round Down
+**Round Down**
 
 Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.
 
-##### Ability Modifiers
+**Ability Modifiers**
 
 | Score  | Modifier |
 |--------|----------|
@@ -95,7 +93,7 @@ An ability check represents a creature using talent and training to try to overc
 
 An ability check is named for the ability modifier it uses: a Strength check, an Intelligence check, and so on. Different ability checks are called for in different situations, depending on which ability is most relevant. See the Ability Check Examples table for examples of each check's use.
 
-##### Ability Check Examples
+**Ability Check Examples**
 
 | Ability      | Make a Check To…                                           |
 |--------------|------------------------------------------------------------|
@@ -114,7 +112,7 @@ Add your Proficiency Bonus to an ability check when the GM determines that a ski
 
 The Difficulty Class of an ability check represents the task's difficulty. The more difficult the task, the higher its DC. The rules provide DCs for certain checks, but the GM ultimately sets them. The Typical Difficulty Classes table presents a range of possible DCs for ability checks.
 
-##### Typical Difficulty Classes
+**Typical Difficulty Classes**
 
 | Task Difficulty   | DC | 
 |-------------------|----|
@@ -135,7 +133,7 @@ If you don't want to resist the effect, you can choose to fail the save without 
 
 Saving throws are named for the ability modifiers they use: a Constitution saving throw, a Wisdom saving throw, and so on. Different saving throws are used to resist different kinds of effects, as shown on the Saving Throw Examples table.
 
-##### Saving Throw Examples
+**Saving Throw Examples**
 
 | Ability      | Make a Save To…                |
 |--------------|--------------------------------|
@@ -198,9 +196,9 @@ If you roll a 1 on the d20 (a 'natural 1') for an attack roll, the attack misses
 
 Sometimes a D20 Test is modified by Advantage or Disadvantage. Advantage reflects the positive circumstances surrounding a d20 roll, while Disadvantage reflects negative circumstances.
 
-You usually acquire Advantage or Disadvantage through the use of special abilities and actions. The
+You usually acquire Advantage or Disadvantage through the use of special abilities and actions. The GM can also decide that circumstances grant Advantage or impose Disadvantage.
 
-##### Heroic Inspiration
+**Heroic Inspiration**
 
 Sometimes the GM or a rule gives you Heroic Inspiration. If you have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
 
@@ -210,13 +208,11 @@ Sometimes the GM or a rule gives you Heroic Inspiration. If you have Heroic Insp
 
 Other rules might allow your character to gain Heroic Inspiration independent of the GM's decision. For example, Human characters start each day with Heroic Inspiration.
 
-GM can also decide that circumstances grant Advantage or impose Disadvantage.
-
-##### Roll Two D20s
+#### Roll Two D20s
 
 When a roll has either Advantage or Disadvantage, roll a second d20 when you make the roll. Use the higher of the two rolls if you have Advantage, and use the lower roll if you have Disadvantage. For example, if you have Disadvantage and roll an 18 and a 3, use the 3. If you instead have Advantage and roll those numbers, use the 18.
 
-##### They Don't Stack
+#### They Don't Stack
 
 If multiple situations affect a roll and they all grant Advantage on it, you still roll only two d20s. Similarly, if multiple situations impose Disadvantage on a roll, you roll only two d20s.
 
@@ -234,7 +230,7 @@ Characters and monsters are good at various things. Some are skilled with many w
 
 This bonus is applied to a D20 Test when the creature has proficiency in a skill, in a saving throw, or with an item that the creature uses to make the D20 Test. The bonus is also used for spell attacks and for calculating the DC of saving throws for spells.
 
-##### Proficiency Bonus
+**Proficiency Bonus**
 
 | Level or CR   |   Bonus |
 |---------------|---------|
@@ -257,9 +253,13 @@ Occasionally, a Proficiency Bonus might be multiplied or divided (doubled or hal
 
 Most ability checks involve using a skill, which represents a category of things creatures try to do with an ability check. The descriptions of the actions you take (see 'Actions' later in 'Playing the Game') specify which skill applies if you make an ability check for that action, and many other rules note when a skill is relevant. The GM has the ultimate say on whether a skill is relevant in a situation.
 
-If a creature is proficient in a skill, the creature applies its Proficiency Bonus to ability checks involving that skill. Without proficiency in a skill, a creature can still make ability checks involving
+If a creature is proficient in a skill, the creature applies its Proficiency Bonus to ability checks involving that skill. Without proficiency in a skill, a creature can still make ability checks involving that skill but doesn't add its Proficiency Bonus. For example, if a character tries to climb a cliff, the GM might ask for a Strength (Athletics) check. If the character has Athletics proficiency, the character adds their Proficiency Bonus to the Strength check. If the character lacks that proficiency, they make the check without adding their Proficiency Bonus.
 
-##### Skills
+#### Skill List
+
+The skills are shown on the Skills table, which notes example uses for each skill proficiency as well as the ability check the skill most often applies to.
+
+**Skills**
 
 |        Skill    | Ability      | Example Uses                                                              |
 |-----------------|--------------|---------------------------------------------------------------------------|
@@ -282,12 +282,6 @@ If a creature is proficient in a skill, the creature applies its Proficiency Bon
 | Stealth         | Dexterity    | Escape notice by moving quietly and hiding behind things.                 |
 | Survival        | Wisdom       | Follow tracks, forage, find a trail, or avoid natural hazards.            |
 
-that skill but doesn't add its Proficiency Bonus. For example, if a character tries to climb a cliff, the GM might ask for a Strength (Athletics) check. If the character has Athletics proficiency, the character adds their Proficiency Bonus to the Strength check. If the character lacks that proficiency, they make the check without adding their Proficiency Bonus.
-
-#### Skill List
-
-The skills are shown on the Skills table, which notes example uses for each skill proficiency as well as the ability check the skill most often applies to.
-
 #### Determining Skills
 
 A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in its stat block.
@@ -309,7 +303,7 @@ A character gains proficiency with various weapons and tools from their class an
 
 When you do something other than moving or communicating, you typically take an action. The Action table lists the game's main actions, which are defined in more detail in 'Rules Glossary.'
 
-##### Actions
+**Actions**
 
 | Action    | Summary                                                                                                                                                                                                                               |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -449,10 +443,6 @@ You can usually carry your gear and treasure without worrying about the weight o
 
 As an action, you can automatically break or otherwise destroy a fragile, nonmagical object, such as a glass container or a piece of paper. If you try to damage something more resilient, the GM might use the rules on breaking objects in 'Rules Glossary.'
 
-##### Marching Order
-
-The adventurers should establish a marching order while they travel, whether indoors or outdoors. A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies if a fight breaks out. You can change your marching order outside combat and record the order any way you like: write it down, for example, or arrange miniatures to show it.
-
 ### Hazards
 
 Monsters are the main perils characters face, but other dangers await. 'Rules Glossary' defines the following hazards:
@@ -467,11 +457,15 @@ During an adventure, the characters might travel long distances on trips that co
 
 If you need to know how fast you can move when every second matters, see the movement rules in 'Combat' later in 'Playing the Game.'
 
+**Marching Order**
+
+The adventurers should establish a marching order while they travel, whether indoors or outdoors. A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies if a fight breaks out. You can change your marching order outside combat and record the order any way you like: write it down, for example, or arrange miniatures to show it.
+
 ### Travel Pace
 
 While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a Short or Long Rest before they can move at that increased pace again (see 'Equipment' for a selection of mounts for sale). 'Gameplay Toolbox' has rules that affect which pace you can choose in certain types of terrain.
 
-##### Travel Pace: Distance Traveled Per…
+**Travel Pace: Distance Traveled Per…**
 
 | Pace   | Minute   | Hour    | Day      |
 |--------|----------|---------|----------|
@@ -531,7 +525,11 @@ Extended communication, such as a detailed explanation of something or an attemp
 
 If you want to interact with a second object, you need to take the Utilize action. Some magic items and other special objects always require an action to use, as stated in their descriptions.
 
-##### Playing on a Grid
+The GM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the GM might require you to take the Utilize action to open a stuck door or turn a crank to lower a drawbridge.
+
+**Doing Nothing on Your Turn.** You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do, consider taking the defensive Dodge action or the Ready action to delay acting.
+
+**Playing on a Grid**
 
 If you play using a square grid and miniatures or other tokens, follow these rules.
 
@@ -544,10 +542,6 @@ If you play using a square grid and miniatures or other tokens, follow these rul
 **Corners.** Diagonal movement can't cross the corner of a wall, a large tree, or another terrain feature that fills its space.
 
 **Ranges.** To determine the range on a grid between two things-whether creatures or objectscount squares from a square adjacent to one of them and stop counting in the space of the other one. Count by the shortest route.
-
-The GM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the GM might require you to take the Utilize action to open a stuck door or turn a crank to lower a drawbridge.
-
-**Doing Nothing on Your Turn.** You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do, consider taking the defensive Dodge action or the Ready action to delay acting.
 
 #### Ending Combat
 
@@ -583,7 +577,7 @@ A creature belongs to a size category, which determines the width of the square 
 
 A character's size is determined by species, and a monster's size is specified in the monster's stat block.
 
-##### Creature Size and Space
+**Creature Size and Space**
 
 | Size       | Space (Feet)   | Space (Squares)     |
 |------------|----------------|---------------------|
@@ -604,9 +598,13 @@ You can't willingly end a move in a space occupied by another creature. If you s
 
 ### Making an Attack
 
-When you take the Attack action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon,
+When you take the Attack action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
 
-###### uUnseen Attackers and Targets 
+1. Choose a Target. Pick a target within your attack's range: a creature, an object, or a location.
+2. Determine Modifiers. The GM determines whether the target has Cover (see the next section) and whether you have Advantage or Disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+3. Resolve the Attack. Make the attack roll, as detailed earlier in 'Playing the Game.' On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
+
+**Unseen Attackers and Targets**
 
 When you make an attack roll against a target you can't see, you have Disadvantage on the roll. This is true whether you're guessing the target's location or targeting a creature you can hear but not see. If the target isn't in the location you targeted, you miss.
 
@@ -614,19 +612,13 @@ When a creature can't see you, you have Advantage on attack rolls against it.
 
 If you are hidden when you make an attack roll, you give away your location when the attack hits or misses.
 
-or make an attack roll as part of a spell, an attack has the following structure:
-
-1. Choose a Target. Pick a target within your attack's range: a creature, an object, or a location.
-2. Determine Modifiers. The GM determines whether the target has Cover (see the next section) and whether you have Advantage or Disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
-3. Resolve the Attack. Make the attack roll, as detailed earlier in 'Playing the Game.' On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
-
 ### Cover
 
 Walls, trees, creatures, and other obstacles can provide cover, making a target more difficult to harm. As detailed in the Cover table, there are three degrees of cover, each of which gives a different benefit to a target.
 
 A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives Half Cover and a tree trunk that gives Three-Quarters Cover, the target has Three-Quarters Cover.
 
-##### Cover
+**Cover**
 
 | Degree          | Benefit to Target                          | Offered By…                                                           |
 |-----------------|--------------------------------------------|-----------------------------------------------------------------------|
@@ -706,17 +698,15 @@ Injury and death are frequent threats, as detailed in the following rules.
 
 ### Hit Points
 
-Hit Points represent durability and the will to live. Creatures with more Hit Points are more difficult to kill. Your Hit Point maximum is the number of
-
-##### Resting
-
-Adventurers can't spend every hour adventuring. They need rest. Any creature can take hour-long Short Rests in the midst of a day and an 8-hour Long Rest to end it. Regaining Hit Points is one of the main benefits of a rest. 'Rules Glossary' provides the rules for Short and Long Rests.
-
-Hit Points you have when uninjured. Your current Hit Points can be any number from that maximum down to 0, which is the lowest Hit Points can go.
+Hit Points represent durability and the will to live. Creatures with more Hit Points are more difficult to kill. Your Hit Point maximum is the number of Hit Points you have when uninjured. Your current Hit Points can be any number from that maximum down to 0, which is the lowest Hit Points can go.
 
 Whenever you take damage, subtract it from your Hit Points. Hit Point loss has no effect on your capabilities until you reach 0 Hit Points.
 
 If you have half your Hit Points or fewer, you're Bloodied, which has no game effect on its own but which might trigger other game effects.
+
+**Resting**
+
+Adventurers can't spend every hour adventuring. They need rest. Any creature can take hour-long Short Rests in the midst of a day and an 8-hour Long Rest to end it. Regaining Hit Points is one of the main benefits of a rest. 'Rules Glossary' provides the rules for Short and Long Rests.
 
 ### Damage Rolls
 
@@ -768,11 +758,11 @@ Some creatures and objects have Immunity to certain damage types and conditions.
 
 Hit Points can be restored by magic, such as the Cure Wounds spell or a Potion of Healing, or by a Short or Long Rest (see 'Rules Glossary').
 
-##### Knocking Out a Creature
+When you receive healing, add the restored Hit Points to your current Hit Points. Your Hit Points can't exceed your Hit Point maximum, so any Hit Points regained in excess of the maximum are lost. For example, if you receive 8 Hit Points of healing and have 14 Hit Points and a Hit Point maximum of 20, you regain 6 Hit Points, not 8.
+
+**Knocking Out a Creature**
 
 When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point and give it the Unconscious condition. It then starts a Short Rest, at the end of which that condition ends on it. The condition ends early if the creature regains any Hit Points or if someone takes an action to administer first aid to it, making a successful DC 10 Wisdom (Medicine) check.
-
-When you receive healing, add the restored Hit Points to your current Hit Points. Your Hit Points can't exceed your Hit Point maximum, so any Hit Points regained in excess of the maximum are lost. For example, if you receive 8 Hit Points of healing and have 14 Hit Points and a Hit Point maximum of 20, you regain 6 Hit Points, not 8.
 
 ### Dropping to 0 Hit Points
 
@@ -856,7 +846,7 @@ Here are the steps to make a character; each step is explored in detail:
 
 Choose a class, and write it on your character sheet. The Class Overview table summarizes the classes. See 'Classes' for the classes' details.
 
-##### Class Overview
+**Class Overview**
 
 | Class     | Likes ...      | Primary Ability       | Complexity   |
 |-----------|----------------|-----------------------|--------------|
@@ -897,7 +887,7 @@ Choose your character's background, and write it on your character sheet. You ca
 
 The background you choose influences step 3, when you determine your character's ability scores. If you're having trouble choosing, the Ability Scores and Backgrounds table shows which backgrounds benefit which ability scores. Look for your class's primary ability there.
 
-##### Ability Scores and Backgrounds
+**Ability Scores and Backgrounds**
 
 | Ability      | Background   |
 |--------------|--------------|
@@ -945,7 +935,7 @@ Your character knows at least three languages: Common plus two languages you rol
 
 The Standard Languages table lists languages that are widespread in the setting. Every player character knows Common. The other standard languages originated with the first members of the most prominent species in the setting and have since spread widely.
 
-##### Standard Languages
+**Standard Languages**
 
 | 1d12   | Language             |
 |--------|----------------------|
@@ -962,7 +952,7 @@ The Standard Languages table lists languages that are widespread in the setting.
 
 The Rare Languages table lists languages that are either secret or derived from other planes of existence and thus less widespread in the worlds of the Material Plane. Some features let a character learn a rare language.
 
-##### Rare Languages
+**Rare Languages**
 
 | Language    | Language      |
 |-------------|---------------|
@@ -988,7 +978,7 @@ Determine your ability scores by using one of the following three methods. Your 
 
 **Point Cost.** You have 27 points to spend on your ability scores. The cost of each score is shown on the Ability Score Point Costs table. For example, a score of 14 costs 7 of your 27 points.
 
-##### Ability Score Point Costs
+**Ability Score Point Costs**
 
 | Score | Cost | 
 |-------|------|
@@ -1007,7 +997,7 @@ Once you've generated six scores, assign them to Strength, Dexterity, Constituti
 
 If you're using the Standard Array option, consult the Standard Array by Class table for suggestions on where to assign scores for your character's class. The table puts the highest scores in a class's main abilities. If you used a different method to generate the scores, you may still use this table to guide where you place your highest and lowest scores.
 
-##### Standard Array by Class
+**Standard Array by Class**
 
 | Class     |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |-----------|--------|--------|--------|--------|--------|--------|
@@ -1034,7 +1024,7 @@ Some players like to increase their class's primary ability, while others prefer
 
 Finally, determine your ability modifiers using the Ability Scores and Modifiers table. Write the modifier next to each of your scores.
 
-##### Ability Scores and Modifiers
+**Ability Scores and Modifiers**
 
 | Score | Modifier |
 |-------|----------|
@@ -1069,13 +1059,7 @@ The summaries of the alignments below describe the typical behavior of a creatur
 
 **Lawful Neutral (LN).** Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life-and isn't swayed either by the demands of those in need or by the temptations of evil-is probably Lawful Neutral.
 
-**Neutral (N).** Neutral is the alignment of those who prefer to avoid moral questions and don't take sides,
-
-##### Unaligned Creatures
-
-Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. Sharks are savage predators, for example, but they aren't evil; they are unaligned.
-
-doing what seems best at the time. Someone who's bored by moral debate is probably Neutral.
+**Neutral (N).** Neutral is the alignment of those who prefer to avoid moral questions and don't take sides, doing what seems best at the time. Someone who's bored by moral debate is probably Neutral.
 
 **Chaotic Neutral (CN).** Chaotic Neutral creatures follow their whims, valuing their personal freedom above all else. A scoundrel who wanders the land living by their wits is probably Chaotic Neutral.
 
@@ -1084,6 +1068,10 @@ doing what seems best at the time. Someone who's bored by moral debate is probab
 **Neutral Evil (NE).** Neutral Evil is the alignment of those who are untroubled by the harm they cause as they pursue their desires. A criminal who robs and murders as they please is probably Neutral Evil.
 
 **Chaotic Evil (CE).** Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
+
+**Unaligned Creatures**
+
+Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. Sharks are savage predators, for example, but they aren't evil; they are unaligned.
 
 ### Step 5: Character Creation Details
 
@@ -1111,7 +1099,7 @@ Include all modifiers that apply to your Wisdom (Perception) checks. For example
 
 **Hit Points.** Your class and Constitution modifier determine your Hit Point maximum at level 1, as shown on the Level 1 Hit Points by Class table.
 
-##### Level 1 Hit Points by Class
+**Level 1 Hit Points by Class**
 
 | Class                                        | Hit Point Maximum   |
 |----------------------------------------------|---------------------|
@@ -1150,7 +1138,7 @@ While going on adventures, your character gains experience, represented by Exper
 
 The Character Advancement table lists the XP you need to advance to a level and the Proficiency Bonus for a character of that level. When your XP total equals or exceeds a number in the Experience Points column, you reach the corresponding level.
 
-##### Character Advancement
+**Character Advancement**
 
 | Level | Experience Points | Proficiency Bonus |
 |-------|-------------------|-------------------|
@@ -1183,7 +1171,7 @@ When you gain a level, follow these steps:
 1. Choose a Class. Most characters advance in the same class. However, you might decide to gain a level in another class using the rules in the 'Multiclassing' section.
 2. Adjust Hit Points and Hit Point Dice. Each time you gain a level, you gain an additional Hit Die. Roll that die, add your Constitution modifier to the roll, and add the total (minimum of 1) to your Hit Point maximum. Instead of rolling, you can use the fixed value shown in the Fixed Hit Points by Class table.
 
-##### Fixed Hit Points by Class
+**Fixed Hit Points by Class**
 
 | Class                                        | Hit Points per Level   |
 |----------------------------------------------|------------------------|
@@ -1224,9 +1212,17 @@ Your GM might start your group's characters at a level higher than 1. It is part
 
 ### Creating Your Character
 
-Creating a higher-level character uses the same character-creation steps outlined in this chapter and the rules for advancing beyond level 1 provided
+Creating a higher-level character uses the same character-creation steps outlined in this chapter and the rules for advancing beyond level 1 provided in the 'Level Advancement' section. You begin with the minimum amount of XP required to reach your starting level. For example, if the GM starts you at level 10, you have 64,000 XP.
 
-##### Starting Equipment at Higher Levels
+**Bonus Feats at Level 20**
+
+A GM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. Epic Boon feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
+
+### Starting Equipment
+
+The GM decides whether your character starts with more than the standard equipment for a level 1 character, possibly even one or more magic items. The Starting Equipment at Higher Levels table is a guide for the GM.
+
+**Starting Equipment at Higher Levels**
 
 | Starting Level   | Equipment and Money                                         | Magic Items                               |
 |------------------|-------------------------------------------------------------|-------------------------------------------|
@@ -1234,16 +1230,6 @@ Creating a higher-level character uses the same character-creation steps outline
 | 5-10             | 500 GP plus 1d10 × 25 GP plus normal starting equipment     | 1 Common, 1 Uncommon                      |
 | 11-16            | 5,000 gp plus 1d10 × 250 GP plus normal starting equipment  | 2 Common, 3 Uncommon, 1 Rare              |
 | 17-20            | 20,000 GP plus 1d10 × 250 GP plus normal starting equipment | 2 Common, 4 Uncommon, 3 Rare, 1 Very Rare |
-
-##### Bonus Feats at Level 20
-
-A GM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. Epic Boon feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
-
-in the 'Level Advancement' section. You begin with the minimum amount of XP required to reach your starting level. For example, if the GM starts you at level 10, you have 64,000 XP.
-
-### Starting Equipment
-
-The GM decides whether your character starts with more than the standard equipment for a level 1 character, possibly even one or more magic items. The Starting Equipment at Higher Levels table is a guide for the GM.
 
 Also, check with your GM about what equipment is available for you to buy with your starting money. For example, the firearms described in 'Equipment' are too expensive for level 1 characters, but they might be available for purchase if your GM allows them.
 
@@ -1318,7 +1304,7 @@ in the Multiclass Spellcaster table, you have four level 1 spell slots, three le
 
 **Pact Magic.** If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared.
 
-##### Multiclass Spellcaster: Spell Slots per Spell Level
+**Multiclass Spellcaster: Spell Slots per Spell Level**
 
 | Level | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |-------|---|---|---|---|---|---|---|
@@ -1348,7 +1334,7 @@ in the Multiclass Spellcaster table, you have four level 1 spell slots, three le
 
 When you make your character, you can roll once on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The GM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
 
-##### Trinkets
+**Trinkets**
 
 | 1d100      | Trinket                                                                                                   |
 |------------|-----------------------------------------------------------------------------------------------------------|
@@ -1457,7 +1443,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 ## Barbarian
 
-##### Core Barbarian Traits
+**Core Barbarian Traits**
 
 | Attribute                  | Description                                                                           |
 |----------------------------|---------------------------------------------------------------------------------------|
@@ -1475,7 +1461,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 - Gain all the traits in the Core Barbarian Traits table.
 
-##### Barbarian Features
+**Barbarian Features**
 
 | Level | Proficiency Bonus | Class Features                          | Rages | Rage Damage | Weapon Mastery |
 |-------|-------------------|-----------------------------------------|-------|-------------|----------------|
@@ -1652,7 +1638,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest u
 
 ## Bard
 
-##### Core Bard Traits
+**Core Bard Traits**
 
 | Attribute                  | Description                                                                                                                   |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -1671,7 +1657,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest u
 
 - Gain all the traits in the Core Bard Traits table.
 
-##### Bard Features
+**Bard Features**
 
 | Level | Proficiency Bonus | Class Features                   | Bardic Die | Cantrips | Prepared Spells | Spell Slots per Spell Level: 1 | Spell Slots per Spell Level: 2 | Spell Slots per Spell Level: 3 | Spell Slots per Spell Level: 4 | Spell Slots per Spell Level: 5 | Spell Slots per Spell Level: 6 | Spell Slots per Spell Level: 7 | Spell Slots per Spell Level: 8 | Spell Slots per Spell Level: 9 |
 |-------|-------------------|----------------------------------|------------|----------|-----------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
@@ -1793,7 +1779,7 @@ You have mastered two of the Words of Creation: the words of life and death. You
 
 This section presents the Bard spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, C means the spell requires Concentration, R means it's a Ritual, and M means it requires a specific Material component.
 
-##### Cantrips (Level 0 Bard Spells)
+**Cantrips (Level 0 Bard Spells)**
 
 | Spell            | School        | Special |
 |------------------|---------------|---------|
@@ -1808,7 +1794,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | True Strike      | Divination    | -       |
 | Vicious Mockery  | Enchantment   | -       |
 
-##### Level 1 Bard Spells
+**Level 1 Bard Spells**
 
 | Spell                | School        | Special |
 |----------------------|---------------|---------|
@@ -1836,7 +1822,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | Thunderwave          | Evocation     | -       |
 | Unseen Servant       | Conjuration   | R       |
 
-##### Level 2 Bard Spells
+**Level 2 Bard Spells**
 
 | Spell                    | School        | Special |
 |--------------------------|---------------|---------|
@@ -1863,7 +1849,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | Suggestion               | Enchantment   | C       |
 | Zone of Truth            | Enchantment   | -       |
 
-##### Level 3 Bard Spells
+**Level 3 Bard Spells**
 
 | Spell             | School        | Special |
 |-------------------|---------------|---------|
@@ -1885,7 +1871,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | Tiny Hut          | Evocation     | R       |
 | Tongues           | Divination    | -       |
 
-##### Level 4 Bard Spells
+**Level 4 Bard Spells**
 
 | Spell                 | School        | Special |
 |-----------------------|---------------|---------|
@@ -1900,7 +1886,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | Phantasmal Killer     | Illusion      | C       |
 | Polymorph             | Transmutation | C       |
 
-##### Level 5 Bard Spells
+**Level 5 Bard Spells**
 
 | Spell                | School        | Special |
 |----------------------|---------------|---------|
@@ -1922,7 +1908,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | Telepathic Bond      | Divination    | R       |
 | Teleportation Circle | Conjuration   | M       |
 
-##### Level 6 Bard Spells
+**Level 6 Bard Spells**
 
 | Spell               | School      | Special |
 |---------------------|-------------|---------|
@@ -1935,7 +1921,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | Programmed Illusion | Illusion    | M       |
 | True Seeing         | Divination  | M       |
 
-##### Level 7 Bard Spells
+**Level 7 Bard Spells**
 
 | Spell               | School       | Special |
 |---------------------|--------------|---------|
@@ -1951,7 +1937,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | Symbol              | Abjuration   | M       |
 | Teleport            | Conjuration  | -       |
 
-##### Level 8 Bard Spells
+**Level 8 Bard Spells**
 
 | Spell              | School      | Special |
 |--------------------|-------------|---------|
@@ -1962,7 +1948,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | Mind Blank         | Abjuration  | -       |
 | Power Word Stun    | Enchantment | -       |
 
-##### Level 9 Bard Spells
+**Level 9 Bard Spells**
 
 | Spell           | School        | Special |
 |-----------------|---------------|---------|
@@ -1998,7 +1984,7 @@ When you make an ability check or attack roll and fail, you can expend one use o
 
 ## Cleric
 
-##### Core Cleric Traits
+**Core Cleric Traits**
 
 | Attribute                  | Description                                                                                       |
 |----------------------------|---------------------------------------------------------------------------------------------------|
@@ -2017,7 +2003,7 @@ When you make an ability check or attack roll and fail, you can expend one use o
 - Gain all the traits in the Core Cleric Traits table.
 - Gain the Cleric's level 1 features, which are listed in the Cleric Features table.
 
-##### Cleric Features
+**Cleric Features**
 
 | Level | Proficiency Bonus | Class Features              | Channel Divinity | Cantrips | Prepared Spells | Spell Slots per Spell Level: 1 | Spell Slots per Spell Level: 2 | Spell Slots per Spell Level: 3 | Spell Slots per Spell Level: 4 | Spell Slots per Spell Level: 5 | Spell Slots per Spell Level: 6 | Spell Slots per Spell Level: 7 | Spell Slots per Spell Level: 8 | Spell Slots per Spell Level: 9 |
 |-------|-------------------|-----------------------------|------------------|----------|-----------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
@@ -2141,7 +2127,7 @@ You can call on even more powerful divine intervention. When you use your Divine
 
 This section presents the Cleric spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, C means the spell requires Concentration, R means it's a Ritual, and M means it requires a specific Material component.
 
-##### Cantrips (Level 0 Cleric Spells)
+**Cantrips (Level 0 Cleric Spells)**
 
 | Spell           | School        | Special |
 |-----------------|---------------|---------|
@@ -2153,7 +2139,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | Spare the Dying | Necromancy    | -       |
 | Thaumaturgy     | Transmutation | -       |
 
-##### Level 1 Cleric Spells
+**Level 1 Cleric Spells**
 
 | Spell                         | School        | Special |
 |-------------------------------|---------------|---------|
@@ -2173,7 +2159,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | Sanctuary                     | Abjuration    | -       |
 | Shield of Faith               | Abjuration    | C       |
 
-##### Level 2 Cleric Spells
+**Level 2 Cleric Spells**
 
 | Spell                  | School        | Special |
 |------------------------|---------------|---------|
@@ -2195,7 +2181,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | Warding Bond           | Abjuration    | M       |
 | Zone of Truth          | Enchantment   | -       |
 
-##### Level 3 Cleric Spells
+**Level 3 Cleric Spells**
 
 | Spell                  | School        | Special |
 |------------------------|---------------|---------|
@@ -2219,7 +2205,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | Tongues                | Divination    | -       |
 | Water Walk             | Transmutation | R       |
 
-##### Level 4 Cleric Spells
+**Level 4 Cleric Spells**
 
 | Spell               | School        | Special |
 |---------------------|---------------|---------|
@@ -2233,7 +2219,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | Locate Creature     | Divination    | C       |
 | Stone Shape         | Transmutation | -       |
 
-##### Level 5 Cleric Spells
+**Level 5 Cleric Spells**
 
 | Spell                | School      | Special |
 |----------------------|-------------|---------|
@@ -2251,7 +2237,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | Raise Dead           | Necromancy  | M       |
 | Scrying              | Divination  | C, M    |
 
-##### Level 6 Cleric Spells
+**Level 6 Cleric Spells**
 
 | Spell          | School      | Special |
 |----------------|-------------|---------|
@@ -2267,7 +2253,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | True Seeing    | Divination  | M       |
 | Word of Recall | Conjuration | -       |
 
-##### Level 7 Cleric Spells
+**Level 7 Cleric Spells**
 
 | Spell             | School        | Special |
 |-------------------|---------------|---------|
@@ -2280,7 +2266,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | Resurrection      | Necromancy    | M       |
 | Symbol            | Abjuration    | M       |
 
-##### Level 8 Cleric Spells
+**Level 8 Cleric Spells**
 
 | Spell           | School        | Special |
 |-----------------|---------------|---------|
@@ -2290,7 +2276,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | Holy Aura       | Abjuration    | C, M    |
 | Sunburst        | Evocation     | -       |
 
-##### Level 9 Cleric Spells
+**Level 9 Cleric Spells**
 
 | Spell             | School      | Special |
 |-------------------|-------------|---------|
@@ -2316,7 +2302,7 @@ When a spell you cast with a spell slot restores Hit Points to a creature, that 
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.
 
-#### Life Domain Spells
+**Life Domain Spells**
 
 | Cleric Level | Prepared Spells                                    |
 |--------------|----------------------------------------------------|
@@ -2339,7 +2325,7 @@ When you would normally roll one or more dice to restore Hit Points to a creatur
 
 ## Druid
 
-##### Core Druid Traits
+**Core Druid Traits**
 
 | Attribute                  | Description                                                                                                                                |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2352,7 +2338,7 @@ When you would normally roll one or more dice to restore Hit Points to a creatur
 | Armor Training             | Light armor and Shields                                                                                                                    |
 | Starting Equipment         | Choose A or B: (A) Leather Armor, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 9 GP; or (B) 50 GP |
 
-##### Druid Features
+**Druid Features**
 
 | Level | Proficiency Bonus | Class Features                      | Wild Shape | Cantrips | Prepared Spells | Spell Slots per Spell Level: 1 | Spell Slots per Spell Level: 2 | Spell Slots per Spell Level: 3 | Spell Slots per Spell Level: 4 | Spell Slots per Spell Level: 5 | Spell Slots per Spell Level: 6 | Spell Slots per Spell Level: 7 | Spell Slots per Spell Level: 8 | Spell Slots per Spell Level: 9 |
 |-------|-------------------|-------------------------------------|------------|----------|-----------------|------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
@@ -2447,7 +2433,7 @@ When you reach certain Druid levels, your number of known forms and the maximum 
 
 When choosing known forms, you may look in other sources for eligible Beasts if the Game Master permits you to do so.
 
-#### Beast Shapes
+**Beast Shapes**
 
 | Druid Level | Known Forms | Max CR | Fly Speed |
 |-------------|-------------|--------|-----------|
@@ -2520,7 +2506,7 @@ The vitality of nature constantly blooms within you, granting you the following 
 
 This section presents the Druid spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, C means the spell requires Concentration, R means it's a Ritual, and M means it requires a specific Material component.
 
-##### Cantrips (Level 0 Druid Spells)
+**Cantrips (Level 0 Druid Spells)**
 
 | Spell           | School        | Special |
 | :-------------- | :------------ | :------ |
@@ -2536,7 +2522,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | Spare the Dying | Necromancy    | -       |
 | Starry Wisp     | Evocation     | -       |
 
-##### Level 1 Druid Spells
+**Level 1 Druid Spells**
 
 | Spell                         | School        | Special |
 | :---------------------------- | :------------ | :------ |
@@ -2559,7 +2545,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | Speak with Animals            | Divination    | R       |
 | Thunderwave                   | Evocation     | -       |
 
-##### Level 2 Druid Spells
+**Level 2 Druid Spells**
 
 | Spell                    | School        | Special |
 | :----------------------- | :------------ | :------ |
@@ -2585,7 +2571,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | Protection from Poison   | Abjuration    | -       |
 | Spike Growth             | Transmutation | C       |
 
-##### Level 3 Druid Spells
+**Level 3 Druid Spells**
 
 | Spell                  | School        | Special |
 | :--------------------- | :------------ | :------ |
@@ -2603,7 +2589,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | Water Walk             | Transmutation | R       |
 | Wind Wall              | Evocation     | C       |
 
-##### Level 4 Druid Spells
+**Level 4 Druid Spells**
 
 | Spell                    | School        | Special |
 | :----------------------- | :------------ | :------ |
@@ -2626,7 +2612,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | Stoneskin                | Transmutation | C, M    |
 | Wall of Fire             | Evocation     | C       |
 
-##### Level 5 Druid Spells
+**Level 5 Druid Spells**
 
 | Spell               | School        | Special |
 | :------------------ | :------------ | :------ |
@@ -2646,7 +2632,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | Tree Stride         | Conjuration   | C       |
 | Wall of Stone       | Evocation     | C       |
 
-##### Level 6 Druid Spells
+**Level 6 Druid Spells**
 
 | Spell                | School        | Special |
 | :------------------- | :------------ | :------ |
@@ -2661,7 +2647,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | Wall of Thorns       | Conjuration   | C       |
 | Wind Walk            | Transmutation | -       |
 
-##### Level 7 Druid Spells
+**Level 7 Druid Spells**
 
 | Spell           | School        | Special |
 |-----------------|---------------|---------|
@@ -2672,7 +2658,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | Reverse Gravity | Transmutation | C       |
 | Symbol          | Abjuration    | M       |
 
-##### Level 8 Druid Spells
+**Level 8 Druid Spells**
 
 | Spell              | School        | Special |
 |--------------------|---------------|---------|
@@ -2685,7 +2671,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | Sunburst           | Evocation     | -       |
 | Tsunami            | Conjuration   | C       |
 
-##### Level 9 Druid Spells
+**Level 9 Druid Spells**
 
 | Spell              | School        | Special |
 | :----------------- | :------------ | :------ |
@@ -2705,7 +2691,7 @@ The Circle of the Land comprises mystics and sages who safeguard ancient knowled
 
 Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
 
-##### Arid Land
+**Arid Land**
 
 | Druid Level | Circle Spells                  |
 |-------------|--------------------------------|
@@ -2714,7 +2700,7 @@ Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate
 | 7           | Blight                         |
 | 9           | Wall of Stone                  |
 
-##### Polar Land
+**Polar Land**
 
 | Druid Level | Circle Spells                        |
 |-------------|--------------------------------------|
@@ -2723,7 +2709,7 @@ Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate
 | 7           | Ice Storm                            |
 | 9           | Cone of Cold                         |
 
-##### Temperate Land
+**Temperate Land**
 
 | Druid Level | Circle Spells                     |
 |-------------|-----------------------------------|
@@ -2732,7 +2718,7 @@ Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate
 | 7           | Freedom of Movement               |
 | 9           | Tree Stride                       |
 
-##### Tropical Land
+**Tropical Land**
 
 | Druid Level | Circle Spells                     |
 |-------------|-----------------------------------|
@@ -2757,7 +2743,7 @@ In addition, when you finish a Short Rest, you can choose expended spell slots t
 
 You are immune to the Poisoned condition, and you have Resistance to a damage type associated with your current land choice in the Circle Spells feature, as shown in the Nature's Ward table.
 
-##### Nature's Ward
+**Nature's Ward**
 
 | Land Type | Resistance | Land Type | Resistance |
 |-----------|------------|-----------|------------|
@@ -2772,7 +2758,7 @@ As a Bonus Action, you can move the Cube up to 60 feet to ground within 120 feet
 
 ## Fighter
 
-##### Core Fighter Traits
+**Core Fighter Traits**
 
 | Attribute                  | Description                                                                                                                                                                                                             |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2784,7 +2770,7 @@ As a Bonus Action, you can move the Cube up to 60 feet to ground within 120 feet
 | Armor Training             | Light, Medium, and Heavy armor and Shields                                                                                                                                                                              |
 | Starting Equipment         | Choose A, B, or C: (A) Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 4 GP; (B) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 11 GP; or (C) 155 GP |
 
-##### Fighter Features
+**Fighter Features**
 
 | Level | Proficiency Bonus | Class Features                                    | Second Wind | Weapon Mastery |
 |-------|-------------------|---------------------------------------------------|-------------|----------------|
@@ -2935,7 +2921,7 @@ You attain the pinnacle of resilience in battle, giving you these benefits.
 
 ## Monk
 
-##### Core Monk Traits
+**Core Monk Traits**
 
 | Attribute                  | Description                                                                                                                                                |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2964,7 +2950,7 @@ You attain the pinnacle of resilience in battle, giving you these benefits.
 
 As a Monk, you gain the following class features when you reach the specified Monk levels. These features are listed in the Monk Features table.
 
-##### Monk Features
+**Monk Features**
 
 | Level | Proficiency Bonus | Class Features                                       | Martial Arts | Focus Points | Unarmored Movement |
 |-------|-------------------|------------------------------------------------------|--------------|--------------|--------------------|
@@ -3152,7 +3138,7 @@ You can have only one creature under the effect of this feature at a time. You c
 
 ## Paladin
 
-##### Core Paladin Traits
+**Core Paladin Traits**
 
 | Attribute                  | Description                                                                                                       |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -3170,7 +3156,7 @@ You can have only one creature under the effect of this feature at a time. You c
 
 - Gain all the traits in the Core Paladin Traits table.
 
-##### Paladin Features
+**Paladin Features**
 
 | Level | Proficiency Bonus | Class Features                             | Channel Divinity | Prepared | Spell Slots per Spell Level: 1 | Spell Slots per Spell Level: 2 | Spell Slots per Spell Level: 3 | Spell Slots per Spell Level: 4 | Spell Slots per Spell Level: 5 |
 |-------|-------------------|--------------------------------------------|------------------|----------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
@@ -3254,14 +3240,6 @@ You can channel divine energy directly from the Outer Planes, using it to fuel m
 
 You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain an additional use when you reach Paladin level 11.
 
-##### Breaking Your Oath
-
-A Paladin tries to hold to the highest standards of conduct, but even the most dedicated are fallible. Sometimes a Paladin transgresses their oath.
-
-A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
-
-If your Paladin unrepentantly violates their oath, talk to your GM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
-
 If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.
 
 **Divine Sense.** As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell.
@@ -3269,6 +3247,14 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 #### Level 3: Paladin Subclass
 
 You gain a Paladin subclass of your choice. The Oath of Devotion subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level or lower.
+
+**Breaking Your Oath**
+
+A Paladin tries to hold to the highest standards of conduct, but even the most dedicated are fallible. Sometimes a Paladin transgresses their oath.
+
+A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
+
+If your Paladin unrepentantly violates their oath, talk to your GM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
 
 #### Level 4: Ability Score Improvement
 
@@ -3322,7 +3308,7 @@ You gain an Epic Boon feat (see 'Feats') or another feat of your choice for whic
 
 This section presents the Paladin spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, C means the spell requires Concentration, R means it's a Ritual, and M means it requires a specific Material component.
 
-##### Level 1 Paladin Spells
+**Level 1 Paladin Spells**
 
 | Spell                         | School        | Special |
 |-------------------------------|---------------|---------|
@@ -3340,7 +3326,7 @@ This section presents the Paladin spell list. The spells are organized by spell 
 | Searing Smite                 | Evocation     | -       |
 | Shield of Faith               | Abjuration    | C       |
 
-##### Level 2 Paladin Spells
+**Level 2 Paladin Spells**
 
 | Spell                  | School        | Special |
 |------------------------|---------------|---------|
@@ -3356,7 +3342,7 @@ This section presents the Paladin spell list. The spells are organized by spell 
 | Warding Bond           | Abjuration    | M       |
 | Zone of Truth          | Enchantment   | -       |
 
-##### Level 3 Paladin Spells
+**Level 3 Paladin Spells**
 
 | Spell                 | School      | Special |
 |-----------------------|-------------|---------|
@@ -3367,7 +3353,7 @@ This section presents the Paladin spell list. The spells are organized by spell 
 | Remove Curse          | Abjuration  | -       |
 | Revivify              | Necromancy  | M       |
 
-##### Level 4 Paladin Spells
+**Level 4 Paladin Spells**
 
 | Spell           | School     | Special |
 |-----------------|------------|---------|
@@ -3376,7 +3362,7 @@ This section presents the Paladin spell list. The spells are organized by spell 
 | Death Ward      | Abjuration | -       |
 | Locate Creature | Divination | C       |
 
-##### Level 5 Paladin Spells
+**Level 5 Paladin Spells**
 
 | Spell                | School      | Special |
 |----------------------|-------------|---------|
@@ -3403,7 +3389,7 @@ These paladins share the following tenets:
 
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Devotion Spells table, you thereafter always have the listed spells prepared.
 
-##### Oath of Devotion Spells
+**Oath of Devotion Spells**
 
 | Paladin Level | Spells                                         |
 |---------------|------------------------------------------------|
@@ -3441,7 +3427,7 @@ As a Bonus Action, you can imbue your Aura of Protection with holy power, granti
 
 ## Ranger
 
-##### Core Ranger Traits
+**Core Ranger Traits**
 
 | Attribute                  | Description                                                                                            |
 |----------------------------|--------------------------------------------------------------------------------------------------------|
@@ -3475,7 +3461,7 @@ You have learned to channel the magical essence of nature to cast spells. See 'S
 
 **Spell Slots.** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-##### Ranger Features
+**Ranger Features**
 
 | Level | Proficiency Bonus | Class Features                              | Favored Enemy | Prepared Spells | Spell Slots Level 1 | Spell Slots Level 2 | Spell Slots Level 3 | Spell Slots Level 4 | Spell Slots Level 5 |
 |-------|-------------------|---------------------------------------------|---------------|-----------------|---------------------|---------------------|---------------------|---------------------|---------------------|
@@ -3599,7 +3585,7 @@ The damage die of your Hunter's Mark is a d10 rather than a d6.
 
 This section presents the Ranger spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, C means the spell requires Concentration, R means it's a Ritual, and M means it requires a specific Material component.
 
-##### Level 1 Ranger Spells
+**Level 1 Ranger Spells**
 
 | Spell                     | School        | Special |
 |---------------------------|---------------|---------|
@@ -3617,7 +3603,7 @@ This section presents the Ranger spell list. The spells are organized by spell l
 | Longstrider               | Transmutation | -       |
 | Speak with Animals        | Divination    | R       |
 
-##### Level 2 Ranger Spells
+**Level 2 Ranger Spells**
 
 | Spell                    | School        | Special |
 |--------------------------|---------------|---------|
@@ -3637,7 +3623,7 @@ This section presents the Ranger spell list. The spells are organized by spell l
 | Silence                  | Illusion      | C, R    |
 | Spike Growth             | Transmutation | C       |
 
-##### Level 3 Ranger Spells
+**Level 3 Ranger Spells**
 
 | Spell                  | School        | Special |
 |------------------------|---------------|---------|
@@ -3654,7 +3640,7 @@ This section presents the Ranger spell list. The spells are organized by spell l
 | Water Walk             | Transmutation | R       |
 | Wind Wall              | Evocation     | C       |
 
-##### Level 4 Ranger Spells
+**Level 4 Ranger Spells**
 
 | Spell                   | School        | Special |
 |-------------------------|---------------|---------|
@@ -3664,7 +3650,7 @@ This section presents the Ranger spell list. The spells are organized by spell l
 | Locate Creature         | Divination    | C       |
 | Stoneskin               | Transmutation | C, M    |
 
-##### Level 5 Ranger Spells
+**Level 5 Ranger Spells**
 
 | Spell               | School      | Special |
 |---------------------|-------------|---------|
@@ -3708,7 +3694,7 @@ When you take damage, you can take a Reaction to give yourself Resistance to tha
 
 ## Rogue
 
-##### Core Rogue Traits
+**Core Rogue Traits**
 
 | Attribute                  | Description                                                                                                                                   |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3904,7 +3890,7 @@ You are adept at laying ambushes and quickly escaping danger. You can take two t
 
 ## Sorcerer
 
-##### Core Sorcerer Traits
+**Core Sorcerer Traits**
 
 | Attribute                  | Description                                                                                             |
 |----------------------------|---------------------------------------------------------------------------------------------------------|
@@ -3942,7 +3928,7 @@ When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of y
 
 **Spell Slots.** The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-##### Sorcerer Features
+**Sorcerer Features**
 
 | Level | Proficiency Bonus | Class Features               | Sorcery Points | Cantrips | Prepared Spells | Spell Slots Level 1 | Spell Slots Level 2 | Spell Slots Level 3 | Spell Slots Level 4 | Spell Slots Level 5 | Spell Slots Level 6 | Spell Slots Level 7 | Spell Slots Level 8 | Spell Slots Level 9 |
 |-------|-------------------|------------------------------|----------------|----------|-----------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
@@ -4002,7 +3988,7 @@ You can use your Sorcery Points to fuel the options below, along with other feat
 
 Any spell slot you create with this feature vanishes when you finish a Long Rest.
 
-##### Creating Spell Slots
+**Creating Spell Slots**
 
 | Spell Slot Level | Sorcery Point Cost | Min. Sorcerer Level |
 |------------------|--------------------|--------------------|
@@ -4122,7 +4108,7 @@ When you cast a spell, such as Charm Person, that can be cast with a higher-leve
 
 This section presents the Sorcerer spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, C means the spell requires Concentration, R means it's a Ritual, and M means it requires a specific Material component.
 
-##### Cantrips (Level 0 Sorcerer Spells)
+**Cantrips (Level 0 Sorcerer Spells)**
 
 | Spell            | School        | Special   |
 |------------------|---------------|-----------|
@@ -4143,7 +4129,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | Sorcerous Burst  | Evocation     | -         |
 | True Strike      | Divination    | -         |
 
-##### Level 1 Sorcerer Spells
+**Level 1 Sorcerer Spells**
 
 | Spell                           | School        | Special   |
 |---------------------------------|---------------|-----------|
@@ -4169,7 +4155,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | Sleep                           | Enchantment   | C         |
 | Thunderwave                     | Evocation     | -         |
 
-##### Level 2 Sorcerer Spells
+**Level 2 Sorcerer Spells**
 
 | Spell              | School        | Special   |
 |--------------------|---------------|-----------|
@@ -4199,7 +4185,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | Suggestion       | Enchantment   | C         |
 | Web              | Conjuration   | C         |
 
-##### Level 3 Sorcerer Spells
+**Level 3 Sorcerer Spells**
 
 | Spell                  | School        | Special   |
 |------------------------|---------------|-----------|
@@ -4225,7 +4211,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | Water Breathing        | Transmutation | R         |
 | Water Walk             | Transmutation | R         |
 
-##### Level 4 Sorcerer Spells
+**Level 4 Sorcerer Spells**
 
 | Spell                | School        | Special   |
 |----------------------|---------------|-----------|
@@ -4243,7 +4229,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | Vitriolic Sphere     | Evocation     | -         |
 | Wall of Fire         | Evocation     | C         |
 
-##### Level 5 Sorcerer Spells
+**Level 5 Sorcerer Spells**
 
 | Spell                | School        | Special   |
 |----------------------|---------------|-----------|
@@ -4260,7 +4246,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | Teleportation Circle | Conjuration   | M         |
 | Wall of Stone        | Evocation     | C         |
 
-##### Level 6 Sorcerer Spells
+**Level 6 Sorcerer Spells**
 
 | Spell                    | School        | Special   |
 |--------------------------|---------------|-----------|
@@ -4276,7 +4262,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | Sunbeam                  | Evocation     | C         |
 | True Seeing              | Divination    | M         |
 
-##### Level 7 Sorcerer Spells
+**Level 7 Sorcerer Spells**
 
 | Spell                           | School        | Special   |
 |---------------------------------|---------------|-----------|
@@ -4289,7 +4275,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | Reverse Gravity                 | Transmutation | C         |
 | Teleport                        | Conjuration   | -         |
 
-##### Level 8 Sorcerer Spells
+**Level 8 Sorcerer Spells**
 
 | Spell            | School        | Special   |
 |------------------|---------------|-----------|
@@ -4300,7 +4286,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | Power Word Stun  | Enchantment   | -         |
 | Sunburst         | Evocation     | -         |
 
-##### Level 9 Sorcerer Spells
+**Level 9 Sorcerer Spells**
 
 | Spell           | School        | Special   |
 |-----------------|---------------|-----------|
@@ -4326,7 +4312,7 @@ Parts of you are also covered by dragon-like scales. While you aren't wearing ar
 
 When you reach a Sorcerer level specified in the Draconic Spells table, you thereafter always have the listed spells prepared.
 
-##### Draconic Spells
+**Draconic Spells**
 
 | Sorcerer Level | Spells                                              |
 |----------------|-----------------------------------------------------|
@@ -4355,7 +4341,7 @@ Whenever you start casting the spell, you can modify it so that it doesn't requi
 
 ## Warlock
 
-##### Core Warlock Traits
+**Core Warlock Traits**
 
 | Attribute                  | Description                                                                                                                             |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -4391,7 +4377,7 @@ You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbu
 
 **Replacing and Gaining Invocations.** Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have.
 
-##### Warlock Features
+**Warlock Features**
 
 | Level | Proficiency Bonus | Class Features                   | Eldritch Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
 |-------|-------------------|----------------------------------|----------------------|----------|-----------------|-------------|------------|
@@ -4688,7 +4674,7 @@ You have Truesight with a range of 30 feet.
 
 This section presents the Warlock spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, C means the spell requires Concentration, R means it's a Ritual, and M means it requires a specific Material component.
 
-##### Cantrips (Level 0 Warlock Spells)
+**Cantrips (Level 0 Warlock Spells)**
 
 | Spell            | School        | Special |
 |------------------|---------------|---------|
@@ -4700,7 +4686,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | Prestidigitation | Transmutation | -       |
 | True Strike      | Divination    | -       |
 
-##### Level 1 Warlock Spells
+**Level 1 Warlock Spells**
 
 | Spell                         | School        | Special   |
 |-------------------------------|---------------|-----------|
@@ -4717,7 +4703,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | Speak with Animals            | Divination    | R         |
 | Unseen Servant                | Conjuration   | R         |
 
-##### Level 2 Warlock Spells
+**Level 2 Warlock Spells**
 
 | Spell               | School        | Special |
 |---------------------|---------------|---------|
@@ -4732,7 +4718,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | Spider Climb        | Transmutation | C       |
 | Suggestion          | Enchantment   | C       |
 
-##### Level 3 Warlock Spells
+**Level 3 Warlock Spells**
 
 | Spell            | School        | Special |
 |------------------|---------------|---------|
@@ -4748,7 +4734,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | Tongues          | Divination    | -       |
 | Vampiric Touch   | Necromancy    | C       |
 
-##### Level 4 Warlock Spells
+**Level 4 Warlock Spells**
 
 | Spell                 | School      | Special |
 |-----------------------|-------------|---------|
@@ -4758,7 +4744,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | Dimension Door        | Conjuration | -       |
 | Hallucinatory Terrain | Illusion    | -       |
 
-##### Level 5 Warlock Spells
+**Level 5 Warlock Spells**
 
 | Spell                | School      | Special |
 |----------------------|-------------|---------|
@@ -4770,7 +4756,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | Scrying              | Divination  | C, M    |
 | Teleportation Circle | Conjuration | M       |
 
-##### Level 6 Warlock Spells
+**Level 6 Warlock Spells**
 
 | Spell           | School     | Special |
 |-----------------|------------|---------|
@@ -4779,7 +4765,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | Eyebite         | Necromancy | C       |
 | True Seeing     | Divination | M       |
 
-##### Level 7 Warlock Spells
+**Level 7 Warlock Spells**
 
 | Spell           | School      | Special |
 |-----------------|-------------|---------|
@@ -4788,7 +4774,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | Forcecage       | Evocation   | C, M    |
 | Plane Shift     | Conjuration | M       |
 
-##### Level 8 Warlock Spells
+**Level 8 Warlock Spells**
 
 | Spell            | School      | Special   |
 |------------------|-------------|-----------|
@@ -4798,7 +4784,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | Glibness         | Enchantment | -         |
 | Power Word Stun  | Enchantment | -         |
 
-##### Level 9 Warlock Spells
+**Level 9 Warlock Spells**
 
 | Spell             | School        | Special   |
 |-------------------|---------------|-----------|
@@ -4824,7 +4810,7 @@ When you reduce an enemy to 0 Hit Points, you gain Temporary Hit Points equal to
 
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Fiend Spells table, you thereafter always have the listed spells prepared.
 
-##### Fiend Spells
+**Fiend Spells**
 
 | Warlock Level | Spells                                            |
 |---------------|---------------------------------------------------|
@@ -4851,7 +4837,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest u
 
 ## Wizard
 
-##### Core Wizard Traits
+**Core Wizard Traits**
 
 | Attribute                  | Description                                                                                                        |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -4870,7 +4856,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest u
 - Gain all the traits in the Core Wizard Traits table.
 - Gain the Wizard's level 1 features, which are listed in the Wizard Features table.
 
-##### Wizard Features
+**Wizard Features**
 
 | Level | Proficiency Bonus | Class Features                              | Cantrips | Prepared Spells | Spell Slots Level 1 | Spell Slots Level 2 | Spell Slots Level 3 | Spell Slots Level 4 | Spell Slots Level 5 | Spell Slots Level 6 | Spell Slots Level 7 | Spell Slots Level 8 | Spell Slots Level 9 |
 |-------|-------------------|---------------------------------------------|----------|-----------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
@@ -4932,6 +4918,16 @@ If another Wizard feature gives you spells that you always have prepared, those 
 
 **Spellcasting Focus.** You can use an Arcane Focus or your spellbook as a Spellcasting Focus for your Wizard spells.
 
+**Expanding and Replacing a Spellbook**
+
+The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a Spell Scroll, for example, and then copy it into your spellbook.
+
+**Copying a Spell into the Book.** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it's of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. After -ward you can prepare the spell like the other spells in your spellbook.
+
+**Copying the Book.** You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
+
+If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
+
 #### Level 1: Ritual Adept
 
 You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn't have the spell prepared, but you must read from the book to cast a spell in this way.
@@ -4949,16 +4945,6 @@ While studying magic, you also specialized in another field of study. Choose one
 #### Level 3: Wizard Subclass
 
 You gain a Wizard subclass of your choice. The Evoker subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
-
-##### Expanding and Replacing a Spellbook
-
-The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a Spell Scroll, for example, and then copy it into your spellbook.
-
-**Copying a Spell into the Book.** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it's of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. After -ward you can prepare the spell like the other spells in your spellbook.
-
-**Copying the Book.** You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
-
-If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
 
 #### Level 4: Ability Score Improvement
 
@@ -4986,7 +4972,7 @@ Choose two level 3 spells in your spellbook as your signature spells. You always
 
 This section presents the Wizard spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, C means the spell requires Concentration, R means it's a Ritual, and M means it requires a specific Material component.
 
-##### Cantrips (Level 0 Wizard Spells)
+**Cantrips (Level 0 Wizard Spells)**
 
 | Spell            | School        | Special |
 |------------------|---------------|---------|
@@ -5006,7 +4992,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | Shocking Grasp   | Evocation     | -       |
 | True Strike      | Divination    | -       |
 
-##### Level 1 Wizard Spells
+**Level 1 Wizard Spells**
 
 | Spell                         | School        | Special   |
 |-------------------------------|---------------|-----------|
@@ -5041,7 +5027,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | Thunderwave                   | Evocation     | -         |
 | Unseen Servant                | Conjuration   | R         |
 
-##### Level 2 Wizard Spells
+**Level 2 Wizard Spells**
 
 | Spell                 | School        | Special |
 |-----------------------|---------------|---------|
@@ -5081,7 +5067,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | Suggestion            | Enchantment   | C       |
 | Web                   | Conjuration   | C       |
 
-##### Level 3 Wizard Spells
+**Level 3 Wizard Spells**
 
 | Spell                  | School        | Special |
 |------------------------|---------------|---------|
@@ -5115,7 +5101,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | Vampiric Touch         | Necromancy    | C       |
 | Water Breathing        | Transmutation | R       |
 
-##### Level 4 Wizard Spells
+**Level 4 Wizard Spells**
 
 | Spell                    | School        | Special |
 |--------------------------|---------------|---------|
@@ -5146,7 +5132,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | Vitriolic Sphere         | Evocation     | -       |
 | Wall of Fire             | Evocation     | C       |
 
-##### Level 5 Wizard Spells
+**Level 5 Wizard Spells**
 
 | Spell                | School        | Special   |
 |----------------------|---------------|-----------|
@@ -5176,7 +5162,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | Wall of Stone        | Evocation     | C         |
 
 
-##### Level 6 Wizard Spells
+**Level 6 Wizard Spells**
 
 | Spell                    | School        | Special |
 |--------------------------|---------------|---------|
@@ -5200,7 +5186,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | True Seeing              | Divination    | M       |
 | Wall of Ice              | Evocation     | C       |
 
-##### Level 7 Wizard Spells
+**Level 7 Wizard Spells**
 
 | Spell                   | School        | Special |
 |-------------------------|---------------|---------|
@@ -5220,7 +5206,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | Symbol                  | Abjuration    | M       |
 | Teleport                | Conjuration   | -       |
 
-##### Level 8 Wizard Spells
+**Level 8 Wizard Spells**
 
 | Spell              | School        | Special   |
 |--------------------|---------------|-----------|
@@ -5237,7 +5223,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | Power Word Stun    | Enchantment   | -         |
 | Sunburst           | Evocation     | -         |
 
-##### Level 9 Wizard Spells
+**Level 9 Wizard Spells**
 
 | Spell             | School        | Special   |
 |-------------------|---------------|-----------|
@@ -5392,7 +5378,7 @@ As a Dragonborn, you have these special traits.
 
 Draconic Ancestry. Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and Damage Resistance traits as well as your appearance.
 
-##### Draconic Ancestors
+**Draconic Ancestors**
 
 | Dragon | Damage Type |
 |--------|-------------|
@@ -5449,7 +5435,7 @@ Elven Lineage. You are part of a lineage that grants you supernatural abilities.
 
 When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
 
-##### Elven Lineages
+**Elven Lineages**
 
 | Lineage   | Level 1                                                                                                                                                   | Level 3      | Level 5            |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------|
@@ -5567,7 +5553,7 @@ Darkvision. You have Darkvision with a range of 60 feet.
 
 Fiendish Legacy. You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table. You gain the level 1 benefit of the chosen legacy.
 
-##### Fiendish Legacies
+**Fiendish Legacies**
 
 | Legacy   | Level 1                                                                        | Level 3         | Level 5             |
 |----------|--------------------------------------------------------------------------------|-----------------|---------------------|
@@ -5773,7 +5759,7 @@ Characters often find coins on their adventures and can spend those coins in sho
 
 A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
-### Coin Values
+**Coin Values**
 
 | Coin                | Value in GP   |
 |---------------------|---------------|
@@ -5887,7 +5873,7 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 
 ### Weapons
 
-#### Simple Melee Weapons
+**Simple Melee Weapons**
 
 | Name         | Damage          | Properties                            | Mastery | Weight  | Cost  |
 |--------------|-----------------|---------------------------------------|---------|---------|-------|
@@ -5902,7 +5888,7 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 | Sickle       | 1d4 Slashing    | Light                                 | Nick    | 2 lb.   | 1 GP  |
 | Spear        | 1d6 Piercing    | Thrown (Range 20/60), Versatile (1d8) | Sap     | 3 lb.   | 1 GP  |
 
-#### Simple Ranged Weapons
+**Simple Ranged Weapons**
 
 | Name           | Damage          | Properties                                           | Mastery | Weight   | Cost   |
 |----------------|-----------------|------------------------------------------------------|---------|----------|--------|
@@ -5911,7 +5897,7 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 | Shortbow       | 1d6 Piercing    | Ammunition (Range 80/320; Arrow), Two-Handed         | Vex     | 2 lb.    | 25 GP  |
 | Sling          | 1d4 Bludgeoning | Ammunition (Range 30/120; Bullet)                    | Slow    | -        | 1 SP   |
 
-#### Martial Melee Weapons
+**Martial Melee Weapons**
 
 | Name        | Damage          | Properties                                | Mastery | Weight  | Cost    |
 |-------------|-----------------|-------------------------------------------|---------|---------|---------|
@@ -5934,7 +5920,7 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 | War Pick    | 1d8 Piercing    | Versatile (1d10)                          | Sap     | 2 lb.   | 5 GP    |
 | Whip        | 1d4 Slashing    | Finesse, Reach                            | Slow    | 3 lb.   | 2 GP    |
 
-#### Martial Ranged Weapons
+**Martial Ranged Weapons**
 
 | Name           | Damage        | Properties                                                   | Mastery | Weight  | Cost    |
 |----------------|---------------|--------------------------------------------------------------|---------|---------|---------|
@@ -5956,7 +5942,7 @@ The Armor table lists the game's main armor. The table includes the cost and wei
 
 ### Armor
 
-#### Light Armor (1 Minute to Don or Doff)
+**Light Armor (1 Minute to Don or Doff)**
 
 | Armor                 | Armor Class (AC)   | Strength | Stealth      | Weight  | Cost   |
 |-----------------------|--------------------|----------|--------------|---------|--------|
@@ -5964,7 +5950,7 @@ The Armor table lists the game's main armor. The table includes the cost and wei
 | Leather Armor         | 11 + Dex modifier  | -        | -            | 10 lb.  | 10 GP  |
 | Studded Leather Armor | 12 + Dex modifier  | -        | -            | 13 lb.  | 45 GP  |
 
-#### Medium Armor (5 Minutes to Don and 1 Minute to Doff)
+**Medium Armor (5 Minutes to Don and 1 Minute to Doff)**
 
 | Armor            | Armor Class (AC)           | Strength | Stealth      | Weight  | Cost    |
 |------------------|----------------------------|----------|--------------|---------|---------|
@@ -5974,7 +5960,7 @@ The Armor table lists the game's main armor. The table includes the cost and wei
 | Breastplate      | 14 + Dex modifier (max 2)  | -        | -            | 20 lb.  | 400 GP  |
 | Half Plate Armor | 15 + Dex modifier (max 2)  | -        | Disadvantage | 40 lb.  | 750 GP  |
 
-#### Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)
+**Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)**
 
 | Armor        | Armor Class (AC) | Strength | Stealth      | Weight  | Cost      |
 |--------------|------------------|----------|--------------|---------|-----------|
@@ -5983,7 +5969,7 @@ The Armor table lists the game's main armor. The table includes the cost and wei
 | Splint Armor | 17               | Str 15   | Disadvantage | 60 lb.  | 200 GP    |
 | Plate Armor  | 18               | Str 15   | Disadvantage | 65 lb.  | 1,500 GP  |
 
-#### Shield (Utilize Action to Don or Doff)
+**Shield (Utilize Action to Don or Doff)**
 
 | Armor  | Armor Class (AC) | Strength | Stealth | Weight | Cost   |
 |--------|------------------|----------|---------|--------|--------|
@@ -6320,7 +6306,7 @@ As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving
 
 An Arcane Focus takes one of the forms in the Arcane Focuses table and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Wizard can use such an item as a Spellcasting Focus.
 
-#### Arcane Focuses
+**Arcane Focuses**
 
 | Focus                       | Weight   | Cost   |
 |-----------------------------|----------|--------|
@@ -6434,7 +6420,7 @@ A Diplomat's Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink 
 
 A Druidic Focus takes one of the forms in the Druidic Focuses table and is carved, tied with ribbon, or painted to channel primal magic. A Druid or Ranger can use such an object as a Spellcasting Focus.
 
-#### Druidic Focuses
+**Druidic Focuses**
 
 | Focus                              | Weight   | Cost   |
 |------------------------------------|----------|--------|
@@ -6472,7 +6458,7 @@ A Holy Symbol takes one of the forms in the Holy Symbol table and is bejeweled o
 
 The table indicates whether a Holy Symbol needs to be held, worn, or borne on fabric (such as a tabard or banner) or a Shield.
 
-#### Holy Symbols
+**Holy Symbols**
 
 | Symbol                               | Weight   | Cost   |
 |--------------------------------------|----------|--------|
@@ -6672,19 +6658,7 @@ A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk d
 
 A mount can help you move more quickly through the wilderness, but its primary purpose is to carry gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal's carrying capacity. See 'Monsters' for the animals' stat blocks.
 
-### Mounts and Cargo
-
-An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, add their carrying capacities together.
-
-### Barding
-
-Barding is armor designed for a mount. Any type of armor on the Armor table in 'Equipment' can be purchased as barding. The cost is four times the normal cost, and it weighs twice as much.
-
-### Saddles
-
-A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives Advantage on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.
-
-### Mounts and Other Animals
+**Mounts and Other Animals**
 
 | Item          | Carrying Capacity   | Cost   |
 |---------------|---------------------|--------|
@@ -6697,7 +6671,7 @@ A saddle comes with a bit, a bridle, reins, and any other equipment needed to us
 | Pony          | 225 lb.             | 30 GP  |
 | Warhorse      | 540 lb.             | 400 GP |
 
-### Tack, Harness, and Drawn Vehicles
+**Tack, Harness, and Drawn Vehicles**
 
 | Item             | Weight   | Cost   |
 |------------------|----------|--------|
@@ -6713,6 +6687,18 @@ A saddle comes with a bit, a bridle, reins, and any other equipment needed to us
 | Stabling per day | -        | 5 SP   |
 | Wagon            | 400 lb.  | 35 GP  |
 
+### Mounts and Cargo
+
+An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, add their carrying capacities together.
+
+### Barding
+
+Barding is armor designed for a mount. Any type of armor on the Armor table in 'Equipment' can be purchased as barding. The cost is four times the normal cost, and it weighs twice as much.
+
+### Saddles
+
+A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives Advantage on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.
+
 ### Large Vehicles
 
 The Airborne and Waterborne Vehicles table provides statistics for various types of large vehicles. The following notes apply.
@@ -6721,7 +6707,7 @@ The Airborne and Waterborne Vehicles table provides statistics for various types
 
 A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.
 
-#### Airborne and Waterborne Vehicles
+**Airborne and Waterborne Vehicles**
 
 | Ship         | Speed   |   Crew | Passengers   | Cargo (Tons)   |   AC |   HP | Damage Threshold   | Cost      |
 |--------------|---------|--------|--------------|----------------|------|------|--------------------|-----------|
@@ -6791,7 +6777,7 @@ The Food, Drink, and Lodging table gives prices for food and a single night's lo
 
 ### Food, Drink, and Lodging
 
-#### Food
+**Food**
 
 | Item           | Cost  |
 |----------------|-------|
@@ -6799,7 +6785,7 @@ The Food, Drink, and Lodging table gives prices for food and a single night's lo
 | Bread (loaf)   | 2 CP  |
 | Cheese (wedge) | 1 SP  |
 
-#### Inn Stay per Day
+**Inn Stay per Day**
 
 | Quality      | Cost  |
 |--------------|-------|
@@ -6810,7 +6796,7 @@ The Food, Drink, and Lodging table gives prices for food and a single night's lo
 | Wealthy      | 2 GP  |
 | Aristocratic | 4 GP  |
 
-#### Meal
+**Meal**
 
 | Quality      | Cost  |
 |--------------|-------|
@@ -6821,7 +6807,7 @@ The Food, Drink, and Lodging table gives prices for food and a single night's lo
 | Wealthy      | 3 SP  |
 | Aristocratic | 6 SP  |
 
-#### Wine (bottle)
+**Wine (bottle)**
 
 | Type   | Cost   |
 |--------|--------|
@@ -6965,7 +6951,7 @@ Before you can cast a spell, you must have the spell prepared in your mind or ha
 
 If you have a list of level 1+ spells you prepare, your spellcasting feature specifies when you can change the list and the number of spells you can change, as summarized in the Spell Preparation by Class table.
 
-##### Spell Preparation by Class
+**Spell Preparation by Class**
 
 | Class    | Change When You …   | Number of Spells   |
 |----------|---------------------|--------------------|
@@ -6988,7 +6974,7 @@ Certain features might give you a spell that you always have prepared. If you al
 
 Each spell description has a series of entries that provide the details needed to cast the spell. The following sections explain each of those entries, which follow a spell's name.
 
-##### Casting in Armor
+**Casting in Armor**
 
 You must have training with any armor you are wearing to cast spells while wearing it. You are otherwise too hampered by the armor for spellcasting.
 
@@ -7023,7 +7009,7 @@ Some spells, such as Magic Missile and Cure Wounds, have more powerful effects w
 
 Each spell belongs to a school of magic. The schools are listed in the Schools of Magic table. These categories help describe spells but have no rules of their own, although some other rules refer to them.
 
-##### Schools of Magic
+**Schools of Magic**
 
 | School        | Typical Effects                                              |
 |---------------|--------------------------------------------------------------|
@@ -7130,7 +7116,7 @@ Spell attack modifier = your spellcasting ability modifier + your Proficiency Bo
 
 The effects of different spells add together while their durations overlap. In contrast, the effects of the same spell cast multiple times don't combine. Instead, the most potent effect-such as the highest bonus-from those castings applies while their durations overlap. The most recent effect applies if the castings are equally potent and their durations overlap. For example, if two Clerics cast Bless on the same target, that target gains the spell's benefit only once; the target doesn't receive two bonus dice. But if the durations of the spells overlap, the effect continues until the duration of the second Bless ends.
 
-##### Identifying an Ongoing Spell
+**Identifying an Ongoing Spell**
 
 You can try to identify a non-instantaneous spell by its observable effects if its duration is ongoing. To identify it, you must take the Study action and succeed on a DC 15 Intelligence (Arcana) check.
 
@@ -7458,7 +7444,7 @@ Level 2 Divination (Cleric, Druid, Wizard)
 
 You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The GM chooses the omen from the Omens table.
 
-##### Omens
+**Omens**
 
 | Omen         | For Results That Will Be…   |
 |--------------|-----------------------------|
@@ -7961,12 +7947,12 @@ Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)
 
 Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for that turn, consulting the table below.
 
-##### 1d10 Behavior for the Turn
-
-- 1 The target doesn't take an action, and it uses all its movement to move. Roll 1d4 for the direction: 1, north; 2, east; 3, south; or 4, west.
-- 2-6 The target doesn't move or take actions.
-- 7-8 The target doesn't move, and it takes the Attack action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action.
-- 9-10 The target chooses its behavior.
+| 1d10 | Behavior for the Turn                                                                                                                                                          |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | The target doesn't take an action, and it uses all its movement to move. Roll 1d4 for the direction: 1, north; 2, east; 3, south; or 4, west.                                  |
+| 2-6  | The target doesn't move or take actions.                                                                                                                                       |
+| 7-8  | The target doesn't move, and it takes the Attack action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
+| 9-10 | The target chooses its behavior.                                                                                                                                               |
 
 At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
 
@@ -8162,7 +8148,7 @@ When you cast the spell, you change the current weather conditions, which are de
 
 When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
 
-##### Precipitation
+**Precipitation**
 
 |   Stage | Condition                                  |
 |---------|--------------------------------------------|
@@ -8172,7 +8158,7 @@ When you change the weather conditions, find a current condition on the followin
 |       4 | Rain, hail, or snow                        |
 |       5 | Torrential rain, driving hail, or blizzard |
 
-##### Temperature
+**Temperature**
 
 | Stage | Condition  |
 |-------|------------|
@@ -8183,7 +8169,7 @@ When you change the weather conditions, find a current condition on the followin
 | 5     | Cold       |
 | 6     | Freezing   |
 
-##### Wind
+**Wind**
 
 | Stage | Condition     |
 |-------|---------------|
@@ -8262,7 +8248,7 @@ You pull wisps of shadow material from the Shadowfell to create an object within
 
 The spell's duration depends on the object's material, as shown in the Materials table. If the object is composed of multiple materials, use the shortest duration. Using any object created by this spell as another spell's Material component causes the other spell to fail.
 
-##### Materials
+**Materials**
 
 | Material              | Duration   |
 |-----------------------|------------|
@@ -8582,7 +8568,7 @@ Level 7 Evocation (Cleric)
 
 You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a Wish spell.
 
-##### Divine Word Effects
+**Divine Word Effects**
 
 | Hit Points   | Effect                                                                   |
 |--------------|--------------------------------------------------------------------------|
@@ -10820,7 +10806,7 @@ Level 7 Evocation (Bard, Sorcerer, Wizard)
 
 Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll 1d8 to determine which color ray affects it, consulting the Prismatic Rays table.
 
-#### Prismatic Rays
+**Prismatic Rays**
 
 | 1d8 | Ray |
 |-----|-----|
@@ -10850,7 +10836,7 @@ The wall consists of seven layers, each with a different color. When a creature 
 
 The wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. Antimagic Field has no effect on the wall, and Dispel Magic can affect only the violet layer.
 
-#### Prismatic Layers
+**Prismatic Layers**
 
 | Order | Effects |
 |-------|---------|
@@ -11862,7 +11848,7 @@ This spell instantly transports you and up to eight willing creatures that you c
 
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls 1d100 and consults the Teleportation Outcome table and the explanations after it.
 
-#### Teleportation Outcome
+**Teleportation Outcome**
 
 | Familiarity              | Mishap   | Similar Area   | Off Target   | On Target   |
 |--------------------------|----------|----------------|--------------|-------------|
@@ -12551,7 +12537,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 **Armor Class.** The Object Armor Class table suggests ACs for various substances.
 
-##### Object Armor Class
+**Object Armor Class**
 
 | AC | Substance           |
 |----|---------------------|
@@ -12565,7 +12551,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 **Hit Points.** An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's Hit Points separately. The GM determines whether destroying part of an object causes the whole thing to collapse.
 
-##### Object Hit Points
+**Object Hit Points**
 
 | Size                        | Fragile   | Resilient   |
 |-----------------------------|-----------|-------------|
@@ -12606,7 +12592,7 @@ Your size and Strength score determine the maximum weight in pounds that you can
 
 While dragging, lifting, or pushing weight in excess of the maximum weight you can carry, your Speed can be no more than 5 feet.
 
-##### Carrying Capacity
+**Carrying Capacity**
 
 | Creature Size   | Carry          | Drag/Lift/Push   |
 |-----------------|----------------|------------------|
@@ -12753,7 +12739,7 @@ A creature or an object that has a damage threshold has Immunity to all damage u
 
 Attacks and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as Resistance, rely on the types. The Damage Types table offers examples to help a GM assign a type to a new effect.
 
-##### Damage Types
+**Damage Types**
 
 | Type        | Examples                             |
 |-------------|--------------------------------------|
@@ -12805,7 +12791,7 @@ A player character must make a Death Saving Throw (also called a Death Save) if 
 
 A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 Exhaustion level at the day's end. Exhaustion caused by dehydration can't be removed until the creature drinks the full amount of water required for a day. See also 'Exhaustion.'
 
-##### Water Needs per Day
+**Water Needs per Day**
 
 | Size       | Water      |
 |------------|------------|
@@ -13039,7 +13025,7 @@ With the Influence action, you urge a monster to do something. Describe or rolep
 
 **Hesitant.** If you urge the monster to do something that it is hesitant to do, you must make an ability check, which is affected by the monster's attitude: Indifferent, Friendly, or Hostile, each of which is defined in this glossary. The Influence Checks table suggests which ability check to make based on how you're interacting with the monster. The GM chooses the check, which has a default DC equal to 15 or the monster's Intelligence score, whichever is higher. On a successful check, the monster does as urged. On a failed check, you must wait 24 hours (or a duration set by the GM) before urging it in the same way again.
 
-##### Influence Checks
+**Influence Checks**
 
 | Ability Check            | Interaction                               |
 |--------------------------|-------------------------------------------|
@@ -13133,7 +13119,7 @@ A creature needs an amount of food per day based on its size, as shown in the Fo
 
 Exhaustion caused by malnutrition can't be removed until the creature eats the full amount of food required for a day. See also 'Exhaustion.'
 
-##### Food Needs per Day
+**Food Needs per Day**
 
 | Size       | Food      |
 |------------|-----------|
@@ -13284,7 +13270,7 @@ A saving throw-also called a save-represents an attempt to avoid or resist a thr
 
 When you take the Search action, you make a Wisdom check to discern something that isn't obvious. The Search table suggests which skills are applicable when you take this action, depending on what you're trying to detect.
 
-##### Search
+**Search**
 
 | Skill      | Thing to Detect                      |
 |------------|--------------------------------------|
@@ -13406,7 +13392,7 @@ When you take the Study action, you make an Intelligence check to study your mem
 
 The Areas of Knowledge table suggests which skills are applicable to various areas of knowledge.
 
-##### Areas of Knowledge
+**Areas of Knowledge**
 
 | Skill         | Areas                                                                                                                                                               |
 |---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13554,7 +13540,7 @@ Characters can push themselves to travel for more than 8 hours per day, at the r
 
 If a party can travel at a high Speed for an extended time, as with a spell such as Wind Walk or a magic item such as a Carpet of Flying, translate the party's Speed into travel rates using these rules:
 
-#### Travel Terrain
+**Travel Terrain**
 
 | Terrain    | Maximum Pace   | Encounter Distance   |   Foraging DC |   Navigation DC |   Search DC |
 |------------|----------------|----------------------|---------------|-----------------|-------------|
@@ -13758,7 +13744,7 @@ If you plan to use any of these rules, discuss them with your players at the sta
 
 Whenever the characters encounter something that is supernaturally frightful, use the Frightened condition as the baseline effect. Fear effects typically require a Wisdom saving throw, with a save DC based on how terrifying the situation is. The Sample Fear DCs table provides some examples.
 
-##### Sample Fear DCs
+**Sample Fear DCs**
 
 | Example                                                                                                                                     |   Save DC |
 |---------------------------------------------------------------------------------------------------------------------------------------------|-----------|
@@ -13780,7 +13766,7 @@ When a character is subjected to an effect that causes intense mental stress, Ps
 
 The Sample Mental Stress Effects table provides a few examples of such effects, with suggested saving throw DCs and damage. Mental stress can usually be resisted with a successful Wisdom save, but sometimes an Intelligence or Charisma save is more appropriate. On a successful save, a character might take half as much damage instead of no damage, at your discretion.
 
-##### Sample Mental Stress Effects
+**Sample Mental Stress Effects**
 
 | Example                                                                                               |   Save DC | Psychic Damage   |
 |-------------------------------------------------------------------------------------------------------|-----------|------------------|
@@ -14112,7 +14098,7 @@ Three categories describe the range of encounter difficulty:
 
 Using the XP Budget per Character table, cross-reference the party's level with the desired encounter difficulty. Multiply the number in the table by the number of characters in the party to get your XP budget for the encounter.
 
-##### XP Budget per Character
+**XP Budget per Character**
 
 | Level | Encounter Difficulty — Low | Encounter Difficulty — Moderate | Encounter Difficulty — High |
 |-------|----------------------------|---------------------------------|-----------------------------|
@@ -14189,7 +14175,7 @@ Magic items are gleaned from the hoards of felled monsters or discovered in long
 
 Every magic item belongs to a category. The Magic Item Categories table lists the nine categories and provides examples. Rules for the categories appear after the table.
 
-##### Magic Item Categories
+**Magic Item Categories**
 
 | Category       | Examples                           |
 |----------------|------------------------------------|
@@ -14202,6 +14188,18 @@ Every magic item belongs to a category. The Magic Item Categories table lists th
 | Wands          | Wand of Fireballs                  |
 | Weapons        | +1 Ammunition, +1 Longsword        |
 | Wondrous Items | Bag of Holding, Boots of Elvenkind |
+
+**Magic Item Rules**
+
+Rules for identifying, attuning to, and using magic items appear in 'Equipment.' Additional rules are presented below.
+
+**Attunement Prerequisites.** If a magic item has a class prerequisite, a creature must be a member of that class to attune to the item. If a creature must be a spellcaster to attune to an item, the creature qualifies if it can cast at least one spell using its traits or features, not by using a magic item or the like.
+
+**Items Made for Specific Creatures.** Magic items that are meant to be worn tend to magically adjust themselves to the wearer. However, you can decide that a magic item doesn't adjust its size to fit any wearer. For example, a particular armorer might make items usable only by folk who are sized and shaped like dwarves.
+
+**Unusual Anatomy.** Use your discretion to decide whether a creature can wear an item not made for its anatomy. A ring placed on a tentacle might work, but a yuan-ti with a snakelike tail instead of legs can't wear magic boots.
+
+**Paired Items.** You can allow exceptions to the rule that paired items must both be worn. For example, a character with only one arm might be able to use a single Glove of Missile Snaring so long as the matching glove is on their person.
 
 ### Armor
 
@@ -14219,7 +14217,7 @@ An item in the Potion category might be a magical brew that must be imbibed or a
 
 When a character mixes two potions together, roll on the Potion Miscibility table. If more than two are combined, roll again for each subsequent potion, combining the results. Unless the effects are immediately obvious, reveal them only when they become evident.
 
-##### Potion Miscibility
+**Potion Miscibility**
 
 | 1d100 | Result |
 |-------|--------|
@@ -14272,18 +14270,6 @@ A magic weapon is typically a magical version of a weapon from 'Equipment.' Some
 
 Wondrous Items include wearable items such as boots, belts, capes, amulets, brooches, and circlets. Bags, carpets, figurines, horns, musical instruments, and more also fall into this category.
 
-##### Magic Item Rules
-
-Rules for identifying, attuning to, and using magic items appear in 'Equipment.' Additional rules are presented below.
-
-**Attunement Prerequisites.** If a magic item has a class prerequisite, a creature must be a member of that class to attune to the item. If a creature must be a spellcaster to attune to an item, the creature qualifies if it can cast at least one spell using its traits or features, not by using a magic item or the like.
-
-**Items Made for Specific Creatures.** Magic items that are meant to be worn tend to magically adjust themselves to the wearer. However, you can decide that a magic item doesn't adjust its size to fit any wearer. For example, a particular armorer might make items usable only by folk who are sized and shaped like dwarves.
-
-**Unusual Anatomy.** Use your discretion to decide whether a creature can wear an item not made for its anatomy. A ring placed on a tentacle might work, but a yuan-ti with a snakelike tail instead of legs can't wear magic boots.
-
-**Paired Items.** You can allow exceptions to the rule that paired items must both be worn. For example, a character with only one arm might be able to use a single Glove of Missile Snaring so long as the matching glove is on their person.
-
 ## Magic Item Rarity
 
 Every magic item has a rarity, which provides a rough measure of an item's power relative to other magic items. The rarities are shown in the Magic Item Rarities and Values table.
@@ -14296,7 +14282,7 @@ Common magic items can often be bought in a town or city. Uncommon and Rare magi
 
 If a magic item incorporates an item that has a purchase cost in 'Equipment' (such as a weapon or a suit of armor), add that item's cost to the magic item's value. For example, +1 Armor (Plate Armor) has a value of 5,500 GP, which is the sum of a Rare magic item's value (4,000 GP) and the cost of Plate Armor (1,500 GP).
 
-##### Magic Item Rarities and Values
+**Magic Item Rarities and Values**
 
 | Rarity    | Value*      |
 |-----------|-------------|
@@ -14359,7 +14345,7 @@ To craft a magic item, you and any assistants must have proficiency in the Arcan
 
 The Magic Item Tools table lists which tool is required to make a magic item of each category. You must use the required tool to make an item and have proficiency with that tool. Any assistants must also have proficiency with it. For more information on the tools, see 'Equipment.'
 
-##### Magic Item Tools
+**Magic Item Tools**
 
 | Item Category   | Required Tool                                                                                                                     |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -14389,7 +14375,7 @@ Crafting a magic item takes an amount of time and money based on the item's rari
 
 If a magic item incorporates an item that has a purchase cost (such as a weapon or a suit of armor), you must also pay that entire cost or craft that item using the rules in 'Equipment.' For example, to make +1 Armor (Plate Armor), you must pay 3,500 GP or pay 2,000 GP and craft the armor.
 
-##### Magic Item Crafting Time and Cost
+**Magic Item Crafting Time and Cost**
 
 | Rarity    | Crafting Time* | Cost*      |
 |-----------|----------------|------------|
@@ -14421,7 +14407,7 @@ A sentient magic item has Intelligence, Wisdom, and Charisma scores. Choose the 
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. Otherwise, pick an alignment or roll on the Sentient Item's Alignment table.
 
-##### Sentient Item's Alignment
+**Sentient Item's Alignment**
 
 | 1d100 | Alignment       |
 |-------|-----------------|
@@ -14439,39 +14425,45 @@ A sentient magic item has an alignment. Its creator or nature might suggest an a
 
 A sentient item communicates by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the Sentient Item's Communication table.
 
-##### Sentient Item's Communication
+**Sentient Item's Communication**
 
-- 1-6 The item communicates by transmitting emotion to the creature carrying or wielding it.
-- 7-9 The item speaks one or more languages.
-- 10 The item speaks one or more languages. In addition, the item can communicate telepathically with any creature that carries or wields it.
+| 1d10 | Communication                                                                                                                            |
+|------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 1-6  | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                   |
+| 7-9  | The item speaks one or more languages.                                                                                                   |
+| 10   | The item speaks one or more languages. In addition, the item can communicate telepathically with any creature that carries or wields it. |
 
 #### Senses
 
 A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the Sentient Item's Senses table.
 
-##### Sentient Item's Senses
+**Sentient Item's Senses**
 
-- 1 Hearing and standard vision out to 30 feet
-- 2 Hearing and standard vision out to 60 feet
-- 3 Hearing and standard vision out to 120 feet
-- 4 Hearing and Darkvision out to 120 feet
+| 1d4 | Senses                                      |
+|-----|---------------------------------------------|
+| 1   | Hearing and standard vision out to 30 feet  |
+| 2   | Hearing and standard vision out to 60 feet  |
+| 3   | Hearing and standard vision out to 120 feet |
+| 4   | Hearing and Darkvision out to 120 feet      |
 
 #### Special Purpose
 
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item (see 'Conflict' below). You can pick a special purpose or roll on the Sentient Item's Special Purpose table.
 
-##### Sentient Item's Special Purpose
+**Sentient Item's Special Purpose**
 
-- 1 **Aligned.** The item seeks to defeat or destroy those of a diametrically opposed alignment. Such an item is never Neutral.
-- 2 **Bane.** The item seeks to thwart or destroy creatures of a particular type, such as Constructs, Fiends, or Undead.
-- 3 **Creator Seeker.** The item seeks its creator and wants to understand why it was created.
-- 4 **Destiny Seeker.** The item believes it and its bearer have key roles to play in future events.
-- 5 **Destroyer.** The item craves destruction and goads its user to fight arbitrarily.
-- 6 **Glory Seeker.** The item seeks renown as the greatest magic item in the world by winning fame or notoriety for its user.
-- 7 **Lore Seeker.** The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.
-- 8 **Protector.** The item seeks to defend a particular kind of creature, such as elves or werewolves.
-- 9 **Soulmate Seeker.** The item seeks another sentient magic item, perhaps one that is similar to itself.
-- 10 **Templar.** The item seeks to defend the servants and interests of a particular deity.
+| 1d10 | Special Purpose                                                                                                                |
+|------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1    | **Aligned.** The item seeks to defeat or destroy those of a diametrically opposed alignment. Such an item is never Neutral.    |
+| 2    | **Bane.** The item seeks to thwart or destroy creatures of a particular type, such as Constructs, Fiends, or Undead.           |
+| 3    | **Creator Seeker.** The item seeks its creator and wants to understand why it was created.                                     |
+| 4    | **Destiny Seeker.** The item believes it and its bearer have key roles to play in future events.                               |
+| 5    | **Destroyer.** The item craves destruction and goads its user to fight arbitrarily.                                            |
+| 6    | **Glory Seeker.** The item seeks renown as the greatest magic item in the world by winning fame or notoriety for its user.     |
+| 7    | **Lore Seeker.** The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy. |
+| 8    | **Protector.** The item seeks to defend a particular kind of creature, such as elves or werewolves.                            |
+| 9    | **Soulmate Seeker.** The item seeks another sentient magic item, perhaps one that is similar to itself.                        |
+| 10   | **Templar.** The item seeks to defend the servants and interests of a particular deity.                                        |
 
 #### Conflict
 
@@ -14551,13 +14543,13 @@ While wearing this amulet, you can't be targeted by Divination spells or perceiv
 
 While wearing this amulet, you can take a Magic action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence (Arcana) check. On a successful check, you cast Plane Shift. On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling 1d100 and consulting the following table.
 
-##### 1d100 Destination
-
-- 01-60 Random location on the plane you named
-- 61-70 Random location on an Inner Plane determined by rolling 1d6: on a 1, the Plane of Air; on a 2, the Plane of Earth; on a 3, the Plane of Fire; on a 4, the Plane of Water; on a 5, the Feywild; on a 6, the Shadowfell
-- 71-80 Random location on an Outer Plane determined by rolling 1d8: on a 1, Arborea; on a 2, Arcadia; on a 3, the Beastlands; on a 4, Bytopia; on a 5, Elysium; on a 6, Mechanus; on a 7, Mount Celestia; on an 8, Ysgard
-- 81-90 Random location on an Outer Plane determined by rolling 1d8: on a 1, the Abyss; on a 2, Acheron; on a 3, Carceri; on a 4, Gehenna; on a 5, Hades; on a 6, Limbo; on a 7, the Nine Hells; on an 8, Pandemonium
-- 91-00 Random location on the Astral Plane
+| 1d100 | Destination                                                                                                                                                                                                           |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01-60 | Random location on the plane you named                                                                                                                                                                                |
+| 61-70 | Random location on an Inner Plane determined by rolling 1d6: on a 1, the Plane of Air; on a 2, the Plane of Earth; on a 3, the Plane of Fire; on a 4, the Plane of Water; on a 5, the Feywild; on a 6, the Shadowfell |
+| 71-80 | Random location on an Outer Plane determined by rolling 1d8: on a 1, Arborea; on a 2, Arcadia; on a 3, the Beastlands; on a 4, Bytopia; on a 5, Elysium; on a 6, Mechanus; on a 7, Mount Celestia; on an 8, Ysgard    |
+| 81-90 | Random location on an Outer Plane determined by rolling 1d8: on a 1, the Abyss; on a 2, Acheron; on a 3, Carceri; on a 4, Gehenna; on a 5, Hades; on a 6, Limbo; on a 7, the Nine Hells; on an 8, Pandemonium         |
+| 91-00 | Random location on the Astral Plane                                                                                                                                                                                   |
 
 ### Animated Shield
 
@@ -14579,7 +14571,7 @@ The apparatus floats on water. It can also go underwater to a depth of 900 feet.
 
 A creature in the compartment can take a Utilize action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Crab Levers table.
 
-##### Apparatus of the Crab Levers
+**Apparatus of the Crab Levers**
 
 |   Lever | Up                                                                                                           | Down                                                                                                                                   |
 |---------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -14653,20 +14645,20 @@ If you dump one or more beans out of the bag, they explode in a 10-foot-radius S
 
 If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean disappears as it produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table or determine it randomly.
 
-##### 1d100 Effect
-
-- 01 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 Poison damage and have the Poisoned condition for 1 hour. On an even roll, the eater gains 5d6 Temporary Hit Points for 1 hour.
-- 02-10 A geyser erupts and spouts water, beer, mayonnaise, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d4 minutes.
-- 11-20 A Treant sprouts. Roll any die. On an odd roll, the treant is Chaotic Evil. On an even roll, the treant is Chaotic Good.
-- 21-30 An animate but immobile stone statue in your likeness rises and makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours.
-- 31-40 A campfire with green flames springs forth and burns for 24 hours or until it is extinguished.
-- 41-50 Three Shrieker Fungi sprout.
-- 51-60 1d4 + 4 bright-pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice that acts in accordance with its alignment and nature. The monster remains for 1 minute, then disappears in a puff of bright-pink smoke.
-- 61-70 A hungry Bulette burrows up and attacks.
-- 71-80 A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined potions. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.
-- 81-90 A nest of 1d4 + 3 rainbow-colored eggs springs up. Any creature that eats an egg makes a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 Force damage from an internal explosion.
-- 91-95 A pyramid with a 60-foot-square base bursts upward. Inside is a burial chamber containing a Mummy, a Mummy Lord, or some other Undead of the GM's choice. Its sarcophagus contains treasure of the GM's choice.
-- 96-00 A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or another plane of existence.
+| 1d100 | Effect                                                                                                                                                                                                                                                                                                                                                                   |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01    | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 Poison damage and have the Poisoned condition for 1 hour. On an even roll, the eater gains 5d6 Temporary Hit Points for 1 hour.                                                                             |
+| 02-10 | A geyser erupts and spouts water, beer, mayonnaise, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d4 minutes.                                                                                                                                                                                                                                       |
+| 11-20 | A Treant sprouts. Roll any die. On an odd roll, the treant is Chaotic Evil. On an even roll, the treant is Chaotic Good.                                                                                                                                                                                                                                                 |
+| 21-30 | An animate but immobile stone statue in your likeness rises and makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours. |
+| 31-40 | A campfire with green flames springs forth and burns for 24 hours or until it is extinguished.                                                                                                                                                                                                                                                                           |
+| 41-50 | Three Shrieker Fungi sprout.                                                                                                                                                                                                                                                                                                                                             |
+| 51-60 | 1d4 + 4 bright-pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice that acts in accordance with its alignment and nature. The monster remains for 1 minute, then disappears in a puff of bright-pink smoke.                                                                                             |
+| 61-70 | A hungry Bulette burrows up and attacks.                                                                                                                                                                                                                                                                                                                                 |
+| 71-80 | A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined potions. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.                                                                                                                                                                                      |
+| 81-90 | A nest of 1d4 + 3 rainbow-colored eggs springs up. Any creature that eats an egg makes a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 Force damage from an internal explosion.                           |
+| 91-95 | A pyramid with a 60-foot-square base bursts upward. Inside is a burial chamber containing a Mummy, a Mummy Lord, or some other Undead of the GM's choice. Its sarcophagus contains treasure of the GM's choice.                                                                                                                                                          |
+| 96-00 | A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or another plane of existence.                                                                                                                                                                                   |
 
 ### Bag of Devouring
 
@@ -14702,7 +14694,7 @@ The creature is Friendly to you and your allies, and it acts immediately after y
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-##### Gray Bag of Tricks
+**Gray Bag of Tricks**
 
 | 1d8 | Creature     |
 |-----|--------------|
@@ -14715,7 +14707,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 |   7 | Dire Wolf    |
 |   8 | Giant Elk    |
 
-##### Rust Bag of Tricks
+**Rust Bag of Tricks**
 
 | 1d8 | Creature   |
 |-----|------------|
@@ -14728,7 +14720,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 |   7 | Lion       |
 |   8 | Brown Bear |
 
-##### Tan Bag of Tricks
+**Tan Bag of Tricks**
 
 | 1d8 | Creature     |
 |-----|--------------|
@@ -15034,7 +15026,7 @@ This cube is about an inch across. Each face has a distinct marking on it. You c
 
 The cube starts with 10 charges, and it regains 1d6 expended charges daily at dawn.
 
-##### Cube of Force Faces
+**Cube of Force Faces**
 
 | Spell            |   Charge Cost |
 |------------------|---------------|
@@ -15099,7 +15091,7 @@ The magic of the deck functions only if its cards are drawn at random. You can t
 
 Any physical interaction with the illusory creature reveals it to be false, because objects pass through it. A creature that takes a Study action to visually inspect the illusory creature identifies it as an illusion with a successful DC 15 Intelligence (Investigation) check. The illusion lasts until its card is moved or the illusion is dispelled (using a Dispel Magic spell or a similar effect). When the illusion ends, the image on its card disappears, and that card can't be used again.
 
-##### Deck of Illusions
+**Deck of Illusions**
 
 | 1d100 | Illusion*         |
 |-------|-------------------|
@@ -15270,11 +15262,11 @@ When you take a Magic action to remove the stopper of this painted brass bottle,
 
 The first time the bottle is opened, the GM rolls on the following table to determine what happens.
 
-##### 1d10 Effect
-
-- 1 The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.
-- 2-9 The efreeti understands your languages and obeys your commands for 1 hour, after which it returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic.
-- 10 The efreeti understands your languages and can cast Wish once for you. It disappears when it grants the wish or after 1 hour, and the bottle loses its magic.
+| 1d10 | Effect                                                                                                                                                                                                                                                                                                                                                                 |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.                                                                                                                                                                                                                                                          |
+| 2-9  | The efreeti understands your languages and obeys your commands for 1 hour, after which it returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
+| 10   | The efreeti understands your languages and can cast Wish once for you. It disappears when it grants the wish or after 1 hour, and the bottle loses its magic.                                                                                                                                                                                                          |
 
 ### Elemental Gem
 
@@ -15365,7 +15357,7 @@ This object looks like a feather. Different types of feather tokens exist, each 
 
 As a Bonus Action, you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of the whip. The whip disappears after 1 hour, when you take a Magic action to dismiss it, or when you die or have the Incapacitated condition.
 
-##### Feather Tokens
+**Feather Tokens**
 
 | 1d100   | Token     | Rarity   |
 |---------|-----------|----------|
@@ -15573,19 +15565,19 @@ This pointed hat has the following properties.
 
 Any spell you cast from the hat uses your spell save DC and spell attack bonus.
 
-##### 1d100 Effect
-
-- 01-50 You cast a random spell determined by rolling 1d10: on a 1, Enlarge/Reduce (enlarge effect); on a 2, Enlarge/Reduce (reduce effect); on a 3, Faerie Fire; on a 4, Fireball; on a 5, Gust of Wind; on a 6, Invisibility (cast on yourself); on a 7, Lightning Bolt; on an 8, Phantasmal Force; on a 9, Polymorph; on a 10, Stinking Cloud.
-- 51-55 You have the Stunned condition until the end of your next turn, believing something awesome just happened.
-- 56-60 A harmless swarm of butterflies fills a 10-foot Cube within 30 feet of yourself. The swarm disperses after 1 minute.
-- 61-65 You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1, a vial of Acid; on a 2, a flask of Alchemist's Fire; on a 3, a Crowbar; on a 4, a lit Torch.
-- 66-70 You suffer a bout of 'magic sickness' and have the Poisoned condition for 1 hour.
-- 71-75 You have the Petrified condition until the end of your next turn.
-- 76-80 You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1, a Dagger; on a 2, a Rope with a Grappling Hook tied to one end; on a 3, a bag of Caltrops; on a 4, a gem worth 50 GP.
-- 81-85 A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a 1, a Camel; on a 2, a Constrictor Snake; on a 3, an Elephant; on a 4, a Mule.
-- 86-90 A Hostile Swarm of Bats flies out of the hat, occupies your space, and attacks you.
-- 91-95 A vertical, 10-foot-diameter, two-way portal to another plane of existence opens in an unoccupied space within 30 feet of you and remains open until the end of your next turn. The GM determines where it leads.
-- 96-00 You pull a magic item out of the hat. Roll 1d6 to determine the item's rarity: on a 1-3, Common; on a 4-5, Uncommon; on a 6, Rare. The GM chooses the item, which disappears after 1 hour if it's not consumed or destroyed before then.
+| 1d100 | Effect                                                                                                                                                                                                                                                                                                                                    |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01-50 | You cast a random spell determined by rolling 1d10: on a 1, Enlarge/Reduce (enlarge effect); on a 2, Enlarge/Reduce (reduce effect); on a 3, Faerie Fire; on a 4, Fireball; on a 5, Gust of Wind; on a 6, Invisibility (cast on yourself); on a 7, Lightning Bolt; on an 8, Phantasmal Force; on a 9, Polymorph; on a 10, Stinking Cloud. |
+| 51-55 | You have the Stunned condition until the end of your next turn, believing something awesome just happened.                                                                                                                                                                                                                                |
+| 56-60 | A harmless swarm of butterflies fills a 10-foot Cube within 30 feet of yourself. The swarm disperses after 1 minute.                                                                                                                                                                                                                      |
+| 61-65 | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1, a vial of Acid; on a 2, a flask of Alchemist's Fire; on a 3, a Crowbar; on a 4, a lit Torch.                                                                                                                                                       |
+| 66-70 | You suffer a bout of 'magic sickness' and have the Poisoned condition for 1 hour.                                                                                                                                                                                                                                                         |
+| 71-75 | You have the Petrified condition until the end of your next turn.                                                                                                                                                                                                                                                                         |
+| 76-80 | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a 1, a Dagger; on a 2, a Rope with a Grappling Hook tied to one end; on a 3, a bag of Caltrops; on a 4, a gem worth 50 GP.                                                                                                                              |
+| 81-85 | A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a 1, a Camel; on a 2, a Constrictor Snake; on a 3, an Elephant; on a 4, a Mule.       |
+| 86-90 | A Hostile Swarm of Bats flies out of the hat, occupies your space, and attacks you.                                                                                                                                                                                                                                                       |
+| 91-95 | A vertical, 10-foot-diameter, two-way portal to another plane of existence opens in an unoccupied space within 30 feet of you and remains open until the end of your next turn. The GM determines where it leads.                                                                                                                         |
+| 96-00 | You pull a magic item out of the hat. Roll 1d6 to determine the item's rarity: on a 1-3, Common; on a 4-5, Uncommon; on a 6, Rare. The GM chooses the item, which disappears after 1 hour if it's not consumed or destroyed before then.                                                                                                  |
 
 ### Headband of Intellect
 
@@ -15905,7 +15897,7 @@ Before you draw a card, you must declare how many cards you intend to draw and t
 
 Once a card is drawn, it disappears. Unless the card is the Fool or Jester, the card reappears in the deck, making it possible to draw the same card twice. (Once the Fool or Jester has left the deck, reroll on the table if that card comes up again.)
 
-##### Mysterious Deck
+**Mysterious Deck**
 
 | 1d100 (13-Card Deck) | 1d100 (22-Card Deck) | Card    |
 |----------------------|----------------------|---------|
@@ -16851,11 +16843,11 @@ While in control of the sphere, you can take a Bonus Action to cause it to move 
 
 **Sphere Interactions.** If the sphere comes into contact with a planar portal (such as that created by the Gate spell) or an extradimensional space (such as that within a Portable Hole), the GM determines randomly what happens using the following table.
 
-##### 1d100 Result
-
-- 01-50 The sphere is destroyed.
-- 51-85 The sphere moves through the portal or into the extradimensional space.
-- 86-00 A spatial rift sends the sphere and each creature and object within 180 feet of the sphere to a random plane of existence.
+| 1d100 | Result                                                                                                                     |
+|-------|----------------------------------------------------------------------------------------------------------------------------|
+| 01-50 | The sphere is destroyed.                                                                                                   |
+| 51-85 | The sphere moves through the portal or into the extradimensional space.                                                    |
+| 86-00 | A spatial rift sends the sphere and each creature and object within 180 feet of the sphere to a random plane of existence. |
 
 ### Staff of Charming
 
@@ -17300,26 +17292,28 @@ This wand has 7 charges. While holding it, you can take a Magic action to expend
 
 **Regaining Charges.** The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll 1d20. On a 1, the wand crumbles into dust and is destroyed.
 
-##### Wand of Wonder Effects
+**Wand of Wonder Effects**
 
-- 01-20 You cast a spell originating from the chosen point. Roll 1d10 to determine the spell: on a 1-2, Darkness; on a 3-4, Faerie Fire; on a 5-6, Fireball; on a 7-8, Slow; on a 9-10, Stinking Cloud.
-- 21-25 Nothing happens at the chosen point of origin. Instead, you have the Stunned condition until the start of your next turn, believing something awesome just happened.
-- 26-30 You cast Gust of Wind. The Line created by the spell extends from you to the chosen point of origin.
-- 31-35 Nothing happens at the chosen point of origin. Instead, you take 1d6 Psychic damage.
-- 36-40 Heavy rain falls for 1 minute in a 120-foot-high, 60-foot-radius Cylinder centered on the chosen point of origin. During that time, the area of effect is Lightly Obscured.
-- 41-45 A cloud of 600 oversized butterflies fills a 60-foot-high, 30-foot-radius Cylinder centered on the chosen point of origin. The butterflies remain for 10 minutes, during which time the area of effect is Heavily Obscured.
-- 46-50 You cast Lightning Bolt. The Line created by the spell extends from you to the chosen point of origin.
-- 51-55 The creature closest to the chosen point of origin is enlarged as if you had cast Enlarge/Reduce on it. If the target isn't you and can't be affected by that spell, you become the target instead.
-- 56-60 A magically formed creature appears in an unoccupied space as close to the chosen point of origin as possible. The creature isn't under your control, acts as it normally would, and disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine which creature appears. On a 1, a Rhinoceros appears; on a 2, an Elephant appears; and on a 3-4, a Rat appears.
-- 61-64 Grass covers a 60-foot-radius circle of ground, with the center of that circle as close to the chosen point of origin as possible. Grass that's already there grows to ten times its normal size and remains overgrown for 1 minute.
-- 65-68 An object of the GM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the chosen point of origin, and no larger than 10 feet in any dimension. If there are no such objects in range, nothing happens.
-- 69-72 Nothing happens at the chosen point of origin. Instead, you shrink as if you had cast Enlarge/Reduce on yourself and remain in that state for 1 minute.
-- 73-77 Leaves grow from the creature nearest to the chosen point of origin. Unless they are picked off, the leaves turn brown and fall off after 24 hours.
-- 78-82 Nothing happens at the chosen point of origin. Instead, a burst of colorful, shimmering light extends from you in a 30-foot Emanation. Each creature in the area must succeed on a DC 15 Constitution saving throw or have the Blinded condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
-- 83-87 Nothing happens at the chosen point of origin. Instead, you cast Invisibility on yourself.
-- 88-92 Nothing happens at the chosen point of origin. Instead, a stream of 1d4 × 10 gems, each worth 1 GP, shoots from the wand's tip in a Line 30 feet long and 5 feet wide toward the chosen point of origin. Each gem deals 1 Bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the Line.
-- 93-97 You cast Polymorph, targeting the creature closest to the chosen point of origin. Roll 1d4 to determine the target's new form. On a 1, the new form is a Black Bear; on a 2, the new form is a Giant Wasp; on a 3-4, the new form is a Frog.
-- 98-00 The creature closest to the chosen point of origin makes a DC 15 Constitution saving throw. On a failed save, the creature has the Restrained condition and begins to turn to stone. While Restrained in this way, the creature repeats the save at the end of its next turn. On a successful save, the effect ends. On a failed save, the creature has the Petrified condition instead of the Restrained condition. The petrification lasts until the creature is freed by the Greater Restoration spell or similar magic.
+| 1d100 | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01-20 | You cast a spell originating from the chosen point. Roll 1d10 to determine the spell: on a 1-2, Darkness; on a 3-4, Faerie Fire; on a 5-6, Fireball; on a 7-8, Slow; on a 9-10, Stinking Cloud.                                                                                                                                                                                                                                                                                                                             |
+| 21-25 | Nothing happens at the chosen point of origin. Instead, you have the Stunned condition until the start of your next turn, believing something awesome just happened.                                                                                                                                                                                                                                                                                                                                                        |
+| 26-30 | You cast Gust of Wind. The Line created by the spell extends from you to the chosen point of origin.                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 31-35 | Nothing happens at the chosen point of origin. Instead, you take 1d6 Psychic damage.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 36-40 | Heavy rain falls for 1 minute in a 120-foot-high, 60-foot-radius Cylinder centered on the chosen point of origin. During that time, the area of effect is Lightly Obscured.                                                                                                                                                                                                                                                                                                                                                 |
+| 41-45 | A cloud of 600 oversized butterflies fills a 60-foot-high, 30-foot-radius Cylinder centered on the chosen point of origin. The butterflies remain for 10 minutes, during which time the area of effect is Heavily Obscured.                                                                                                                                                                                                                                                                                                 |
+| 46-50 | You cast Lightning Bolt. The Line created by the spell extends from you to the chosen point of origin.                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 51-55 | The creature closest to the chosen point of origin is enlarged as if you had cast Enlarge/Reduce on it. If the target isn't you and can't be affected by that spell, you become the target instead.                                                                                                                                                                                                                                                                                                                         |
+| 56-60 | A magically formed creature appears in an unoccupied space as close to the chosen point of origin as possible. The creature isn't under your control, acts as it normally would, and disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine which creature appears. On a 1, a Rhinoceros appears; on a 2, an Elephant appears; and on a 3-4, a Rat appears.                                                                                                                                        |
+| 61-64 | Grass covers a 60-foot-radius circle of ground, with the center of that circle as close to the chosen point of origin as possible. Grass that's already there grows to ten times its normal size and remains overgrown for 1 minute.                                                                                                                                                                                                                                                                                        |
+| 65-68 | An object of the GM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the chosen point of origin, and no larger than 10 feet in any dimension. If there are no such objects in range, nothing happens.                                                                                                                                                                                                                                                           |
+| 69-72 | Nothing happens at the chosen point of origin. Instead, you shrink as if you had cast Enlarge/Reduce on yourself and remain in that state for 1 minute.                                                                                                                                                                                                                                                                                                                                                                     |
+| 73-77 | Leaves grow from the creature nearest to the chosen point of origin. Unless they are picked off, the leaves turn brown and fall off after 24 hours.                                                                                                                                                                                                                                                                                                                                                                         |
+| 78-82 | Nothing happens at the chosen point of origin. Instead, a burst of colorful, shimmering light extends from you in a 30-foot Emanation. Each creature in the area must succeed on a DC 15 Constitution saving throw or have the Blinded condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success.                                                                                                                                                       |
+| 83-87 | Nothing happens at the chosen point of origin. Instead, you cast Invisibility on yourself.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 88-92 | Nothing happens at the chosen point of origin. Instead, a stream of 1d4 × 10 gems, each worth 1 GP, shoots from the wand's tip in a Line 30 feet long and 5 feet wide toward the chosen point of origin. Each gem deals 1 Bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the Line.                                                                                                                                                                                          |
+| 93-97 | You cast Polymorph, targeting the creature closest to the chosen point of origin. Roll 1d4 to determine the target's new form. On a 1, the new form is a Black Bear; on a 2, the new form is a Giant Wasp; on a 3-4, the new form is a Frog.                                                                                                                                                                                                                                                                                |
+| 98-00 | The creature closest to the chosen point of origin makes a DC 15 Constitution saving throw. On a failed save, the creature has the Restrained condition and begins to turn to stone. While Restrained in this way, the creature repeats the save at the end of its next turn. On a successful save, the effect ends. On a failed save, the creature has the Petrified condition instead of the Restrained condition. The petrification lasts until the creature is freed by the Greater Restoration spell or similar magic. |
 
 ### Weapon, +1, +2, or +3
 
@@ -17384,6 +17378,14 @@ A monster has a stat block that contains the rules necessary to use it in the ga
 
 The rules for a stat block are detailed in 'Rules Glossary' and in this section.
 
+**Running a Monster**
+
+To ensure a monster acts in accordance with its Challenge Rating, follow these rules during combat:
+
+- **Special Abilities.** If the monster has a special ability that deals a lot of damage but has a limited number of uses, such as a recharging breath weapon or a spell it can cast only once per day, have it use that special ability as quickly and as often as possible.
+- **Multiattack.** If the monster has Multiattack, have it use Multiattack on any of its turns in which it's not using one of its more powerful abilities.
+- **Bonus Actions, Reactions, Legendary Actions.** If the monster has Bonus Actions, Reactions, or Legendary Actions in its stat block, make sure it uses them as often as it can.
+
 ### Size
 
 A monster is Tiny, Small, Medium, Large, Huge, or Gargantuan. If size options are presented, you choose the creature's size from those options. See 'Playing the Game' for information on size.
@@ -17435,7 +17437,7 @@ A monster's Hit Points are presented as a number followed by parentheses, where 
 
 A monster's size typically determines the die used to calculate its Hit Points, as shown in the Hit Dice by Size table.
 
-##### Hit Dice by Size
+**Hit Dice by Size**
 
 | Monster Size   | Hit Die   | Average HP per Die   |
 |----------------|-----------|----------------------|
@@ -17465,14 +17467,6 @@ The Skills entry specifies a monster's skill proficiencies, if any. For example,
 ### Resistances and Vulnerabilities
 
 These entries list a monster's Resistances and Vulnerabilities, if any. See 'Playing the Game' for more information.
-
-##### Running a Monster
-
-To ensure a monster acts in accordance with its Challenge Rating, follow these rules during combat:
-
-- **Special Abilities.** If the monster has a special ability that deals a lot of damage but has a limited number of uses, such as a recharging breath weapon or a spell it can cast only once per day, have it use that special ability as quickly and as often as possible.
-- **Multiattack.** If the monster has Multiattack, have it use Multiattack on any of its turns in which it's not using one of its more powerful abilities.
-- **Bonus Actions, Reactions, Legendary Actions.** If the monster has Bonus Actions, Reactions, or Legendary Actions in its stat block, make sure it uses them as often as it can.
 
 ### Immunities
 
@@ -17518,7 +17512,7 @@ The number of Experience Points (XP) a monster is worth is based on its CR, as d
 
 Unless a rule says otherwise, a monster summoned by a spell or another magical ability is worth the XP noted in its stat block.
 
-##### Experience Points by Challenge Rating
+**Experience Points by Challenge Rating**
 
 | CR  | XP      |
 |-----|---------|
@@ -17561,7 +17555,7 @@ Unless a rule says otherwise, a monster summoned by a spell or another magical a
 
 A monster's Proficiency Bonus (PB) is determined by its CR, as shown in the Proficiency Bonus by Challenge Rating table, and is reflected in saving throws, skills, and other statistics where the monster's exceptional aptitude is a factor.
 
-##### Proficiency Bonus by Challenge Rating
+**Proficiency Bonus by Challenge Rating**
 
 | CR    | PB |
 |-------|----|
