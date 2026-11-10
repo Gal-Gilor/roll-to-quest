@@ -24,7 +24,7 @@ For each passage, write three questions that the passage answers, plus a fourth 
 4. `table`: only when the passage contains a Markdown table (rows of `| cell | cell |`). A question whose answer is a value in one row of the table and is stated nowhere else in the passage. Say which row and which column you mean in natural words, and name the entity or topic.
    "How many level 3 spell slots does a Wizard have at level 7?"
    "What does a Longsword cost and how much does it weigh?"
-   For a monster's ability score table, ask about a score, modifier or save ("What is a Ghoul's Dexterity saving throw bonus?").
+   For a monster's ability score table, pick a different ability and a different column each time (the score, the modifier or the save) and vary the wording: "How strong is an Ogre, as an ability score?", "What does a Ghoul add to Dexterity saves?", "Is a Lich's Intelligence modifier higher than +4?".
 
 ## Rules
 
