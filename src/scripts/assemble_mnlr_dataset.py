@@ -1,7 +1,11 @@
 """Build the final MNLR dataset from the validated questions.
 
 Reads <data>/validated.jsonl and writes train.jsonl, validation.jsonl and test.jsonl to
-<data>/dataset/. The split is by node, so all pairs of a node land in the same split.
+<data>/dataset/, with the dataset card as README.md. The split is by node, so all pairs
+of a node land in the same split.
+
+To publish the folder:
+    huggingface-cli upload <user>/<name> data/mnlr/dataset . --repo-type dataset
 
 Example Usage:
     python -m src.scripts.assemble_mnlr_dataset
@@ -9,10 +13,13 @@ Example Usage:
 
 import argparse
 import json
+import shutil
 from collections import Counter
 from pathlib import Path
 
 from src.mnlr.assembly import split_by_node
+
+DATASET_CARD = Path(__file__).parents[1] / "mnlr" / "DATASET_CARD.md"
 
 
 def main() -> None:
@@ -26,6 +33,7 @@ def main() -> None:
 
     output = args.data / "dataset"
     output.mkdir(exist_ok=True)
+    shutil.copy(DATASET_CARD, output / "README.md")
     for split, split_rows in split_by_node(rows, seed=args.seed).items():
         with (output / f"{split}.jsonl").open("w", encoding="utf-8") as file:
             file.writelines(json.dumps(row, ensure_ascii=False) + "\n" for row in split_rows)

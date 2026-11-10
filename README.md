@@ -157,6 +157,29 @@ BM25 on all pairs (`--sample 0`), 10,881 of 11,267 matched to a node:
 
 Context recall is the share of questions whose answer node is among the 4 seeds plus 8 graph neighbors sent to Gemini. Many questions in the dataset don't name their subject ("What level is this enchantment spell?"), which caps the score for any retriever.
 
+### 6. Build an MNLR Dataset from the Graph
+
+A question-passage dataset for fine-tuning an embedder with MultipleNegativesRankingLoss, built from the graph nodes.
+
+```bash
+# 1. Split nodes into passages and write batch files to data/mnlr/batches/
+poetry run python -m src.scripts.export_passages
+
+# 2. Generate questions for each batch with a model, following
+#    src/templates/generate_mnlr_questions.md, into data/mnlr/generated/
+
+# 3. Apply the scripted checks and write data/mnlr/validated.jsonl
+poetry run python -m src.scripts.validate_questions
+
+# 4. Split by node into data/mnlr/dataset/{train,validation,test}.jsonl
+poetry run python -m src.scripts.assemble_mnlr_dataset
+
+# 5. Score retrieval on the new test split
+poetry run python -m src.scripts.evaluate_retrieval --pairs data/mnlr/dataset/test.jsonl --sample 0
+```
+
+Each passage gets a `lookup`, a `paraphrase` and a `descriptive` question, plus a `table` question when it contains a table. The checks drop questions that copy the passage's wording, refer to "this spell" instead of naming it, or describe another node better. The dataset card is `src/mnlr/DATASET_CARD.md`.
+
 `notebooks/srd_graph.ipynb` lists every relationship in the graph and draws it: the full graph colored by entity label, and the neighborhood of a single entity with labeled edges.
 
 ## Development

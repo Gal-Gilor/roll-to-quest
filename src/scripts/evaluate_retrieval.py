@@ -11,6 +11,10 @@ Reported per seed mode:
     - context_recall: the answer node is among the nodes the chatbot sends to the
       model, which are the seeds plus their graph neighbors.
 
+By default the pairs come from the published dataset, which was generated from a
+different chunking. With --pairs they come from a local JSONL file whose rows carry a
+`node_id`, such as data/mnlr/dataset/test.jsonl, and no passage matching is needed.
+
 Without --neo4j the graph is built in memory and only BM25 is measured. With --neo4j
 the graph and node embeddings come from Neo4j (run `build_graph_db` first) and dense
 and hybrid seeds are measured too. Each question is then embedded with one Vertex AI
@@ -20,9 +24,11 @@ Example Usage:
     python -m src.scripts.evaluate_retrieval
     python -m src.scripts.evaluate_retrieval --neo4j --sample 1000
     python -m src.scripts.evaluate_retrieval --sample 0   # All pairs
+    python -m src.scripts.evaluate_retrieval --pairs data/mnlr/dataset/test.jsonl --sample 0
 """
 
 import argparse
+import json
 import random
 from collections import defaultdict
 from pathlib import Path
@@ -45,6 +51,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Measure retrieval on the pairs dataset.")
     parser.add_argument("--markdown", type=Path, default=DEFAULT_MARKDOWN)
     parser.add_argument("--neo4j", action="store_true", help="Load the graph from Neo4j.")
+    parser.add_argument("--pairs", type=Path, help="Local JSONL pairs with a node_id field.")
     parser.add_argument(
         "--sample", type=int, default=2000, help="Pairs to evaluate. 0 evaluates all."
     )
@@ -56,7 +63,11 @@ def main() -> None:
     retriever = create_retriever(create_client(), args.markdown, from_neo4j=args.neo4j)
     modes = ["bm25", "dense", "hybrid"] if retriever.default_mode == "hybrid" else ["bm25"]
 
-    pairs = list(load_dataset(DATASET, revision=REVISION, split="train"))
+    if args.pairs:
+        lines = args.pairs.read_text(encoding="utf-8").splitlines()
+        pairs = [json.loads(line) for line in lines]
+    else:
+        pairs = list(load_dataset(DATASET, revision=REVISION, split="train"))
     if args.sample:
         pairs = random.Random(args.seed).sample(pairs, min(args.sample, len(pairs)))
 
@@ -64,7 +75,7 @@ def main() -> None:
     totals: dict[str, dict[str, float]] = {mode: defaultdict(float) for mode in modes}
     evaluated = 0
     for pair in tqdm(pairs, desc="Evaluating"):
-        gold = gold_index.find(pair["positive"])
+        gold = {pair["node_id"]} if "node_id" in pair else gold_index.find(pair["positive"])
         if not gold:
             continue
         evaluated += 1
