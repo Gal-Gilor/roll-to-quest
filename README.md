@@ -88,6 +88,25 @@ poetry run python -m src.scripts.generate_pairs document_chunks.jsonl --start-li
 
 Output: JSONL file with anchor-positive pairs for model training.
 
+### 3. Chat with the SRD
+
+A Gradio chatbot that answers rules questions with GraphRAG. On startup it splits `srd_extraction.md` with [markdown-chunkify](https://github.com/Gal-Gilor/markdown-chunkify) and links the sections into an in-memory graph, which takes a few seconds. There is no graph database.
+
+- Nodes are sections.
+- `CONTAINS` edges link a section to its direct subsections.
+- `MENTIONS` edges link a section to a section whose header appears in its text.
+
+For each question, BM25 picks seed sections, their graph neighbors are ranked and added, and Gemini answers from that context. The retrieved sections are listed under "Sources" in each reply.
+
+The chatbot calls `gemini-3.5-flash-lite` on Vertex AI in project `agent-dnd`, location `us-central1`. These are constants at the top of `src/scripts/chat.py`. Authenticate with Application Default Credentials:
+
+```bash
+gcloud auth application-default login
+poetry run python -m src.scripts.chat
+```
+
+`notebooks/srd_graph.ipynb` draws the graph: the full graph colored by chapter, and the neighborhood of a single section with labeled edges.
+
 ## Development
 
 ### Running Tests
@@ -134,6 +153,8 @@ generate_pairs.py → Anchor-positive pairs (JSONL)
 - `src/pair_generation/` - Async pair generation using Gemini API
 - `src/services/cloud_storage.py` - Async Google Cloud Storage wrapper
 - `src/templates/` - Jinja2 templates for prompts
+- `src/graphrag/` - Section graph and graph retrieval for the chatbot
+- `src/scripts/chat.py` - Gradio chatbot
 
 ## Use Cases
 
