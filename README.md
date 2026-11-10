@@ -90,13 +90,19 @@ Output: JSONL file with anchor-positive pairs for model training.
 
 ### 3. Chat with the SRD
 
-A Gradio chatbot that answers rules questions with GraphRAG. On startup it splits `srd_extraction.md` with [markdown-chunkify](https://github.com/Gal-Gilor/markdown-chunkify) and links the sections into an in-memory graph, which takes a few seconds. There is no graph database.
+A Gradio chatbot that answers rules questions with GraphRAG. On startup it builds a knowledge graph of `srd_extraction.md` in memory, which takes a few seconds. There is no graph database and no LLM call to build the graph.
 
-- Nodes are sections.
-- `CONTAINS` edges link a section to its direct subsections.
-- `MENTIONS` edges link a section to a section whose header appears in its text.
+The graph is built in `src/graphrag/graph.py`:
 
-For each question, BM25 picks seed sections, their graph neighbors are ranked and added, and Gemini answers from that context. The retrieved sections are listed under "Sources" in each reply.
+1. [markdown-chunkify](https://github.com/Gal-Gilor/markdown-chunkify) splits the SRD into sections.
+2. Each section gets an entity label from its place in the document: a section under "Spell Descriptions" is a Spell, a stat block under "Monsters A-Z" is a Monster. An entity absorbs its subsections, so a Monster node holds the whole stat block.
+3. Damage types, schools of magic, sizes and the other enums in `src/extraction/enums.py` become nodes of their own.
+4. Rules read the fixed-format lines of each entity. A spell's first line gives `BELONGS_TO_SCHOOL` and `CAST_BY`, a monster's Immunities line gives `IMMUNE_TO_DAMAGE` and `IMMUNE_TO_CONDITION`.
+5. A node whose text names another node gets an edge typed by the two labels, such as Monster `CAN_CAST` Spell, or `REFERENCES` when the pair has no specific meaning.
+
+Labels and edge types follow `src/extraction/entities.json` and `relationships.json`. The rules are heuristics, so a small share of edges is wrong.
+
+For each question, BM25 picks seed nodes, their graph neighbors are ranked and added, and Gemini answers from the nodes' text and relationships. The retrieved nodes are listed under "Sources" in each reply.
 
 The chatbot calls `gemini-3.5-flash-lite` on Vertex AI in project `agent-dnd`, location `us-central1`. These are constants at the top of `src/scripts/chat.py`. Authenticate with Application Default Credentials:
 
@@ -105,7 +111,7 @@ gcloud auth application-default login
 poetry run python -m src.scripts.chat
 ```
 
-`notebooks/srd_graph.ipynb` draws the graph: the full graph colored by chapter, and the neighborhood of a single section with labeled edges.
+`notebooks/srd_graph.ipynb` lists every relationship in the graph and draws it: the full graph colored by entity label, and the neighborhood of a single entity with labeled edges.
 
 ## Development
 
@@ -153,7 +159,7 @@ generate_pairs.py → Anchor-positive pairs (JSONL)
 - `src/pair_generation/` - Async pair generation using Gemini API
 - `src/services/cloud_storage.py` - Async Google Cloud Storage wrapper
 - `src/templates/` - Jinja2 templates for prompts
-- `src/graphrag/` - Section graph and graph retrieval for the chatbot
+- `src/graphrag/` - Knowledge graph and graph retrieval for the chatbot
 - `src/scripts/chat.py` - Gradio chatbot
 
 ## Use Cases

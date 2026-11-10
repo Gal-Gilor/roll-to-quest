@@ -1,8 +1,9 @@
 """Gradio chatbot that answers D&D rules questions with GraphRAG over the SRD.
 
 On startup the SRD Markdown is split with `markdown-chunkify` and linked into an
-in-memory graph. Each question retrieves seed sections and their graph neighbors,
-and Gemini on Vertex AI answers from that context.
+in-memory graph of D&D entities (see `src.graphrag.graph`). Each question retrieves
+seed nodes and their graph neighbors, and Gemini on Vertex AI answers from their text
+and relationships.
 
 Authentication uses Application Default Credentials:
     gcloud auth application-default login
@@ -30,8 +31,10 @@ DEFAULT_MARKDOWN = Path(__file__).parents[2] / "srd_extraction.md"
 
 SYSTEM_INSTRUCTION = (
     "You are a Dungeons & Dragons 5E rules assistant. Answer using only the SRD "
-    "sections provided with the question. Name the sections you relied on. If the "
-    "sections don't contain the answer, say so."
+    "sections provided with the question. Each section may end with a Relationships "
+    "list taken from a knowledge graph of the SRD; a line starting with '<-' lists the "
+    "entities that have that relationship to the section. Name the sections you relied "
+    "on. If the sections don't contain the answer, say so."
 )
 SOURCES_TITLE = "Sources"
 
@@ -70,9 +73,9 @@ def create_chat_fn(retriever: GraphRetriever, client: genai.Client):
         )
         contents.append(types.Content(role="user", parts=[types.Part(text=prompt)]))
 
-        breadcrumbs = [retriever.graph.nodes[node_id]["breadcrumb"] for node_id in node_ids]
+        nodes = [retriever.graph.nodes[node_id] for node_id in node_ids]
         sources = gr.ChatMessage(
-            content="\n".join(f"- {breadcrumb}" for breadcrumb in breadcrumbs)
+            content="\n".join(f"- {node['label']}: {node['breadcrumb']}" for node in nodes)
             or "No matching sections.",
             metadata={"title": SOURCES_TITLE, "status": "done"},
         )

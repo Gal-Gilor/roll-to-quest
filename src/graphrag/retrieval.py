@@ -7,6 +7,9 @@ from collections import defaultdict
 import networkx as nx
 from rank_bm25 import BM25Okapi
 
+from src.graphrag.graph import CONTAINS
+from src.graphrag.graph import REFERENCES
+
 MAX_SECTION_CHARS = 6000  # Keeps one oversized section from crowding out the rest
 HEADER_WEIGHT = 3  # A section named after a query term outranks one that mentions it
 
@@ -43,8 +46,10 @@ class GraphRetriever:
             ]
         )
 
-    def retrieve(self, query: str, num_seeds: int = 4, num_neighbors: int = 8) -> list[int]:
-        """Return section ids relevant to the query, seeds first.
+    def retrieve(
+        self, query: str, num_seeds: int = 4, num_neighbors: int = 8
+    ) -> list[int | str]:
+        """Return node ids relevant to the query, seeds first.
 
         Args:
             query: The user's question.
@@ -52,7 +57,7 @@ class GraphRetriever:
             num_neighbors: Number of graph neighbors of the seeds to add.
 
         Returns:
-            Section ids, or an empty list if nothing matches the query.
+            Node ids, or an empty list if nothing matches the query.
         """
         scores = dict(zip(self._ids, self._bm25.get_scores(_tokenize(query))))
         ranked = sorted(scores, key=scores.get, reverse=True)
@@ -63,7 +68,7 @@ class GraphRetriever:
         # A link to a rarely linked section says more than a link to a hub like
         # "Attack Roll", so each link is weighted by the neighbor's inverse log degree.
         top_score = scores[seeds[0]]
-        link_weights: dict[int, float] = defaultdict(float)
+        link_weights: dict[int | str, float] = defaultdict(float)
         for seed in seeds:
             for neighbor in nx.all_neighbors(self.graph, seed):
                 if neighbor not in seeds:
@@ -77,14 +82,32 @@ class GraphRetriever:
 
         return seeds + neighbors[:num_neighbors]
 
-    def format_context(self, node_ids: list[int]) -> str:
-        """Render sections as Markdown, each under its breadcrumb. Skips empty sections."""
+    def _relationships(self, node_id: int | str) -> str:
+        """List a node's typed edges, one line per type. "<-" marks incoming edges."""
+        names: dict[str, list[str]] = defaultdict(list)
+        for _, target, data in self.graph.out_edges(node_id, data=True):
+            names[data["type"]].append(self.graph.nodes[target]["header"])
+        for source, _, data in self.graph.in_edges(node_id, data=True):
+            names[f"<- {data['type']}"].append(self.graph.nodes[source]["header"])
+
+        return "\n".join(
+            f"- {edge_type}: {', '.join(sorted(headers))}"
+            for edge_type, headers in sorted(names.items())
+            if edge_type.removeprefix("<- ") not in (CONTAINS, REFERENCES)
+        )
+
+    def format_context(self, node_ids: list[int | str]) -> str:
+        """Render nodes as Markdown: label and breadcrumb, text, then typed relationships.
+
+        Nodes with neither text nor relationships are skipped.
+        """
         blocks = []
         for node_id in node_ids:
             data = self.graph.nodes[node_id]
-            if data["content"]:
-                blocks.append(
-                    f"## {data['breadcrumb']}\n{data['content'][:MAX_SECTION_CHARS]}"
-                )
+            parts = [data["content"][:MAX_SECTION_CHARS]]
+            if relationships := self._relationships(node_id)[:MAX_SECTION_CHARS]:
+                parts.append(f"Relationships:\n{relationships}")
+            if body := "\n\n".join(part for part in parts if part):
+                blocks.append(f"## [{data['label']}] {data['breadcrumb']}\n{body}")
 
         return "\n\n".join(blocks)
