@@ -1,6 +1,5 @@
 import networkx as nx
 
-from src.mnlr.assembly import apply_verdicts
 from src.mnlr.assembly import split_by_node
 from src.mnlr.passages import MAX_PASSAGE_CHARS
 from src.mnlr.passages import Passage
@@ -154,12 +153,6 @@ def test_filter_questions_rejects_duplicates_and_unknown_passages():
     assert rejected == {"duplicate question": 1, "unknown passage": 1}
 
 
-def test_apply_verdicts_keeps_only_accepted_rows():
-    rows = [{"anchor": "a"}, {"anchor": "b"}, {"anchor": "c"}]
-
-    assert apply_verdicts(rows, {0: "accept", 1: "reject"}) == [{"anchor": "a"}]
-
-
 def test_split_by_node_keeps_a_node_in_one_split():
     rows = [
         {"node_id": str(node), "anchor": f"{node}-{i}"}
@@ -174,3 +167,43 @@ def test_split_by_node_keeps_a_node_in_one_split():
     assert not nodes["train"] & nodes["test"] and not nodes["train"] & nodes["validation"]
     assert sum(len(split) for split in splits.values()) == len(rows)
     assert splits == split_by_node(rows, validation_share=0.1, test_share=0.2)
+
+
+def test_problems_requires_a_table_for_table_questions():
+    table = _passage("7-1", "| Level | Slots |\n|-------|-------|\n| 5 | 2 |\n| 6 | 3 |")
+    question = _question("table", "How many slots does Fireball use at level 6?", "7-1")
+
+    assert problems(question, table) == []
+    assert problems(question, FIREBALL) == ["table question for a passage without a table"]
+
+
+def test_filter_questions_rejects_descriptive_questions_that_fit_another_node():
+    ice = FIREBALL.model_copy(
+        update={
+            "passage_id": "8-0",
+            "node_id": "8",
+            "entity": "Ice Storm",
+            "text": "Hail pounds a cylinder. Creatures take Bludgeoning and Cold damage.",
+        }
+    )
+    # BM25 needs a few unrelated passages for its term weights to mean anything.
+    filler = {
+        f"{n}-0": ice.model_copy(
+            update={
+                "passage_id": f"{n}-0",
+                "node_id": str(n),
+                "text": f"Rule {n} about travel.",
+            }
+        )
+        for n in range(20, 26)
+    }
+    passages = {"7-0": FIREBALL, "8-0": ice, **filler}
+    questions = [
+        _question("descriptive", "Which magic pelts a cylinder with hail and freezing cold?"),
+        _question("descriptive", "Which magic blast scorches a crowd with flame?"),
+    ]
+
+    kept, rejected = filter_questions(questions, passages)
+
+    assert [q.anchor for q in kept] == ["Which magic blast scorches a crowd with flame?"]
+    assert rejected == {"describes another node better": 1}

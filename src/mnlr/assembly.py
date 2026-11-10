@@ -1,12 +1,7 @@
-"""Apply the judge's verdicts and split the pairs into train, validation and test."""
+"""Split the validated pairs into train, validation and test."""
 
 import random
 from collections import defaultdict
-
-
-def apply_verdicts(rows: list[dict], verdicts: dict[int, str]) -> list[dict]:
-    """Keep the rows the judge accepted. A row without a verdict is dropped."""
-    return [row for index, row in enumerate(rows) if verdicts.get(index) == "accept"]
 
 
 def split_by_node(

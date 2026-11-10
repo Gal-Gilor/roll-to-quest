@@ -13,7 +13,7 @@ A JSONL file. Each line is one passage:
 
 ## What to write
 
-For each passage, write three questions that the passage answers. Each has a different `question_type`:
+For each passage, write three questions that the passage answers, plus a fourth if the passage contains a table. Each has a different `question_type`:
 
 1. `lookup`: a direct question about one specific fact in the passage. It names the entity.
    "How far away can I target a point with Fireball?"
@@ -21,13 +21,17 @@ For each passage, write three questions that the passage answers. Each has a dif
    "If I upcast Fireball with a stronger slot, how much harder does it hit?"
 3. `descriptive`: a question from someone who doesn't know or remember the entity's name and describes what they are looking for. It must NOT contain the entity's name. It must be specific enough that this passage is the clear answer.
    "What spell makes a huge explosion of flame that burns everyone in a wide area?"
+4. `table`: only when the passage contains a Markdown table (rows of `| cell | cell |`). A question whose answer is a value in one row of the table and is stated nowhere else in the passage. Say which row and which column you mean in natural words, and name the entity or topic.
+   "How many level 3 spell slots does a Wizard have at level 7?"
+   "What does a Longsword cost and how much does it weigh?"
+   For a monster's ability score table, ask about a score, modifier or save ("What is a Ghoul's Dexterity saving throw bonus?").
 
 ## Rules
 
 - Every question must make sense on its own. The reader does not see the passage. Never write "this spell", "the creature", "this feature", "the passage", "according to the text" or similar.
 - For `label` "Section", the entity is a section title that players may not know. Name the topic in natural words instead ("carrying capacity", "underwater combat").
 - The passage must contain the answer. Do not ask about anything it doesn't state.
-- Ask about different facts in the three questions.
+- Ask about a different fact in each question.
 - Vary how questions start. Do not begin every question with "What".
 - Write real questions ending with a question mark, 6 to 25 words long.
 - If a passage states no fact worth asking about (for example it only introduces a list that is not included), write no questions for it.
