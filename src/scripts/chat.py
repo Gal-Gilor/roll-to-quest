@@ -1,15 +1,19 @@
 """Gradio chatbot that answers D&D rules questions with GraphRAG over the SRD.
 
-On startup the SRD Markdown is split with `markdown-chunkify` and linked into an
-in-memory graph of D&D entities (see `src.graphrag.graph`). Each question retrieves
-seed nodes and their graph neighbors, and Gemini on Vertex AI answers from their text
-and relationships.
+Each question retrieves seed nodes and their graph neighbors from a knowledge graph
+of D&D entities (see `src.graphrag.graph`), and Gemini on Vertex AI answers from their
+text and relationships.
+
+By default the graph is built in memory from the SRD Markdown on startup and seeds are
+picked with BM25. With --neo4j the graph and its node embeddings are loaded from Neo4j
+(run `src.scripts.build_graph_db` first) and seeds are picked with BM25 and embeddings.
 
 Authentication uses Application Default Credentials:
     gcloud auth application-default login
 
 Example Usage:
     python -m src.scripts.chat
+    python -m src.scripts.chat --neo4j
     python -m src.scripts.chat --markdown srd_extraction.md --share
 """
 
@@ -21,13 +25,11 @@ import gradio as gr
 from google import genai
 from google.genai import types
 
-from src.graphrag.graph import build_graph
+from src.graphrag import DEFAULT_MARKDOWN
+from src.graphrag import create_retriever
 from src.graphrag.retrieval import GraphRetriever
-
-PROJECT = "agent-dnd"
-LOCATION = "us-central1"
-MODEL = "gemini-3.5-flash-lite"
-DEFAULT_MARKDOWN = Path(__file__).parents[2] / "srd_extraction.md"
+from src.graphrag.vertex import GENERATION_MODEL
+from src.graphrag.vertex import create_client
 
 SYSTEM_INSTRUCTION = (
     "You are a Dungeons & Dragons 5E rules assistant. Answer using only the SRD "
@@ -82,7 +84,7 @@ def create_chat_fn(retriever: GraphRetriever, client: genai.Client):
 
         answer = ""
         for chunk in client.models.generate_content_stream(
-            model=MODEL,
+            model=GENERATION_MODEL,
             contents=contents,
             config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION),
         ):
@@ -95,11 +97,12 @@ def create_chat_fn(retriever: GraphRetriever, client: genai.Client):
 def main() -> None:
     parser = argparse.ArgumentParser(description="Chat with the SRD using GraphRAG.")
     parser.add_argument("--markdown", type=Path, default=DEFAULT_MARKDOWN)
+    parser.add_argument("--neo4j", action="store_true", help="Load the graph from Neo4j.")
     parser.add_argument("--share", action="store_true", help="Create a public Gradio link.")
     args = parser.parse_args()
 
-    retriever = GraphRetriever(build_graph(args.markdown))
-    client = genai.Client(vertexai=True, project=PROJECT, location=LOCATION)
+    client = create_client()
+    retriever = create_retriever(client, args.markdown, from_neo4j=args.neo4j)
 
     gr.ChatInterface(
         fn=create_chat_fn(retriever, client),

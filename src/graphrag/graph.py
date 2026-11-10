@@ -177,11 +177,12 @@ def _name_pattern(names: list[str]) -> re.Pattern:
 
 def _add_section_nodes(graph: nx.DiGraph, sections: list[Section]) -> None:
     """Add one node per section, folding the subsections of an entity into its node."""
-    owner: dict[int, int] = {}  # Absorbed section id -> the entity node that holds it
+    owner: dict[str, str] = {}  # Absorbed section id -> the entity node that holds it
 
     for section in sections:
-        section_id, parent_id = section.metadata.id, section.metadata.parent_id
-        parent = owner.get(parent_id, parent_id)
+        section_id = str(section.metadata.id)
+        parent_id = section.metadata.parent_id
+        parent = None if parent_id is None else owner.get(str(parent_id), str(parent_id))
 
         if parent is not None and graph.nodes[parent]["label"] not in CONTAINER_LABELS:
             owner[section_id] = parent
@@ -216,9 +217,9 @@ def _add_concept_nodes(graph: nx.DiGraph) -> None:
             )
 
 
-def _names_by_label(graph: nx.DiGraph) -> dict[str, dict[str, int | str]]:
+def _names_by_label(graph: nx.DiGraph) -> dict[str, dict[str, str]]:
     """Map each entity label to its nodes by name. Later duplicates of a name are dropped."""
-    names: dict[str, dict[str, int | str]] = defaultdict(dict)
+    names: dict[str, dict[str, str]] = defaultdict(dict)
     for node, data in graph.nodes(data=True):
         if data["label"] != SECTION:
             names[data["label"]].setdefault(_alias(data["header"]), node)
@@ -242,7 +243,7 @@ def _add_field_edges(graph: nx.DiGraph) -> None:
                         graph.add_edge(node, target, type=rule.edge_type)
 
 
-def _reference_targets(graph: nx.DiGraph) -> dict[str, int]:
+def _reference_targets(graph: nx.DiGraph) -> dict[str, str]:
     """Map each unambiguous header alias to its node.
 
     A name shared by an entity and plain sections ("Ghoul" the stat block and "Ghoul"
@@ -307,9 +308,9 @@ def build_graph(markdown_path: str | Path) -> nx.DiGraph:
         markdown_path: Path to the SRD Markdown file.
 
     Returns:
-        A graph whose nodes have `label` (entity type), `header`, `breadcrumb`,
-        `category` (the top-level header) and `content` attributes. Each edge has a
-        `type` attribute.
+        A graph keyed by string node ids. Nodes have `label` (entity type), `header`,
+        `breadcrumb`, `category` (the top-level header) and `content` attributes. Each
+        edge has a `type` attribute.
     """
     graph = nx.DiGraph()
     _add_section_nodes(graph, MarkdownSplitter().split_file(markdown_path))

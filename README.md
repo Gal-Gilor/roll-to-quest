@@ -102,14 +102,60 @@ The graph is built in `src/graphrag/graph.py`:
 
 Labels and edge types follow `src/extraction/entities.json` and `relationships.json`. The rules are heuristics, so a small share of edges is wrong.
 
-For each question, BM25 picks seed nodes, their graph neighbors are ranked and added, and Gemini answers from the nodes' text and relationships. The retrieved nodes are listed under "Sources" in each reply.
+For each question, seed nodes are picked, their graph neighbors are ranked and added, and Gemini answers from the nodes' text and relationships. The retrieved nodes are listed under "Sources" in each reply.
 
-The chatbot calls `gemini-3.5-flash-lite` on Vertex AI in project `agent-dnd`, location `us-central1`. These are constants at the top of `src/scripts/chat.py`. Authenticate with Application Default Credentials:
+Seeds are picked in one of two ways:
+
+- In memory (default): BM25 over each node's header, breadcrumb and text.
+- With `--neo4j`: hybrid. The BM25 ranking is fused with a cosine-similarity ranking over `gemini-embedding-001` embeddings by reciprocal rank fusion. BM25 finds exact names like "Fireball", embeddings find paraphrases like "paralyze" for "Paralyzed".
+
+The chatbot calls `gemini-3.5-flash-lite` on Vertex AI in project `agent-dnd`, location `us-central1`. These are constants at the top of `src/graphrag/vertex.py`. Authenticate with Application Default Credentials:
 
 ```bash
 gcloud auth application-default login
 poetry run python -m src.scripts.chat
 ```
+
+### 4. Store the Graph in Neo4j
+
+`build_graph_db` builds the graph, embeds each node with `gemini-embedding-001` (one Vertex AI request per node, about 2,300) and writes nodes, relationships and embeddings to Neo4j. Every node has the label `SrdNode` plus its entity label, and edges become relationships of their type. A rerun replaces the previous `SrdNode` graph.
+
+```bash
+# A local Neo4j
+docker run -p 7474:7474 -p 7687:7687 -e NEO4J_AUTH=neo4j/<password> neo4j:5
+
+# NEO4J_URI, NEO4J_USERNAME and NEO4J_PASSWORD come from the environment or .env
+poetry run python -m src.scripts.build_graph_db
+
+# The chatbot then loads the graph from Neo4j and uses hybrid seeds
+poetry run python -m src.scripts.chat --neo4j
+```
+
+The graph can also be queried directly:
+
+```cypher
+MATCH (m:Monster)-[:IMMUNE_TO_DAMAGE]->(:DamageType {header: "Fire"}) RETURN m.header
+```
+
+### 5. Measure Retrieval
+
+`evaluate_retrieval` scores seed selection on the [anchor-positive pairs dataset](https://huggingface.co/datasets/galgilor/dnd-5e-srd-anchor-positive-pairs). The dataset was generated from a different chunking, so each passage is first matched to the graph nodes that contain it. Pairs whose passage matches no node are skipped.
+
+```bash
+# BM25 on the in-memory graph, 2,000 sampled pairs
+poetry run python -m src.scripts.evaluate_retrieval
+
+# BM25, dense and hybrid on the Neo4j graph. Embeds each sampled question once.
+poetry run python -m src.scripts.evaluate_retrieval --neo4j --sample 1000
+```
+
+BM25 on all pairs (`--sample 0`), 10,881 of 11,267 matched to a node:
+
+| Mode | recall@1 | recall@4 | recall@10 | MRR | Context recall |
+|------|----------|----------|-----------|-----|----------------|
+| bm25 | 0.471 | 0.700 | 0.801 | 0.579 | 0.730 |
+
+Context recall is the share of questions whose answer node is among the 4 seeds plus 8 graph neighbors sent to Gemini. Many questions in the dataset don't name their subject ("What level is this enchantment spell?"), which caps the score for any retriever.
 
 `notebooks/srd_graph.ipynb` lists every relationship in the graph and draws it: the full graph colored by entity label, and the neighborhood of a single entity with labeled edges.
 
