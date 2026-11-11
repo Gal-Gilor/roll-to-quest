@@ -1,5 +1,6 @@
 import networkx as nx
 
+from src.mnlr.assembly import apply_verdicts
 from src.mnlr.assembly import split_by_node
 from src.mnlr.passages import MAX_PASSAGE_CHARS
 from src.mnlr.passages import Passage
@@ -7,6 +8,7 @@ from src.mnlr.passages import drop_near_duplicates
 from src.mnlr.passages import entity_name
 from src.mnlr.passages import extract_passages
 from src.mnlr.passages import split_text
+from src.mnlr.validation import PassageRanker
 from src.mnlr.validation import Question
 from src.mnlr.validation import filter_questions
 from src.mnlr.validation import overlap
@@ -177,7 +179,7 @@ def test_problems_requires_a_table_for_table_questions():
     assert problems(question, FIREBALL) == ["table question for a passage without a table"]
 
 
-def test_filter_questions_rejects_descriptive_questions_that_fit_another_node():
+def _corpus():
     ice = FIREBALL.model_copy(
         update={
             "passage_id": "8-0",
@@ -197,13 +199,39 @@ def test_filter_questions_rejects_descriptive_questions_that_fit_another_node():
         )
         for n in range(20, 26)
     }
-    passages = {"7-0": FIREBALL, "8-0": ice, **filler}
-    questions = [
-        _question("descriptive", "Which magic pelts a cylinder with hail and freezing cold?"),
-        _question("descriptive", "Which magic blast scorches a crowd with flame?"),
-    ]
 
-    kept, rejected = filter_questions(questions, passages)
+    return {"7-0": FIREBALL, "8-0": ice, **filler}
 
-    assert [q.anchor for q in kept] == ["Which magic blast scorches a crowd with flame?"]
-    assert rejected == {"describes another node better": 1}
+
+def test_passage_ranker_ranks_the_own_node_first_for_a_matching_question():
+    ranker = PassageRanker(_corpus())
+
+    rank, competitor = ranker.rank(_question("descriptive", "Which blast of flame explodes?"))
+
+    assert rank == 1
+    assert competitor.node_id != "7"
+
+
+def test_passage_ranker_reports_the_competitor_that_outranks_the_own_node():
+    ranker = PassageRanker(_corpus())
+    question = _question("descriptive", "Which magic pelts a cylinder with hail and cold?")
+
+    rank, competitor = ranker.rank(question)
+
+    assert rank == 2
+    assert competitor.entity == "Ice Storm"
+
+
+def test_passage_ranker_caps_the_rank():
+    ranker = PassageRanker(_corpus())
+    question = _question("descriptive", "Which rule about travel has hail in a cylinder?")
+
+    assert ranker.rank(question, max_rank=3)[0] == 4
+
+
+def test_apply_verdicts_keeps_easy_rows_and_accepted_hard_rows():
+    rows = [{"bm25_rank": 1}, {"bm25_rank": 9}, {"bm25_rank": 9}, {"bm25_rank": 9}]
+
+    kept = apply_verdicts(rows, {1: "accept", 2: "reject"}, hard_rank=4)
+
+    assert kept == [rows[0], rows[1]]

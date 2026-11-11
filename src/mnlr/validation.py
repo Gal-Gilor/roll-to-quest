@@ -14,7 +14,8 @@ QuestionType = Literal["lookup", "paraphrase", "descriptive", "table"]
 
 MAX_OVERLAP = 0.75  # Share of a question's content words that may come from the passage
 MIN_QUESTION_WORDS = 4
-AMBIGUITY_MARGIN = 1.5  # How much better another node must match a descriptive question
+MAX_RANK = 50  # Ranks beyond this are reported as MAX_RANK + 1
+HARD_RANK = 4  # A question whose node BM25 ranks below this needs a judge's verdict
 EXACT_TYPES = ("lookup", "table")  # Questions about one fact may reuse the passage's terms
 _TABLE_ROW = re.compile(r"^\s*\|.*\|\s*$", re.MULTILINE)
 
@@ -83,12 +84,13 @@ def problems(question: Question, passage: Passage) -> list[str]:
     return found
 
 
-class AmbiguityCheck:
-    """Find descriptive questions that describe another node better than their own.
+class PassageRanker:
+    """Rank the graph nodes for a question with BM25 over their passages.
 
-    A descriptive question doesn't name its subject, so it can fit several passages.
-    When BM25 scores a passage of a different node well above the question's own
-    passage, the question is a poor training pair: its "positive" is not the best match.
+    A question BM25 ranks its own node low for is either a good hard question, worded
+    unlike its passage, or an ambiguous one that fits another passage as well. The rank
+    alone can't tell them apart, so those questions go to a judge with the competing
+    passage.
     """
 
     def __init__(self, passages: dict[str, Passage]):
@@ -96,20 +98,25 @@ class AmbiguityCheck:
         self._index = {passage.passage_id: i for i, passage in enumerate(self._passages)}
         self._bm25 = BM25Okapi([_content_words(p.positive) for p in self._passages])
 
-    def is_ambiguous(self, question: Question) -> bool:
-        scores = self._bm25.get_scores(_content_words(question.anchor))
-        own = self._passages[self._index[question.passage_id]]
-        own_score = max(
-            scores[i]
-            for i, passage in enumerate(self._passages)
-            if passage.node_id == own.node_id
-        )
-        best = int(scores.argmax())
+    def rank(self, question: Question, max_rank: int = MAX_RANK) -> tuple[int, Passage]:
+        """Return the rank of the question's node and the best passage of another node.
 
-        return (
-            self._passages[best].node_id != own.node_id
-            and scores[best] > AMBIGUITY_MARGIN * own_score
-        )
+        The rank is 1 when no other node scores higher than the question's own node.
+        It is capped at `max_rank + 1`, which means "not among the first `max_rank`".
+        """
+        scores = self._bm25.get_scores(_content_words(question.anchor))
+        own_node = self._passages[self._index[question.passage_id]].node_id
+
+        best_by_node: dict[str, tuple[float, Passage]] = {}
+        for score, passage in zip(scores, self._passages):
+            if score > best_by_node.get(passage.node_id, (-1.0, None))[0]:
+                best_by_node[passage.node_id] = (score, passage)
+
+        own_score = best_by_node.pop(own_node)[0]
+        competitor = max(best_by_node.values(), key=lambda best: best[0])[1]
+        better = sum(1 for score, _ in best_by_node.values() if score > own_score)
+
+        return min(better + 1, max_rank + 1), competitor
 
 
 def filter_questions(
@@ -120,7 +127,6 @@ def filter_questions(
     A question is also rejected when its passage is unknown or its anchor was already
     seen: the same anchor with two positives would make one of them a false negative.
     """
-    ambiguity = AmbiguityCheck(passages)
     kept, rejected, seen = [], Counter(), set()
     for question in questions:
         passage = passages.get(question.passage_id)
@@ -131,8 +137,6 @@ def filter_questions(
             found = ["duplicate question"]
         else:
             found = problems(question, passage)
-            if question.question_type == "descriptive" and ambiguity.is_ambiguous(question):
-                found.append("describes another node better")
 
         if found:
             rejected.update(found)

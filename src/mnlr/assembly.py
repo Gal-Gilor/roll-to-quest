@@ -1,7 +1,23 @@
-"""Split the validated pairs into train, validation and test."""
+"""Apply the judge's verdicts and split the pairs into train, validation and test."""
 
 import random
 from collections import defaultdict
+
+from src.mnlr.validation import HARD_RANK
+
+
+def apply_verdicts(
+    rows: list[dict], verdicts: dict[int, str], hard_rank: int = HARD_RANK
+) -> list[dict]:
+    """Keep the rows BM25 ranks well, and the hard rows a judge accepted.
+
+    A hard row without an "accept" verdict is dropped: it may be ambiguous.
+    """
+    return [
+        row
+        for index, row in enumerate(rows)
+        if row["bm25_rank"] <= hard_rank or verdicts.get(index) == "accept"
+    ]
 
 
 def split_by_node(
