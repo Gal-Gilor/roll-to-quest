@@ -8,7 +8,9 @@ gives the question's own node.
 Questions ranked below --hard-rank are either good hard questions or ambiguous ones.
 They are written to <data>/to_judge/ in files of --judge-size rows, each with the
 passage of another node that BM25 ranked highest, for a model judge following
-src/templates/judge_mnlr_pairs.md. `row` is the line number in validated.jsonl.
+src/templates/judge_mnlr_pairs.md. `row` is the line number in validated.jsonl. Rows
+that already have a verdict in <data>/judged/ are not written again, so questions can be
+added in later files (files are read in name order) without re-judging earlier ones.
 
 Example Usage:
     python -m src.scripts.validate_questions
@@ -81,7 +83,18 @@ def main() -> None:
     to_judge.mkdir(exist_ok=True)
     for stale in to_judge.glob("*.jsonl"):
         stale.unlink()
-    hard = [index for index, row in enumerate(rows) if row["bm25_rank"] > args.hard_rank]
+    judged = set()
+    for path in (args.data / "judged").glob("*.jsonl"):
+        for line in path.read_text(encoding="utf-8").splitlines():
+            try:
+                judged.add(int(json.loads(line)["row"]))
+            except (ValueError, KeyError, TypeError):
+                continue
+    hard = [
+        index
+        for index, row in enumerate(rows)
+        if row["bm25_rank"] > args.hard_rank and index not in judged
+    ]
     for start in range(0, len(hard), args.judge_size):
         path = to_judge / f"batch_{start // args.judge_size:03d}.jsonl"
         with path.open("w", encoding="utf-8") as file:
@@ -97,7 +110,8 @@ def main() -> None:
 
     print(f"Read {len(questions):,} questions ({malformed} malformed lines skipped).")
     print(f"Kept {len(kept):,}, wrote {output}.")
-    print(f"{len(hard):,} ranked below {args.hard_rank} by BM25, written to {to_judge}/.")
+    print(f"{len(hard):,} unjudged pairs ranked below {args.hard_rank} by BM25, ", end="")
+    print(f"written to {to_judge}/.")
     for problem, count in rejected.most_common():
         print(f"  rejected, {problem}: {count:,}")
 
