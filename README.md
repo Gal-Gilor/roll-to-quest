@@ -168,17 +168,22 @@ poetry run python -m src.scripts.export_passages
 # 2. Generate questions for each batch with a model, following
 #    src/templates/generate_mnlr_questions.md, into data/mnlr/generated/
 
-# 3. Apply the scripted checks and write data/mnlr/validated.jsonl
+# 3. Apply the scripted checks and write data/mnlr/validated.jsonl. Questions BM25
+#    ranks outside the top 4 are also written to data/mnlr/to_judge/
 poetry run python -m src.scripts.validate_questions
 
-# 4. Split by node into data/mnlr/dataset/{train,validation,test}.jsonl
+# 4. Judge the hard questions with a stronger model, following
+#    src/templates/judge_mnlr_pairs.md, into data/mnlr/judged/
+
+# 5. Keep easy pairs and accepted hard pairs, split by node into
+#    data/mnlr/dataset/{train,validation,test}.jsonl
 poetry run python -m src.scripts.assemble_mnlr_dataset
 
-# 5. Score retrieval on the new test split
+# 6. Score retrieval on the new test split
 poetry run python -m src.scripts.evaluate_retrieval --pairs data/mnlr/dataset/test.jsonl --sample 0
 ```
 
-Each passage gets a `lookup`, a `paraphrase` and a `descriptive` question, plus a `table` question when it contains a table. The checks drop questions that copy the passage's wording, refer to "this spell" instead of naming it, or describe another node better. The dataset card is `src/mnlr/DATASET_CARD.md`.
+Each passage gets a `lookup`, a `paraphrase` and a `descriptive` question, plus a `table` question when it contains a table. The scripted checks drop questions that copy the passage's wording or refer to "this spell" instead of naming it. A question that BM25 gets wrong is either a good hard question or an ambiguous one, so a judge decides with both passages in view, and only accepted ones are kept. The dataset card is `src/mnlr/DATASET_CARD.md`.
 
 `notebooks/srd_graph.ipynb` lists every relationship in the graph and draws it: the full graph colored by entity label, and the neighborhood of a single entity with labeled edges.
 
