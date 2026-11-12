@@ -33,9 +33,9 @@ The passages come from the nodes of the Roll-to-Quest knowledge graph, where a n
 
 | Split | Pairs | Nodes |
 |-------|-------|-------|
-| train | 5,680 | 1,589 |
-| validation | 341 | 93 |
-| test | 658 | 187 |
+| train | 7,774 | 1,594 |
+| validation | 470 | 94 |
+| test | 1,022 | 188 |
 
 The split is by node. Every pair of a node is in the same split, so the test questions are about entities the model saw no question for.
 
@@ -48,7 +48,7 @@ The split is by node. Every pair of a node is in the same split, so the test que
 - `label`: the node's entity type (Spell, Monster, MagicItem, Feature, Section and others).
 - `breadcrumb`: the path of headers above the passage.
 - `question_type`: one of the four types below.
-- `bm25_rank`: the rank BM25 gives the question's own node among all nodes, capped at 51. A rank above 4 marks a hard pair, one a keyword search gets wrong. 695 pairs are hard.
+- `bm25_rank`: the rank BM25 gives the question's own node among all nodes, capped at 51. A rank above 4 marks a hard pair, one a keyword search gets wrong. 1,796 pairs are hard.
 
 ## Question types
 
@@ -56,17 +56,20 @@ The split is by node. Every pair of a node is in the same split, so the test que
 |------|-------|------------|
 | `lookup` | 2,165 | A direct question about one fact. Names the entity. |
 | `paraphrase` | 2,021 | A question in a player's words, avoiding the passage's wording. Names the entity. |
-| `descriptive` | 1,882 | A question from someone who doesn't know the entity's name. Does not name it. |
+| `descriptive` | 4,469 | A question from someone who doesn't know the entity's name. Does not name it. |
 | `table` | 611 | A question whose answer is a cell of a table in the passage. |
 
 ## How it was made
 
 1. Passages were exported from the graph and near-duplicate passages were dropped, because MNLR uses the other positives in a batch as negatives.
 2. Claude Haiku 5.5 wrote three questions per passage, and a fourth for passages with a table.
-3. Scripted checks removed 442 of 7,199 questions: those that copy more than 75% of their content words from the passage, questions that refer to "this spell" or "the passage", questions that break the naming rule of their type, and duplicates.
-4. BM25 ranked the nodes for each remaining question. The 773 questions whose own node was not in the top 4 were judged by Claude Sonnet 5.5, which saw the intended passage and the passage of another node that BM25 ranked highest. It accepted 695, rejected 69 as ambiguous or unanswered, and marked 9 unsure. The 9 were checked against the SRD by Claude Fable 5.2 and rejected: each fit several entries, such as a trait shared by seven devils.
+3. In a second pass over the 1,444 passages of named entities, Claude Haiku 5.5 wrote two more descriptive questions per passage, with instructions to avoid the passage's wording and to combine several facts so the question points to one entry.
+4. Scripted checks removed 476 of the 9,976 questions: those that copy more than 75% of their content words from the passage, questions that refer to "this spell" or "the passage", questions that break the naming rule of their type, and duplicates.
+5. BM25 ranked the nodes for each remaining question. The 2,030 questions whose own node was not in the top 4 were judged by Claude Sonnet 5.5, which saw the intended passage and the passage of another node that BM25 ranked highest. It accepted 1,796, rejected 166 as ambiguous or unanswered, and marked 68 unsure. The unsure ones were rejected: in most, the judge named a near-identical entry the question also fits, such as a trait shared by seven devils or by two ages of the same dragon.
 
-The 5,984 pairs BM25 ranks in the top 4 were not judged, and no person reviewed every pair.
+The 7,470 pairs BM25 ranks in the top 4 were not judged, and no person reviewed every pair.
+
+On the test split, BM25 over the graph nodes finds the answer node first for 52.6% of questions and in the top 4 for 75.6%.
 
 ## Training notes
 

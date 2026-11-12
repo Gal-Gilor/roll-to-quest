@@ -168,6 +168,11 @@ poetry run python -m src.scripts.export_passages
 # 2. Generate questions for each batch with a model, following
 #    src/templates/generate_mnlr_questions.md, into data/mnlr/generated/
 
+# 2b. Optional second pass for harder questions on named entities
+poetry run python -m src.scripts.export_passages --entities-only --batch-size 40
+#     Generate from data/mnlr/hard_batches/ with
+#     src/templates/generate_mnlr_hard_questions.md into data/mnlr/generated/hard_*.jsonl
+
 # 3. Apply the scripted checks and write data/mnlr/validated.jsonl. Questions BM25
 #    ranks outside the top 4 are also written to data/mnlr/to_judge/
 poetry run python -m src.scripts.validate_questions
