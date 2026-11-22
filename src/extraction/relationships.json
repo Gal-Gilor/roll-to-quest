@@ -23,7 +23,7 @@
       },
       {
         "type": "HAS_SUBCLASS",
-        "target": "Class",
+        "target": "Subclass",
         "description": "Class has subclass variants"
       },
       {
@@ -236,6 +236,11 @@
         "type": "VARIANT_OF",
         "target": "Monster",
         "description": "Monster is a variant of this monster"
+      },
+      {
+        "type": "INFLICTS_CONDITION",
+        "target": "Condition",
+        "description": "Monster's traits or actions inflict this condition"
       }
     ],
     "Weapon": [
@@ -494,6 +499,11 @@
         "type": "SUGGESTS_CLASS",
         "target": "Class",
         "description": "Background suggests this class as a good fit"
+      },
+      {
+        "type": "GRANTS_FEAT",
+        "target": "Feat",
+        "description": "Background grants this origin feat"
       }
     ],
     "Action": [
@@ -793,6 +803,13 @@
         "type": "FOUND_IN",
         "target": "Environment",
         "description": "Vehicle is found in this environment"
+      }
+    ],
+    "Subclass": [
+      {
+        "type": "HAS_FEATURE",
+        "target": "Feature",
+        "description": "Subclass grants this feature at certain levels"
       }
     ]
   }

@@ -277,6 +277,14 @@
         "capacity": "string",
         "description": "string"
       }
+    },
+    "Subclass": {
+      "properties": {
+        "name": "string",
+        "parent_class": "string",
+        "description": "string",
+        "level_obtained": "integer"
+      }
     }
   }
 }

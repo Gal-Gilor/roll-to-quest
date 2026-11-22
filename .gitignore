@@ -222,3 +222,5 @@ CLAUDE.md
 
 # data folder
 data/
+# Generated graph visualizations
+notebooks/output/
