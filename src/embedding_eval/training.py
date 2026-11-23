@@ -12,8 +12,14 @@ def fine_tune(
     batch_size: int,
     learning_rate: float,
     seed: int,
+    mini_batch_size: int = 16,
 ):
-    """Train with MultipleNegativesRankingLoss and save the model to `output_dir`.
+    """Train with the cached MultipleNegativesRankingLoss and save the model to `output_dir`.
+
+    The cached loss (GradCache) computes the same loss as MNLR over the whole batch but
+    runs the model on `mini_batch_size` texts at a time, so memory depends on the mini
+    batch rather than the batch. Plain MNLR at batch 16 already needed 11 GB on a CPU,
+    because passages run up to 512 tokens.
 
     Batches never hold two copies of the same positive (NO_DUPLICATES): MNLR uses the
     other positives in a batch as negatives, and both datasets reuse positives.
@@ -49,7 +55,9 @@ def fine_tune(
         model=model,
         args=args,
         train_dataset=train,
-        loss=losses.MultipleNegativesRankingLoss(model),
+        loss=losses.CachedMultipleNegativesRankingLoss(
+            model, mini_batch_size=mini_batch_size
+        ),
     )
     trainer.train()
     model.save(str(output_dir))

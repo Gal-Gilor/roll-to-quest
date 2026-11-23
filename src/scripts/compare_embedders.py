@@ -97,6 +97,12 @@ def main() -> None:
     parser.add_argument("--base-model", default="BAAI/bge-small-en-v1.5")
     parser.add_argument("--epochs", type=int, default=3)
     parser.add_argument("--batch-size", type=int, default=64)
+    parser.add_argument(
+        "--mini-batch-size",
+        type=int,
+        default=16,
+        help="Texts the model encodes at once. Lower it if memory runs out.",
+    )
     parser.add_argument("--learning-rate", type=float, default=2e-5)
     parser.add_argument("--seeds", type=int, nargs="+", default=[0])
     parser.add_argument(
@@ -173,6 +179,7 @@ def main() -> None:
                 args.batch_size,
                 args.learning_rate,
                 seed,
+                args.mini_batch_size,
             )
             results[f"{name}-seed{seed}"] = _evaluate(
                 lambda q, p: embedding_scores(model, q, p, args.batch_size),

@@ -111,7 +111,8 @@ def split_original(original: list[dict], new_splits: dict[str, list[dict]]) -> O
             result.train.append(row)
             continue
         result.removed += 1
-        best, share = max(overlaps.items(), key=lambda item: item[1])
+        # Sorted first so a tie between sections resolves the same way on every run.
+        best, share = max(sorted(overlaps.items()), key=lambda item: item[1])
         if best in test_sections and share >= MATCH_OVERLAP:
             result.test.append({"anchor": row["anchor"], "breadcrumb": best})
 

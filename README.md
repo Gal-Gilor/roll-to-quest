@@ -215,7 +215,7 @@ All retrievers search the same corpus, every passage of the new dataset, and a q
 {"anchor": "At what level can a wizard cast Fireball?", "breadcrumb": "Spells > Spell Descriptions > Fireball"}
 ```
 
-The original dataset has no held-out split, so before training, its pairs whose passage overlaps a validation or test section of the new dataset are removed. Use `--match-size` to train both models on the same number of pairs, so the comparison is about quality rather than size. Results go to `data/mnlr/comparison/results.md` and `results.json`, and the models to `data/mnlr/comparison/models/`.
+The original dataset has no held-out split, so before training, its pairs whose passage overlaps a validation or test section of the new dataset are removed. Use `--match-size` to train both models on the same number of pairs, so the comparison is about quality rather than size. Training uses the cached MNLR loss, which gives the same result as plain MNLR but encodes `--mini-batch-size` texts at a time (16 by default), so the batch size doesn't drive memory; lower `--mini-batch-size` if your GPU runs out of memory. Results go to `data/mnlr/comparison/results.md` and `results.json`, and the models to `data/mnlr/comparison/models/`.
 
 ## Development
 
