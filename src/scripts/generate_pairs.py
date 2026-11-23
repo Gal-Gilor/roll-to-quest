@@ -36,8 +36,8 @@ Example Usage:
     python -m src.scripts.generate_pairs document_chunks.jsonl \\
         --start-line 1 --end-line 100
 
-    # With poetry
-    poetry run python -m src.scripts.generate_pairs document_chunks.jsonl
+    # With uv
+    uv run python -m src.scripts.generate_pairs document_chunks.jsonl
 
 Output Format:
     JSONL file where each line contains a JSON object with:

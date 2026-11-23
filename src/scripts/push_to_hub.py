@@ -13,14 +13,14 @@ Dependencies:
 
 Example Usage:
     # Upload with auto-derived repo name (pushes to your namespace)
-    poetry run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl
+    uv run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl
 
     # Upload to specific repository
-    poetry run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl \
+    uv run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl \
         --repo-id gal-gilor/dnd-srd-anchor-positive-pairs
 
     # Upload as private dataset
-    poetry run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl \
+    uv run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl \
         --repo-id my-private-dataset --private
 
 Output:
@@ -304,14 +304,14 @@ def parse_arguments() -> argparse.Namespace:
         epilog=dedent("""
             Examples:
               # Upload with auto-derived repo name (pushes to your namespace)
-              poetry run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl
+              uv run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl
 
               # Upload to specific repository
-              poetry run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl \\
+              uv run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl \\
                   --repo-id gal-gilor/dnd-srd-pairs
 
               # Upload as private dataset
-              poetry run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl \\
+              uv run python -m src.scripts.push_to_hub SRD_CC_v5.2.1_pairs.jsonl \\
                   --repo-id my-private-dataset --private
         """),
     )
