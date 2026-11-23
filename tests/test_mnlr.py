@@ -1,7 +1,7 @@
 import networkx as nx
 
 from src.mnlr.assembly import apply_verdicts
-from src.mnlr.assembly import split_by_node
+from src.mnlr.assembly import split_by_section
 from src.mnlr.passages import MAX_PASSAGE_CHARS
 from src.mnlr.passages import Passage
 from src.mnlr.passages import drop_near_duplicates
@@ -155,20 +155,23 @@ def test_filter_questions_rejects_duplicates_and_unknown_passages():
     assert rejected == {"duplicate question": 1, "unknown passage": 1}
 
 
-def test_split_by_node_keeps_a_node_in_one_split():
+def test_split_by_section_keeps_a_section_in_one_split():
     rows = [
-        {"node_id": str(node), "anchor": f"{node}-{i}"}
-        for node in range(40)
+        {"breadcrumb": f"Spells > {section}", "anchor": f"{section}-{i}"}
+        for section in range(40)
         for i in range(3)
     ]
 
-    splits = split_by_node(rows, validation_share=0.1, test_share=0.2)
+    splits = split_by_section(rows, validation_share=0.1, test_share=0.2)
 
-    nodes = {name: {row["node_id"] for row in split} for name, split in splits.items()}
-    assert [len(nodes[name]) for name in ("train", "validation", "test")] == [28, 4, 8]
-    assert not nodes["train"] & nodes["test"] and not nodes["train"] & nodes["validation"]
+    sections = {name: {row["breadcrumb"] for row in split} for name, split in splits.items()}
+    assert [len(sections[name]) for name in ("train", "validation", "test")] == [28, 4, 8]
+    assert (
+        not sections["train"] & sections["test"]
+        and not sections["train"] & sections["validation"]
+    )
     assert sum(len(split) for split in splits.values()) == len(rows)
-    assert splits == split_by_node(rows, validation_share=0.1, test_share=0.2)
+    assert splits == split_by_section(rows, validation_share=0.1, test_share=0.2)
 
 
 def test_problems_requires_a_table_for_table_questions():
