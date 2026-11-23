@@ -37,12 +37,13 @@ The passages come from the SRD Markdown, split into sections by header with [mar
 | validation | 448 | 94 |
 | test | 926 | 188 |
 
-The split is by SRD section: every pair whose passage comes from the same section is in the same split, so the test questions are about entries the model saw no question for. The section is the first line of each `positive`.
+The split is by SRD section: every pair whose passage comes from the same section is in the same split, so the test questions are about entries the model saw no question for. The section is the `breadcrumb` field.
 
 ## Fields
 
 - `anchor`: the question.
 - `positive`: the passage that answers it. The first line is the path of headers above the passage.
+- `breadcrumb`: the path of headers above the passage, such as `Spells > Spell Descriptions > Fireball`. It names the SRD section the passage comes from, and the split is grouped by it.
 - `question_type`: one of the four types below.
 
 ## Question types

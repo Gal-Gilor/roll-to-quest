@@ -7,8 +7,9 @@ later verdict for a row replaces an earlier one, so a file like zz_adjudicated.j
 settles the rows the judge marked "unsure".
 
 Writes train.jsonl, validation.jsonl and test.jsonl to <data>/dataset/, with the dataset
-card as README.md. Each row has only `anchor`, `positive` and `question_type`. The split
-is by SRD section, so all pairs of a section land in the same split.
+card as README.md. Each row has `anchor`, `positive`, `breadcrumb` and `question_type`.
+The split is by SRD section (`breadcrumb`), so all pairs of a section land in the same
+split.
 
 To publish the folder:
     huggingface-cli upload <user>/<name> data/mnlr/dataset . --repo-type dataset
@@ -28,9 +29,9 @@ from src.mnlr.assembly import split_by_section
 from src.mnlr.validation import HARD_RANK
 
 DATASET_CARD = Path(__file__).parents[1] / "mnlr" / "DATASET_CARD.md"
-# The published dataset holds only the pair and its question type. The other fields in
-# validated.jsonl describe how the pairs were made and stay local.
-DATASET_FIELDS = ("anchor", "positive", "question_type")
+# The published dataset holds the pair, its source section and its question type. The
+# other fields in validated.jsonl describe how the pairs were made and stay local.
+DATASET_FIELDS = ("anchor", "positive", "breadcrumb", "question_type")
 
 
 def main() -> None:
