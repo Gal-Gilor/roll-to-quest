@@ -189,7 +189,7 @@ uv run python -m src.scripts.assemble_mnlr_dataset
 uv run python -m src.scripts.evaluate_retrieval --pairs data/mnlr/dataset/test.jsonl --sample 0
 ```
 
-Each passage gets a `lookup`, a `paraphrase` and a `descriptive` question, plus a `table` question when it contains a table. The scripted checks drop questions that copy the passage's wording or refer to "this spell" instead of naming it. A question that BM25 gets wrong is either a good hard question or an ambiguous one, so a judge decides with both passages in view, and only accepted ones are kept. The dataset card is `src/mnlr/DATASET_CARD.md`. The model-written questions (`data/mnlr/generated/`) and verdicts (`data/mnlr/judged/`) are committed, so steps 3 to 5 rebuild the published splits exactly without calling a model. `uv run python -m src.scripts.passage_stats` recomputes the passage sizes the card states.
+Each passage gets a `lookup`, a `paraphrase` and a `descriptive` question, plus a `table` question when it contains a table. The scripted checks drop questions that copy the passage's wording or refer to "this spell" instead of naming it. A question that BM25 gets wrong is either a good hard question or an ambiguous one, so a judge decides with both passages in view, and only accepted ones are kept. The dataset card is `src/mnlr/DATASET_CARD.md`. The model-written questions (`data/mnlr/generated/`) and verdicts (`data/mnlr/judged/`) are committed, so steps 3 to 5 rebuild the published splits exactly without calling a model.
 
 `notebooks/srd_graph.ipynb` lists every relationship in the graph and draws it: the full graph colored by entity label, and the neighborhood of a single entity with labeled edges.
 
