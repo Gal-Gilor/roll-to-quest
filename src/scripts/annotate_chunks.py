@@ -5,9 +5,9 @@ section_header in data/srd_toc.yaml, and stamps entity_type, context_path,
 and chunk_strategy onto each matched chunk.
 
 Usage:
-    poetry run python -m src.scripts.annotate_chunks data/chunks/SRD_CC_v5.2.1_chunks.jsonl
-    poetry run python -m src.scripts.annotate_chunks <input> --toc data/srd_toc.yaml
-    poetry run python -m src.scripts.annotate_chunks <input> --output <out.jsonl>
+    uv run python -m src.scripts.annotate_chunks data/chunks/SRD_CC_v5.2.1_chunks.jsonl
+    uv run python -m src.scripts.annotate_chunks <input> --toc data/srd_toc.yaml
+    uv run python -m src.scripts.annotate_chunks <input> --output <out.jsonl>
 """
 
 import argparse

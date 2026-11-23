@@ -45,8 +45,8 @@ Example Usage:
         --filepath data --filename doc.txt \
         --output data/output
 
-    # With poetry
-    poetry run python -m src.scripts.chunk_documents
+    # With uv
+    uv run python -m src.scripts.chunk_documents
 
 Typical Pipeline:
     1. chunk_documents.py -> Creates {filename}_chunks.jsonl
@@ -240,8 +240,8 @@ def parse_arguments() -> argparse.Namespace:
               python -m src.scripts.chunk_documents --filepath data --filename document.txt \
               --output data/output
 
-              # With poetry
-              poetry run python -m src.scripts.chunk_documents
+              # With uv
+              uv run python -m src.scripts.chunk_documents
         """
         ),
     )

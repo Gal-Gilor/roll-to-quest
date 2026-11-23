@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)
-![Poetry](https://img.shields.io/badge/poetry-2.0.1-blue)
+![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)
 ![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)
 
 A playground for D&D-related applications and custom scripts. Built for personal use, but the utilities may be useful for other projects.
@@ -22,7 +22,7 @@ Tools for creating D&D 5e training datasets for embedding models. The process ca
 ### Prerequisites
 
 - Python 3.12+
-- Poetry for dependency management
+- [uv](https://docs.astral.sh/uv/) for dependency management
 - Google Cloud Project (for Gemini API)
 - Pinecone account (for vector storage)
 
@@ -34,7 +34,7 @@ git clone https://github.com/Gal-Gilor/roll-to-quest.git
 cd roll-to-quest
 
 # Install dependencies
-poetry install
+uv sync
 ```
 
 ### Environment Configuration
@@ -66,10 +66,10 @@ Process Markdown or text files into semantic sections:
 
 ```bash
 # Process all .txt and .md files in data/ directory
-poetry run python -m src.scripts.chunk_documents
+uv run python -m src.scripts.chunk_documents
 
 # Process a specific file
-poetry run python -m src.scripts.chunk_documents --filepath data --filename my_document.md
+uv run python -m src.scripts.chunk_documents --filepath data --filename my_document.md
 ```
 
 Output: JSONL files with headers, content, hierarchy metadata, and parent/sibling relationships.
@@ -80,10 +80,10 @@ Create anchor-positive pairs from chunked documents:
 
 ```bash
 # Generate pairs from chunked documents
-poetry run python -m src.scripts.generate_pairs document_chunks.jsonl
+uv run python -m src.scripts.generate_pairs document_chunks.jsonl
 
 # Process a specific range of lines (useful for large files)
-poetry run python -m src.scripts.generate_pairs document_chunks.jsonl --start-line 1 --end-line 100
+uv run python -m src.scripts.generate_pairs document_chunks.jsonl --start-line 1 --end-line 100
 ```
 
 Output: JSONL file with anchor-positive pairs for model training.
@@ -114,7 +114,7 @@ The chatbot calls `gemini-3.5-flash-lite` on Vertex AI in project `agent-dnd`, l
 
 ```bash
 gcloud auth application-default login
-poetry run python -m src.scripts.chat
+uv run python -m src.scripts.chat
 ```
 
 ### 4. Store the Graph in Neo4j
@@ -126,10 +126,10 @@ poetry run python -m src.scripts.chat
 docker run -p 7474:7474 -p 7687:7687 -e NEO4J_AUTH=neo4j/<password> neo4j:5
 
 # NEO4J_URI, NEO4J_USERNAME and NEO4J_PASSWORD come from the environment or .env
-poetry run python -m src.scripts.build_graph_db
+uv run python -m src.scripts.build_graph_db
 
 # The chatbot then loads the graph from Neo4j and uses hybrid seeds
-poetry run python -m src.scripts.chat --neo4j
+uv run python -m src.scripts.chat --neo4j
 ```
 
 The graph can also be queried directly:
@@ -144,10 +144,10 @@ MATCH (m:Monster)-[:IMMUNE_TO_DAMAGE]->(:DamageType {header: "Fire"}) RETURN m.h
 
 ```bash
 # BM25 on the in-memory graph, 2,000 sampled pairs
-poetry run python -m src.scripts.evaluate_retrieval
+uv run python -m src.scripts.evaluate_retrieval
 
 # BM25, dense and hybrid on the Neo4j graph. Embeds each sampled question once.
-poetry run python -m src.scripts.evaluate_retrieval --neo4j --sample 1000
+uv run python -m src.scripts.evaluate_retrieval --neo4j --sample 1000
 ```
 
 BM25 on all pairs (`--sample 0`), 10,881 of 11,267 matched to a node:
@@ -164,29 +164,29 @@ A question-passage dataset for fine-tuning an embedder with MultipleNegativesRan
 
 ```bash
 # 1. Split nodes into passages and write batch files to data/mnlr/batches/
-poetry run python -m src.scripts.export_passages
+uv run python -m src.scripts.export_passages
 
 # 2. Generate questions for each batch with a model, following
 #    src/templates/generate_mnlr_questions.md, into data/mnlr/generated/
 
 # 2b. Optional second pass for harder questions on named entities
-poetry run python -m src.scripts.export_passages --entities-only --batch-size 40
+uv run python -m src.scripts.export_passages --entities-only --batch-size 40
 #     Generate from data/mnlr/hard_batches/ with
 #     src/templates/generate_mnlr_hard_questions.md into data/mnlr/generated/hard_*.jsonl
 
 # 3. Apply the scripted checks and write data/mnlr/validated.jsonl. Questions BM25
 #    ranks outside the top 4 are also written to data/mnlr/to_judge/
-poetry run python -m src.scripts.validate_questions
+uv run python -m src.scripts.validate_questions
 
 # 4. Judge the hard questions with a stronger model, following
 #    src/templates/judge_mnlr_pairs.md, into data/mnlr/judged/
 
 # 5. Keep easy pairs and accepted hard pairs, split by node into
 #    data/mnlr/dataset/{train,validation,test}.jsonl
-poetry run python -m src.scripts.assemble_mnlr_dataset
+uv run python -m src.scripts.assemble_mnlr_dataset
 
 # 6. Score retrieval on the new test split
-poetry run python -m src.scripts.evaluate_retrieval --pairs data/mnlr/dataset/test.jsonl --sample 0
+uv run python -m src.scripts.evaluate_retrieval --pairs data/mnlr/dataset/test.jsonl --sample 0
 ```
 
 Each passage gets a `lookup`, a `paraphrase` and a `descriptive` question, plus a `table` question when it contains a table. The scripted checks drop questions that copy the passage's wording or refer to "this spell" instead of naming it. A question that BM25 gets wrong is either a good hard question or an ambiguous one, so a judge decides with both passages in view, and only accepted ones are kept. The dataset card is `src/mnlr/DATASET_CARD.md`.
@@ -199,23 +199,23 @@ Each passage gets a `lookup`, a `paraphrase` and a `descriptive` question, plus 
 
 ```bash
 # Run all tests
-poetry run pytest
+uv run pytest
 
 # Run with coverage
-poetry run pytest --cov=src
+uv run pytest --cov=src
 
 # Run specific test file
-poetry run pytest tests/test_splitters.py
+uv run pytest tests/test_splitters.py
 ```
 
 ### Code Quality
 
 ```bash
 # Lint and auto-fix
-poetry run ruff check src/ tests/ --fix
+uv run ruff check src/ tests/ --fix
 
 # Format code
-poetry run ruff format src/ tests/
+uv run ruff format src/ tests/
 ```
 
 ## Architecture
