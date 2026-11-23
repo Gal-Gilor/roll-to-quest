@@ -193,6 +193,30 @@ Each passage gets a `lookup`, a `paraphrase` and a `descriptive` question, plus 
 
 `notebooks/srd_graph.ipynb` lists every relationship in the graph and draws it: the full graph colored by entity label, and the neighborhood of a single entity with labeled edges.
 
+### 7. Compare Embedders Fine-Tuned on Each Dataset
+
+`compare_embedders` fine-tunes the same base model twice with the same settings, once on the original [anchor-positive pairs dataset](https://huggingface.co/datasets/galgilor/dnd-5e-srd-anchor-positive-pairs) and once on the new dataset in `data/mnlr/dataset/`, and compares them with BM25 and the base model without fine-tuning. It needs a GPU for full runs.
+
+```bash
+uv run python -m src.scripts.compare_embedders --seeds 0 1 2
+
+# With your own questions and a larger base model
+uv run python -m src.scripts.compare_embedders --seeds 0 1 2 \
+    --manual data/mnlr/manual_questions.jsonl --base-model BAAI/bge-base-en-v1.5
+```
+
+All retrievers search the same corpus, every passage of the new dataset, and a question counts as answered when its gold SRD section is among the first k sections retrieved. The question sets are:
+
+- `new_test`: the new dataset's test split.
+- `original_style`: questions from the original dataset about the same test sections. They show whether the new model wins only on questions written in its own style.
+- `manual`: your own questions, with `--manual`. One JSON object per line with `anchor` and `breadcrumb`, the gold section's header path as it appears in the dataset:
+
+```json
+{"anchor": "At what level can a wizard cast Fireball?", "breadcrumb": "Spells > Spell Descriptions > Fireball"}
+```
+
+The original dataset has no held-out split, so before training, its pairs whose passage overlaps a validation or test section of the new dataset are removed. Use `--match-size` to train both models on the same number of pairs, so the comparison is about quality rather than size. Results go to `data/mnlr/comparison/results.md` and `results.json`, and the models to `data/mnlr/comparison/models/`.
+
 ## Development
 
 ### Running Tests
@@ -241,6 +265,7 @@ generate_pairs.py → Anchor-positive pairs (JSONL)
 - `src/templates/` - Jinja2 templates for prompts
 - `src/graphrag/` - Knowledge graph and graph retrieval for the chatbot
 - `src/scripts/chat.py` - Gradio chatbot
+- `src/embedding_eval/` - Leakage removal, retrieval metrics and fine-tuning for the embedder comparison
 
 ## Use Cases
 
