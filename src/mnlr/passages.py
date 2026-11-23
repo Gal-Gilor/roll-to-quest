@@ -13,7 +13,7 @@ from collections import defaultdict
 import networkx as nx
 from pydantic import BaseModel
 
-MAX_PASSAGE_CHARS = 1600  # Median 145 tokens with compacted tables
+MAX_PASSAGE_CHARS = 1600
 MIN_PASSAGE_WORDS = 8
 SHINGLE_SIZE = 5
 DUPLICATE_OVERLAP = 0.8  # Share of the shorter passage's shingles found in the other
