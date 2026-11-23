@@ -1,0 +1,77 @@
+{"passage_id": "234-0", "question_type": "lookup", "anchor": "Does casting Find Familiar through Wild Companion require Material components?"}
+{"passage_id": "234-0", "question_type": "paraphrase", "anchor": "If I use Wild Companion to summon a familiar, how long does it stick around before going away?"}
+{"passage_id": "234-0", "question_type": "descriptive", "anchor": "How can a Druid get a nature spirit in animal form to help out, using a spell slot or Wild Shape?"}
+{"passage_id": "281-1", "question_type": "lookup", "anchor": "At what Monk level does Evasion first appear?"}
+{"passage_id": "281-1", "question_type": "paraphrase", "anchor": "As a Monk, how much bonus movement do I get without armor once I hit level 6?"}
+{"passage_id": "281-1", "question_type": "descriptive", "anchor": "What class has a damage die that grows as levels go up, and a pool of Focus Points from level 2?"}
+{"passage_id": "281-1", "question_type": "table", "anchor": "How many Focus Points does a Monk have at level 8?"}
+{"passage_id": "2531-1", "question_type": "lookup", "anchor": "How much damage does a Water Elemental's Whelm deal on a failed Strength save?"}
+{"passage_id": "2531-1", "question_type": "paraphrase", "anchor": "How would an ally yank me out of a Water Elemental's whirlpool, and what roll would they need?"}
+{"passage_id": "2531-1", "question_type": "descriptive", "anchor": "Which water-born monster can grapple up to two Medium foes at a time, leaving them suffocating in its grip?"}
+{"passage_id": "1622-0", "question_type": "lookup", "anchor": "What bonus does the Sun Blade add to attack rolls and damage rolls?"}
+{"passage_id": "1622-0", "question_type": "paraphrase", "anchor": "If I'm hitting undead with my Sun Blade, how much extra damage do I get on each hit?"}
+{"passage_id": "1622-0", "question_type": "descriptive", "anchor": "What magic sword made of pure light can I conjure with a bonus action and adjust how far its glow reaches?"}
+{"passage_id": "1274-0", "question_type": "lookup", "anchor": "Under the Utilize rules, what action do I take when an object requires an action for its use?"}
+{"passage_id": "1274-0", "question_type": "paraphrase", "anchor": "Does the Utilize action mean I need an extra action to draw a sword during an attack?"}
+{"passage_id": "1274-0", "question_type": "descriptive", "anchor": "What's the rule for operating an object that needs a full action, rather than just interacting while doing something else?"}
+{"passage_id": "560-0", "question_type": "lookup", "anchor": "How much Ammunition can I recover after a fight, and how long does recovery take?"}
+{"passage_id": "560-0", "question_type": "paraphrase", "anchor": "When I shoot a one-handed ranged weapon that uses Ammunition, do I need a free hand?"}
+{"passage_id": "560-0", "question_type": "descriptive", "anchor": "What weapon property means each ranged shot uses up one piece of ammo, and I can't fire without some?"}
+{"passage_id": "301-0", "question_type": "lookup", "anchor": "How many Focus Points does Superior Defense cost to activate at the start of my turn?"}
+{"passage_id": "301-0", "question_type": "paraphrase", "anchor": "How long does Superior Defense last, if I'm not knocked out first?"}
+{"passage_id": "301-0", "question_type": "descriptive", "anchor": "How can a Monk at high level brace against nearly all damage for a minute by spending Focus Points?"}
+{"passage_id": "836-0", "question_type": "lookup", "anchor": "How long must I wait after Control Weather changes conditions before they take effect?"}
+{"passage_id": "836-0", "question_type": "paraphrase", "anchor": "Will Control Weather keep working if I walk into a building?"}
+{"passage_id": "836-0", "question_type": "descriptive", "anchor": "What spell lets me change storms and temperatures within five miles for up to eight hours while I concentrate?"}
+{"passage_id": "836-0", "question_type": "table", "anchor": "What condition does Control Weather's temperature table list at stage 6?"}
+{"passage_id": "863-0", "question_type": "lookup", "anchor": "How far away can I target creatures with Divine Word?"}
+{"passage_id": "863-0", "question_type": "paraphrase", "anchor": "If I cast Divine Word and a fiend fails, how long until it can return to the current plane?"}
+{"passage_id": "863-0", "question_type": "descriptive", "anchor": "What spoken word from the Upper Planes can kill weak foes outright or leave tougher ones blinded or deafened?"}
+{"passage_id": "863-0", "question_type": "table", "anchor": "With Divine Word, what happens to a target that fails its save and has 25 Hit Points?"}
+{"passage_id": "960-0", "question_type": "lookup", "anchor": "How long can Invisibility last on a touched creature when concentrating?"}
+{"passage_id": "960-0", "question_type": "paraphrase", "anchor": "If I cast Invisibility with a third-level slot, how many creatures can I make vanish?"}
+{"passage_id": "960-0", "question_type": "descriptive", "anchor": "What illusion spell makes a touched ally vanish from sight until it attacks, deals damage, or casts a spell?"}
+{"passage_id": "416-0", "question_type": "lookup", "anchor": "How many Sorcery Points does Heightened Spell cost?"}
+{"passage_id": "416-0", "question_type": "paraphrase", "anchor": "Can Heightened Spell work on a spell that doesn't let targets resist?"}
+{"passage_id": "416-0", "question_type": "descriptive", "anchor": "Which metamagic option lets a sorcerer give one target disadvantage on its saves against a spell?"}
+{"passage_id": "632-0", "question_type": "lookup", "anchor": "How much liquid does a Glass Bottle hold at most?"}
+{"passage_id": "632-0", "question_type": "paraphrase", "anchor": "Is a Glass Bottle big enough to hold a full quart of wine?"}
+{"passage_id": "632-0", "question_type": "descriptive", "anchor": "What glass container holds up to one and a half pints of liquid?"}
+{"passage_id": "97-0", "question_type": "lookup", "anchor": "When I fall to 0 Hit Points, what condition do I get, under the rules for falling unconscious?"}
+{"passage_id": "97-0", "question_type": "paraphrase", "anchor": "When I'm falling unconscious at 0 health, what ends that state?"}
+{"passage_id": "97-0", "question_type": "descriptive", "anchor": "After being knocked to zero hit points without dying instantly, what kind of rolls must I make next?"}
+{"passage_id": "8-0", "question_type": "lookup", "anchor": "When can I add my Proficiency Bonus to an ability check?"}
+{"passage_id": "8-0", "question_type": "paraphrase", "anchor": "Does my Proficiency Bonus help with an ability check using a tool I'm trained with?"}
+{"passage_id": "8-0", "question_type": "descriptive", "anchor": "Which bonus gets added to an ability check when the Dungeon Master decides my training in a skill matters?"}
+{"passage_id": "494-3", "question_type": "lookup", "anchor": "Is Misty Step a Conjuration spell on the Wizard spell list?"}
+{"passage_id": "494-3", "question_type": "paraphrase", "anchor": "Is Darkvision on the list of spells a wizard can learn?"}
+{"passage_id": "494-3", "question_type": "descriptive", "anchor": "Which Necromancy spell on the wizard list can be cast as a ritual and uses material components?"}
+{"passage_id": "494-3", "question_type": "table", "anchor": "Which school does Mind Spike belong to on the Wizard spell list?"}
+{"passage_id": "1134-0", "question_type": "lookup", "anchor": "What kind of roll is an Attack Roll?"}
+{"passage_id": "1134-0", "question_type": "paraphrase", "anchor": "Does an Attack Roll apply when I punch with an Unarmed Strike instead of a weapon?"}
+{"passage_id": "1134-0", "question_type": "descriptive", "anchor": "What dice roll do I make to hit a foe with a sword, a bare fist, or a spell?"}
+{"passage_id": "132-0", "question_type": "lookup", "anchor": "What kind of threats do Tier 3 adventurers often confront?"}
+{"passage_id": "132-0", "question_type": "paraphrase", "anchor": "When do spellcasters in Tier 3 start learning reality-warping magic?"}
+{"passage_id": "132-0", "question_type": "descriptive", "anchor": "Which tier of play, covering levels 11 to 16, is when characters become special among adventurers?"}
+{"passage_id": "942-0", "question_type": "lookup", "anchor": "How long does Heroism last once I've cast it with concentration?"}
+{"passage_id": "942-0", "question_type": "paraphrase", "anchor": "Does Heroism protect my ally from being scared?"}
+{"passage_id": "942-0", "question_type": "descriptive", "anchor": "What first-level spell gives a willing friend temporary health each turn equal to my spellcasting modifier?"}
+{"passage_id": "385-0", "question_type": "lookup", "anchor": "What is the cost of the Knock Out option in Devious Strikes?"}
+{"passage_id": "385-0", "question_type": "paraphrase", "anchor": "With Devious Strikes' knockout, how long does the target stay out if I don't hurt it?"}
+{"passage_id": "385-0", "question_type": "descriptive", "anchor": "Which rogue Cunning Strike makes a foe on its next turn choose only one of moving, acting, or using a bonus action?"}
+{"passage_id": "425-0", "question_type": "lookup", "anchor": "Once I reach the right Sorcerer level for Draconic Spells, do I still have to prepare Command?"}
+{"passage_id": "425-0", "question_type": "paraphrase", "anchor": "Does Draconic Spells make Dragon's Breath always ready, starting from Sorcerer level 3?"}
+{"passage_id": "425-0", "question_type": "descriptive", "anchor": "What sorcerer subclass feature guarantees certain dragon-associated spells are always prepared as you level up?"}
+{"passage_id": "425-0", "question_type": "table", "anchor": "At what Sorcerer level do I always have Fear and Fly prepared under Draconic Spells?"}
+{"passage_id": "1170-0", "question_type": "lookup", "anchor": "How does Darkvision treat Darkness within its range?"}
+{"passage_id": "1170-0", "question_type": "paraphrase", "anchor": "With Darkvision, can I tell red from green in a pitch-black cave?"}
+{"passage_id": "1170-0", "question_type": "descriptive", "anchor": "What kind of vision lets a character see in dim light and even total darkness out to a set distance?"}
+{"passage_id": "1139-0", "question_type": "lookup", "anchor": "When exactly does a creature count as Bloodied based on its Hit Points?"}
+{"passage_id": "1139-0", "question_type": "paraphrase", "anchor": "If a Bloodied creature heals above half its health, is it still Bloodied?"}
+{"passage_id": "1139-0", "question_type": "descriptive", "anchor": "Which status applies to a monster that has dropped to half its hit points or less?"}
+{"passage_id": "1424-0", "question_type": "lookup", "anchor": "How long does a Fire Elemental summoned by the Brazier of Commanding Fire Elementals stay before disappearing?"}
+{"passage_id": "1424-0", "question_type": "paraphrase", "anchor": "After I summon a Fire Elemental from the Brazier of Commanding Fire Elementals, when can I summon again?"}
+{"passage_id": "1424-0", "question_type": "descriptive", "anchor": "What magic brazier lets me call a fire creature that follows my orders and acts right after me in combat?"}
+{"passage_id": "1496-0", "question_type": "lookup", "anchor": "How much Thunder damage does Horn of Blasting deal on a failed save?"}
+{"passage_id": "1496-0", "question_type": "paraphrase", "anchor": "If I blow the Horn of Blasting, how far away can people hear it?"}
+{"passage_id": "1496-0", "question_type": "descriptive", "anchor": "What magic wind instrument blasts a thunderous cone that deafens nearby foes?"}

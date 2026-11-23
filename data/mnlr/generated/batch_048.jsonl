@@ -1,0 +1,82 @@
+{"passage_id": "629-0", "question_type": "lookup", "anchor": "How many silver pieces does a Blanket cost in the adventuring gear list?"}
+{"passage_id": "629-0", "question_type": "paraphrase", "anchor": "If I wrap up in a blanket, do I get a better roll against freezing weather effects?"}
+{"passage_id": "629-0", "question_type": "descriptive", "anchor": "What cheap bedroll-style gear makes saves against harsh cold easier to pass?"}
+{"passage_id": "997-0", "question_type": "lookup", "anchor": "Which ability score does a target use for its saving throw against Modify Memory?"}
+{"passage_id": "997-0", "question_type": "paraphrase", "anchor": "How far back in time can Modify Memory reach to alter a target's recollection?"}
+{"passage_id": "997-0", "question_type": "descriptive", "anchor": "What level 5 charm lets me rewrite a foe's memory of a recent brief event, ending early if it's hurt?"}
+{"passage_id": "378-0", "question_type": "lookup", "anchor": "What kind of action does Steady Aim take to use?"}
+{"passage_id": "378-0", "question_type": "paraphrase", "anchor": "Once I use Steady Aim as a rogue, how fast can I move for the rest of my turn?"}
+{"passage_id": "378-0", "question_type": "descriptive", "anchor": "Which rogue level 3 feature lets me set up a sure hit on my next attack if I stay still this turn?"}
+{"passage_id": "147-4", "question_type": "lookup", "anchor": "How are the rolls on the character creation trinkets table numbered?"}
+{"passage_id": "147-4", "question_type": "paraphrase", "anchor": "What odd item do I get from character creation if I roll a 42 on the d100 trinkets list?"}
+{"passage_id": "147-4", "question_type": "descriptive", "anchor": "Which character creation item is a gem that looks like a lump of coal to everyone except its owner?"}
+{"passage_id": "147-4", "question_type": "table", "anchor": "On the character creation trinkets table, what does a roll of 34 give?"}
+{"passage_id": "1580-0", "question_type": "lookup", "anchor": "How much Cold damage does the Ring of Warmth reduce when I'm wearing it?"}
+{"passage_id": "1580-0", "question_type": "paraphrase", "anchor": "Does the Ring of Warmth keep me and my gear safe when it's zero degrees out?"}
+{"passage_id": "1580-0", "question_type": "descriptive", "anchor": "What uncommon attunement ring blunts a cold-damage hit by 2d8 while I wear it?"}
+{"passage_id": "341-0", "question_type": "lookup", "anchor": "What skill proficiency do I get when multiclassing into Ranger?"}
+{"passage_id": "341-0", "question_type": "paraphrase", "anchor": "When multiclassing into Ranger, which armor and shields do I become trained with?"}
+{"passage_id": "341-0", "question_type": "descriptive", "anchor": "Picking up a hunter's class as a second class, what hit point die and weapon training do I gain?"}
+{"passage_id": "84-0", "question_type": "lookup", "anchor": "What dice do I roll for a Dagger's Critical Hit damage?"}
+{"passage_id": "84-0", "question_type": "paraphrase", "anchor": "When I land a Critical Hit with a Rogue's Sneak Attack, are its dice rolled twice?"}
+{"passage_id": "84-0", "question_type": "descriptive", "anchor": "When a strike lands perfectly, what do I do with my weapon's damage dice before adding modifiers?"}
+{"passage_id": "992-0", "question_type": "lookup", "anchor": "What material component does Minor Illusion require?"}
+{"passage_id": "992-0", "question_type": "paraphrase", "anchor": "How big can a picture I conjure with Minor Illusion be, at most?"}
+{"passage_id": "992-0", "question_type": "descriptive", "anchor": "What simple trick cantrip makes a fake sound that can be as loud as a scream or as quiet as a whisper?"}
+{"passage_id": "53-0", "question_type": "lookup", "anchor": "How long can ships travel each day, at most, when exploring?"}
+{"passage_id": "53-0", "question_type": "paraphrase", "anchor": "Can I choose my own travel pace when riding in a wagon or carriage?"}
+{"passage_id": "53-0", "question_type": "descriptive", "anchor": "If I'm sailing on a boat, am I stuck at the boat's speed instead of picking how fast to move?"}
+{"passage_id": "1472-0", "question_type": "lookup", "anchor": "How far away can I throw a Figurine of Wondrous Power to make it become a creature?"}
+{"passage_id": "1472-0", "question_type": "paraphrase", "anchor": "How long can the Bronze Griffon version of the Figurine of Wondrous Power last?"}
+{"passage_id": "1472-0", "question_type": "descriptive", "anchor": "What small statuette, thrown to the ground, becomes a friendly creature that acts right after me in initiative?"}
+{"passage_id": "587-0", "question_type": "lookup", "anchor": "What does the Utilize entry in a tool's description tell me?"}
+{"passage_id": "587-0", "question_type": "paraphrase", "anchor": "Which entry in a tool's description tells me which ability to roll when using it?"}
+{"passage_id": "587-0", "question_type": "descriptive", "anchor": "Which part of a tool's description says whether it has versions that each need their own proficiency?"}
+{"passage_id": "856-0", "question_type": "lookup", "anchor": "What ability does a target use for its saving throw against Disintegrate?"}
+{"passage_id": "856-0", "question_type": "paraphrase", "anchor": "How much more damage does Disintegrate deal when I use a bigger spell slot?"}
+{"passage_id": "856-0", "question_type": "descriptive", "anchor": "Which level 6 ray fires green light and can reduce a creature and its gear to gray dust?"}
+{"passage_id": "1017-1", "question_type": "lookup", "anchor": "When a Prismatic Spray roll comes up 8, how many rays strike the target?"}
+{"passage_id": "1017-1", "question_type": "paraphrase", "anchor": "If a Prismatic Spray blue ray catches me and I fail the save, how much cold damage do I take?"}
+{"passage_id": "1017-1", "question_type": "descriptive", "anchor": "Which spell shoots a burst of rays where one color can petrify a creature that fails three saves?"}
+{"passage_id": "1017-1", "question_type": "table", "anchor": "On the Prismatic Spray table, what does a roll of 7 on the d8 do on a failed save?"}
+{"passage_id": "583-0", "question_type": "lookup", "anchor": "Does just putting on armor require training, or only using it effectively?"}
+{"passage_id": "583-0", "question_type": "paraphrase", "anchor": "Do monsters need training to use the armor in their stat block?"}
+{"passage_id": "583-0", "question_type": "descriptive", "anchor": "What determines a player character's training with armor and shields?"}
+{"passage_id": "580-0", "question_type": "lookup", "anchor": "Which simple melee weapon has the Push mastery property?"}
+{"passage_id": "580-0", "question_type": "paraphrase", "anchor": "How much gold does a Sickle cost among simple melee weapons?"}
+{"passage_id": "580-0", "question_type": "descriptive", "anchor": "What simple melee weapon can be thrown at range or swung two-handed for a bigger hit?"}
+{"passage_id": "580-0", "question_type": "table", "anchor": "What does a Mace cost among simple melee weapons?"}
+{"passage_id": "152-0", "question_type": "lookup", "anchor": "What weapon proficiency do I gain when multiclassing into Barbarian?"}
+{"passage_id": "152-0", "question_type": "paraphrase", "anchor": "If I take a Barbarian level as a second class, do I gain training with shields?"}
+{"passage_id": "152-0", "question_type": "descriptive", "anchor": "When I take a rage-fueled warrior's first level as a second class, which features do I get?"}
+{"passage_id": "184-0", "question_type": "lookup", "anchor": "When do I regain all expended Bardic Inspiration uses?"}
+{"passage_id": "184-0", "question_type": "paraphrase", "anchor": "What size die does Bardic Inspiration become once I reach level 10 as a bard?"}
+{"passage_id": "184-0", "question_type": "descriptive", "anchor": "How far away can I inspire an ally with a Bonus Action who can see or hear me?"}
+{"passage_id": "619-0", "question_type": "lookup", "anchor": "Is the container that holds ammunition included when I buy it?"}
+{"passage_id": "619-0", "question_type": "paraphrase", "anchor": "Which weapons require ammunition in order to fire at range?"}
+{"passage_id": "619-0", "question_type": "descriptive", "anchor": "What table tells me the types of arrows, bolts and bullets and how many I get per purchase?"}
+{"passage_id": "343-3", "question_type": "lookup", "anchor": "What proficiency bonus does a Ranger have at level 13?"}
+{"passage_id": "343-3", "question_type": "paraphrase", "anchor": "At level 12, how many level 2 spell slots does Ranger spellcasting give me?"}
+{"passage_id": "343-3", "question_type": "descriptive", "anchor": "At what Ranger level do I gain the Relentless Hunter feature and five favored enemies?"}
+{"passage_id": "343-3", "question_type": "table", "anchor": "In the Ranger's level table, how many Prepared Spells does a level 14 Ranger have?"}
+{"passage_id": "1408-0", "question_type": "lookup", "anchor": "How much inanimate material can the Bag of Devouring hold?"}
+{"passage_id": "1408-0", "question_type": "paraphrase", "anchor": "If a Bag of Devouring grabs part of a living creature, what's the chance it pulls the whole thing in?"}
+{"passage_id": "1408-0", "question_type": "descriptive", "anchor": "Which very rare wondrous bag looks like a bag of holding but hides a gigantic hungry beast inside?"}
+{"passage_id": "1704-0", "question_type": "lookup", "anchor": "What is the Armor Class of an Animated Flying Sword?"}
+{"passage_id": "1704-0", "question_type": "paraphrase", "anchor": "How much damage does an Animated Flying Sword's Slash do when it hits?"}
+{"passage_id": "1704-0", "question_type": "descriptive", "anchor": "What small flying construct is immune to poison and psychic damage and has blindsight?"}
+{"passage_id": "1704-0", "question_type": "table", "anchor": "What Dexterity modifier does an Animated Flying Sword have?"}
+{"passage_id": "1059-0", "question_type": "lookup", "anchor": "How much Hit Point maximum does a Simulacrum have compared with the original creature?"}
+{"passage_id": "1059-0", "question_type": "paraphrase", "anchor": "Can a Simulacrum use magic to make copies of itself?"}
+{"passage_id": "1059-0", "question_type": "descriptive", "anchor": "What level 7 illusion creates a snow-made double of a beast or humanoid that obeys me in combat?"}
+{"passage_id": "2110-0", "question_type": "lookup", "anchor": "How many Hit Points does a Hill Giant have?"}
+{"passage_id": "2110-0", "question_type": "paraphrase", "anchor": "If a Hill Giant's Tree Club hits a Medium-sized target, what happens to it?"}
+{"passage_id": "2110-0", "question_type": "descriptive", "anchor": "Which giant's ranged attack flings debris and poisons the target on a hit?"}
+{"passage_id": "2110-0", "question_type": "table", "anchor": "What does a Hill Giant add to Wisdom saves?"}
+{"passage_id": "401-5", "question_type": "lookup", "anchor": "How many cantrips does a Sorcerer know at level 13?"}
+{"passage_id": "401-5", "question_type": "paraphrase", "anchor": "With Sorcerer spellcasting at level 15, how many level 8 spell slots do I get?"}
+{"passage_id": "401-5", "question_type": "descriptive", "anchor": "At which sorcerer level do I get a subclass feature alongside 14 sorcery points?"}
+{"passage_id": "401-5", "question_type": "table", "anchor": "In the Sorcerer level table, how many Prepared Spells does a level 13 Sorcerer have?"}
+{"passage_id": "802-0", "question_type": "lookup", "anchor": "How far away can Blindness/Deafness target a creature I can see?"}
+{"passage_id": "802-0", "question_type": "paraphrase", "anchor": "If I cast Blindness/Deafness with a bigger slot, how many extra creatures can I hit?"}
+{"passage_id": "802-0", "question_type": "descriptive", "anchor": "Which level 2 spell can blind or deafen a foe for a minute, with a save each turn to end it?"}

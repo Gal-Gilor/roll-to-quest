@@ -1,0 +1,82 @@
+{"passage_id": "1615-0", "question_type": "lookup", "anchor": "How many charges can a Staff of the Magi hold at most?"}
+{"passage_id": "1615-0", "question_type": "paraphrase", "anchor": "Can a Staff of the Magi soak up a spell that is aimed only at me?"}
+{"passage_id": "1615-0", "question_type": "descriptive", "anchor": "What legendary magic quarterstaff gives a +2 bonus to attack rolls, damage rolls, and spell attacks for whoever holds it?"}
+{"passage_id": "218-1", "question_type": "lookup", "anchor": "On the cleric spell list, which school of magic is Guiding Bolt in?"}
+{"passage_id": "218-1", "question_type": "paraphrase", "anchor": "Which spells can a cleric learn from the Enchantment school?"}
+{"passage_id": "218-1", "question_type": "descriptive", "anchor": "Which table of divine spells lists each spell's school alongside a Special column of codes?"}
+{"passage_id": "218-1", "question_type": "table", "anchor": "On the cleric spell list, what does the Special column show for Purify Food and Drink?"}
+{"passage_id": "2318-0", "question_type": "lookup", "anchor": "What is a Pseudodragon's flying Speed?"}
+{"passage_id": "2318-0", "question_type": "paraphrase", "anchor": "If a target fails a Pseudodragon's sting save by 5 or more, what knocks it out?"}
+{"passage_id": "2318-0", "question_type": "descriptive", "anchor": "Which tiny neutral good dragon gets Advantage on saves against spells and can make two bite attacks?"}
+{"passage_id": "2318-0", "question_type": "table", "anchor": "How much does a Pseudodragon add to Dexterity saves?"}
+{"passage_id": "803-0", "question_type": "lookup", "anchor": "How long does the Blink spell last?"}
+{"passage_id": "803-0", "question_type": "paraphrase", "anchor": "After Blink sends me into the Ethereal Plane, when do I get pulled back?"}
+{"passage_id": "803-0", "question_type": "descriptive", "anchor": "What level 3 spell has me randomly slip out of reality each turn, with a die roll deciding it?"}
+{"passage_id": "979-0", "question_type": "lookup", "anchor": "What is the range of the Magnificent Mansion spell?"}
+{"passage_id": "979-0", "question_type": "paraphrase", "anchor": "If I host a big party in Magnificent Mansion, how many people can the feast feed?"}
+{"passage_id": "979-0", "question_type": "descriptive", "anchor": "Which spell conjures a shimmering door to a huge extradimensional home staffed by invulnerable servants?"}
+{"passage_id": "1575-0", "question_type": "lookup", "anchor": "Up to what spell level does a Ring of Spell Turning fully negate on a successful save?"}
+{"passage_id": "1575-0", "question_type": "paraphrase", "anchor": "Can my Ring of Spell Turning bounce a lone-target spell back at whoever cast it?"}
+{"passage_id": "1575-0", "question_type": "descriptive", "anchor": "Which legendary ring gives Advantage on saves against magic and can reflect a targeted spell at its caster?"}
+{"passage_id": "1331-0", "question_type": "lookup", "anchor": "What DC does a Constitution save against Serpent Venom use?"}
+{"passage_id": "1331-0", "question_type": "paraphrase", "anchor": "If I pass the save against Serpent Venom, how much of its poison damage do I still take?"}
+{"passage_id": "1331-0", "question_type": "descriptive", "anchor": "What 200 GP injury poison deals 3d6 Poison damage to someone who fails the save?"}
+{"passage_id": "2620-0", "question_type": "lookup", "anchor": "How many hit points does a Baboon have?"}
+{"passage_id": "2620-0", "question_type": "paraphrase", "anchor": "When a Baboon chomps me, how much damage does it do if the attack hits?"}
+{"passage_id": "2620-0", "question_type": "descriptive", "anchor": "Which small beast has Advantage on attacks against a foe when its allies stand within 5 feet of that foe?"}
+{"passage_id": "2620-0", "question_type": "table", "anchor": "On the Baboon's ability score table, what is its Dexterity modifier?"}
+{"passage_id": "2547-1", "question_type": "lookup", "anchor": "What size is a Weretiger in its tiger or hybrid form?"}
+{"passage_id": "2547-1", "question_type": "paraphrase", "anchor": "When a Weretiger changes form, does the gear it's carrying change too?"}
+{"passage_id": "2547-1", "question_type": "descriptive", "anchor": "Which shapeshifter keeps the same statistics in every form except size, switching between a tiger and a tiger-humanoid?"}
+{"passage_id": "2805-0", "question_type": "lookup", "anchor": "How fast can a Hunter Shark swim?"}
+{"passage_id": "2805-0", "question_type": "paraphrase", "anchor": "Could a Hunter Shark come up on land and breathe air?"}
+{"passage_id": "2805-0", "question_type": "descriptive", "anchor": "Which large swimming beast has Blindsight out to 60 feet and gets Advantage on bites against wounded targets?"}
+{"passage_id": "2805-0", "question_type": "table", "anchor": "On the Hunter Shark's ability score table, what is its Strength score?"}
+{"passage_id": "309-0", "question_type": "lookup", "anchor": "What saving throws are Paladins proficient in?"}
+{"passage_id": "309-0", "question_type": "paraphrase", "anchor": "Which stats matter most for a Paladin character, the ones I should put high scores in?"}
+{"passage_id": "309-0", "question_type": "descriptive", "anchor": "Which holy warrior class uses Strength and Charisma as its main abilities and gets Heavy armor training?"}
+{"passage_id": "309-0", "question_type": "table", "anchor": "What starting gold does a Paladin get if they choose option B instead of the equipment kit?"}
+{"passage_id": "2353-0", "question_type": "lookup", "anchor": "How much damage does a Roc's Beak attack deal on a hit?"}
+{"passage_id": "2353-0", "question_type": "paraphrase", "anchor": "If a Roc is holding a creature, what bonus-action move lets it fly off and let go of the victim?"}
+{"passage_id": "2353-0", "question_type": "descriptive", "anchor": "Which gargantuan flying monstrosity has Fly 120 feet and talons that grapple and restrain prey?"}
+{"passage_id": "2353-0", "question_type": "table", "anchor": "On the Roc's ability score table, what bonus does it add to Dexterity saves?"}
+{"passage_id": "1657-0", "question_type": "lookup", "anchor": "In a monster's stat block overview, which part lists Armor Class, Hit Points, Speed, and Initiative?"}
+{"passage_id": "1657-0", "question_type": "paraphrase", "anchor": "In the stat block overview, where do the Senses, languages, and challenge rating go?"}
+{"passage_id": "1657-0", "question_type": "descriptive", "anchor": "Which part of a creature's write-up lists Bonus Actions and Reactions, if any?"}
+{"passage_id": "30-1", "question_type": "lookup", "anchor": "How much extra movement does the Dash action give me for the rest of my turn?"}
+{"passage_id": "30-1", "question_type": "paraphrase", "anchor": "Among the standard actions in a turn, which one stops my movement from triggering free swings for the rest of the turn?"}
+{"passage_id": "30-1", "question_type": "descriptive", "anchor": "What action makes enemies' attacks against me harder to land until my next turn, and gives me Dexterity saves with Advantage?"}
+{"passage_id": "30-1", "question_type": "table", "anchor": "What does the Attack action let me do in the standard actions table?"}
+{"passage_id": "419-0", "question_type": "lookup", "anchor": "How many Sorcery Points does Subtle Spell cost?"}
+{"passage_id": "419-0", "question_type": "paraphrase", "anchor": "If I use Subtle Spell, do I still need a material component that the spell consumes?"}
+{"passage_id": "419-0", "question_type": "descriptive", "anchor": "Which sorcerer metamagic trick lets me cast without speaking or gesturing?"}
+{"passage_id": "486-0", "question_type": "lookup", "anchor": "How many spell slot levels can a level 4 Wizard recover with Arcane Recovery?"}
+{"passage_id": "486-0", "question_type": "paraphrase", "anchor": "Can Arcane Recovery bring back a 6th-level spell slot after a short rest?"}
+{"passage_id": "486-0", "question_type": "descriptive", "anchor": "How often can a spellbook-studying caster recover expended spell slots after a short rest?"}
+{"passage_id": "1675-0", "question_type": "lookup", "anchor": "What does a None entry in a monster's languages section mean?"}
+{"passage_id": "1675-0", "question_type": "paraphrase", "anchor": "Can a monster understand a tongue yet still be unable to speak it?"}
+{"passage_id": "1675-0", "question_type": "descriptive", "anchor": "Where in a creature's write-up do I learn which tongues it can use to communicate with others?"}
+{"passage_id": "1018-0", "question_type": "lookup", "anchor": "How thick is the Prismatic Wall when it's a vertical wall?"}
+{"passage_id": "1018-0", "question_type": "paraphrase", "anchor": "Will an Antimagic Field shut down a Prismatic Wall?"}
+{"passage_id": "1018-0", "question_type": "descriptive", "anchor": "What spell makes a multicolored, seven-layered barrier that blinds creatures who come within 20 feet of it?"}
+{"passage_id": "1323-0", "question_type": "lookup", "anchor": "What DC does the Constitution save against Burnt Othur Fumes use?"}
+{"passage_id": "1323-0", "question_type": "paraphrase", "anchor": "If I fail the save against Burnt Othur Fumes, how much poison damage do I take right away?"}
+{"passage_id": "1323-0", "question_type": "descriptive", "anchor": "Which 500 GP inhaled poison lasts until the victim makes three successful saves?"}
+{"passage_id": "976-0", "question_type": "lookup", "anchor": "How far away can Magic Missile's darts strike?"}
+{"passage_id": "976-0", "question_type": "paraphrase", "anchor": "If I cast Magic Missile with a bigger slot, how many more darts do I get?"}
+{"passage_id": "976-0", "question_type": "descriptive", "anchor": "Which first-level evocation spell fires glowing force darts that each deal 1d4 plus 1 damage?"}
+{"passage_id": "2506-0", "question_type": "lookup", "anchor": "What is the long range of a Vampire Familiar's Umbral Dagger attack?"}
+{"passage_id": "2506-0", "question_type": "paraphrase", "anchor": "What can a Vampire Familiar do as a bonus action to scoot away safely?"}
+{"passage_id": "2506-0", "question_type": "descriptive", "anchor": "Which creature bound to an evil master can be contacted telepathically by that master and see through its senses?"}
+{"passage_id": "2506-0", "question_type": "table", "anchor": "On the Vampire Familiar's ability score table, what is its Wisdom saving throw bonus?"}
+{"passage_id": "529-0", "question_type": "lookup", "anchor": "How fast can a Tiefling walk, in feet?"}
+{"passage_id": "529-0", "question_type": "paraphrase", "anchor": "Can a Tiefling cast its bonus higher-level spell for free, and when does that free use come back?"}
+{"passage_id": "529-0", "question_type": "descriptive", "anchor": "Which fiend-blooded people have Darkvision to 60 feet and a legacy granting supernatural abilities?"}
+{"passage_id": "529-0", "question_type": "table", "anchor": "What cantrip does the Chthonic legacy give a Tiefling at level 1?"}
+{"passage_id": "2331-0", "question_type": "lookup", "anchor": "What Armor Class does a Rakshasa have?"}
+{"passage_id": "2331-0", "question_type": "paraphrase", "anchor": "Can a spell attack roll ever hit a Rakshasa?"}
+{"passage_id": "2331-0", "question_type": "descriptive", "anchor": "Which fiend has Truesight out to 60 feet and can't be observed remotely by spells without its permission?"}
+{"passage_id": "2331-0", "question_type": "table", "anchor": "On the Rakshasa's ability score table, what is its Charisma modifier?"}
+{"passage_id": "1026-0", "question_type": "lookup", "anchor": "What is the range of Purify Food and Drink?"}
+{"passage_id": "1026-0", "question_type": "paraphrase", "anchor": "Can Purify Food and Drink be cast as a ritual, or does it always take an action?"}
+{"passage_id": "1026-0", "question_type": "descriptive", "anchor": "What level 1 transmutation spell rids nonmagical meals and drinks of poison and rot in a small area?"}

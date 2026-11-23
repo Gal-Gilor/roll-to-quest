@@ -1,0 +1,68 @@
+{"passage_id": "2404-0", "question_type": "lookup", "anchor": "What is the Armor Class of an Adult Silver Dragon?"}
+{"passage_id": "2404-0", "question_type": "paraphrase", "anchor": "If I fail against an Adult Silver Dragon's Cold Breath, how much damage do I take?"}
+{"passage_id": "2404-0", "question_type": "descriptive", "anchor": "Which huge lawful good dragon paralyzes foes with its breath in a 60-foot cone?"}
+{"passage_id": "2404-0", "question_type": "table", "anchor": "What Intelligence modifier does an Adult Silver Dragon have?"}
+{"passage_id": "929-0", "question_type": "lookup", "anchor": "How large an area can Guards and Wards protect with its ward?"}
+{"passage_id": "929-0", "question_type": "paraphrase", "anchor": "Can I set a secret password so that certain people walk through my warded rooms without harm?"}
+{"passage_id": "929-0", "question_type": "descriptive", "anchor": "Which level 6 abjuration spell fills warded corridors with fog and locks doors with magic?"}
+{"passage_id": "1407-5", "question_type": "lookup", "anchor": "How long does the fruit tree from a Bag of Beans last before it vanishes?"}
+{"passage_id": "1407-5", "question_type": "paraphrase", "anchor": "If I eat an egg from a Bag of Beans and fail the Constitution save, how much Force damage do I take?"}
+{"passage_id": "1407-5", "question_type": "descriptive", "anchor": "Which magic bag can produce rainbow eggs that blast a creature with Force damage after a failed save?"}
+{"passage_id": "1407-5", "question_type": "table", "anchor": "On a d100 roll of 75 with a Bag of Beans, how many fruit does the tree produce?"}
+{"passage_id": "2753-0", "question_type": "lookup", "anchor": "How many hit points does a Giant Rat have?"}
+{"passage_id": "2753-0", "question_type": "paraphrase", "anchor": "How far can a Giant Rat climb in a single move?"}
+{"passage_id": "2753-0", "question_type": "descriptive", "anchor": "Which small beast with 7 hit points has a Pack Tactics trait and a Bite attack?"}
+{"passage_id": "2753-0", "question_type": "table", "anchor": "What is a Giant Rat's Dexterity saving throw bonus?"}
+{"passage_id": "1452-0", "question_type": "lookup", "anchor": "How often can a bound creature try to break free from Dimensional Shackles?"}
+{"passage_id": "1452-0", "question_type": "paraphrase", "anchor": "Can a creature held by Dimensional Shackles still pass through an interdimensional portal?"}
+{"passage_id": "1452-0", "question_type": "descriptive", "anchor": "What restraints stop an Incapacitated creature from teleporting or traveling to other planes?"}
+{"passage_id": "894-0", "question_type": "lookup", "anchor": "How far away can Find Traps sense a trap?"}
+{"passage_id": "894-0", "question_type": "paraphrase", "anchor": "Does Find Traps tell me exactly where a trap is hidden?"}
+{"passage_id": "894-0", "question_type": "descriptive", "anchor": "Which second-level divination spell senses any object or mechanism built to cause harm, not natural hazards?"}
+{"passage_id": "1305-0", "question_type": "lookup", "anchor": "What Constitution save DC do I need to make each hour while swimming in deep water?"}
+{"passage_id": "1305-0", "question_type": "paraphrase", "anchor": "What happens to a character without a Swim Speed who keeps swimming in deep water for hours?"}
+{"passage_id": "1305-0", "question_type": "descriptive", "anchor": "What makes swimming more than 100 feet below the surface harder than normal?"}
+{"passage_id": "646-0", "question_type": "lookup", "anchor": "How much does a Crowbar cost in gold pieces?"}
+{"passage_id": "646-0", "question_type": "paraphrase", "anchor": "Does a Crowbar give me an edge on Strength checks where leverage can help?"}
+{"passage_id": "646-0", "question_type": "descriptive", "anchor": "What adventuring gear item gives advantage on Strength checks where leverage can be applied?"}
+{"passage_id": "1810-0", "question_type": "lookup", "anchor": "How many hit points does an Ancient Brass Dragon have?"}
+{"passage_id": "1810-0", "question_type": "paraphrase", "anchor": "How much harm does an Ancient Brass Dragon's fire breath deal to me if I fail to dodge it?"}
+{"passage_id": "1810-0", "question_type": "descriptive", "anchor": "Which gargantuan chaotic good dragon can use Sleep Breath or cast Scorching Ray in place of an attack?"}
+{"passage_id": "1810-0", "question_type": "table", "anchor": "What Wisdom saving throw bonus does an Ancient Brass Dragon have?"}
+{"passage_id": "1063-0", "question_type": "lookup", "anchor": "How far away can I target a creature with Sorcerous Burst?"}
+{"passage_id": "1063-0", "question_type": "paraphrase", "anchor": "If I roll an 8 on the damage die for Sorcerous Burst, can I roll again and add it?"}
+{"passage_id": "1063-0", "question_type": "descriptive", "anchor": "Which sorcerer cantrip makes a ranged spell attack for 1d8 damage of a type I choose?"}
+{"passage_id": "243-4", "question_type": "lookup", "anchor": "Which spells on the Druid spell list come from the Conjuration school?"}
+{"passage_id": "243-4", "question_type": "paraphrase", "anchor": "On the Druid spell list, what magic category does Fire Shield belong to?"}
+{"passage_id": "243-4", "question_type": "descriptive", "anchor": "Which druid spell about controlling water comes from the Transmutation school?"}
+{"passage_id": "243-4", "question_type": "table", "anchor": "What special marking does Stoneskin carry on the Druid spell list?"}
+{"passage_id": "882-0", "question_type": "lookup", "anchor": "How large an area does Faerie Fire cover with its outlining light?"}
+{"passage_id": "882-0", "question_type": "paraphrase", "anchor": "Does Faerie Fire make it easier for my party to hit an outlined enemy?"}
+{"passage_id": "882-0", "question_type": "descriptive", "anchor": "Which first-level spell outlines creatures in colored light and makes them easier to hit?"}
+{"passage_id": "1613-0", "question_type": "lookup", "anchor": "How many charges does a Staff of Striking start with?"}
+{"passage_id": "1613-0", "question_type": "paraphrase", "anchor": "How much extra damage does each charge of a Staff of Striking add when I hit?"}
+{"passage_id": "1613-0", "question_type": "descriptive", "anchor": "What very rare magic quarterstaff gives a +3 bonus to attack and damage rolls and regains charges at dawn?"}
+{"passage_id": "749-0", "question_type": "lookup", "anchor": "What level does Magic Missile become when a Wizard casts it with a level 2 slot?"}
+{"passage_id": "749-0", "question_type": "paraphrase", "anchor": "When I put a spell into a bigger spell slot, does the spell scale up?"}
+{"passage_id": "749-0", "question_type": "descriptive", "anchor": "What spells get stronger when cast from a slot higher than their base level?"}
+{"passage_id": "706-0", "question_type": "lookup", "anchor": "How much does a ship passenger usually pay per day for a hammock?"}
+{"passage_id": "706-0", "question_type": "paraphrase", "anchor": "What does a small private cabin cost per day for ship passengers?"}
+{"passage_id": "706-0", "question_type": "descriptive", "anchor": "How many fewer people can a ship carry if it has private rooms instead of hammocks?"}
+{"passage_id": "215-0", "question_type": "lookup", "anchor": "With Improved Blessed Strikes, how much extra damage does Divine Strike deal?"}
+{"passage_id": "215-0", "question_type": "paraphrase", "anchor": "With Improved Blessed Strikes, how much temporary health can a Cleric cantrip give, based on Wisdom?"}
+{"passage_id": "215-0", "question_type": "descriptive", "anchor": "Which level 14 cleric upgrade lets me give temporary hit points to an ally up to 60 feet away?"}
+{"passage_id": "1418-0", "question_type": "lookup", "anchor": "What action do I use to activate Boots of Speed?"}
+{"passage_id": "1418-0", "question_type": "paraphrase", "anchor": "After how many minutes of use do Boots of Speed stop working until I finish a Long Rest?"}
+{"passage_id": "1418-0", "question_type": "descriptive", "anchor": "What magic footwear doubles my movement and makes enemies' opportunity attacks against me roll with Disadvantage?"}
+{"passage_id": "277-0", "question_type": "lookup", "anchor": "What are the primary abilities of a Monk?"}
+{"passage_id": "277-0", "question_type": "paraphrase", "anchor": "Which two abilities does a Monk have proficiency in when resisting effects?"}
+{"passage_id": "277-0", "question_type": "descriptive", "anchor": "Which class with Dexterity and Wisdom as primary abilities picks two skills from a list of six?"}
+{"passage_id": "277-0", "question_type": "table", "anchor": "What hit point die does a Monk roll for each level?"}
+{"passage_id": "2683-0", "question_type": "lookup", "anchor": "How many hit points does a Flying Snake have?"}
+{"passage_id": "2683-0", "question_type": "paraphrase", "anchor": "How fast can a Flying Snake move through the air, in feet?"}
+{"passage_id": "2683-0", "question_type": "descriptive", "anchor": "Which tiny monstrosity flies out of enemy reach without provoking an Opportunity Attack and bites with poison?"}
+{"passage_id": "2683-0", "question_type": "table", "anchor": "What Charisma modifier does a Flying Snake have?"}
+{"passage_id": "2039-0", "question_type": "lookup", "anchor": "How fast can an Adult Gold Dragon swim through water?"}
+{"passage_id": "2039-0", "question_type": "paraphrase", "anchor": "How much fire harm does an Adult Gold Dragon's cone deal to a creature that fails its Dexterity save?"}
+{"passage_id": "2039-0", "question_type": "descriptive", "anchor": "Which huge lawful good dragon can breathe both air and water and can cast Guiding Bolt?"}
+{"passage_id": "2039-0", "question_type": "table", "anchor": "What Strength ability score does an Adult Gold Dragon have?"}

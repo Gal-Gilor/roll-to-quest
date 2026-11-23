@@ -1,0 +1,73 @@
+{"passage_id": "1193-0", "question_type": "lookup", "anchor": "What is the Speed of a creature with the Grappled condition?"}
+{"passage_id": "1193-0", "question_type": "paraphrase", "anchor": "If I'm Grappled by a monster, can my Speed ever go above zero?"}
+{"passage_id": "1193-0", "question_type": "descriptive", "anchor": "Being held by a foe, what happens to my movement and to my attacks against anyone other than the one holding me?"}
+{"passage_id": "1118-0", "question_type": "lookup", "anchor": "How far away must creatures be for Word of Recall to teleport them with me?"}
+{"passage_id": "1118-0", "question_type": "paraphrase", "anchor": "If I cast Word of Recall without setting up a sanctuary first, what happens?"}
+{"passage_id": "1118-0", "question_type": "descriptive", "anchor": "What teleport spell lets me and five friends jump instantly to a place I picked earlier as a safe haven?"}
+{"passage_id": "2438-0", "question_type": "lookup", "anchor": "What Armor Class does the Sphinx of Valor have?"}
+{"passage_id": "2438-0", "question_type": "paraphrase", "anchor": "How often can the Sphinx of Valor turn a failed saving throw into a success, and does its lair change that?"}
+{"passage_id": "2438-0", "question_type": "descriptive", "anchor": "Which celestial creature is protected from remote magical scrying and hard to read with Insight checks?"}
+{"passage_id": "2438-0", "question_type": "table", "anchor": "What Constitution score does the Sphinx of Valor have?"}
+{"passage_id": "1098-0", "question_type": "lookup", "anchor": "What range does the Truesight from True Seeing have?"}
+{"passage_id": "1098-0", "question_type": "paraphrase", "anchor": "Does True Seeing use up its material component when I cast it?"}
+{"passage_id": "1098-0", "question_type": "descriptive", "anchor": "What touch spell lets a willing ally see up to 120 feet with Truesight for an hour?"}
+{"passage_id": "977-0", "question_type": "lookup", "anchor": "How many words at most can the message from Magic Mouth contain?"}
+{"passage_id": "977-0", "question_type": "paraphrase", "anchor": "Can Magic Mouth keep repeating its message every time the trigger happens, or does it always stop after one delivery?"}
+{"passage_id": "977-0", "question_type": "descriptive", "anchor": "Which spell leaves a spoken message in an object that plays it in my voice when a trigger I set off occurs?"}
+{"passage_id": "899-0", "question_type": "lookup", "anchor": "How much Fire damage does Fire Storm deal on a failed Dexterity save?"}
+{"passage_id": "899-0", "question_type": "paraphrase", "anchor": "How big an area can Fire Storm cover, and how do I arrange it?"}
+{"passage_id": "899-0", "question_type": "descriptive", "anchor": "Which seventh-level evocation spell creates a burning storm that can set unworn, unheld items on fire?"}
+{"passage_id": "962-0", "question_type": "lookup", "anchor": "What range does the Knock spell have?"}
+{"passage_id": "962-0", "question_type": "paraphrase", "anchor": "Does Knock permanently remove Arcane Lock from a door, or only suppress it for a while?"}
+{"passage_id": "962-0", "question_type": "descriptive", "anchor": "What spell makes a locked chest or door pop open and can be heard by creatures up to 300 feet away?"}
+{"passage_id": "401-6", "question_type": "lookup", "anchor": "What Proficiency Bonus does a Sorcerer get at level 17 under Spellcasting?"}
+{"passage_id": "401-6", "question_type": "paraphrase", "anchor": "How many spells can a Sorcerer keep prepared at level 18 with Spellcasting?"}
+{"passage_id": "401-6", "question_type": "descriptive", "anchor": "At which sorcerer level do I get Metamagic and my first 9th-level spell slot together?"}
+{"passage_id": "401-6", "question_type": "table", "anchor": "How many Sorcery Points does a Sorcerer have at level 16?"}
+{"passage_id": "1074-0", "question_type": "lookup", "anchor": "What material component does the Stone Shape spell require?"}
+{"passage_id": "1074-0", "question_type": "paraphrase", "anchor": "Can I use Stone Shape to carve a small passage through a wall that is 5 feet thick?"}
+{"passage_id": "1074-0", "question_type": "descriptive", "anchor": "What spell lets me mold a chunk of rock into a weapon, statue, or box, with up to two hinges and a latch?"}
+{"passage_id": "263-0", "question_type": "lookup", "anchor": "With Tactical Shift, how far can I move when I activate Second Wind as a Bonus Action?"}
+{"passage_id": "263-0", "question_type": "paraphrase", "anchor": "Does Tactical Shift let me walk away from enemies without them getting free swings at me?"}
+{"passage_id": "263-0", "question_type": "descriptive", "anchor": "At fighter level 5, what lets me move half my Speed right after using Second Wind as a bonus action?"}
+{"passage_id": "259-0", "question_type": "lookup", "anchor": "How many dice does Tactical Mind have me roll when I fail an ability check?"}
+{"passage_id": "259-0", "question_type": "paraphrase", "anchor": "If Tactical Mind still fails my check, is the Second Wind use I spent gone?"}
+{"passage_id": "259-0", "question_type": "descriptive", "anchor": "What fighter ability lets me spend Second Wind to roll a d10 on a failed ability check instead of healing?"}
+{"passage_id": "98-0", "question_type": "lookup", "anchor": "How many death save successes do I need before I become Stable?"}
+{"passage_id": "98-0", "question_type": "paraphrase", "anchor": "If I roll a 20 on a death save, how much health do I get back?"}
+{"passage_id": "98-0", "question_type": "descriptive", "anchor": "When I'm at zero health and a critical hit strikes me, how many death save failures do I suffer?"}
+{"passage_id": "1405-0", "question_type": "lookup", "anchor": "What damage type does Armor of Vulnerability give Resistance to?"}
+{"passage_id": "1405-0", "question_type": "paraphrase", "anchor": "Will taking off Armor of Vulnerability get rid of its curse?"}
+{"passage_id": "1405-0", "question_type": "descriptive", "anchor": "Which magic armor is cursed in a way only Identify or attuning reveals, and grants Resistance to one damage type?"}
+{"passage_id": "2202-1", "question_type": "lookup", "anchor": "How much does a Marilith add to its AC when it uses Parry?"}
+{"passage_id": "2202-1", "question_type": "paraphrase", "anchor": "Does a Marilith's Parry work against ranged attacks, or only melee attacks while it holds a weapon?"}
+{"passage_id": "2202-1", "question_type": "descriptive", "anchor": "What reaction lets a monster raise its AC by 5 against a melee hit while it holds a weapon?"}
+{"passage_id": "1596-0", "question_type": "lookup", "anchor": "How many charges does the Scarab of Protection have?"}
+{"passage_id": "1596-0", "question_type": "paraphrase", "anchor": "If I fail a save against a Necromancy spell, can the Scarab of Protection turn it into a success?"}
+{"passage_id": "1596-0", "question_type": "descriptive", "anchor": "Which legendary medallion shaped like a beetle gives a +1 bonus to Armor Class and Advantage on spell saves?"}
+{"passage_id": "1941-0", "question_type": "lookup", "anchor": "What Armor Class does a Dryad have?"}
+{"passage_id": "1941-0", "question_type": "paraphrase", "anchor": "Can a Dryad cast Charm Monster as often as it likes, or only once a day?"}
+{"passage_id": "1941-0", "question_type": "descriptive", "anchor": "Which fey creature can step between two large trees up to 60 feet apart as a bonus action?"}
+{"passage_id": "1941-0", "question_type": "table", "anchor": "What is a Dryad's Charisma saving throw bonus?"}
+{"passage_id": "548-0", "question_type": "lookup", "anchor": "What is the highest score the Boon of Dimensional Travel can raise an ability to?"}
+{"passage_id": "548-0", "question_type": "paraphrase", "anchor": "After I take the Attack action or the Magic action, can Boon of Dimensional Travel let me teleport a short distance?"}
+{"passage_id": "548-0", "question_type": "descriptive", "anchor": "Which epic feat lets me add 1 to an ability score and teleport up to 30 feet right after I attack or cast?"}
+{"passage_id": "435-1", "question_type": "lookup", "anchor": "Which ability is the spellcasting ability for Pact Magic spells?"}
+{"passage_id": "435-1", "question_type": "paraphrase", "anchor": "Under Pact Magic, can I swap one known spell for another whenever I gain a Warlock level?"}
+{"passage_id": "435-1", "question_type": "descriptive", "anchor": "Which item type can a warlock use as a spellcasting focus for warlock spells?"}
+{"passage_id": "832-0", "question_type": "lookup", "anchor": "What damage does Contagion deal on a failed Constitution saving throw?"}
+{"passage_id": "832-0", "question_type": "paraphrase", "anchor": "If someone tries to end the Poisoned condition from Contagion, does the victim need a Constitution save?"}
+{"passage_id": "832-0", "question_type": "descriptive", "anchor": "Which touch spell inflicts a magical contagion that lasts 7 days and requires saves at the end of each turn?"}
+{"passage_id": "968-0", "question_type": "lookup", "anchor": "How far can Locate Animals or Plants search for the nearest matching creature?"}
+{"passage_id": "968-0", "question_type": "paraphrase", "anchor": "If I cast Locate Animals or Plants, what does it tell me about the nearest matching creature?"}
+{"passage_id": "968-0", "question_type": "descriptive", "anchor": "Which spell can be cast as a ritual to find the closest beast or plant of a kind I name?"}
+{"passage_id": "2938-0", "question_type": "lookup", "anchor": "How many hit points does a Venomous Snake have?"}
+{"passage_id": "2938-0", "question_type": "paraphrase", "anchor": "How much poison damage does a Venomous Snake's bite do on top of the piercing damage?"}
+{"passage_id": "2938-0", "question_type": "descriptive", "anchor": "Which tiny swimming beast with a 10-foot blindsight has a poisonous bite?"}
+{"passage_id": "2938-0", "question_type": "table", "anchor": "What is a Venomous Snake's Intelligence modifier?"}
+{"passage_id": "1428-0", "question_type": "lookup", "anchor": "When can the Cape of the Mountebank's Dimension Door be used again after I cast it?"}
+{"passage_id": "1428-0", "question_type": "paraphrase", "anchor": "After I teleport with the Cape of the Mountebank, what does the space I left look like?"}
+{"passage_id": "1428-0", "question_type": "descriptive", "anchor": "Which rare cape smelling of brimstone lets me cast a teleport spell as a Magic action?"}
+{"passage_id": "843-0", "question_type": "lookup", "anchor": "How far can I move the lights from Dancing Lights as a Bonus Action?"}
+{"passage_id": "843-0", "question_type": "paraphrase", "anchor": "Can Dancing Lights merge its lights into one glowing shape that looks like a person?"}
+{"passage_id": "843-0", "question_type": "descriptive", "anchor": "Which illusion cantrip makes up to four floating lights that look like torches or orbs and last a minute?"}

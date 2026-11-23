@@ -1,0 +1,78 @@
+{"passage_id": "1462-1", "question_type": "lookup", "anchor": "How long does the efreeti obey my commands after I open an Efreeti Bottle?"}
+{"passage_id": "1462-1", "question_type": "paraphrase", "anchor": "After a genie from an Efreeti Bottle goes back inside, how long before I can pull the stopper out?"}
+{"passage_id": "1462-1", "question_type": "descriptive", "anchor": "What magic flask holds a fire genie that might serve me for an hour, and what happens if it's opened a fourth time?"}
+{"passage_id": "1462-1", "question_type": "table", "anchor": "If an Efreeti Bottle's d10 roll comes up 1, what happens?"}
+{"passage_id": "1753-1", "question_type": "lookup", "anchor": "What Dexterity save DC does a Behir use when it tries to Swallow a creature?"}
+{"passage_id": "1753-1", "question_type": "paraphrase", "anchor": "If a swallowed creature deals 30 damage to its Behir in one turn, does the Behir automatically spit it out?"}
+{"passage_id": "1753-1", "question_type": "descriptive", "anchor": "Which serpentine monster swallows a grabbed foe whole and hurts it with acid each round?"}
+{"passage_id": "914-0", "question_type": "lookup", "anchor": "What ability save does a creature make to resist a Geas, and what condition does failure give?"}
+{"passage_id": "914-0", "question_type": "paraphrase", "anchor": "If my Geas target acts against my order, how much psychic damage does it take, and how often?"}
+{"passage_id": "914-0", "question_type": "descriptive", "anchor": "Is there a spell that lets me order a creature to perform a task and hurts it if it disobeys?"}
+{"passage_id": "1086-0", "question_type": "lookup", "anchor": "How many willing creatures can share a Telepathic Bond at one time?"}
+{"passage_id": "1086-0", "question_type": "paraphrase", "anchor": "Can creatures who speak different languages still talk to each other through Telepathic Bond?"}
+{"passage_id": "1086-0", "question_type": "descriptive", "anchor": "Which spell lets a group of friends mentally chat with each other for an hour, across any distance on the same plane?"}
+{"passage_id": "2610-0", "question_type": "lookup", "anchor": "How much damage does an Ankylosaurus's Tail attack deal when it hits?"}
+{"passage_id": "2610-0", "question_type": "paraphrase", "anchor": "Roughly how many hit points does an Ankylosaurus start with?"}
+{"passage_id": "2610-0", "question_type": "descriptive", "anchor": "Which huge dinosaur attacks twice with its tail each turn and can knock Huge or smaller foes prone?"}
+{"passage_id": "2610-0", "question_type": "table", "anchor": "What Intelligence score does an Ankylosaurus have?"}
+{"passage_id": "2238-0", "question_type": "lookup", "anchor": "What Recharge requirement does a Minotaur of Baphomet's Gore attack have?"}
+{"passage_id": "2238-0", "question_type": "paraphrase", "anchor": "How tough is a Minotaur of Baphomet before it goes down?"}
+{"passage_id": "2238-0", "question_type": "descriptive", "anchor": "Which large chaotic evil monstrosity gets extra piercing damage on its gore after charging ten feet straight at a target?"}
+{"passage_id": "2238-0", "question_type": "table", "anchor": "What Charisma modifier does a Minotaur of Baphomet have?"}
+{"passage_id": "1251-0", "question_type": "lookup", "anchor": "What exactly is a skill in the game's rules, and how does it relate to ability checks?"}
+{"passage_id": "1251-0", "question_type": "paraphrase", "anchor": "If I'm good at a skill, can I add my Proficiency Bonus to checks for it?"}
+{"passage_id": "1251-0", "question_type": "descriptive", "anchor": "Is there a rules term for an area of specialization tied to an ability check that adds my Proficiency Bonus?"}
+{"passage_id": "202-0", "question_type": "lookup", "anchor": "Which saving throws is a Cleric proficient in?"}
+{"passage_id": "202-0", "question_type": "paraphrase", "anchor": "What kind of armor can a Cleric wear?"}
+{"passage_id": "202-0", "question_type": "descriptive", "anchor": "Which class uses Wisdom as its main ability and rolls a d8 for hit points at each level?"}
+{"passage_id": "202-0", "question_type": "table", "anchor": "If a Cleric picks option B for starting equipment, how much gold do they get?"}
+{"passage_id": "1614-0", "question_type": "lookup", "anchor": "How many charges does a Staff of Swarming Insects start with?"}
+{"passage_id": "1614-0", "question_type": "paraphrase", "anchor": "Each morning, how many charges come back to a Staff of Swarming Insects?"}
+{"passage_id": "1614-0", "question_type": "descriptive", "anchor": "Which rare staff fills an area with harmless flying bugs that make it heavily obscured for ten minutes?"}
+{"passage_id": "1614-0", "question_type": "table", "anchor": "Using a Staff of Swarming Insects, what is the charge cost of Insect Plague?"}
+{"passage_id": "1433-0", "question_type": "lookup", "anchor": "What save DC does the Web spell use when cast from a Cloak of Arachnida?"}
+{"passage_id": "1433-0", "question_type": "paraphrase", "anchor": "How often can I use the Web effect of a Cloak of Arachnida?"}
+{"passage_id": "1433-0", "question_type": "descriptive", "anchor": "Which magical black silk garment lets its wearer climb walls, walk on ceilings, and resist poison?"}
+{"passage_id": "967-0", "question_type": "lookup", "anchor": "How long and how wide is the line of a Lightning Bolt?"}
+{"passage_id": "967-0", "question_type": "paraphrase", "anchor": "How much more damage does Lightning Bolt deal if I cast it using a level 4 spell slot?"}
+{"passage_id": "967-0", "question_type": "descriptive", "anchor": "Which spell shoots a stroke of electricity in a straight line, halving damage on a successful Dexterity save?"}
+{"passage_id": "1568-0", "question_type": "lookup", "anchor": "What spell can a Ring of Jumping let me cast, and whom can I target with it?"}
+{"passage_id": "1568-0", "question_type": "paraphrase", "anchor": "Can I use the Jump spell from a Ring of Jumping to boost an ally?"}
+{"passage_id": "1568-0", "question_type": "descriptive", "anchor": "Which uncommon ring lets its wearer cast a leaping spell, but only on themselves?"}
+{"passage_id": "290-0", "question_type": "lookup", "anchor": "How much fall damage can a Monk reduce with Slow Fall?"}
+{"passage_id": "290-0", "question_type": "paraphrase", "anchor": "As a Monk, can I use Slow Fall to react to a long drop and take less harm?"}
+{"passage_id": "290-0", "question_type": "descriptive", "anchor": "Which monk ability lets me use my reaction when I fall to cut the damage I take?"}
+{"passage_id": "2654-0", "question_type": "lookup", "anchor": "How much damage does a Crab's Claw attack deal when it hits?"}
+{"passage_id": "2654-0", "question_type": "paraphrase", "anchor": "Can a Crab breathe both air and water?"}
+{"passage_id": "2654-0", "question_type": "descriptive", "anchor": "Which tiny beast that swims has blindsight out to 30 feet and only a few hit points?"}
+{"passage_id": "2654-0", "question_type": "table", "anchor": "What Strength saving throw modifier does a Crab have?"}
+{"passage_id": "1001-0", "question_type": "lookup", "anchor": "How deep can the opening made by Passwall go into a surface?"}
+{"passage_id": "1001-0", "question_type": "paraphrase", "anchor": "Does Passwall weaken the wall or ceiling around the hole it makes?"}
+{"passage_id": "1001-0", "question_type": "descriptive", "anchor": "Which spell carves a temporary passage through a wooden, plaster, or stone wall, and ejects anything still inside when it closes?"}
+{"passage_id": "581-0", "question_type": "lookup", "anchor": "What happens to Stealth checks when armor has Disadvantage listed in the Stealth column?"}
+{"passage_id": "581-0", "question_type": "paraphrase", "anchor": "If my armor lists a Strength number, how does that affect how fast I move?"}
+{"passage_id": "581-0", "question_type": "descriptive", "anchor": "Does the category of a suit of protective gear decide how long it takes to put on or take off?"}
+{"passage_id": "1116-0", "question_type": "lookup", "anchor": "What is the maximum length of a Wind Wall you can create?"}
+{"passage_id": "1116-0", "question_type": "paraphrase", "anchor": "Can a small flying creature fly through a Wind Wall?"}
+{"passage_id": "1116-0", "question_type": "descriptive", "anchor": "Which spell makes a gusty barrier that deflects arrows upward and keeps fog and smoke away?"}
+{"passage_id": "139-0", "question_type": "lookup", "anchor": "Is the XP cost to gain a level based on my total character level or my level in one class?"}
+{"passage_id": "139-0", "question_type": "paraphrase", "anchor": "As a level 6 Cleric with one Fighter level, what total level must I reach before my next Fighter level?"}
+{"passage_id": "139-0", "question_type": "descriptive", "anchor": "If I've split my levels between a Cleric and a Fighter, how far must I go to take a seventh Cleric level?"}
+{"passage_id": "1440-0", "question_type": "lookup", "anchor": "What save DC does the Scrying spell use when cast through a Crystal Ball?"}
+{"passage_id": "1440-0", "question_type": "paraphrase", "anchor": "Do I have to touch a Crystal Ball to use its scrying?"}
+{"passage_id": "1440-0", "question_type": "descriptive", "anchor": "Which very rare magic orb of crystal needs attunement and lets you cast a spell while touching it?"}
+{"passage_id": "526-0", "question_type": "lookup", "anchor": "What is a Halfling's base walking Speed?"}
+{"passage_id": "526-0", "question_type": "paraphrase", "anchor": "If I'm a Halfling and roll a 1 on a d20 test, can I roll again?"}
+{"passage_id": "526-0", "question_type": "descriptive", "anchor": "Which small humanoid folk get advantage on saves against being frightened and can slip through bigger creatures' spaces?"}
+{"passage_id": "874-0", "question_type": "lookup", "anchor": "What does the Enlarge option give a target on Strength checks and Strength saves?"}
+{"passage_id": "874-0", "question_type": "paraphrase", "anchor": "When I shrink an ally with Enlarge/Reduce, do its weapon and fist hits deal less damage?"}
+{"passage_id": "874-0", "question_type": "descriptive", "anchor": "Which spell can make a creature or object one size bigger or smaller for up to a minute while I concentrate?"}
+{"passage_id": "1298-0", "question_type": "lookup", "anchor": "Can an outbreak of magical contagion be the core of an adventure where characters hunt a cure?"}
+{"passage_id": "1298-0", "question_type": "paraphrase", "anchor": "Which kinds of people get credit for inventing the first magic plagues?"}
+{"passage_id": "1298-0", "question_type": "descriptive", "anchor": "What is the rules term for a magic-based sickness that can drive an adventure?"}
+{"passage_id": "925-0", "question_type": "lookup", "anchor": "What size is the area that Grease covers on the ground?"}
+{"passage_id": "925-0", "question_type": "paraphrase", "anchor": "If I cast Grease, what happens to creatures that step into the slick patch?"}
+{"passage_id": "925-0", "question_type": "descriptive", "anchor": "Which spell covers the floor with nonflammable slippery goo that turns it into difficult terrain for a minute?"}
+{"passage_id": "1508-0", "question_type": "lookup", "anchor": "How much extra Radiant damage does a Mace of Disruption deal when I hit a Fiend or Undead?"}
+{"passage_id": "1508-0", "question_type": "paraphrase", "anchor": "Can a Mace of Disruption destroy a badly hurt fiend or undead outright?"}
+{"passage_id": "1508-0", "question_type": "descriptive", "anchor": "Which rare magic mace shines bright light in a 20-foot radius and can destroy weakened undead or fiends?"}

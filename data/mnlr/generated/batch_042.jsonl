@@ -1,0 +1,80 @@
+{"passage_id": "650-0", "question_type": "lookup", "anchor": "How many costumes are in the Entertainer's Pack?"}
+{"passage_id": "650-0", "question_type": "paraphrase", "anchor": "Does the Entertainer's Pack come with food and a fire-starting kit?"}
+{"passage_id": "650-0", "question_type": "descriptive", "anchor": "Which bundle of adventuring gear includes a backpack, bedroll, mirror, and several costumes for a performer?"}
+{"passage_id": "30-2", "question_type": "lookup", "anchor": "What roll does the Hide option in the combat actions list require?"}
+{"passage_id": "30-2", "question_type": "paraphrase", "anchor": "In the list of combat options, which one covers casting a spell or using a magic item?"}
+{"passage_id": "30-2", "question_type": "descriptive", "anchor": "What turn option lets me help an ally's attack roll or first aid a fallen friend?"}
+{"passage_id": "30-2", "question_type": "table", "anchor": "Which checks does the Influence option in the combat actions list allow?"}
+{"passage_id": "550-0", "question_type": "lookup", "anchor": "How much can the Boon of Irresistible Offense raise my Strength or Dexterity score?"}
+{"passage_id": "550-0", "question_type": "paraphrase", "anchor": "When I roll a natural 20 with the Boon of Irresistible Offense, how much extra damage do I add?"}
+{"passage_id": "550-0", "question_type": "descriptive", "anchor": "Which epic feat makes my bludgeoning, piercing, and slashing damage ignore enemy Resistance?"}
+{"passage_id": "285-0", "question_type": "lookup", "anchor": "How many feet does Unarmored Movement add to my speed?"}
+{"passage_id": "285-0", "question_type": "paraphrase", "anchor": "Does Unarmored Movement still give me the speed bonus if I'm holding a shield?"}
+{"passage_id": "285-0", "question_type": "descriptive", "anchor": "Is there a Monk class feature whose speed bonus grows as I gain higher levels?"}
+{"passage_id": "1104-0", "question_type": "lookup", "anchor": "What is the radius of the explosion when I cast Vitriolic Sphere?"}
+{"passage_id": "1104-0", "question_type": "paraphrase", "anchor": "If I upcast Vitriolic Sphere with a bigger slot, how much more acid damage does it deal?"}
+{"passage_id": "1104-0", "question_type": "descriptive", "anchor": "Which 4th-level acid spell makes creatures that fail a Dexterity save take more acid damage at the end of their next turn?"}
+{"passage_id": "471-0", "question_type": "lookup", "anchor": "How far does the Witch Sight invocation's Truesight reach?"}
+{"passage_id": "471-0", "question_type": "paraphrase", "anchor": "What Warlock level do I need before I can take the Witch Sight invocation?"}
+{"passage_id": "471-0", "question_type": "descriptive", "anchor": "Which high-level Warlock invocation grants Truesight?"}
+{"passage_id": "405-0", "question_type": "lookup", "anchor": "At what level do I get to choose my Sorcerer subclass?"}
+{"passage_id": "405-0", "question_type": "paraphrase", "anchor": "Once I've picked my Sorcerer subclass, do I keep getting its perks as I level up?"}
+{"passage_id": "405-0", "question_type": "descriptive", "anchor": "What 3rd-level choice lets a spellcaster pick a specialization such as Draconic Sorcery?"}
+{"passage_id": "1355-0", "question_type": "lookup", "anchor": "How often should CR 0 creatures be used in an encounter?"}
+{"passage_id": "1355-0", "question_type": "paraphrase", "anchor": "If a fight needs lots of weak critters, what should I use instead of several CR 0 creatures?"}
+{"passage_id": "1355-0", "question_type": "descriptive", "anchor": "Is it wise for a Dungeon Master to fill an encounter with monsters that are worth zero experience points?"}
+{"passage_id": "623-0", "question_type": "lookup", "anchor": "How many pounds can a Backpack hold?"}
+{"passage_id": "623-0", "question_type": "paraphrase", "anchor": "Can a Backpack double as a saddlebag for my mount?"}
+{"passage_id": "623-0", "question_type": "descriptive", "anchor": "Which 2 gold piece item of adventuring gear is a bag for carrying supplies?"}
+{"passage_id": "1077-0", "question_type": "lookup", "anchor": "What saving throw does a creature make against Suggestion?"}
+{"passage_id": "1077-0", "question_type": "paraphrase", "anchor": "How many words can the Suggestion spell's request contain?"}
+{"passage_id": "1077-0", "question_type": "descriptive", "anchor": "Which spell lets a bard or wizard make a creature charmed until it's harmed, while it pursues a request?"}
+{"passage_id": "2297-0", "question_type": "lookup", "anchor": "What is the Pirate Captain's Challenge Rating?"}
+{"passage_id": "2297-0", "question_type": "paraphrase", "anchor": "How much damage does the Pirate Captain's Pistol deal when it hits?"}
+{"passage_id": "2297-0", "question_type": "descriptive", "anchor": "Which pirate boss swings a rapier, fires a pistol, and can make a Riposte reaction?"}
+{"passage_id": "2297-0", "question_type": "table", "anchor": "What does a Pirate Captain add to Wisdom saving throws?"}
+{"passage_id": "1486-0", "question_type": "lookup", "anchor": "How many charges does the Hammer of Thunderbolts have?"}
+{"passage_id": "1486-0", "question_type": "paraphrase", "anchor": "If I throw the Hammer of Thunderbolts and it hits, how far away can the thunderclap be heard?"}
+{"passage_id": "1486-0", "question_type": "descriptive", "anchor": "Which legendary maul or warhammer returns to my hand after I throw it and regains charges each dawn?"}
+{"passage_id": "1188-0", "question_type": "lookup", "anchor": "How much damage does falling cause per 10 feet, and what is the maximum?"}
+{"passage_id": "1188-0", "question_type": "paraphrase", "anchor": "If I dive into a lake from a high cliff, what roll can I make to halve the falling damage?"}
+{"passage_id": "1188-0", "question_type": "descriptive", "anchor": "When a character plunges off a high ledge and lands on the ground, what condition do they end up with?"}
+{"passage_id": "116-0", "question_type": "lookup", "anchor": "How many languages does a new character know at minimum when choosing languages?"}
+{"passage_id": "116-0", "question_type": "paraphrase", "anchor": "Does Common count as one of the languages I roll or pick, or do I get it for free?"}
+{"passage_id": "116-0", "question_type": "descriptive", "anchor": "If I roll a 5 or 6 on the widespread languages list, which tongue do I get?"}
+{"passage_id": "116-0", "question_type": "table", "anchor": "On the rare languages list, which language is paired with Thieves' Cant?"}
+{"passage_id": "2128-1", "question_type": "lookup", "anchor": "What Dexterity save DC does the Horned Devil's Infernal Tail ability use?"}
+{"passage_id": "2128-1", "question_type": "paraphrase", "anchor": "How long before a horned devil's infernal wound closes on its own?"}
+{"passage_id": "2128-1", "question_type": "descriptive", "anchor": "What fiend's tail strike drains hit points from a victim at the start of each of their turns?"}
+{"passage_id": "522-0", "question_type": "lookup", "anchor": "What is the Darkvision range of a Dwarf?"}
+{"passage_id": "522-0", "question_type": "paraphrase", "anchor": "How much does a Dwarf's health maximum go up when it gains a level?"}
+{"passage_id": "522-0", "question_type": "descriptive", "anchor": "Which short, sturdy character type has Resistance to Poison damage and advantage on saves against being Poisoned?"}
+{"passage_id": "2443-0", "question_type": "lookup", "anchor": "How many Hit Points does a Spirit Naga have?"}
+{"passage_id": "2443-0", "question_type": "paraphrase", "anchor": "If a Spirit Naga is slain, how long until it comes back to life?"}
+{"passage_id": "2443-0", "question_type": "descriptive", "anchor": "Which chaotic evil fiend can cast Dimension Door and Detect Thoughts twice a day?"}
+{"passage_id": "2443-0", "question_type": "table", "anchor": "How much does a Spirit Naga's Charisma save bonus come to?"}
+{"passage_id": "1332-0", "question_type": "lookup", "anchor": "What is the Constitution save DC to resist Spider's Sting?"}
+{"passage_id": "1332-0", "question_type": "paraphrase", "anchor": "If I fail the Spider's Sting save by 5 or more, what else happens to me?"}
+{"passage_id": "1332-0", "question_type": "descriptive", "anchor": "What injury poison leaves its victim Poisoned for an hour and wakes them if they take damage?"}
+{"passage_id": "2208-0", "question_type": "lookup", "anchor": "What Constitution save DC does a Medusa's Petrifying Gaze use?"}
+{"passage_id": "2208-0", "question_type": "paraphrase", "anchor": "What happens to me if I fail Medusa's gaze a second time?"}
+{"passage_id": "2208-0", "question_type": "descriptive", "anchor": "Which snake-haired monster can make creatures in a 30-foot cone turn to stone?"}
+{"passage_id": "2208-0", "question_type": "table", "anchor": "What is a Medusa's Strength score?"}
+{"passage_id": "1025-0", "question_type": "lookup", "anchor": "How long does Protection from Poison last?"}
+{"passage_id": "1025-0", "question_type": "paraphrase", "anchor": "If I cast Protection from Poison on an ally, how is their saving throw against poison changed?"}
+{"passage_id": "1025-0", "question_type": "descriptive", "anchor": "Which level 2 cleric, druid, paladin, or ranger spell cures poison and gives resistance to poison damage?"}
+{"passage_id": "469-0", "question_type": "lookup", "anchor": "What level must a Warlock reach to take the Visions of Distant Realms invocation?"}
+{"passage_id": "469-0", "question_type": "paraphrase", "anchor": "Can I cast Arcane Eye without spending a spell slot if I take Visions of Distant Realms?"}
+{"passage_id": "469-0", "question_type": "descriptive", "anchor": "Which 9th-level Warlock option lets me spy from a distance by casting a sensor spell?"}
+{"passage_id": "2475-1", "question_type": "lookup", "anchor": "What is the reach of the Tarrasque's Tail attack?"}
+{"passage_id": "2475-1", "question_type": "paraphrase", "anchor": "How much acid damage does a creature swallowed by the Tarrasque take each time the monster starts a turn?"}
+{"passage_id": "2475-1", "question_type": "descriptive", "anchor": "Which giant beast swallows Grappled creatures and spits them out after taking 60 damage in one turn?"}
+{"passage_id": "569-0", "question_type": "lookup", "anchor": "How many hands can I use a Versatile weapon with?"}
+{"passage_id": "569-0", "question_type": "paraphrase", "anchor": "If I grip a Versatile weapon in both hands, which damage number do I roll?"}
+{"passage_id": "569-0", "question_type": "descriptive", "anchor": "Which weapon property lets a melee weapon be swung one-handed or two-handed?"}
+{"passage_id": "910-0", "question_type": "lookup", "anchor": "What material component does Freedom of Movement require?"}
+{"passage_id": "910-0", "question_type": "paraphrase", "anchor": "If I cast Freedom of Movement with a higher-level slot, how many more creatures can I touch?"}
+{"passage_id": "910-0", "question_type": "descriptive", "anchor": "Which 4th-level spell lets a willing ally walk through difficult ground and swim as fast as they walk?"}
+{"passage_id": "939-0", "question_type": "lookup", "anchor": "What is the range of Heat Metal?"}
+{"passage_id": "939-0", "question_type": "paraphrase", "anchor": "If I cast Heat Metal with a 3rd-level slot, how much does its damage go up?"}
+{"passage_id": "939-0", "question_type": "descriptive", "anchor": "Which 2nd-level spell makes a metal weapon or armor red-hot so that creatures touching it take fire damage?"}

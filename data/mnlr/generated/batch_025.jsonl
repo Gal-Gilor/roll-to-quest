@@ -1,0 +1,75 @@
+{"passage_id": "1124-0", "question_type": "lookup", "anchor": "What are the six ability scores every creature has under the ability score and modifier rules?"}
+{"passage_id": "1124-0", "question_type": "paraphrase", "anchor": "Under the ability score and modifier rules, do I add the modifier to a d20 roll when I use that ability?"}
+{"passage_id": "1124-0", "question_type": "descriptive", "anchor": "Is there a number tied to each of the six core stats that I add to rolls when a rule calls for it?"}
+{"passage_id": "740-0", "question_type": "lookup", "anchor": "If I scribe a cantrip onto a spell scroll, at what level does the scroll version work?"}
+{"passage_id": "740-0", "question_type": "paraphrase", "anchor": "What does it cost in gold to get a cantrip written onto a scroll?"}
+{"passage_id": "740-0", "question_type": "table", "anchor": "How many days and gold does scribing a 9th-level spell onto a scroll take?"}
+{"passage_id": "52-0", "question_type": "lookup", "anchor": "When a group rides mounts at a travel pace, how long can they go at double the distance?"}
+{"passage_id": "52-0", "question_type": "paraphrase", "anchor": "When setting our travel pace to Fast, which spotting and sneaking rolls get harder?"}
+{"passage_id": "52-0", "question_type": "descriptive", "anchor": "If my group takes it slow over a long journey, do we get an edge on checks for spotting and tracking?"}
+{"passage_id": "52-0", "question_type": "table", "anchor": "How many miles can a group cover in a full day at a Fast travel pace?"}
+{"passage_id": "426-0", "question_type": "lookup", "anchor": "What damage types can I pick for Elemental Affinity as a Draconic Sorcerer?"}
+{"passage_id": "426-0", "question_type": "paraphrase", "anchor": "With Elemental Affinity, can I add my Charisma bonus to a spell's damage when it matches my chosen type?"}
+{"passage_id": "426-0", "question_type": "descriptive", "anchor": "At level 6, what resistance can a dragon-touched sorcerer pick from a short list of elements?"}
+{"passage_id": "978-0", "question_type": "lookup", "anchor": "What bonus does the Magic Weapon spell give to attack rolls and damage rolls?"}
+{"passage_id": "978-0", "question_type": "paraphrase", "anchor": "If I cast Magic Weapon with a level 6 spell slot, how big is the bonus on my sword?"}
+{"passage_id": "978-0", "question_type": "descriptive", "anchor": "Is there a spell I can cast as a Bonus Action to turn my ordinary sword into a magic weapon for up to an hour?"}
+{"passage_id": "1672-0", "question_type": "lookup", "anchor": "Does a monster that needs ammunition for ranged attacks carry its own ammunition?"}
+{"passage_id": "147-3", "question_type": "lookup", "anchor": "What is on the Trinkets table for a d100 roll of 25?"}
+{"passage_id": "147-3", "question_type": "paraphrase", "anchor": "On the Trinkets table, which roll gives a little glass bottle full of fingernail trimmings?"}
+{"passage_id": "147-3", "question_type": "descriptive", "anchor": "What random item is a knife that once belonged to a family member?"}
+{"passage_id": "147-3", "question_type": "table", "anchor": "On the d100 Trinkets table, what item comes up on a roll of 29?"}
+{"passage_id": "1407-4", "question_type": "lookup", "anchor": "How long do the monsters from a Bag of Beans stick around before they disappear?"}
+{"passage_id": "1407-4", "question_type": "paraphrase", "anchor": "If I reach into a Bag of Beans and roll high, could a Bulette come up and attack?"}
+{"passage_id": "1407-4", "question_type": "descriptive", "anchor": "What bag of magic beans releases a handful of bright-pink toads when I reach inside?"}
+{"passage_id": "1407-4", "question_type": "table", "anchor": "How many bright-pink toads come forth from a Bag of Beans on a roll of 51-60?"}
+{"passage_id": "2260-0", "question_type": "lookup", "anchor": "Which damage type is a Nightmare immune to?"}
+{"passage_id": "2260-0", "question_type": "paraphrase", "anchor": "Can a Nightmare grant its rider resistance to fire damage?"}
+{"passage_id": "2260-0", "question_type": "descriptive", "anchor": "What fiend steed sheds bright light in a 10-foot radius and can hover on the air?"}
+{"passage_id": "2260-0", "question_type": "table", "anchor": "What bonus does a Nightmare add to Constitution saving throws?"}
+{"passage_id": "213-0", "question_type": "lookup", "anchor": "What extra damage does the Divine Strike option of Blessed Strikes add on a hit?"}
+{"passage_id": "213-0", "question_type": "paraphrase", "anchor": "With Blessed Strikes, can I add my Wisdom modifier to damage from cleric cantrips?"}
+{"passage_id": "213-0", "question_type": "descriptive", "anchor": "How often per turn at level 7 can a cleric add an extra damage die to a weapon hit?"}
+{"passage_id": "1634-0", "question_type": "lookup", "anchor": "How many ounces of Universal Solvent does a newly found tube contain?"}
+{"passage_id": "1634-0", "question_type": "paraphrase", "anchor": "How much adhesive can a single ounce of Universal Solvent dissolve?"}
+{"passage_id": "1634-0", "question_type": "descriptive", "anchor": "What tube of milky liquid smelling of strong alcohol can melt away sticky glue?"}
+{"passage_id": "608-0", "question_type": "lookup", "anchor": "What ability score is used with a Disguise Kit?"}
+{"passage_id": "608-0", "question_type": "paraphrase", "anchor": "How heavy is a Disguise Kit in pounds?"}
+{"passage_id": "608-0", "question_type": "descriptive", "anchor": "Which tool lets me apply makeup to look like someone else, and what's the check DC?"}
+{"passage_id": "174-0", "question_type": "lookup", "anchor": "What do Barbarians on the Path of the Berserker mainly direct their Rage toward?"}
+{"passage_id": "174-0", "question_type": "paraphrase", "anchor": "Does a Barbarian on the Berserker path enjoy the chaos of a fight?"}
+{"passage_id": "174-0", "question_type": "descriptive", "anchor": "Which barbarian path lets your rage run wild as untamed fury in battle?"}
+{"passage_id": "1538-0", "question_type": "lookup", "anchor": "What is the save DC when a rat swarm is tested against the Pipes of the Sewers?"}
+{"passage_id": "1538-0", "question_type": "paraphrase", "anchor": "Do the Pipes of the Sewers recharge at dawn, and by how many charges?"}
+{"passage_id": "1538-0", "question_type": "descriptive", "anchor": "Which magical pipes can keep rats from attacking me and call swarms of rats to my side?"}
+{"passage_id": "2395-0", "question_type": "lookup", "anchor": "What can the wearer of a Shield Guardian's amulet do to call the guardian?"}
+{"passage_id": "2395-0", "question_type": "paraphrase", "anchor": "Does a Shield Guardian regain health each turn, and how much?"}
+{"passage_id": "2395-0", "question_type": "descriptive", "anchor": "What bound construct takes half the damage its amulet-wearer suffers, within 60 feet?"}
+{"passage_id": "2395-0", "question_type": "table", "anchor": "How high is a Shield Guardian's Charisma as an ability score?"}
+{"passage_id": "975-1", "question_type": "lookup", "anchor": "When the Magic Jar spell ends, what happens to the container?"}
+{"passage_id": "975-1", "question_type": "paraphrase", "anchor": "With Magic Jar, if my own body is dead or over 100 feet away, do I die?"}
+{"passage_id": "975-1", "question_type": "descriptive", "anchor": "What spell lets my soul leave my body to possess a creature, with my soul stored in a container?"}
+{"passage_id": "463-0", "question_type": "lookup", "anchor": "What's the prerequisite for taking the Otherworldly Leap invocation?"}
+{"passage_id": "463-0", "question_type": "paraphrase", "anchor": "Can a Warlock cast Jump on themselves for free with Otherworldly Leap?"}
+{"passage_id": "463-0", "question_type": "descriptive", "anchor": "Which Warlock option lets me cast a jumping spell on myself without using a spell slot?"}
+{"passage_id": "158-0", "question_type": "lookup", "anchor": "What advantage do my Strength attacks get when I use Reckless Attack?"}
+{"passage_id": "158-0", "question_type": "paraphrase", "anchor": "If I go all-out with Reckless Attack, do enemies get an edge against me?"}
+{"passage_id": "158-0", "question_type": "descriptive", "anchor": "When can a Barbarian choose to throw defense aside on the first attack roll of a turn?"}
+{"passage_id": "584-0", "question_type": "lookup", "anchor": "What penalty applies if I wear Light, Medium, or Heavy armor without training in it?"}
+{"passage_id": "584-0", "question_type": "paraphrase", "anchor": "Without training in Light, Medium, or Heavy armor, can I still cast spells?"}
+{"passage_id": "638-0", "question_type": "lookup", "anchor": "How many sheets of paper can a Map or Scroll Case hold?"}
+{"passage_id": "638-0", "question_type": "paraphrase", "anchor": "How many sheets of parchment fit in a Map or Scroll Case?"}
+{"passage_id": "638-0", "question_type": "descriptive", "anchor": "What cheap 1 GP case holds up to ten sheets of paper for my maps?"}
+{"passage_id": "795-0", "question_type": "lookup", "anchor": "Which saving throws does Beacon of Hope give creatures Advantage on?"}
+{"passage_id": "795-0", "question_type": "paraphrase", "anchor": "With Beacon of Hope, do healing spells always give me their maximum amount?"}
+{"passage_id": "795-0", "question_type": "descriptive", "anchor": "Which Cleric spell lets me pick any number of nearby allies to get Advantage on Wisdom saves?"}
+{"passage_id": "839-0", "question_type": "lookup", "anchor": "How many gallons of water can Create or Destroy Water make at once?"}
+{"passage_id": "839-0", "question_type": "paraphrase", "anchor": "With Create or Destroy Water, can I turn a 30-foot cube into rain that puts out flames?"}
+{"passage_id": "839-0", "question_type": "descriptive", "anchor": "Can a spell destroy fog in a cube or pour out clean water into a vessel?"}
+{"passage_id": "403-0", "question_type": "lookup", "anchor": "How many Sorcery Points does a 2nd-level Sorcerer have with Font of Magic?"}
+{"passage_id": "403-0", "question_type": "paraphrase", "anchor": "With Font of Magic, can I trade a spell slot for Sorcery Points without using an action?"}
+{"passage_id": "403-0", "question_type": "descriptive", "anchor": "What is the highest spell level a sorcerer can conjure from their magical wellspring points?"}
+{"passage_id": "2670-0", "question_type": "lookup", "anchor": "How fast does a Draft Horse move on foot?"}
+{"passage_id": "2670-0", "question_type": "paraphrase", "anchor": "How much damage does a Draft Horse's hoof attack do?"}
+{"passage_id": "2670-0", "question_type": "descriptive", "anchor": "What large, unaligned beast has 15 hit points and a 40-foot speed?"}
+{"passage_id": "2670-0", "question_type": "table", "anchor": "What Intelligence modifier does a Draft Horse have?"}

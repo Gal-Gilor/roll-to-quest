@@ -1,0 +1,79 @@
+{"passage_id": "1381-0", "question_type": "lookup", "anchor": "Which skill must a character be proficient in to craft magic items?"}
+{"passage_id": "1381-0", "question_type": "paraphrase", "anchor": "Do I personally need Arcana training before I can build a magic item?"}
+{"passage_id": "1381-0", "question_type": "descriptive", "anchor": "Before crafting a magic item, what skill do my helpers need to be trained in?"}
+{"passage_id": "1503-0", "question_type": "lookup", "anchor": "What DC must a Strength (Athletics) check beat to break Iron Bands?"}
+{"passage_id": "1503-0", "question_type": "paraphrase", "anchor": "After Iron Bands catch someone, what do I do with my bonus action to free them?"}
+{"passage_id": "1503-0", "question_type": "descriptive", "anchor": "What rusty iron ball can I hurl at a foe to tangle them in metal strands?"}
+{"passage_id": "1456-0", "question_type": "lookup", "anchor": "How long does the Invisible condition last after Dust of Disappearance is thrown?"}
+{"passage_id": "1456-0", "question_type": "paraphrase", "anchor": "Once someone hidden by Dust of Disappearance attacks, hits, or casts a spell, do they stay hidden?"}
+{"passage_id": "1456-0", "question_type": "descriptive", "anchor": "What single-use powder that looks like fine sand can make everyone nearby vanish from sight?"}
+{"passage_id": "840-1", "question_type": "lookup", "anchor": "How many Ghouls can I animate or control with a level 7 spell slot in Create Undead?"}
+{"passage_id": "840-1", "question_type": "paraphrase", "anchor": "If I cast Create Undead with a level 9 slot, what mix of undead can I control?"}
+{"passage_id": "840-1", "question_type": "descriptive", "anchor": "Which spell lets me command two Ghasts or Wights when I spend a level 8 spell slot?"}
+{"passage_id": "1821-0", "question_type": "lookup", "anchor": "How much Lightning damage does an Adult Bronze Dragon's Lightning Breath deal on a failed save?"}
+{"passage_id": "1821-0", "question_type": "paraphrase", "anchor": "How often per day can an Adult Bronze Dragon choose to succeed on a save it failed?"}
+{"passage_id": "1821-0", "question_type": "descriptive", "anchor": "Which lawful good Huge metallic dragon can breathe both air and water and makes three Rend attacks?"}
+{"passage_id": "1821-0", "question_type": "table", "anchor": "How high is an Adult Bronze Dragon's Constitution score?"}
+{"passage_id": "1858-0", "question_type": "lookup", "anchor": "When a Clay Golem is hit with Acid damage, what happens to its Hit Points?"}
+{"passage_id": "1858-0", "question_type": "paraphrase", "anchor": "Does a Clay Golem get an edge on its saves against magic like spells?"}
+{"passage_id": "1858-0", "question_type": "descriptive", "anchor": "Which large construct can't change its shape and might go berserk once badly wounded?"}
+{"passage_id": "1858-0", "question_type": "table", "anchor": "What Charisma score does a Clay Golem have?"}
+{"passage_id": "22-0", "question_type": "lookup", "anchor": "When I have Advantage and a feature lets me reroll my d20, how many of the dice can I change?"}
+{"passage_id": "22-0", "question_type": "paraphrase", "anchor": "Can I spend Heroic Inspiration to reroll both dice when I have an edge on a roll?"}
+{"passage_id": "22-0", "question_type": "descriptive", "anchor": "If I roll a 3 and an 18 on a check with an edge, can I reroll both using one inspiration?"}
+{"passage_id": "1240-0", "question_type": "lookup", "anchor": "If I'm protected against a damage type, how much of that damage do I take?"}
+{"passage_id": "1240-0", "question_type": "paraphrase", "anchor": "Can protection against a damage type stack, cutting the same hit in half twice?"}
+{"passage_id": "1240-0", "question_type": "descriptive", "anchor": "What defense halves a certain type of incoming damage, rounded down, so a hit hurts less?"}
+{"passage_id": "1252-0", "question_type": "lookup", "anchor": "If an effect halves my walking movement and I have a flying movement, what happens to my flying movement?"}
+{"passage_id": "1252-0", "question_type": "paraphrase", "anchor": "Once I've already moved some distance, does switching to another movement type reset my allowance?"}
+{"passage_id": "1252-0", "question_type": "descriptive", "anchor": "If a creature has walking, climbing, or flying movement, can it change between them in the middle of a turn?"}
+{"passage_id": "157-0", "question_type": "lookup", "anchor": "Which saves does Danger Sense give me an edge on?"}
+{"passage_id": "157-0", "question_type": "paraphrase", "anchor": "If I'm Incapacitated, does Danger Sense still give me an edge on my dodge saves?"}
+{"passage_id": "157-0", "question_type": "descriptive", "anchor": "What barbarian perk gives an uncanny sense of trouble, helping me dodge perils with an edge?"}
+{"passage_id": "768-0", "question_type": "lookup", "anchor": "How much Acid damage does Acid Arrow deal on its initial hit?"}
+{"passage_id": "768-0", "question_type": "paraphrase", "anchor": "If I miss with Acid Arrow, does the target still take some acid damage?"}
+{"passage_id": "768-0", "question_type": "descriptive", "anchor": "What level 2 spell hurls a shimmering green projectile that sprays corrosive liquid on a hit?"}
+{"passage_id": "776-0", "question_type": "lookup", "anchor": "What material components does Animate Dead require?"}
+{"passage_id": "776-0", "question_type": "paraphrase", "anchor": "If I cast Animate Dead, how long does the undead stay under my control before I must recast?"}
+{"passage_id": "776-0", "question_type": "descriptive", "anchor": "Which level 3 necromancy spell turns a corpse of a Medium or Small humanoid into a zombie?"}
+{"passage_id": "923-0", "question_type": "lookup", "anchor": "How wide an area can Glyph of Warding cover with a single glyph?"}
+{"passage_id": "923-0", "question_type": "paraphrase", "anchor": "If someone carries the object with my Glyph of Warding more than 10 feet away, does it still go off?"}
+{"passage_id": "923-0", "question_type": "descriptive", "anchor": "Which level 3 abjuration spell inscribes a nearly invisible rune that triggers when a chosen condition is met?"}
+{"passage_id": "1055-0", "question_type": "lookup", "anchor": "How much extra Radiant damage does Shining Smite add when it hits?"}
+{"passage_id": "1055-0", "question_type": "paraphrase", "anchor": "Can a foe I hit with Shining Smite still turn invisible to hide from my attacks?"}
+{"passage_id": "1055-0", "question_type": "descriptive", "anchor": "What paladin spell is cast as a bonus action right after I hit with a melee weapon, adding extra Radiant damage?"}
+{"passage_id": "2624-0", "question_type": "lookup", "anchor": "How much damage does a Badger's bite deal on a hit?"}
+{"passage_id": "2624-0", "question_type": "paraphrase", "anchor": "Does a Badger take less harm from toxins than normal?"}
+{"passage_id": "2624-0", "question_type": "descriptive", "anchor": "Which tiny beast can burrow through soil and sees in the dark out to 30 feet?"}
+{"passage_id": "2624-0", "question_type": "table", "anchor": "What is a Badger's Intelligence ability score?"}
+{"passage_id": "1901-0", "question_type": "lookup", "anchor": "How many Hit Points does a Cultist have?"}
+{"passage_id": "1901-0", "question_type": "paraphrase", "anchor": "How good is a Cultist at lying and bluffing people?"}
+{"passage_id": "1901-0", "question_type": "descriptive", "anchor": "Which neutral humanoid carries a sickle and leather armor and has a Challenge Rating of 1/8?"}
+{"passage_id": "1901-0", "question_type": "table", "anchor": "What Wisdom score does a Cultist have?"}
+{"passage_id": "140-0", "question_type": "lookup", "anchor": "When multiclassing, when do I gain a class's level 1 Hit Points?"}
+{"passage_id": "140-0", "question_type": "paraphrase", "anchor": "If I'm a level 5 Fighter and a level 5 Paladin, how many d10 healing dice do I have altogether?"}
+{"passage_id": "140-0", "question_type": "descriptive", "anchor": "If my two classes have different hit die sizes, can I pool all my dice together?"}
+{"passage_id": "1141-1", "question_type": "lookup", "anchor": "Which two damage types are objects immune to when they're broken or smashed?"}
+{"passage_id": "1141-1", "question_type": "paraphrase", "anchor": "If an object has no ability scores, can it make ability checks, or does it fail every save?"}
+{"passage_id": "1141-1", "question_type": "descriptive", "anchor": "What extra toughness do huge structures like castle walls get, so small hits barely dent them?"}
+{"passage_id": "673-0", "question_type": "lookup", "anchor": "How many handwritten words can one sheet of Parchment hold?"}
+{"passage_id": "673-0", "question_type": "paraphrase", "anchor": "How many silver pieces does a sheet of Parchment cost?"}
+{"passage_id": "673-0", "question_type": "descriptive", "anchor": "What writing material costing one silver piece holds around 250 handwritten words on a single sheet?"}
+{"passage_id": "1376-0", "question_type": "lookup", "anchor": "Which spell reveals how many charges a magic item has remaining?"}
+{"passage_id": "1376-0", "question_type": "paraphrase", "anchor": "If I'm attuned to a magic item, do I know how many uses it has left and how many it gets back?"}
+{"passage_id": "1376-0", "question_type": "descriptive", "anchor": "Which magic items must have a limited pool of uses spent before their powers activate?"}
+{"passage_id": "1618-1", "question_type": "lookup", "anchor": "What saving throw DC does the thunderclap from Staff of Thunder and Lightning use?"}
+{"passage_id": "1618-1", "question_type": "paraphrase", "anchor": "If a creature fails the save against Staff of Thunder and Lightning's thunderclap, how long is it deafened?"}
+{"passage_id": "1618-1", "question_type": "descriptive", "anchor": "Which magic rod can unleash a thunderclap audible 600 feet away and deafen creatures nearby?"}
+{"passage_id": "1197-0", "question_type": "lookup", "anchor": "Which condition do I suffer from while trying to see something in a heavily obscured space?"}
+{"passage_id": "1197-0", "question_type": "paraphrase", "anchor": "Does searching for a target in a thick, foggy area leave me effectively blind?"}
+{"passage_id": "1197-0", "question_type": "descriptive", "anchor": "What condition afflicts me when I'm trying to make out things hidden in pitch darkness or thick fog?"}
+{"passage_id": "816-0", "question_type": "lookup", "anchor": "How much Poison damage does Cloudkill deal on a failed Constitution save?"}
+{"passage_id": "816-0", "question_type": "paraphrase", "anchor": "How many times per turn does a creature inside Cloudkill's fog have to make the save?"}
+{"passage_id": "816-0", "question_type": "descriptive", "anchor": "Which level 5 conjuration spell makes a yellow-green fog ball 20 feet across that drifts away from me each turn?"}
+{"passage_id": "563-0", "question_type": "lookup", "anchor": "When I attack with a light weapon, can I make a second attack as a Bonus Action with a different light weapon?"}
+{"passage_id": "563-0", "question_type": "paraphrase", "anchor": "When I make that off-hand bonus attack, do I add my ability modifier to the damage?"}
+{"passage_id": "563-0", "question_type": "descriptive", "anchor": "Which rule lets me strike with a shortsword in one hand and a dagger in the other as a bonus action?"}
+{"passage_id": "130-0", "question_type": "lookup", "anchor": "Which character levels belong to the first tier of play?"}
+{"passage_id": "130-0", "question_type": "paraphrase", "anchor": "What big choice do I make about my class at the very start, beyond my starting features?"}
+{"passage_id": "130-0", "question_type": "descriptive", "anchor": "In the early stage of a campaign, what kinds of threats face characters, like dangers to farmsteads and villages?"}

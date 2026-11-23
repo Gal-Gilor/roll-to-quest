@@ -1,0 +1,75 @@
+{"passage_id": "1741-1", "question_type": "lookup", "anchor": "What is the damage of the Barbed Devil's Hurl Flame attack on a hit?"}
+{"passage_id": "1741-1", "question_type": "paraphrase", "anchor": "How far away can a Barbed Devil's fire attack reach me?"}
+{"passage_id": "1741-1", "question_type": "descriptive", "anchor": "Which fiend's ranged flame attack sets flammable objects that aren't carried or worn on fire?"}
+{"passage_id": "1322-0", "question_type": "lookup", "anchor": "What is the Constitution save DC against the 150 GP ingested poison?"}
+{"passage_id": "1322-0", "question_type": "paraphrase", "anchor": "If I resist the 150 GP ingested poison with a successful save, do I still take any damage?"}
+{"passage_id": "1322-0", "question_type": "descriptive", "anchor": "Which swallowed poison leaves a victim Poisoned for a full day after a failed Constitution save?"}
+{"passage_id": "353-0", "question_type": "lookup", "anchor": "What die do I roll for Temporary Hit Points with the Ranger's Tireless feature?"}
+{"passage_id": "353-0", "question_type": "paraphrase", "anchor": "After a long rest, how do I get back my Tireless temporary health uses?"}
+{"passage_id": "353-0", "question_type": "descriptive", "anchor": "Which Ranger feature cuts my exhaustion by one level every time I finish a short rest?"}
+{"passage_id": "442-0", "question_type": "lookup", "anchor": "Which Warlock feature do I use to trigger Eldritch Master's slot recovery?"}
+{"passage_id": "442-0", "question_type": "paraphrase", "anchor": "Once I use Magical Cunning, does Eldritch Master give back just one slot or everything?"}
+{"passage_id": "442-0", "question_type": "descriptive", "anchor": "What level 20 Warlock feature restores every used spell slot after I use another class ability?"}
+{"passage_id": "991-0", "question_type": "lookup", "anchor": "What is the range of the Mind Spike spell in feet?"}
+{"passage_id": "991-0", "question_type": "paraphrase", "anchor": "If an enemy resists my Mind Spike, how much Psychic damage do they still take?"}
+{"passage_id": "991-0", "question_type": "descriptive", "anchor": "Which level 2 spell drives psionic energy into a creature's mind and tracks its location after a failed save?"}
+{"passage_id": "237-0", "question_type": "lookup", "anchor": "How many uses of Wild Shape must I spend to get a level 1 spell slot with Wild Resurgence?"}
+{"passage_id": "237-0", "question_type": "paraphrase", "anchor": "How often can I use Wild Resurgence to get back a Wild Shape use?"}
+{"passage_id": "237-0", "question_type": "descriptive", "anchor": "Which Druid feature can convert a Wild Shape use into a first-level spell slot, limited until my next long rest?"}
+{"passage_id": "300-0", "question_type": "lookup", "anchor": "How many Focus Points does Perfect Focus restore me to on Initiative if I have 3 or fewer?"}
+{"passage_id": "300-0", "question_type": "paraphrase", "anchor": "Does Perfect Focus still work if I use Uncanny Metabolism when I roll for Initiative?"}
+{"passage_id": "300-0", "question_type": "descriptive", "anchor": "Which level 15 Monk feature refills Focus Points as soon as I roll Initiative?"}
+{"passage_id": "364-0", "question_type": "lookup", "anchor": "What does the Escape the Horde option of Defensive Tactics do?"}
+{"passage_id": "364-0", "question_type": "paraphrase", "anchor": "How often can I switch my Defensive Tactics choice to the other option?"}
+{"passage_id": "364-0", "question_type": "descriptive", "anchor": "Which Hunter option gives Disadvantage to a creature's other attacks against me after it hits me this turn?"}
+{"passage_id": "1393-0", "question_type": "lookup", "anchor": "What does a creature name in bold type inside a magic item description signal?"}
+{"passage_id": "1393-0", "question_type": "paraphrase", "anchor": "In what order are the magic item entries arranged in the rulebook?"}
+{"passage_id": "1393-0", "question_type": "descriptive", "anchor": "Where would I look up how to read a creature's stat block when a magic item mentions one?"}
+{"passage_id": "941-0", "question_type": "lookup", "anchor": "How long does it take the creatures to consume a Heroes' Feast after it is conjured?"}
+{"passage_id": "941-0", "question_type": "paraphrase", "anchor": "How many party members can sit down to a Heroes' Feast together?"}
+{"passage_id": "941-0", "question_type": "descriptive", "anchor": "Which level 6 spell gives everyone who eats its feast poison resistance and immunity to two conditions for 24 hours?"}
+{"passage_id": "2408-0", "question_type": "lookup", "anchor": "What Constitution save DC does an Ancient Silver Dragon's Paralyzing Breath use?"}
+{"passage_id": "2408-0", "question_type": "paraphrase", "anchor": "How many Rend attacks does an Ancient Silver Dragon make when it uses Multiattack?"}
+{"passage_id": "2408-0", "question_type": "descriptive", "anchor": "Which lawful good dragon can make a 90-foot cone of cold breath, dealing 15d8 Cold damage on a failed save?"}
+{"passage_id": "2408-0", "question_type": "table", "anchor": "What does an Ancient Silver Dragon add to Wisdom saving throws?"}
+{"passage_id": "1431-0", "question_type": "lookup", "anchor": "How far away can the Chime of Opening's ringing be heard?"}
+{"passage_id": "1431-0", "question_type": "paraphrase", "anchor": "How many times can I strike the Chime of Opening before it cracks and stops working?"}
+{"passage_id": "1431-0", "question_type": "descriptive", "anchor": "What rare wondrous item shaped like a hollow tube can open locked things when struck?"}
+{"passage_id": "458-0", "question_type": "lookup", "anchor": "How much extra damage does the warlock invocation for pact weapons deal once per turn?"}
+{"passage_id": "458-0", "question_type": "paraphrase", "anchor": "If I spend a Hit Point Die with my pact weapon invocation, how much health do I get back?"}
+{"passage_id": "458-0", "question_type": "descriptive", "anchor": "Which Warlock invocation needs Pact of the Blade and level 9 before it can be taken?"}
+{"passage_id": "1267-0", "question_type": "lookup", "anchor": "Does teleportation ever provoke Opportunity Attacks from nearby enemies?"}
+{"passage_id": "1267-0", "question_type": "paraphrase", "anchor": "If I use teleportation while touching another creature, does that creature come along?"}
+{"passage_id": "1267-0", "question_type": "descriptive", "anchor": "If the spot I magically vanish into is occupied, where do I reappear?"}
+{"passage_id": "414-0", "question_type": "lookup", "anchor": "How many Sorcery Points does it cost to reroll spell damage dice as a Sorcerer metamagic?"}
+{"passage_id": "414-0", "question_type": "paraphrase", "anchor": "Can a Sorcerer use the metamagic that rerolls spell damage on a spell that already has another metamagic applied?"}
+{"passage_id": "414-0", "question_type": "descriptive", "anchor": "Which Sorcerer option lets me reroll up to my Charisma modifier's worth of spell damage dice?"}
+{"passage_id": "1474-0", "question_type": "lookup", "anchor": "How much extra Fire damage does the Flame Tongue deal on a hit while its flames are lit?"}
+{"passage_id": "1474-0", "question_type": "paraphrase", "anchor": "How far does the light from the Flame Tongue's flames reach?"}
+{"passage_id": "1474-0", "question_type": "descriptive", "anchor": "How do I put out the flames on a magic weapon I've set alight with a bonus action command word?"}
+{"passage_id": "610-0", "question_type": "lookup", "anchor": "Which ability score do I roll with a Gaming Set?"}
+{"passage_id": "610-0", "question_type": "paraphrase", "anchor": "How much does a dragonchess set cost as a Gaming Set variant?"}
+{"passage_id": "610-0", "question_type": "descriptive", "anchor": "What DC lets me notice that someone at the table is cheating in a dice or cards game?"}
+{"passage_id": "1649-15", "question_type": "lookup", "anchor": "Which d100 roll range on a Wand of Wonder gives me the Invisibility effect?"}
+{"passage_id": "1649-15", "question_type": "paraphrase", "anchor": "If my Wand of Wonder roll is an 85, does anything change at the spot I aimed at?"}
+{"passage_id": "1649-15", "question_type": "descriptive", "anchor": "Which wand's random table can make me invisible on a roll in the mid-80s?"}
+{"passage_id": "1649-15", "question_type": "table", "anchor": "On the 83-87 row of the Wand of Wonder table, what spell does the Effect column cast on me?"}
+{"passage_id": "316-0", "question_type": "lookup", "anchor": "How many kinds of weapons does Weapon Mastery let a Paladin use mastery properties for?"}
+{"passage_id": "316-0", "question_type": "paraphrase", "anchor": "With Weapon Mastery, how often can I change which weapon kinds I picked?"}
+{"passage_id": "316-0", "question_type": "descriptive", "anchor": "Which level 1 Paladin ability gives me the special property effects of certain weapon types I'm proficient with?"}
+{"passage_id": "1102-0", "question_type": "lookup", "anchor": "How much Necrotic damage does Vampiric Touch deal on a hit when cast at its base level?"}
+{"passage_id": "1102-0", "question_type": "paraphrase", "anchor": "How much health do I get back from Vampiric Touch if it hits for 12 damage?"}
+{"passage_id": "1102-0", "question_type": "descriptive", "anchor": "Which level 3 necromancy spell lets me make repeated touch attacks to drain life for up to a minute?"}
+{"passage_id": "1365-0", "question_type": "lookup", "anchor": "Can I use the same magic scroll again after activating it once?"}
+{"passage_id": "1365-0", "question_type": "paraphrase", "anchor": "Who can try to activate a magic scroll, if they can understand written language?"}
+{"passage_id": "1365-0", "question_type": "descriptive", "anchor": "What magic item is a parchment roll with a written spell, usually kept in an ivory or leather tube?"}
+{"passage_id": "31-0", "question_type": "lookup", "anchor": "How many actions can a character take at one time in the game?"}
+{"passage_id": "31-0", "question_type": "paraphrase", "anchor": "Can I Search a room for traps and Help a friend open a stuck door in the same moment?"}
+{"passage_id": "31-0", "question_type": "descriptive", "anchor": "When I'm trying to influence a creature in a conversation, can I also read its body language at the same time?"}
+{"passage_id": "567-0", "question_type": "lookup", "anchor": "Can I draw a weapon with the Thrown property as part of making a ranged attack with it?"}
+{"passage_id": "567-0", "question_type": "paraphrase", "anchor": "If I throw a melee weapon, which ability modifier goes on the attack and damage rolls?"}
+{"passage_id": "567-0", "question_type": "descriptive", "anchor": "Which weapon property lets me hurl a weapon at range?"}
+{"passage_id": "26-1", "question_type": "lookup", "anchor": "What kind of thing does the Perception skill let me notice?"}
+{"passage_id": "26-1", "question_type": "paraphrase", "anchor": "Among the skills, which one covers soothing a spooked horse?"}
+{"passage_id": "26-1", "question_type": "descriptive", "anchor": "Which skill covers telling a convincing lie or wearing a disguise convincingly?"}
+{"passage_id": "26-1", "question_type": "table", "anchor": "In the skills table, what ability does the Investigation row list?"}

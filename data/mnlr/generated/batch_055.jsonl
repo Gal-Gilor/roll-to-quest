@@ -1,0 +1,71 @@
+{"passage_id": "1524-0", "question_type": "lookup", "anchor": "What does the Necklace of Adaptation let me do while wearing it?"}
+{"passage_id": "1524-0", "question_type": "paraphrase", "anchor": "Does the Necklace of Adaptation give me advantage on rolls to avoid or end being poisoned?"}
+{"passage_id": "1524-0", "question_type": "descriptive", "anchor": "What jewelry lets me breathe normally in any environment and needs attunement?"}
+{"passage_id": "151-2", "question_type": "lookup", "anchor": "Which Barbarian level after 12 grants an Ability Score Improvement?"}
+{"passage_id": "151-2", "question_type": "paraphrase", "anchor": "At what level can a Barbarian pick up an Epic Boon, the big late-game reward?"}
+{"passage_id": "151-2", "question_type": "descriptive", "anchor": "When does a barbarian's rage damage bonus first climb to +4 on the way to level 20?"}
+{"passage_id": "151-2", "question_type": "table", "anchor": "How many Rages does a Barbarian have at level 18?"}
+{"passage_id": "1130-0", "question_type": "lookup", "anchor": "How many basic shapes can an area of effect take in the rules?"}
+{"passage_id": "1130-0", "question_type": "paraphrase", "anchor": "Are spots behind total cover left out of an area of effect if every straight line to them is blocked?"}
+{"passage_id": "1130-0", "question_type": "descriptive", "anchor": "If someone aims a blast at a point they can't see behind a wall, where does its origin appear?"}
+{"passage_id": "352-0", "question_type": "lookup", "anchor": "How many skills does a Ranger get Expertise in at level 9?"}
+{"passage_id": "352-0", "question_type": "paraphrase", "anchor": "At level 9, can a Ranger choose skills they're already proficient in to get Expertise?"}
+{"passage_id": "352-0", "question_type": "descriptive", "anchor": "Which Ranger level lets you pick two skills to become especially good at?"}
+{"passage_id": "1285-0", "question_type": "lookup", "anchor": "In creating a background, what is it meant to represent?"}
+{"passage_id": "1285-0", "question_type": "paraphrase", "anchor": "When creating a background, can I invent my own to suit my campaign's world?"}
+{"passage_id": "1285-0", "question_type": "descriptive", "anchor": "Is there a step-by-step guide for designing backgrounds tailored to my own world?"}
+{"passage_id": "500-0", "question_type": "lookup", "anchor": "How much Necrotic damage does Overchannel deal per spell level on its second use?"}
+{"passage_id": "500-0", "question_type": "paraphrase", "anchor": "Can Overchannel's backlash get past resistance and immunity to damage?"}
+{"passage_id": "500-0", "question_type": "descriptive", "anchor": "What wizard power lets me max out a damaging spell, but repeat use hurts me?"}
+{"passage_id": "645-0", "question_type": "lookup", "anchor": "What bonus does wearing a Costume give on ability checks to impersonate someone?"}
+{"passage_id": "645-0", "question_type": "paraphrase", "anchor": "How much gold does a Costume cost to buy?"}
+{"passage_id": "645-0", "question_type": "descriptive", "anchor": "What outfit helps me convincingly pretend to be a certain person or type of person?"}
+{"passage_id": "1441-0", "question_type": "lookup", "anchor": "What save DC does the Crystal Ball of Mind Reading use for its Scrying spell?"}
+{"passage_id": "1441-0", "question_type": "paraphrase", "anchor": "Do I have to keep focusing to maintain Detect Thoughts from the Crystal Ball of Mind Reading?"}
+{"passage_id": "1441-0", "question_type": "descriptive", "anchor": "What crystal orb lets me sense creatures' thoughts within 30 feet while touching it?"}
+{"passage_id": "1683-0", "question_type": "lookup", "anchor": "In Saving Throw Effect Notation, what does 'Half damage only' mean on a successful save?"}
+{"passage_id": "1683-0", "question_type": "paraphrase", "anchor": "What does the saving throw effect notation tell me about the DC and who has to roll?"}
+{"passage_id": "1683-0", "question_type": "descriptive", "anchor": "If a spell deals damage and I pass the save, do I take only half and avoid the rest of its effect?"}
+{"passage_id": "738-0", "question_type": "lookup", "anchor": "How many hours must I work on scribing a spell scroll each day?"}
+{"passage_id": "738-0", "question_type": "paraphrase", "anchor": "When scribing a scroll, do the days of work have to be back to back?"}
+{"passage_id": "738-0", "question_type": "descriptive", "anchor": "What determines how much time and gold it takes to make a spell scroll?"}
+{"passage_id": "1105-0", "question_type": "lookup", "anchor": "How far away from me can Wall of Fire be created?"}
+{"passage_id": "1105-0", "question_type": "paraphrase", "anchor": "If I cast Wall of Fire with a bigger slot, how much more damage does it deal?"}
+{"passage_id": "1105-0", "question_type": "descriptive", "anchor": "What spell makes a fire barrier shaped as a ring up to 20 feet across that blocks sight?"}
+{"passage_id": "999-0", "question_type": "lookup", "anchor": "How big can the area of terrain be that Move Earth reshapes?"}
+{"passage_id": "999-0", "question_type": "paraphrase", "anchor": "Can Move Earth be used to shift stone walls or carved stone buildings?"}
+{"passage_id": "999-0", "question_type": "descriptive", "anchor": "What spell reshapes dirt into hills, trenches or pillars, taking about ten minutes to finish?"}
+{"passage_id": "1654-0", "question_type": "lookup", "anchor": "How many charges do the Winged Boots have?"}
+{"passage_id": "1654-0", "question_type": "paraphrase", "anchor": "If my Winged Boots' flight wears off while I'm in the air, how fast do I drop?"}
+{"passage_id": "1654-0", "question_type": "descriptive", "anchor": "What footwear gives a flight speed of 30 feet for one hour per use, with limited charges?"}
+{"passage_id": "1653-0", "question_type": "lookup", "anchor": "What save DC does the Wind Fan's Gust of Wind use?"}
+{"passage_id": "1653-0", "question_type": "paraphrase", "anchor": "How does the chance of my Wind Fan failing grow each time I use it before dawn?"}
+{"passage_id": "1653-0", "question_type": "descriptive", "anchor": "What fan can cast a wind spell from it, but might tear into useless rags after repeated use?"}
+{"passage_id": "1563-2", "question_type": "lookup", "anchor": "Which spells does the Ring of Elemental Command let me cast on the Fire plane?"}
+{"passage_id": "1563-2", "question_type": "paraphrase", "anchor": "Is there a spell on the Ring of Elemental Command's Air plane list that has run out of charges?"}
+{"passage_id": "1563-2", "question_type": "descriptive", "anchor": "What magic ring stores spells for elemental planes, including a Tsunami and a Water Walk?"}
+{"passage_id": "1563-2", "question_type": "table", "anchor": "How many charges does the Ring of Elemental Command have for Tsunami on the Water plane?"}
+{"passage_id": "1664-0", "question_type": "lookup", "anchor": "In a monster's stat block, what does the Initiative entry's number in parentheses represent?"}
+{"passage_id": "1664-0", "question_type": "paraphrase", "anchor": "If I skip rolling a monster's Initiative, which number do I use instead?"}
+{"passage_id": "1664-0", "question_type": "descriptive", "anchor": "What usually determines a monster's turn-order bonus, and what can add to it?"}
+{"passage_id": "2912-0", "question_type": "lookup", "anchor": "What is the Passive Perception score of a Swarm of Piranhas?"}
+{"passage_id": "2912-0", "question_type": "paraphrase", "anchor": "What dice make up a Swarm of Piranhas' health total?"}
+{"passage_id": "2912-0", "question_type": "descriptive", "anchor": "Which swarm of tiny fish can breathe only underwater and squeeze through small openings?"}
+{"passage_id": "2912-0", "question_type": "table", "anchor": "What Wisdom modifier does a Swarm of Piranhas have?"}
+{"passage_id": "2935-0", "question_type": "lookup", "anchor": "What reach does the Tyrannosaurus Rex's Tail attack have?"}
+{"passage_id": "2935-0", "question_type": "paraphrase", "anchor": "How much health does a Tyrannosaurus Rex have, and how is it rolled?"}
+{"passage_id": "2935-0", "question_type": "descriptive", "anchor": "Which huge dinosaur can grab a target with its bite and knock a foe prone with its tail?"}
+{"passage_id": "2935-0", "question_type": "table", "anchor": "What Strength score does a Tyrannosaurus Rex have?"}
+{"passage_id": "1475-0", "question_type": "lookup", "anchor": "How much does a Folding Boat weigh when it's in box form?"}
+{"passage_id": "1475-0", "question_type": "paraphrase", "anchor": "What happens to my Folding Boat if the rowboat or keelboat takes enough damage to hit zero health?"}
+{"passage_id": "1475-0", "question_type": "descriptive", "anchor": "What magic box unfolds into a boat, and folds back up once no creatures are aboard?"}
+{"passage_id": "2132-0", "question_type": "lookup", "anchor": "How many heads does a Hydra start with?"}
+{"passage_id": "2132-0", "question_type": "paraphrase", "anchor": "If a Hydra gets hit for 25 or more in one turn, what happens to its heads?"}
+{"passage_id": "2132-0", "question_type": "descriptive", "anchor": "Which giant multi-headed beast regrows heads at the end of its turn unless it took fire damage since its last turn?"}
+{"passage_id": "2132-0", "question_type": "table", "anchor": "What Constitution modifier does a Hydra have?"}
+{"passage_id": "758-0", "question_type": "lookup", "anchor": "What kind of voice must the Verbal component of a spell use?"}
+{"passage_id": "758-0", "question_type": "paraphrase", "anchor": "If I'm gagged, can I still cast spells that have a Verbal component?"}
+{"passage_id": "758-0", "question_type": "descriptive", "anchor": "What part of casting is chanting nonsense-sounding words that a silent area blocks?"}
+{"passage_id": "1031-0", "question_type": "lookup", "anchor": "How far away can the target of Ray of Sickness be?"}
+{"passage_id": "1031-0", "question_type": "paraphrase", "anchor": "Does Ray of Sickness need me to make a roll to hit the target?"}
+{"passage_id": "1031-0", "question_type": "descriptive", "anchor": "What first-level spell shoots a greenish ray that poisons and leaves a foe poisoned until the end of my next turn?"}

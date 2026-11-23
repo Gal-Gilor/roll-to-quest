@@ -1,0 +1,75 @@
+{"passage_id": "2144-0", "question_type": "lookup", "anchor": "What must an Incubus finish before it can shape-shift into a Succubus?"}
+{"passage_id": "2144-0", "question_type": "paraphrase", "anchor": "How long does an Incubus's hex stick around after its Restless Touch lands?"}
+{"passage_id": "2144-0", "question_type": "descriptive", "anchor": "Which fiend's touch leaves a curse that stops me gaining any benefit from finishing Short Rests?"}
+{"passage_id": "2144-0", "question_type": "table", "anchor": "How high is an Incubus's Charisma score?"}
+{"passage_id": "2382-1", "question_type": "lookup", "anchor": "What Wisdom saving throw DC does a Sea Hag's Death Glare use?"}
+{"passage_id": "2382-1", "question_type": "paraphrase", "anchor": "If a creature with more than 20 health fails to resist a Sea Hag's Death Glare, how much damage does it take?"}
+{"passage_id": "2382-1", "question_type": "descriptive", "anchor": "Which sea witch's glare can drop a frightened foe with 20 or fewer hit points straight to 0?"}
+{"passage_id": "1220-0", "question_type": "lookup", "anchor": "When I take the Magic action, what can I do with it?"}
+{"passage_id": "1220-0", "question_type": "paraphrase", "anchor": "If I lose focus partway through a 1-minute spell cast with the Magic action, do I lose the spell slot?"}
+{"passage_id": "1220-0", "question_type": "descriptive", "anchor": "Which turn option covers casting a spell with a one-action casting time, or activating an item that needs an action to use?"}
+{"passage_id": "282-0", "question_type": "lookup", "anchor": "With Martial Arts, what die can I roll instead of my Unarmed Strike's normal damage?"}
+{"passage_id": "282-0", "question_type": "paraphrase", "anchor": "Does Martial Arts let my Monk use Dexterity instead of Strength when grappling or shoving to set the save DC?"}
+{"passage_id": "282-0", "question_type": "descriptive", "anchor": "Which monk feature lets me throw a bonus-action punch while I'm unarmed and not wearing armor?"}
+{"passage_id": "325-0", "question_type": "lookup", "anchor": "How many creatures can Abjure Foes target at once?"}
+{"passage_id": "325-0", "question_type": "paraphrase", "anchor": "How far away can I use Abjure Foes on enemies that I can see?"}
+{"passage_id": "325-0", "question_type": "descriptive", "anchor": "Which paladin power frightens nearby enemies so each can only move, act, or take a bonus action on its turn?"}
+{"passage_id": "1673-0", "question_type": "lookup", "anchor": "Who decides how much of a monster's gear can be recovered after it is slain?"}
+{"passage_id": "1673-0", "question_type": "paraphrase", "anchor": "If I equip a monster with a combat magic item, could that change its challenge rating?"}
+{"passage_id": "1673-0", "question_type": "descriptive", "anchor": "Can a monster that has a class listed after its creature type attune to magic items?"}
+{"passage_id": "505-0", "question_type": "lookup", "anchor": "What kind of feat does a character background grant my character?"}
+{"passage_id": "505-0", "question_type": "paraphrase", "anchor": "Where are the rules for the feat I get from my character's background explained?"}
+{"passage_id": "505-0", "question_type": "descriptive", "anchor": "Which part of character creation gives me a specific talent tied to where my character came from?"}
+{"passage_id": "903-0", "question_type": "lookup", "anchor": "On a failed Constitution save against Flesh to Stone, what condition does the target get?"}
+{"passage_id": "903-0", "question_type": "paraphrase", "anchor": "How many times must a target fail Flesh to Stone's saves before it turns to stone?"}
+{"passage_id": "903-0", "question_type": "descriptive", "anchor": "What spell can I cast to turn a creature I can see within 60 feet into stone?"}
+{"passage_id": "834-0", "question_type": "lookup", "anchor": "What radius of bright light does a Continual Flame cast?"}
+{"passage_id": "834-0", "question_type": "paraphrase", "anchor": "Will a Continual Flame warm my hands or burn through fuel over time?"}
+{"passage_id": "834-0", "question_type": "descriptive", "anchor": "Which lasting torch-like light can I make by touching an object, using ruby dust?"}
+{"passage_id": "221-0", "question_type": "lookup", "anchor": "Are Life Domain spells something my Cleric must choose to prepare, or are they always ready?"}
+{"passage_id": "221-0", "question_type": "paraphrase", "anchor": "Which spells does a Life Domain Cleric get automatically at Cleric level 3?"}
+{"passage_id": "221-0", "question_type": "descriptive", "anchor": "Which divine domain keeps certain healing spells always prepared for a Cleric as they level up?"}
+{"passage_id": "221-0", "question_type": "table", "anchor": "At Cleric level 7, what spells does a Life Domain Cleric always have prepared?"}
+{"passage_id": "1242-0", "question_type": "lookup", "anchor": "How much longer does casting a Ritual version of a spell take than normal?"}
+{"passage_id": "1242-0", "question_type": "paraphrase", "anchor": "Does casting a spell as a Ritual use up one of my spell slots?"}
+{"passage_id": "1242-0", "question_type": "descriptive", "anchor": "How can I cast a prepared spell with a special tag without using a spell slot, at the cost of extra time?"}
+{"passage_id": "927-0", "question_type": "lookup", "anchor": "How many exhaustion levels can Greater Restoration remove from a creature?"}
+{"passage_id": "927-0", "question_type": "paraphrase", "anchor": "Can Greater Restoration undo a drop in my maximum health?"}
+{"passage_id": "927-0", "question_type": "descriptive", "anchor": "What touch spell can lift a curse or restore ability scores that were lowered?"}
+{"passage_id": "1272-0", "question_type": "lookup", "anchor": "Does an attack that hits me while I'm Unconscious count as a Critical Hit if the attacker is within 5 feet?"}
+{"passage_id": "1272-0", "question_type": "paraphrase", "anchor": "While I'm Unconscious, can my movement speed ever go above zero?"}
+{"passage_id": "1272-0", "question_type": "descriptive", "anchor": "What state makes me drop what I'm holding, fall prone, and automatically fail Strength and Dexterity saving throws?"}
+{"passage_id": "2199-0", "question_type": "lookup", "anchor": "How many attacks does a Manticore make when it uses Multiattack?"}
+{"passage_id": "2199-0", "question_type": "paraphrase", "anchor": "How far can a Manticore's Tail Spike shoot at its normal range and its maximum range?"}
+{"passage_id": "2199-0", "question_type": "descriptive", "anchor": "Which monster's multiattack mixes a close-range slashing swipe with a long-distance spike shot?"}
+{"passage_id": "2199-0", "question_type": "table", "anchor": "What is a Manticore's Intelligence modifier?"}
+{"passage_id": "4-0", "question_type": "lookup", "anchor": "When do I apply an ability modifier to a roll?"}
+{"passage_id": "4-0", "question_type": "paraphrase", "anchor": "Does the ability modifier math round a one-half fraction up or down when I divide?"}
+{"passage_id": "4-0", "question_type": "descriptive", "anchor": "How do I turn my character's raw stat number into the bonus I add to d20 rolls?"}
+{"passage_id": "4-0", "question_type": "table", "anchor": "What ability modifier does an ability score of 21 give?"}
+{"passage_id": "1502-0", "question_type": "lookup", "anchor": "How many Ioun Stones can orbit my head at the same time?"}
+{"passage_id": "1502-0", "question_type": "paraphrase", "anchor": "How far from my head does an Ioun Stone float once I toss it into the air?"}
+{"passage_id": "1502-0", "question_type": "descriptive", "anchor": "What orbiting object around your head can cancel a spell of level 4 or lower cast by a creature you can see?"}
+{"passage_id": "333-0", "question_type": "lookup", "anchor": "At what Paladin level do Oath of Devotion spells first become always prepared?"}
+{"passage_id": "333-0", "question_type": "paraphrase", "anchor": "Does the Oath of Devotion hand my Paladin certain spells that are always ready, without choosing them?"}
+{"passage_id": "333-0", "question_type": "descriptive", "anchor": "Which holy vow gives paladins Freedom of Movement and Guardian of Faith as always-ready spells?"}
+{"passage_id": "333-0", "question_type": "table", "anchor": "At Paladin level 17, which spells does an Oath of Devotion Paladin always have prepared?"}
+{"passage_id": "51-0", "question_type": "lookup", "anchor": "Why do adventurers establish a marching order while they travel?"}
+{"passage_id": "51-0", "question_type": "paraphrase", "anchor": "While we travel, can my party shuffle who walks where in the line during a fight?"}
+{"passage_id": "51-0", "question_type": "descriptive", "anchor": "When a long journey takes days, can the game master skip the exact math on distances and times?"}
+{"passage_id": "219-0", "question_type": "lookup", "anchor": "Which kinds of gods is the Life Domain particularly associated with?"}
+{"passage_id": "219-0", "question_type": "paraphrase", "anchor": "Can a cleric from almost any religion pick the Life Domain?"}
+{"passage_id": "219-0", "question_type": "descriptive", "anchor": "What cleric path focuses on positive energy that sustains all living things and makes its clerics masters of healing?"}
+{"passage_id": "989-0", "question_type": "lookup", "anchor": "What is the radius of each fiery sphere a Meteor Swarm creates?"}
+{"passage_id": "989-0", "question_type": "paraphrase", "anchor": "If I fail to dodge a Meteor Swarm, how much blunt damage do I take?"}
+{"passage_id": "989-0", "question_type": "descriptive", "anchor": "What high-level spell drops four blazing orbs of fire on points I can see up to a mile away?"}
+{"passage_id": "2535-1", "question_type": "lookup", "anchor": "What size is a Werebear in its bear-humanoid hybrid form?"}
+{"passage_id": "2535-1", "question_type": "paraphrase", "anchor": "When my Werebear turns into a bear, do its stats change apart from its size?"}
+{"passage_id": "2535-1", "question_type": "descriptive", "anchor": "Which shapeshifting bear-man keeps its gear unchanged when it turns into a bear?"}
+{"passage_id": "1652-0", "question_type": "lookup", "anchor": "How wide is the circular sheet that the Well of Many Worlds unfolds into?"}
+{"passage_id": "1652-0", "question_type": "paraphrase", "anchor": "How long must I wait before my Well of Many Worlds can open another portal?"}
+{"passage_id": "1652-0", "question_type": "descriptive", "anchor": "What folded black silk cloth turns into a two-way portal to other planes when I lay it on a surface?"}
+{"passage_id": "1987-0", "question_type": "lookup", "anchor": "Which damage type is a Gargoyle completely immune to?"}
+{"passage_id": "1987-0", "question_type": "paraphrase", "anchor": "Which conditions can a Gargoyle never be affected by, such as being poisoned or turned to stone?"}
+{"passage_id": "1987-0", "question_type": "descriptive", "anchor": "What winged monster with two claw attacks can fly away from an enemy without provoking a free attack?"}
+{"passage_id": "1987-0", "question_type": "table", "anchor": "How much does a Gargoyle add to Constitution saving throws?"}

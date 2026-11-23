@@ -1,0 +1,77 @@
+{"passage_id": "494-10", "question_type": "lookup", "anchor": "Which school of magic is the Symbol spell listed under on the Wizard spell list?"}
+{"passage_id": "494-10", "question_type": "paraphrase", "anchor": "Does Finger of Death on the Wizard spell list need concentration or a material ingredient?"}
+{"passage_id": "494-10", "question_type": "descriptive", "anchor": "Which level 8 Wizard spell from the Transmutation school would reverse gravity?"}
+{"passage_id": "494-10", "question_type": "table", "anchor": "What does the School column say for Mirage Arcane on the Wizard spell list?"}
+{"passage_id": "544-0", "question_type": "lookup", "anchor": "What is the prerequisite for the Great Weapon Fighting feat?"}
+{"passage_id": "544-0", "question_type": "paraphrase", "anchor": "With the Great Weapon Fighting feat, can I count a 1 or 2 on my damage die as a 3?"}
+{"passage_id": "544-0", "question_type": "descriptive", "anchor": "Which feat lets me treat low damage dice rolls as 3 when I swing a weapon with both hands?"}
+{"passage_id": "1645-0", "question_type": "lookup", "anchor": "How many charges does a Wand of Polymorph start with?"}
+{"passage_id": "1645-0", "question_type": "paraphrase", "anchor": "If I use the last charge of my Wand of Polymorph, what are the odds it crumbles to ash?"}
+{"passage_id": "1645-0", "question_type": "descriptive", "anchor": "What magic wand can turn a foe into something else and recharges a few charges each dawn?"}
+{"passage_id": "357-0", "question_type": "lookup", "anchor": "What is the Blindsight range from the Feral Senses Ranger feature?"}
+{"passage_id": "357-0", "question_type": "paraphrase", "anchor": "At what Ranger level can I get Feral Senses, the Blindsight from my bond with nature?"}
+{"passage_id": "357-0", "question_type": "descriptive", "anchor": "Which high-level Ranger feature gives me 30 feet of sight without relying on my eyes?"}
+{"passage_id": "1239-0", "question_type": "lookup", "anchor": "What must I decide first when I take the Ready action?"}
+{"passage_id": "1239-0", "question_type": "paraphrase", "anchor": "If I Ready a spell, how long can I hold onto its magic before it fades?"}
+{"passage_id": "1239-0", "question_type": "descriptive", "anchor": "Is there a way to hold my action until a specific event happens, such as a trap triggering?"}
+{"passage_id": "1156-0", "question_type": "lookup", "anchor": "What bonus to Armor Class does Half Cover give a target behind it?"}
+{"passage_id": "1156-0", "question_type": "paraphrase", "anchor": "If I'm behind two kinds of cover at once, do the bonuses stack?"}
+{"passage_id": "1156-0", "question_type": "descriptive", "anchor": "Is there a level of shelter behind a wall that makes me impossible to target directly?"}
+{"passage_id": "212-0", "question_type": "lookup", "anchor": "How much radiant damage does Sear Undead deal to each Undead that fails its save?"}
+{"passage_id": "212-0", "question_type": "paraphrase", "anchor": "If I use Turn Undead at a high Wisdom, how many d8s can I roll with Sear Undead?"}
+{"passage_id": "212-0", "question_type": "descriptive", "anchor": "Which cleric feature deals radiant damage to undead that fail their save against Turn Undead?"}
+{"passage_id": "177-0", "question_type": "lookup", "anchor": "When I take damage from an enemy within 5 feet, what can I do with my Reaction using Retaliation?"}
+{"passage_id": "177-0", "question_type": "paraphrase", "anchor": "Can Retaliation let me punch back with bare hands when an enemy within 5 feet hurts me?"}
+{"passage_id": "177-0", "question_type": "descriptive", "anchor": "What barbarian path ability at level 10 lets me strike back at a melee attacker right after it hurts me?"}
+{"passage_id": "1164-0", "question_type": "lookup", "anchor": "What three kinds of rolls make up the D20 Test category?"}
+{"passage_id": "1164-0", "question_type": "paraphrase", "anchor": "If something affects my D20 Tests, does that also change my attack rolls?"}
+{"passage_id": "1164-0", "question_type": "descriptive", "anchor": "Who decides whether a check or save is needed in a given situation?"}
+{"passage_id": "1004-0", "question_type": "lookup", "anchor": "What is the range of the Phantasmal Killer spell?"}
+{"passage_id": "1004-0", "question_type": "paraphrase", "anchor": "If I cast Phantasmal Killer with a level 6 slot, how much more damage does it deal?"}
+{"passage_id": "1004-0", "question_type": "descriptive", "anchor": "Which level 4 illusion spell makes a target see its worst nightmare and keeps hurting it each turn until it saves?"}
+{"passage_id": "1291-0", "question_type": "lookup", "anchor": "How long does a curse last in the Curses and Magical Contagions rules?"}
+{"passage_id": "1291-0", "question_type": "paraphrase", "anchor": "Is a magical illness that spreads between people one of the magical contagions?"}
+{"passage_id": "1291-0", "question_type": "descriptive", "anchor": "What magical burden can stick to a character for a set time until something ends it?"}
+{"passage_id": "2255-1", "question_type": "lookup", "anchor": "What spell save DC does the Night Hag use for its Spellcasting?"}
+{"passage_id": "2255-1", "question_type": "paraphrase", "anchor": "How many times a day can a Night Hag cast Plane Shift on itself?"}
+{"passage_id": "2255-1", "question_type": "descriptive", "anchor": "Which hag can trap a victim's soul in a bag after a nightmare kills it?"}
+{"passage_id": "2153-0", "question_type": "lookup", "anchor": "What is the range of the Fiery Bolt attack for an Iron Golem?"}
+{"passage_id": "2153-0", "question_type": "paraphrase", "anchor": "Does an Iron Golem get an edge on its saving throws against magic spells?"}
+{"passage_id": "2153-0", "question_type": "descriptive", "anchor": "Which construct has a poison breath weapon recharging on a 6 with a 60-foot cone?"}
+{"passage_id": "2153-0", "question_type": "table", "anchor": "What Constitution score does an Iron Golem have?"}
+{"passage_id": "2813-0", "question_type": "lookup", "anchor": "What Stealth bonus does a Jackal have?"}
+{"passage_id": "2813-0", "question_type": "paraphrase", "anchor": "How fast can a Jackal move on its turn?"}
+{"passage_id": "2813-0", "question_type": "descriptive", "anchor": "What small beast has darkvision out to 90 feet and only three hit points?"}
+{"passage_id": "2813-0", "question_type": "table", "anchor": "What does a Jackal add to Charisma saves?"}
+{"passage_id": "1430-0", "question_type": "lookup", "anchor": "How long does the Air Elemental from the Censer of Controlling Air Elementals stay before it disappears?"}
+{"passage_id": "1430-0", "question_type": "paraphrase", "anchor": "Can I use the Censer of Controlling Air Elementals again right after summoning one?"}
+{"passage_id": "1430-0", "question_type": "descriptive", "anchor": "What item lets me call a helper elemental of air that obeys my commands and vanishes after an hour?"}
+{"passage_id": "1370-0", "question_type": "lookup", "anchor": "Which magic item rarity is the most plentiful, such as a Potion of Healing?"}
+{"passage_id": "1370-0", "question_type": "paraphrase", "anchor": "Is it hard to get an artifact such as the Dragon Orb under the magic item rarity rules?"}
+{"passage_id": "1370-0", "question_type": "descriptive", "anchor": "What measure tells me how powerful a magic item is compared to others, from plentiful to priceless?"}
+{"passage_id": "27-0", "question_type": "lookup", "anchor": "When are a character's starting skill proficiencies determined?"}
+{"passage_id": "27-0", "question_type": "paraphrase", "anchor": "Which skills does a monster get proficient in, and where do I look them up?"}
+{"passage_id": "387-0", "question_type": "lookup", "anchor": "When can an attack roll have Advantage against me with the Elusive feature?"}
+{"passage_id": "387-0", "question_type": "paraphrase", "anchor": "Can enemies get an edge on attacks against me with Elusive unless I'm unable to act?"}
+{"passage_id": "387-0", "question_type": "descriptive", "anchor": "Which high-level rogue ability makes it so attackers rarely get the upper hand against me?"}
+{"passage_id": "2343-0", "question_type": "lookup", "anchor": "How many times a day can an Ancient Red Dragon use Legendary Resistance?"}
+{"passage_id": "2343-0", "question_type": "paraphrase", "anchor": "If I dodge an Ancient Red Dragon's fire breath, how much damage do I take?"}
+{"passage_id": "2343-0", "question_type": "descriptive", "anchor": "Which gargantuan chaotic evil dragon has a 90-foot fire breath cone and a challenge rating of 24?"}
+{"passage_id": "2343-0", "question_type": "table", "anchor": "In the Wisdom row, what does the Save column say for an Ancient Red Dragon?"}
+{"passage_id": "574-0", "question_type": "lookup", "anchor": "How many times per turn can I use the Nick mastery's extra Light attack?"}
+{"passage_id": "574-0", "question_type": "paraphrase", "anchor": "Can the Nick mastery let my second Light weapon swing come as part of my Attack action instead of a bonus action?"}
+{"passage_id": "574-0", "question_type": "descriptive", "anchor": "Which weapon mastery lets me take my off-hand swing with a Light weapon as part of Attack?"}
+{"passage_id": "783-0", "question_type": "lookup", "anchor": "How far can I move the Arcane Eye with a Bonus Action?"}
+{"passage_id": "783-0", "question_type": "paraphrase", "anchor": "Can the Arcane Eye fit through a gap about one inch wide?"}
+{"passage_id": "783-0", "question_type": "descriptive", "anchor": "Which level 4 wizard spell creates an invisible eye that can see all around and shows me what it sees?"}
+{"passage_id": "1297-0", "question_type": "lookup", "anchor": "For the Demonic Possession environmental curse, what Charisma save DC must I beat to resist it?"}
+{"passage_id": "1297-0", "question_type": "paraphrase", "anchor": "After a long rest, how can I shake off Demonic Possession, one of the environmental curses?"}
+{"passage_id": "1297-0", "question_type": "descriptive", "anchor": "Which curse can take over my character's actions after I roll a 1 on a check, attack or save?"}
+{"passage_id": "1964-0", "question_type": "lookup", "anchor": "How many hit points does an Ettin have?"}
+{"passage_id": "1964-0", "question_type": "paraphrase", "anchor": "Can an Ettin's Battleaxe knock a Medium character to the ground?"}
+{"passage_id": "1964-0", "question_type": "descriptive", "anchor": "Which chaotic evil giant makes one battleaxe attack and one morningstar attack in its turn?"}
+{"passage_id": "1964-0", "question_type": "table", "anchor": "What Constitution modifier does an Ettin have?"}
+{"passage_id": "750-0", "question_type": "lookup", "anchor": "Do magic schools have rules of their own, or are they just categories?"}
+{"passage_id": "750-0", "question_type": "paraphrase", "anchor": "Which school of magic is for stopping or undoing harmful effects?"}
+{"passage_id": "750-0", "question_type": "descriptive", "anchor": "Which magic category is about revealing information?"}
+{"passage_id": "750-0", "question_type": "table", "anchor": "In the Schools of Magic table, what typical effect does Evocation have?"}

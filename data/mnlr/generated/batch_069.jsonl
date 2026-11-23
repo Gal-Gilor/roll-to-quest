@@ -1,0 +1,83 @@
+{"passage_id": "1495-0", "question_type": "lookup", "anchor": "How much extra Radiant damage does a Holy Avenger deal when it hits a Fiend or Undead?"}
+{"passage_id": "1495-0", "question_type": "paraphrase", "anchor": "How far does a Holy Avenger's protective aura reach for my allies against magic, and does it grow with levels?"}
+{"passage_id": "1495-0", "question_type": "descriptive", "anchor": "Which legendary paladin's weapon grants a +3 bonus to attack and damage rolls and boosts saves for allies nearby?"}
+{"passage_id": "2202-0", "question_type": "lookup", "anchor": "What is the Challenge Rating of a Marilith?"}
+{"passage_id": "2202-0", "question_type": "paraphrase", "anchor": "How many experience points would my party earn for defeating a Marilith?"}
+{"passage_id": "2202-0", "question_type": "descriptive", "anchor": "Which demon makes six melee attacks in one turn and can grapple a creature to restrain it?"}
+{"passage_id": "2202-0", "question_type": "table", "anchor": "What is a Marilith's Charisma modifier?"}
+{"passage_id": "2556-0", "question_type": "lookup", "anchor": "What is the Armor Class of a White Dragon Wyrmling?"}
+{"passage_id": "2556-0", "question_type": "paraphrase", "anchor": "How much health does a White Dragon Wyrmling start a fight with?"}
+{"passage_id": "2556-0", "question_type": "descriptive", "anchor": "Which young frost-breathing dragon can burrow and fly, and is immune to cold damage?"}
+{"passage_id": "2556-0", "question_type": "table", "anchor": "How high is a White Dragon Wyrmling's Intelligence score?"}
+{"passage_id": "1090-0", "question_type": "lookup", "anchor": "What size is the area Thunderwave affects around me?"}
+{"passage_id": "1090-0", "question_type": "paraphrase", "anchor": "If I cast Thunderwave with a bigger spell slot, how much more damage does it deal?"}
+{"passage_id": "1090-0", "question_type": "descriptive", "anchor": "Which first-level spell sends a thunderous shockwave that knocks nearby foes ten feet back?"}
+{"passage_id": "61-0", "question_type": "lookup", "anchor": "How much extra movement does each foot of rough ground like rubble or snow cost?"}
+{"passage_id": "61-0", "question_type": "paraphrase", "anchor": "If a square has both rubble and undergrowth in it, does the slowdown double up?"}
+{"passage_id": "61-0", "question_type": "descriptive", "anchor": "Which kinds of ground, such as shallow bogs and steep stairs, slow a creature's walking in combat?"}
+{"passage_id": "954-0", "question_type": "lookup", "anchor": "What saving throw does a target make to resist Imprisonment?"}
+{"passage_id": "954-0", "question_type": "paraphrase", "anchor": "If someone resists my Imprisonment, how long before I can try it on them again?"}
+{"passage_id": "954-0", "question_type": "descriptive", "anchor": "Which ninth-level spell locks a creature in a magical prison where it doesn't need to eat, drink, or breathe?"}
+{"passage_id": "1006-1", "question_type": "lookup", "anchor": "How much gold does Planar Ally cost for a task measured in hours?"}
+{"passage_id": "1006-1", "question_type": "paraphrase", "anchor": "What happens to the helper I hired with Planar Ally once its job is finished?"}
+{"passage_id": "1006-1", "question_type": "descriptive", "anchor": "If I can't agree on a price with an otherworldly helper, what happens to it?"}
+{"passage_id": "2791-0", "question_type": "lookup", "anchor": "What Armor Class does a Giant Wolf Spider have?"}
+{"passage_id": "2791-0", "question_type": "paraphrase", "anchor": "How much health does a Giant Wolf Spider start with in a fight?"}
+{"passage_id": "2791-0", "question_type": "descriptive", "anchor": "Which spider can climb along ceilings and has a bite that also deals poison damage?"}
+{"passage_id": "2791-0", "question_type": "table", "anchor": "What is a Giant Wolf Spider's Dexterity modifier?"}
+{"passage_id": "959-0", "question_type": "lookup", "anchor": "What is the range of Irresistible Dance?"}
+{"passage_id": "959-0", "question_type": "paraphrase", "anchor": "If a creature fails my Irresistible Dance, can it break free of the spell later?"}
+{"passage_id": "959-0", "question_type": "descriptive", "anchor": "Which sixth-level spell makes one foe dance comically and gives attackers Advantage against it?"}
+{"passage_id": "684-0", "question_type": "lookup", "anchor": "Why might certain events or places only admit people wearing ceremonial robes?"}
+{"passage_id": "684-0", "question_type": "paraphrase", "anchor": "Can a plain robe carry a special meaning about someone's job or role?"}
+{"passage_id": "684-0", "question_type": "descriptive", "anchor": "What garment could show a person's trade and gain them entry to restricted gatherings by its colors?"}
+{"passage_id": "868-0", "question_type": "lookup", "anchor": "How long does the Dream spell's effect last once cast?"}
+{"passage_id": "868-0", "question_type": "paraphrase", "anchor": "If the target of Dream is awake when I cast it, what are my choices?"}
+{"passage_id": "868-0", "question_type": "descriptive", "anchor": "Which fifth-level spell lets a messenger enter a sleeper's dreams and reshape the landscape?"}
+{"passage_id": "1254-0", "question_type": "lookup", "anchor": "What kind of roll is a Spell Attack?"}
+{"passage_id": "1254-0", "question_type": "paraphrase", "anchor": "When a spell has me roll to hit, does that count as a Spell Attack?"}
+{"passage_id": "1254-0", "question_type": "descriptive", "anchor": "Where are the rules for the to-hit roll a spell makes?"}
+{"passage_id": "1687-0", "question_type": "lookup", "anchor": "Where in a monster's stat block are its optional extra actions listed?"}
+{"passage_id": "1687-0", "question_type": "paraphrase", "anchor": "Where do I look up the rules for extra quick actions on a monster's turn?"}
+{"passage_id": "1687-0", "question_type": "descriptive", "anchor": "If a monster has optional extra actions, which heading should I scan in its stat block?"}
+{"passage_id": "258-0", "question_type": "lookup", "anchor": "How many times can Action Surge be used before a rest once I reach level 17?"}
+{"passage_id": "258-0", "question_type": "paraphrase", "anchor": "After I use Action Surge, when do I get to use it again?"}
+{"passage_id": "258-0", "question_type": "descriptive", "anchor": "Which fighter ability grants one extra action on my turn, but not a Magic action?"}
+{"passage_id": "1506-0", "question_type": "lookup", "anchor": "How long does a Lantern of Revealing burn on a single pint of oil?"}
+{"passage_id": "1506-0", "question_type": "paraphrase", "anchor": "How can I dim my Lantern of Revealing so it lights up less of the area?"}
+{"passage_id": "1506-0", "question_type": "descriptive", "anchor": "Which lantern lets me see invisible creatures and objects while they sit in its bright light?"}
+{"passage_id": "2769-0", "question_type": "lookup", "anchor": "What is the Challenge Rating of a Giant Spider?"}
+{"passage_id": "2769-0", "question_type": "paraphrase", "anchor": "How many experience points is a Giant Spider worth when defeated?"}
+{"passage_id": "2769-0", "question_type": "descriptive", "anchor": "Which large spider's web can leave a creature restrained until someone destroys the web?"}
+{"passage_id": "2769-0", "question_type": "table", "anchor": "How strong is a Giant Spider, as a Strength score?"}
+{"passage_id": "599-0", "question_type": "lookup", "anchor": "Which ability score is used with Leatherworker's Tools?"}
+{"passage_id": "599-0", "question_type": "paraphrase", "anchor": "How heavy are Leatherworker's Tools to carry around?"}
+{"passage_id": "599-0", "question_type": "descriptive", "anchor": "Which artisan's kit lets a character decorate leather goods with a design by making a DC 10 check?"}
+{"passage_id": "1589-0", "question_type": "lookup", "anchor": "What advantage does holding a Rod of Alertness give on Initiative rolls?"}
+{"passage_id": "1589-0", "question_type": "paraphrase", "anchor": "How long does the Rod of Alertness's protective light last once I plant it?"}
+{"passage_id": "1589-0", "question_type": "descriptive", "anchor": "Which rod lets its holder cast Detect Magic and See Invisibility, and grants Advantage on Perception checks?"}
+{"passage_id": "1439-0", "question_type": "lookup", "anchor": "What swim speed does a Cloak of the Manta Ray give me?"}
+{"passage_id": "1439-0", "question_type": "paraphrase", "anchor": "Can a Cloak of the Manta Ray let me breathe under water while I wear it?"}
+{"passage_id": "1439-0", "question_type": "descriptive", "anchor": "Which uncommon cloak needs attunement and lets its wearer breathe underwater?"}
+{"passage_id": "29-0", "question_type": "lookup", "anchor": "What bonus do I add to an ability check made with a tool I'm proficient with?"}
+{"passage_id": "29-0", "question_type": "paraphrase", "anchor": "If I'm proficient with a tool and the skill tied to the same check, do I get Advantage?"}
+{"passage_id": "29-0", "question_type": "descriptive", "anchor": "Which bonus applies to attack rolls with weapons my character has training in?"}
+{"passage_id": "539-0", "question_type": "lookup", "anchor": "What is the highest an ability score can be raised to with Ability Score Improvement?"}
+{"passage_id": "539-0", "question_type": "paraphrase", "anchor": "Can I take Ability Score Improvement more than once?"}
+{"passage_id": "539-0", "question_type": "descriptive", "anchor": "Which general feat lets me raise one ability score by 2, or two scores by 1 each?"}
+{"passage_id": "2025-0", "question_type": "lookup", "anchor": "What Armor Class does a Goblin Warrior have?"}
+{"passage_id": "2025-0", "question_type": "paraphrase", "anchor": "How much health does a Goblin Warrior start a fight with?"}
+{"passage_id": "2025-0", "question_type": "descriptive", "anchor": "Which small goblinoid fey carries a scimitar and shortbow and can Disengage or Hide as a bonus?"}
+{"passage_id": "2025-0", "question_type": "table", "anchor": "What is a Goblin Warrior's Dexterity modifier?"}
+{"passage_id": "2218-0", "question_type": "lookup", "anchor": "How much Fire damage does a Magma Mephit's Death Burst deal when a creature fails the save?"}
+{"passage_id": "2218-0", "question_type": "paraphrase", "anchor": "How far does the Magma Mephit's death explosion reach?"}
+{"passage_id": "2218-0", "question_type": "descriptive", "anchor": "Which small elemental flies, is vulnerable to cold, and breathes fire in a 15-foot cone?"}
+{"passage_id": "2218-0", "question_type": "table", "anchor": "How high is a Magma Mephit's Intelligence score?"}
+{"passage_id": "403-1", "question_type": "lookup", "anchor": "How many sorcery points does Font of Magic cost for a 2nd-level spell slot?"}
+{"passage_id": "403-1", "question_type": "paraphrase", "anchor": "If I want a 4th-level slot from Font of Magic, how many sorcery points will it take?"}
+{"passage_id": "403-1", "question_type": "descriptive", "anchor": "At what sorcerer level can I first spend points to make a fifth-level spell slot?"}
+{"passage_id": "403-1", "question_type": "table", "anchor": "In Font of Magic, what minimum Sorcerer level is needed for a 3rd-level spell slot?"}
+{"passage_id": "1610-0", "question_type": "lookup", "anchor": "How many charges does a Staff of Frost hold in total?"}
+{"passage_id": "1610-0", "question_type": "paraphrase", "anchor": "Does holding a Staff of Frost protect me from cold damage?"}
+{"passage_id": "1610-0", "question_type": "descriptive", "anchor": "Which staff turns to water and is destroyed on a roll of 1 if you spend its last charge?"}
+{"passage_id": "1610-0", "question_type": "table", "anchor": "How many charges does casting Cone of Cold from a Staff of Frost cost?"}

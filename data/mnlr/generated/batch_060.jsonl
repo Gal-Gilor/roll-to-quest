@@ -1,0 +1,79 @@
+{"passage_id": "2708-0", "question_type": "lookup", "anchor": "What is the escape DC for a Giant Constrictor Snake's grapple?"}
+{"passage_id": "2708-0", "question_type": "paraphrase", "anchor": "How much health does a Giant Constrictor Snake have, and what dice make it up?"}
+{"passage_id": "2708-0", "question_type": "descriptive", "anchor": "Which huge snake can crush a nearby creature in its coils and grapple it, and what Strength save DC does it use?"}
+{"passage_id": "2708-0", "question_type": "table", "anchor": "What is a Giant Constrictor Snake's Intelligence score?"}
+{"passage_id": "1013-0", "question_type": "lookup", "anchor": "For Power Word Kill, how many Hit Points or fewer must a target have to die?"}
+{"passage_id": "1013-0", "question_type": "paraphrase", "anchor": "How much damage does Power Word Kill deal to a foe with more than 100 health?"}
+{"passage_id": "1013-0", "question_type": "descriptive", "anchor": "What 9th-level spell can instantly destroy a creature I can see within 60 feet if it has 100 or fewer Hit Points?"}
+{"passage_id": "185-0", "question_type": "lookup", "anchor": "How many cantrips does a first-level Bard know from the Spellcasting feature?"}
+{"passage_id": "185-0", "question_type": "paraphrase", "anchor": "With Bard Spellcasting, can I swap one of my cantrips for a different one when I gain a level?"}
+{"passage_id": "185-0", "question_type": "descriptive", "anchor": "Which Bard class feature lets a level 3 character prepare six spells of levels 1 and 2 in any combination?"}
+{"passage_id": "2945-0", "question_type": "lookup", "anchor": "What is the Speed of a Warhorse in feet?"}
+{"passage_id": "2945-0", "question_type": "paraphrase", "anchor": "How many dice of health does a Warhorse roll, and what is added to them?"}
+{"passage_id": "2945-0", "question_type": "descriptive", "anchor": "Which large riding animal knocks a creature prone with its hooves if it charged at least 20 feet first?"}
+{"passage_id": "2945-0", "question_type": "table", "anchor": "What does a Warhorse add to its Wisdom saving throws?"}
+{"passage_id": "1125-0", "question_type": "lookup", "anchor": "Which actions are defined in the glossary, such as Attack and Dash?"}
+{"passage_id": "1125-0", "question_type": "paraphrase", "anchor": "On my turn in a fight, can I take two actions, or only one?"}
+{"passage_id": "1125-0", "question_type": "descriptive", "anchor": "What menu of moves do I pick from during combat, such as Dodge, Help, or Study?"}
+{"passage_id": "328-0", "question_type": "lookup", "anchor": "How many Hit Points from Lay On Hands does Restoring Touch cost per condition removed?"}
+{"passage_id": "328-0", "question_type": "paraphrase", "anchor": "Can Restoring Touch with Lay On Hands also heal the creature's health, or only cure its conditions?"}
+{"passage_id": "328-0", "question_type": "descriptive", "anchor": "Which level 14 Paladin feature lets my healing touch cure being stunned or frightened?"}
+{"passage_id": "591-0", "question_type": "lookup", "anchor": "How much does a set of Brewer's Supplies weigh?"}
+{"passage_id": "591-0", "question_type": "paraphrase", "anchor": "Which poison cure can I craft using Brewer's Supplies?"}
+{"passage_id": "591-0", "question_type": "descriptive", "anchor": "Which artisan's kit uses Intelligence and lets me spot a poisoned drink with a DC 15 check?"}
+{"passage_id": "1212-0", "question_type": "lookup", "anchor": "What is my Initiative score if I don't roll, based on my Dexterity modifier?"}
+{"passage_id": "1212-0", "question_type": "paraphrase", "anchor": "If I roll initiative with a boost from a feature, how much does my initiative count go up?"}
+{"passage_id": "1212-0", "question_type": "descriptive", "anchor": "What decides the order everyone takes turns in combat, and can I skip the dice roll for it?"}
+{"passage_id": "1049-0", "question_type": "lookup", "anchor": "What material component does Sequester require, and how much must it be worth?"}
+{"passage_id": "1049-0", "question_type": "paraphrase", "anchor": "When I cast Sequester on a creature, does it still need food or air while frozen?"}
+{"passage_id": "1049-0", "question_type": "descriptive", "anchor": "Which 7th-level spell puts a creature into suspended animation that ends when it takes damage?"}
+{"passage_id": "895-0", "question_type": "lookup", "anchor": "How much Necrotic damage does Finger of Death deal on a failed Constitution save?"}
+{"passage_id": "895-0", "question_type": "paraphrase", "anchor": "If my Finger of Death slays a humanoid, what happens to the body a turn later?"}
+{"passage_id": "895-0", "question_type": "descriptive", "anchor": "Which 7th-level spell blasts a visible creature within 60 feet with necrotic energy, halving damage on a successful save?"}
+{"passage_id": "1489-6", "question_type": "lookup", "anchor": "How long does an item pulled from a Hat of Many Spells last before it disappears?"}
+{"passage_id": "1489-6", "question_type": "paraphrase", "anchor": "When I pull an item from a Hat of Many Spells, what rarity does a 6 on the d6 give?"}
+{"passage_id": "1489-6", "question_type": "descriptive", "anchor": "Which magic hat pulls out a magic item for me that vanishes after an hour unless it's used up?"}
+{"passage_id": "1489-6", "question_type": "table", "anchor": "On the Hat of Many Spells d100 table, what does a roll of 96 to 00 in the Effect column make happen?"}
+{"passage_id": "2562-0", "question_type": "lookup", "anchor": "How many times per day can an Adult White Dragon use Legendary Resistance outside its lair?"}
+{"passage_id": "2562-0", "question_type": "paraphrase", "anchor": "How much XP is an Adult White Dragon worth when I fight it in its lair?"}
+{"passage_id": "2562-0", "question_type": "descriptive", "anchor": "What huge cold-immune dragon can burrow, fly, and swim, and breathes a 60-foot cone of frost?"}
+{"passage_id": "2562-0", "question_type": "table", "anchor": "What is an Adult White Dragon's Dexterity save bonus?"}
+{"passage_id": "1753-0", "question_type": "lookup", "anchor": "What escape DC does a Behir's Constrict attack use for a grappled target?"}
+{"passage_id": "1753-0", "question_type": "paraphrase", "anchor": "How long and how wide is the lightning blast a Behir breathes?"}
+{"passage_id": "1753-0", "question_type": "descriptive", "anchor": "What huge serpent-like monster is immune to lightning, breathes it, and has a 50-foot climb speed?"}
+{"passage_id": "1753-0", "question_type": "table", "anchor": "How charming is a Behir, as a Charisma score?"}
+{"passage_id": "664-0", "question_type": "lookup", "anchor": "How far does a Hooded Lantern's Bright Light reach?"}
+{"passage_id": "664-0", "question_type": "paraphrase", "anchor": "How do I dim my hooded lantern's light, and how small does the glow get?"}
+{"passage_id": "664-0", "question_type": "descriptive", "anchor": "What lamp burns oil and can be dimmed by lowering a hood as a bonus action?"}
+{"passage_id": "374-0", "question_type": "lookup", "anchor": "Besides Thieves' Cant, how many other languages does the Rogue's level 1 feature grant?"}
+{"passage_id": "374-0", "question_type": "paraphrase", "anchor": "For Thieves' Cant, where do I choose the one extra language?"}
+{"passage_id": "374-0", "question_type": "descriptive", "anchor": "Which level 1 rogue feature teaches a criminals' secret language plus one more language of my choice?"}
+{"passage_id": "2824-0", "question_type": "lookup", "anchor": "What is a Lizard's Climb speed in feet?"}
+{"passage_id": "2824-0", "question_type": "paraphrase", "anchor": "If a Lizard's bite hits me, how much damage do I take?"}
+{"passage_id": "2824-0", "question_type": "descriptive", "anchor": "Which tiny beast can climb along ceilings without an ability check and has darkvision of 30 feet?"}
+{"passage_id": "2824-0", "question_type": "table", "anchor": "What is a Lizard's Strength score?"}
+{"passage_id": "467-0", "question_type": "lookup", "anchor": "What is the prerequisite level for taking the Repelling Blast invocation?"}
+{"passage_id": "467-0", "question_type": "paraphrase", "anchor": "Can I take Repelling Blast more than once, and if so, does each pick need a different cantrip?"}
+{"passage_id": "467-0", "question_type": "descriptive", "anchor": "Which Warlock option lets me shove a Large or smaller foe up to 10 feet away when my cantrip attack hits?"}
+{"passage_id": "1351-0", "question_type": "lookup", "anchor": "When I add a creature to a combat encounter, what do I subtract from my XP budget?"}
+{"passage_id": "1351-0", "question_type": "paraphrase", "anchor": "Do I have to use up every last XP of my encounter budget, or can some be left over?"}
+{"passage_id": "1351-0", "question_type": "descriptive", "anchor": "How many total XP worth of monsters can a group of four level 1 characters face in a low-difficulty fight?"}
+{"passage_id": "626-0", "question_type": "lookup", "anchor": "What is the weight limit for a Basket, in pounds?"}
+{"passage_id": "626-0", "question_type": "paraphrase", "anchor": "How much stuff can fit in a Basket's space, measured in cubic feet?"}
+{"passage_id": "626-0", "question_type": "descriptive", "anchor": "Which piece of adventuring gear is a container that can carry up to 40 pounds?"}
+{"passage_id": "902-0", "question_type": "lookup", "anchor": "How far can I move a Flaming Sphere with a Bonus Action?"}
+{"passage_id": "902-0", "question_type": "paraphrase", "anchor": "If I cast Flaming Sphere at a higher level, how much more damage does it deal?"}
+{"passage_id": "902-0", "question_type": "descriptive", "anchor": "What spell creates a rolling ball of fire I can push 30 feet with a bonus action and jump across pits?"}
+{"passage_id": "201-0", "question_type": "lookup", "anchor": "What do I add to my d20 when I use Peerless Skill after a failed roll?"}
+{"passage_id": "201-0", "question_type": "paraphrase", "anchor": "With Peerless Skill, can I spend a bardic boost after failing a check to turn it into a success?"}
+{"passage_id": "201-0", "question_type": "descriptive", "anchor": "Which level 14 bard feature lets me add a bonus die to a missed attack or ability check?"}
+{"passage_id": "852-0", "question_type": "lookup", "anchor": "What material component does Detect Poison and Disease need?"}
+{"passage_id": "852-0", "question_type": "paraphrase", "anchor": "Will Detect Poison and Disease still work through a thin lead wall?"}
+{"passage_id": "852-0", "question_type": "descriptive", "anchor": "What spell lets a paladin or druid sense nearby poisons and diseases within 30 feet for 10 minutes?"}
+{"passage_id": "2820-0", "question_type": "lookup", "anchor": "How far can a Lion Long Jump with a 10-foot running start?"}
+{"passage_id": "2820-0", "question_type": "paraphrase", "anchor": "If a Lion's roar scares me, how long am I scared for?"}
+{"passage_id": "2820-0", "question_type": "descriptive", "anchor": "What large beast can roar to frighten a creature within 15 feet of it, and has a 50-foot Speed?"}
+{"passage_id": "2820-0", "question_type": "table", "anchor": "What ability modifier does a Lion have for Strength?"}
+{"passage_id": "246-0", "question_type": "lookup", "anchor": "How much damage does Land's Aid deal to a creature that fails its save?"}
+{"passage_id": "246-0", "question_type": "paraphrase", "anchor": "At Druid level 10, how many dice does Land's Aid's healing roll become?"}
+{"passage_id": "246-0", "question_type": "descriptive", "anchor": "Which Druid ability costs a Wild Shape use to heal one creature and hurt others in a 10-foot sphere within 60 feet?"}

@@ -1,0 +1,83 @@
+{"passage_id": "1056-0", "question_type": "lookup", "anchor": "What is the range of Shocking Grasp?"}
+{"passage_id": "1056-0", "question_type": "paraphrase", "anchor": "Once Shocking Grasp hits a foe, can that foe still make a free swing at me as I walk away?"}
+{"passage_id": "1056-0", "question_type": "descriptive", "anchor": "Which cantrip sends lightning into a creature I must touch, and gets stronger at levels 5, 11, and 17?"}
+{"passage_id": "733-0", "question_type": "lookup", "anchor": "When I craft an item with a helper, who needs proficiency with the required crafting tool?"}
+{"passage_id": "733-0", "question_type": "paraphrase", "anchor": "If a crafting tool isn't listed for an item, who gets to decide which one is needed?"}
+{"passage_id": "733-0", "question_type": "descriptive", "anchor": "Am I allowed to make an item by hand if I lack training with the implement it calls for?"}
+{"passage_id": "2157-0", "question_type": "lookup", "anchor": "How many Hit Points does a Knight have?"}
+{"passage_id": "2157-0", "question_type": "paraphrase", "anchor": "When a Knight swings its greatsword and connects, what extra damage comes along with the cut?"}
+{"passage_id": "2157-0", "question_type": "descriptive", "anchor": "Which foe can react to a melee hit by adding 2 to its defense while it holds a weapon?"}
+{"passage_id": "2157-0", "question_type": "table", "anchor": "What does a Knight add to Constitution saving throws?"}
+{"passage_id": "16-0", "question_type": "lookup", "anchor": "Do I add my proficiency bonus to spell attack rolls?"}
+{"passage_id": "16-0", "question_type": "paraphrase", "anchor": "Does the proficiency bonus go on my attack roll when I swing a sword I'm trained with?"}
+{"passage_id": "16-0", "question_type": "descriptive", "anchor": "Does my character's training bonus apply only to weapon swings, or to spell attacks as well?"}
+{"passage_id": "715-0", "question_type": "lookup", "anchor": "How much does a wealthy lifestyle cost per day?"}
+{"passage_id": "715-0", "question_type": "paraphrase", "anchor": "Would a wealthy lifestyle mean I might have servants working for me?"}
+{"passage_id": "715-0", "question_type": "descriptive", "anchor": "What spending level suits someone who is used to life's finer things and might keep servants?"}
+{"passage_id": "119-0", "question_type": "lookup", "anchor": "After I assign my six ability scores, do I still need to fill in the modifiers?"}
+{"passage_id": "119-0", "question_type": "paraphrase", "anchor": "If I roll my ability scores some other way, can I still use the class table to decide where the best ones go?"}
+{"passage_id": "119-0", "question_type": "descriptive", "anchor": "When I use the standard set of six numbers, where should the highest ones go for my character's class?"}
+{"passage_id": "119-0", "question_type": "table", "anchor": "What Intelligence score does a Wizard get in the Standard Array by Class table?"}
+{"passage_id": "401-3", "question_type": "lookup", "anchor": "At level 9, what Proficiency Bonus does a Sorcerer have for Spellcasting?"}
+{"passage_id": "401-3", "question_type": "paraphrase", "anchor": "For Sorcerer spellcasting, what's the strongest spell slot level I can use at level 9?"}
+{"passage_id": "401-3", "question_type": "descriptive", "anchor": "Which magic-using class gets the Sorcery Incarnate feature at level 7?"}
+{"passage_id": "401-3", "question_type": "table", "anchor": "How many prepared spells does a Sorcerer have at level 8 for Spellcasting?"}
+{"passage_id": "1420-0", "question_type": "lookup", "anchor": "Does Boots of the Winterlands require attunement?"}
+{"passage_id": "1420-0", "question_type": "paraphrase", "anchor": "Can I walk across ice and snow with Boots of the Winterlands without it slowing me down?"}
+{"passage_id": "1420-0", "question_type": "descriptive", "anchor": "Which furry boots give cold resistance and let you tolerate temperatures down to 0 degrees Fahrenheit?"}
+{"passage_id": "356-0", "question_type": "lookup", "anchor": "What does Precise Hunter give me against a creature marked by Hunter's Mark?"}
+{"passage_id": "356-0", "question_type": "paraphrase", "anchor": "With Precise Hunter at level 17, do I get an edge on swings at the foe I've marked?"}
+{"passage_id": "356-0", "question_type": "descriptive", "anchor": "Which level 17 ranger ability makes my strikes at a marked foe easier to land?"}
+{"passage_id": "151-1", "question_type": "lookup", "anchor": "Which features does a level 1 Barbarian gain?"}
+{"passage_id": "151-1", "question_type": "paraphrase", "anchor": "How many weapons does a new Barbarian get Weapon Mastery with at first level?"}
+{"passage_id": "151-1", "question_type": "descriptive", "anchor": "At what level does a barbarian gain Extra Attack and Fast Movement?"}
+{"passage_id": "151-1", "question_type": "table", "anchor": "What Rage Damage does a Barbarian have at level 9?"}
+{"passage_id": "1520-1", "question_type": "lookup", "anchor": "What card does a 13-card Mysterious Deck draw on a roll of 01-08?"}
+{"passage_id": "1520-1", "question_type": "paraphrase", "anchor": "On the 22-card Mysterious Deck, what percentile roll gets me the Void card?"}
+{"passage_id": "1520-1", "question_type": "descriptive", "anchor": "Which magic deck of cards has 13-card and 22-card versions, each drawn by percentile roll?"}
+{"passage_id": "1520-1", "question_type": "table", "anchor": "Which card does a 22-card Mysterious Deck give on a d100 roll of 42-46?"}
+{"passage_id": "126-1", "question_type": "lookup", "anchor": "What do I write in the Initiative space on my character sheet?"}
+{"passage_id": "126-1", "question_type": "paraphrase", "anchor": "How many Hit Dice does a brand-new character start with?"}
+{"passage_id": "126-1", "question_type": "descriptive", "anchor": "If I'm not wearing any armor or shield, how do I work out my base Armor Class?"}
+{"passage_id": "126-1", "question_type": "table", "anchor": "For a new character sheet, how is a Paladin's starting Hit Point Maximum calculated?"}
+{"passage_id": "155-0", "question_type": "lookup", "anchor": "How is the base Armor Class from Unarmored Defense calculated?"}
+{"passage_id": "155-0", "question_type": "paraphrase", "anchor": "Can I still get Unarmored Defense's benefit while using a shield?"}
+{"passage_id": "155-0", "question_type": "descriptive", "anchor": "Which Barbarian feature adds my Constitution to my Armor Class when I'm not wearing armor?"}
+{"passage_id": "1218-0", "question_type": "lookup", "anchor": "How far can I leap in a Long Jump if I move at least 10 feet first?"}
+{"passage_id": "1218-0", "question_type": "paraphrase", "anchor": "After a Long Jump lands me on rough ground, what roll keeps me on my feet?"}
+{"passage_id": "1218-0", "question_type": "descriptive", "anchor": "Does the height of my hop matter when I leap across a stream, or only how far I go?"}
+{"passage_id": "1518-0", "question_type": "lookup", "anchor": "What saving throw DC does the Mirror of Life Trapping use to trap creatures?"}
+{"passage_id": "1518-0", "question_type": "paraphrase", "anchor": "If someone already knows how Mirror of Life Trapping works, do they get a better roll to resist it?"}
+{"passage_id": "1518-0", "question_type": "descriptive", "anchor": "Which four-foot mirror traps creatures in fog-filled cells when they see their reflection in it?"}
+{"passage_id": "1946-0", "question_type": "lookup", "anchor": "How many Hit Points does an Earth Elemental have?"}
+{"passage_id": "1946-0", "question_type": "paraphrase", "anchor": "Can an Earth Elemental tunnel through solid stone without leaving a trail behind?"}
+{"passage_id": "1946-0", "question_type": "descriptive", "anchor": "Which monster deals double damage to objects and structures?"}
+{"passage_id": "1946-0", "question_type": "table", "anchor": "What does an Earth Elemental add to Dexterity saving throws?"}
+{"passage_id": "1073-0", "question_type": "lookup", "anchor": "How far away can I center Stinking Cloud?"}
+{"passage_id": "1073-0", "question_type": "paraphrase", "anchor": "Can a creature stuck in Stinking Cloud shake off the gas with a roll, and which stat does it use?"}
+{"passage_id": "1073-0", "question_type": "descriptive", "anchor": "Which level 3 spell fills a sphere with yellow, nauseating fumes that stop creatures inside from taking actions?"}
+{"passage_id": "1194-0", "question_type": "lookup", "anchor": "Which ability checks can a grappled creature make to escape a grapple?"}
+{"passage_id": "1194-0", "question_type": "paraphrase", "anchor": "If I'm grappling someone, do I need an action to let them go?"}
+{"passage_id": "1194-0", "question_type": "descriptive", "anchor": "Can a monster grab a target with something other than its hands, like a tentacle?"}
+{"passage_id": "296-0", "question_type": "lookup", "anchor": "How many Unarmed Strikes can Flurry of Blows make with Heightened Focus?"}
+{"passage_id": "296-0", "question_type": "paraphrase", "anchor": "With Heightened Focus, how many temporary hit points do I get from Patient Defense?"}
+{"passage_id": "296-0", "question_type": "descriptive", "anchor": "Which level 10 Monk ability lets me take a willing nearby ally with me when I use my focus to step?"}
+{"passage_id": "274-0", "question_type": "lookup", "anchor": "When can a Champion give themselves Heroic Inspiration with the Heroic Warrior feature?"}
+{"passage_id": "274-0", "question_type": "paraphrase", "anchor": "Does the Heroic Warrior feature work outside of fights too, like during downtime?"}
+{"passage_id": "274-0", "question_type": "descriptive", "anchor": "Which level 10 Champion feature lets me grant myself an inspiration boost during combat?"}
+{"passage_id": "1670-0", "question_type": "lookup", "anchor": "In a monster's stat block, which comes first in the immunities, damage types or conditions?"}
+{"passage_id": "1670-0", "question_type": "paraphrase", "anchor": "In a monster's stat block, where do its immunities get listed?"}
+{"passage_id": "1670-0", "question_type": "descriptive", "anchor": "Where should I look for detailed rules on a creature shrugging off damage or status effects?"}
+{"passage_id": "1315-1", "question_type": "lookup", "anchor": "What do attack rolls against a frightened creature get under fear effects?"}
+{"passage_id": "1315-1", "question_type": "paraphrase", "anchor": "Can a scared creature move and take an action on the same turn under fear effects?"}
+{"passage_id": "1315-1", "question_type": "descriptive", "anchor": "If I'm scared of a monster, what action must I take each turn to flee?"}
+{"passage_id": "1399-1", "question_type": "lookup", "anchor": "Where does an Amulet of the Planes send me on a roll of 01-60?"}
+{"passage_id": "1399-1", "question_type": "paraphrase", "anchor": "After rolling 71-80 with an Amulet of the Planes, how many sides does my next die have?"}
+{"passage_id": "1399-1", "question_type": "descriptive", "anchor": "What magic item sends its user across the planes based on a percentile roll?"}
+{"passage_id": "1399-1", "question_type": "table", "anchor": "Which percentile range on an Amulet of the Planes sends me to the Astral Plane?"}
+{"passage_id": "609-0", "question_type": "lookup", "anchor": "What DC does a Forgery Kit need to mimic up to 10 words of someone's handwriting?"}
+{"passage_id": "609-0", "question_type": "paraphrase", "anchor": "How heavy is a Forgery Kit to carry around?"}
+{"passage_id": "609-0", "question_type": "descriptive", "anchor": "Which set of tools lets me copy a wax seal, and which ability do its checks use?"}
+{"passage_id": "543-0", "question_type": "lookup", "anchor": "What must I already have to take the Defense feat?"}
+{"passage_id": "543-0", "question_type": "paraphrase", "anchor": "With the Defense feat, how much does my Armor Class go up while I'm in armor?"}
+{"passage_id": "543-0", "question_type": "descriptive", "anchor": "Which fighting style feat gives a small bonus to Armor Class while I wear armor?"}

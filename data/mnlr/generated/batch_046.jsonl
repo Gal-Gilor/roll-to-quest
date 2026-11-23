@@ -1,0 +1,81 @@
+{"passage_id": "506-0", "question_type": "lookup", "anchor": "How many skill proficiencies does a character get from a background?"}
+{"passage_id": "506-0", "question_type": "paraphrase", "anchor": "Does a background let me pick my skill proficiencies, or are they fixed?"}
+{"passage_id": "506-0", "question_type": "descriptive", "anchor": "Where in character creation do I get training in a pair of specified skills from my past life?"}
+{"passage_id": "1057-0", "question_type": "lookup", "anchor": "How large is the radius of the Sphere that Silence creates?"}
+{"passage_id": "1057-0", "question_type": "paraphrase", "anchor": "Can I cast a spell with spoken words while standing inside a Silence effect?"}
+{"passage_id": "1057-0", "question_type": "descriptive", "anchor": "Which 2nd-level illusion spell stops all sound in a sphere and deafens creatures inside it?"}
+{"passage_id": "195-0", "question_type": "lookup", "anchor": "Which two spells do I always have prepared from Words of Creation as a Bard?"}
+{"passage_id": "195-0", "question_type": "paraphrase", "anchor": "With Words of Creation, how close must a second creature be to my Power Word Kill target to be targeted as well?"}
+{"passage_id": "195-0", "question_type": "descriptive", "anchor": "At what level do Bards gain the power to master the words of life and death?"}
+{"passage_id": "817-0", "question_type": "lookup", "anchor": "What saving throw does Color Spray require from each creature in the cone?"}
+{"passage_id": "817-0", "question_type": "paraphrase", "anchor": "How far does the cone from Color Spray reach out from my hands?"}
+{"passage_id": "817-0", "question_type": "descriptive", "anchor": "Which first-level illusion spell fires a flashing rainbow that blinds creatures until the end of my next turn?"}
+{"passage_id": "580-1", "question_type": "lookup", "anchor": "What kind of ammunition does a Sling use?"}
+{"passage_id": "580-1", "question_type": "paraphrase", "anchor": "What are the normal and long shooting distances for a Shortbow?"}
+{"passage_id": "580-1", "question_type": "descriptive", "anchor": "Which two-handed ranged weapon fires bolts and needs reloading between shots?"}
+{"passage_id": "580-1", "question_type": "table", "anchor": "How much does a Dart weigh and how much does it cost?"}
+{"passage_id": "2036-0", "question_type": "lookup", "anchor": "What is the Young Gold Dragon's Armor Class?"}
+{"passage_id": "2036-0", "question_type": "paraphrase", "anchor": "How far can a Young Gold Dragon fly in one move?"}
+{"passage_id": "2036-0", "question_type": "descriptive", "anchor": "Which large lawful good metallic dragon can breathe air and water and breathes fire in a cone?"}
+{"passage_id": "2036-0", "question_type": "table", "anchor": "What does a Young Gold Dragon add to Dexterity saving throws?"}
+{"passage_id": "494-8", "question_type": "lookup", "anchor": "Which Wizard spells on the list belong to the Illusion school?"}
+{"passage_id": "494-8", "question_type": "paraphrase", "anchor": "Which school of magic does Telepathic Bond fall under on the Wizard list?"}
+{"passage_id": "494-8", "question_type": "descriptive", "anchor": "Which Enchantment spell in this list has nothing in its Special column?"}
+{"passage_id": "494-8", "question_type": "table", "anchor": "What school of magic does Passwall belong to on the Wizard spell list?"}
+{"passage_id": "1180-0", "question_type": "lookup", "anchor": "Which rule does the Disengage action switch off for the rest of my turn?"}
+{"passage_id": "1180-0", "question_type": "paraphrase", "anchor": "How long does the Disengage action keep monsters from getting free swings at me?"}
+{"passage_id": "1180-0", "question_type": "descriptive", "anchor": "What action lets me move away from enemies without triggering their free attacks this turn?"}
+{"passage_id": "1346-1", "question_type": "lookup", "anchor": "How deep is a Spiked Pit trap for characters at levels 5 to 10?"}
+{"passage_id": "1346-1", "question_type": "paraphrase", "anchor": "If my level 11 to 16 characters fall into a Spiked Pit, how much bashing and stabbing damage do they take?"}
+{"passage_id": "1346-1", "question_type": "descriptive", "anchor": "Which trap is a deep pit that deals both blunt and sharp damage, scaling with party level?"}
+{"passage_id": "1346-1", "question_type": "table", "anchor": "What piercing damage does a Spiked Pit trap deal to characters at levels 17 to 20?"}
+{"passage_id": "2740-0", "question_type": "lookup", "anchor": "What is the Giant Lizard's Armor Class?"}
+{"passage_id": "2740-0", "question_type": "paraphrase", "anchor": "How quickly can a Giant Lizard move when it is climbing a wall?"}
+{"passage_id": "2740-0", "question_type": "descriptive", "anchor": "Which large beast can climb ceilings and other difficult surfaces without making any ability check?"}
+{"passage_id": "2740-0", "question_type": "table", "anchor": "What Charisma modifier does a Giant Lizard have?"}
+{"passage_id": "319-0", "question_type": "lookup", "anchor": "How many uses of Channel Divinity does a Paladin have to begin with?"}
+{"passage_id": "319-0", "question_type": "paraphrase", "anchor": "Once I hit Paladin level 11, how many extra Channel Divinity uses do I get?"}
+{"passage_id": "319-0", "question_type": "descriptive", "anchor": "Which Paladin option lets me spend a Bonus Action to sense nearby Celestials, Fiends, and Undead for ten minutes?"}
+{"passage_id": "1607-0", "question_type": "lookup", "anchor": "What Dexterity saving throw DC does a creature need to avoid being touched by a Sphere of Annihilation?"}
+{"passage_id": "1607-0", "question_type": "paraphrase", "anchor": "How hard is the Arcana roll to grab control of a Sphere of Annihilation that is within 60 feet?"}
+{"passage_id": "1607-0", "question_type": "descriptive", "anchor": "Which legendary two-foot black orb is a hole in the multiverse that destroys nearly any matter it touches?"}
+{"passage_id": "734-0", "question_type": "lookup", "anchor": "How much raw material value does it take to craft Plate Armor?"}
+{"passage_id": "734-0", "question_type": "paraphrase", "anchor": "When crafting, do I have to spend the full price in materials, or is there a cheaper amount?"}
+{"passage_id": "734-0", "question_type": "descriptive", "anchor": "Who decides whether suitable materials are on hand when I want to craft an item?"}
+{"passage_id": "1061-0", "question_type": "lookup", "anchor": "What is the radius of the Cylinder created when I cast Sleet Storm?"}
+{"passage_id": "1061-0", "question_type": "paraphrase", "anchor": "If I cast Sleet Storm, does the ground in its area become hard to walk across?"}
+{"passage_id": "1061-0", "question_type": "descriptive", "anchor": "Which 3rd-level conjuration spell makes freezing sleet douse flames and heavily obscure a cylinder-shaped area?"}
+{"passage_id": "800-0", "question_type": "lookup", "anchor": "How many creatures can I bless at once with Bless at its normal level?"}
+{"passage_id": "800-0", "question_type": "paraphrase", "anchor": "How much does Bless add to my allies' attack rolls and saving throws?"}
+{"passage_id": "800-0", "question_type": "descriptive", "anchor": "Which 1st-level enchantment spell gives up to three allies a little extra die on attacks and saves?"}
+{"passage_id": "146-0", "question_type": "lookup", "anchor": "For multiclass spell slots, which classes count their full levels toward my total?"}
+{"passage_id": "146-0", "question_type": "paraphrase", "anchor": "If I'm a Paladin mixed with a Ranger, how much of my level counts toward spell slots?"}
+{"passage_id": "146-0", "question_type": "descriptive", "anchor": "When I've taken levels in several classes, which level determines how much stronger my cantrips get?"}
+{"passage_id": "828-0", "question_type": "lookup", "anchor": "How far away can I conjure a Fey spirit with Conjure Fey?"}
+{"passage_id": "828-0", "question_type": "paraphrase", "anchor": "If I cast Conjure Fey with a bigger slot, how much extra damage does it deal?"}
+{"passage_id": "828-0", "question_type": "descriptive", "anchor": "Which Druid spell summons a Medium spirit that looks like a Fey creature and teleports to attack again?"}
+{"passage_id": "2188-0", "question_type": "lookup", "anchor": "How many hit points does an Archmage have?"}
+{"passage_id": "2188-0", "question_type": "paraphrase", "anchor": "When an Archmage tries to shrug off a spell, does it get an edge on the roll?"}
+{"passage_id": "2188-0", "question_type": "descriptive", "anchor": "Which Medium or Small humanoid of wizard type can cast Misty Step three times a day?"}
+{"passage_id": "2188-0", "question_type": "table", "anchor": "What does an Archmage add to its Intelligence saving throws?"}
+{"passage_id": "775-0", "question_type": "lookup", "anchor": "How long does a casting of Animal Shapes last?"}
+{"passage_id": "775-0", "question_type": "paraphrase", "anchor": "How many temporary hit points do my allies gain when I turn them into beasts with Animal Shapes?"}
+{"passage_id": "775-0", "question_type": "descriptive", "anchor": "Which 8th-level transmutation spell turns willing creatures into beasts of challenge rating 4 or lower?"}
+{"passage_id": "270-0", "question_type": "lookup", "anchor": "What does the Champion subclass for Fighters focus on developing?"}
+{"passage_id": "270-0", "question_type": "paraphrase", "anchor": "Does the Champion subclass for Fighters care about athletic contests as well as battles?"}
+{"passage_id": "270-0", "question_type": "descriptive", "anchor": "Which Fighter subclass is all about winning both athletic contests and bloody battles?"}
+{"passage_id": "179-0", "question_type": "lookup", "anchor": "What saving throw proficiencies does a Bard have?"}
+{"passage_id": "179-0", "question_type": "paraphrase", "anchor": "Which armor is a Bard trained to wear?"}
+{"passage_id": "179-0", "question_type": "descriptive", "anchor": "Which class has Charisma as its main ability and starts with proficiency in three musical instruments?"}
+{"passage_id": "179-0", "question_type": "table", "anchor": "Which hit point die does a Bard roll at each level?"}
+{"passage_id": "2255-0", "question_type": "lookup", "anchor": "What is a Night Hag's Armor Class?"}
+{"passage_id": "2255-0", "question_type": "paraphrase", "anchor": "How much health does a Night Hag start with?"}
+{"passage_id": "2255-0", "question_type": "descriptive", "anchor": "Which neutral evil fiend keeps a soul bag and can cast Augury through its coven magic?"}
+{"passage_id": "2255-0", "question_type": "table", "anchor": "What Strength score does a Night Hag have?"}
+{"passage_id": "1126-0", "question_type": "lookup", "anchor": "What happens when a single D20 Test has both Advantage and Disadvantage?"}
+{"passage_id": "1126-0", "question_type": "paraphrase", "anchor": "If two different effects give me Advantage on the same roll, do I get to roll more than two d20s?"}
+{"passage_id": "1126-0", "question_type": "descriptive", "anchor": "When making a d20 test, which rule has me roll two dice and keep the higher result?"}
+{"passage_id": "225-1", "question_type": "lookup", "anchor": "What armor does a Druid start with if they take the first starting equipment option?"}
+{"passage_id": "225-1", "question_type": "paraphrase", "anchor": "Can a Druid take a plain pile of gold instead of starting gear?"}
+{"passage_id": "225-1", "question_type": "descriptive", "anchor": "Which class starts with a Sickle, a Herbalism Kit, and a choice between gear or 50 GP?"}
+{"passage_id": "225-1", "question_type": "table", "anchor": "How many GP does a Druid get with starting equipment option A?"}

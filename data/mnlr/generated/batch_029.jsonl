@@ -1,0 +1,81 @@
+{"passage_id": "359-0", "question_type": "lookup", "anchor": "At what Ranger level does Foe Slayer start to change my Hunter's Mark damage?"}
+{"passage_id": "359-0", "question_type": "paraphrase", "anchor": "As a Ranger, how big are my Hunter's Mark damage dice with Foe Slayer, compared to the usual d6?"}
+{"passage_id": "359-0", "question_type": "descriptive", "anchor": "Which top-level Ranger perk makes the damage die for my marked target bigger on each hit?"}
+{"passage_id": "2113-0", "question_type": "lookup", "anchor": "How many hit points does a Hippogriff have?"}
+{"passage_id": "2113-0", "question_type": "paraphrase", "anchor": "How fast can a Hippogriff fly, measured in feet per turn?"}
+{"passage_id": "2113-0", "question_type": "descriptive", "anchor": "What flying creature can leave an enemy's reach without provoking a free attack?"}
+{"passage_id": "2113-0", "question_type": "table", "anchor": "How smart is a Hippogriff, as an Intelligence score?"}
+{"passage_id": "1671-0", "question_type": "lookup", "anchor": "What happens to a monster's equipment that is not listed in its gear entry when it is defeated?"}
+{"passage_id": "1671-0", "question_type": "paraphrase", "anchor": "Do I have to list a monster's clothes in its gear section of the stat block?"}
+{"passage_id": "1671-0", "question_type": "descriptive", "anchor": "If a player grabs a monster's retrievable item, do the stat block's special flourishes still apply?"}
+{"passage_id": "11-0", "question_type": "lookup", "anchor": "How are saving throws named in relation to ability modifiers?"}
+{"passage_id": "11-0", "question_type": "paraphrase", "anchor": "Under the ability modifier rules, which save do I roll to dodge out of harm's way?"}
+{"passage_id": "11-0", "question_type": "descriptive", "anchor": "Which save would let me spot that an illusion is fake?"}
+{"passage_id": "11-0", "question_type": "table", "anchor": "In the ability modifier examples table, which ability is listed for resisting a mental assault?"}
+{"passage_id": "1464-0", "question_type": "lookup", "anchor": "Which conditions end on me when I drink an Elixir of Health?"}
+{"passage_id": "1464-0", "question_type": "paraphrase", "anchor": "If I'm suffering from a magical disease, will an Elixir of Health cure it?"}
+{"passage_id": "1464-0", "question_type": "descriptive", "anchor": "What potion with clear red liquid full of little glowing bubbles cures every magical infection?"}
+{"passage_id": "2281-0", "question_type": "lookup", "anchor": "How many Hit Points does an Otyugh start with?"}
+{"passage_id": "2281-0", "question_type": "paraphrase", "anchor": "Which DC do I need to beat to break free from an Otyugh's tentacle grab?"}
+{"passage_id": "2281-0", "question_type": "descriptive", "anchor": "What monster's bite poisons me so that my maximum Hit Points keep shrinking after each long rest?"}
+{"passage_id": "2281-0", "question_type": "table", "anchor": "In the Otyugh stat table, what is the Constitution saving throw bonus?"}
+{"passage_id": "1087-0", "question_type": "lookup", "anchor": "How many willing creatures can I bring along when I cast Teleport?"}
+{"passage_id": "1087-0", "question_type": "paraphrase", "anchor": "Can Teleport move a huge boulder, or is there a size limit on the object I target?"}
+{"passage_id": "1087-0", "question_type": "descriptive", "anchor": "Which level 7 magic instantly moves me and up to eight willing allies to a destination I can name on the same plane?"}
+{"passage_id": "1087-0", "question_type": "table", "anchor": "When I cast Teleport to a place I've only seen once or had described, which d100 roll range puts me on target?"}
+{"passage_id": "1062-0", "question_type": "lookup", "anchor": "What material component do I need to cast Slow?"}
+{"passage_id": "1062-0", "question_type": "paraphrase", "anchor": "After I cast Slow on foes, can their spells with hand gestures still fail sometimes?"}
+{"passage_id": "1062-0", "question_type": "descriptive", "anchor": "Which level 3 spell halves the speed of up to six creatures in a cube and lets them repeat a save each turn?"}
+{"passage_id": "859-0", "question_type": "lookup", "anchor": "How much damage does Dissonant Whispers deal on a failed save?"}
+{"passage_id": "859-0", "question_type": "paraphrase", "anchor": "If I use a bigger slot for Dissonant Whispers, how much extra damage do I get?"}
+{"passage_id": "859-0", "question_type": "descriptive", "anchor": "What bard spell plays a jarring melody in a foe's head, forcing it to step away from me?"}
+{"passage_id": "879-0", "question_type": "lookup", "anchor": "What is the casting time of Expeditious Retreat?"}
+{"passage_id": "879-0", "question_type": "paraphrase", "anchor": "Once Expeditious Retreat is active, can I dash again on a bonus action each turn?"}
+{"passage_id": "879-0", "question_type": "descriptive", "anchor": "Which first-level spell takes only a bonus action to cast and lasts up to ten minutes of concentration?"}
+{"passage_id": "1023-0", "question_type": "lookup", "anchor": "How long can I keep up Protection from Energy?"}
+{"passage_id": "1023-0", "question_type": "paraphrase", "anchor": "Which damage types can Protection from Energy help my ally resist?"}
+{"passage_id": "1023-0", "question_type": "descriptive", "anchor": "What third-level spell lets me touch a willing ally so they take less damage from one chosen element?"}
+{"passage_id": "1333-0", "question_type": "lookup", "anchor": "What DC must a creature beat on a Constitution save against a 600 GP ingested poison?"}
+{"passage_id": "1333-0", "question_type": "paraphrase", "anchor": "How long does a 600 GP ingested poison keep me Poisoned if I fail?"}
+{"passage_id": "1333-0", "question_type": "descriptive", "anchor": "What poison slows a victim to half speed for hours after they fail a Constitution save?"}
+{"passage_id": "576-0", "question_type": "lookup", "anchor": "How long does the disadvantage from a weapon mastery on a target's next attack last?"}
+{"passage_id": "576-0", "question_type": "paraphrase", "anchor": "When my weapon's mastery connects, does the foe's next attack roll get a penalty?"}
+{"passage_id": "576-0", "question_type": "descriptive", "anchor": "What weapon effect applies only after I land a hit and hampers the victim's very next attack?"}
+{"passage_id": "386-0", "question_type": "lookup", "anchor": "At what Rogue level does Slippery Mind begin?"}
+{"passage_id": "386-0", "question_type": "paraphrase", "anchor": "As a Rogue, does Slippery Mind make me better at the willpower and personality saves?"}
+{"passage_id": "386-0", "question_type": "descriptive", "anchor": "Which level 15 rogue ability makes the character's cunning mind hard to control?"}
+{"passage_id": "1517-0", "question_type": "lookup", "anchor": "How many charges does a Medallion of Thoughts have?"}
+{"passage_id": "1517-0", "question_type": "paraphrase", "anchor": "Does a Medallion of Thoughts get its used charges back every day, and how many?"}
+{"passage_id": "1517-0", "question_type": "descriptive", "anchor": "What uncommon item that needs attunement lets me expend charges to cast a mind-sensing spell?"}
+{"passage_id": "401-2", "question_type": "lookup", "anchor": "Which level of Sorcerer Spellcasting gives Sorcerous Restoration?"}
+{"passage_id": "401-2", "question_type": "paraphrase", "anchor": "As a Sorcerer with Spellcasting, how big is my pool of points for boosting spells at level 6?"}
+{"passage_id": "401-2", "question_type": "descriptive", "anchor": "Once I'm a sorcerer, at what character level do I first get third-level spell slots, and how many?"}
+{"passage_id": "401-2", "question_type": "table", "anchor": "In the Sorcerer Spellcasting table, what is the Prepared Spells count at level 5?"}
+{"passage_id": "757-0", "question_type": "lookup", "anchor": "What do the V, S, and M listed among spell components stand for?"}
+{"passage_id": "757-0", "question_type": "paraphrase", "anchor": "If I can't get one of a spell's required components, can I still cast it?"}
+{"passage_id": "757-0", "question_type": "descriptive", "anchor": "Does casting magic require physical needs like gestures or materials that a caster must have on hand?"}
+{"passage_id": "2264-0", "question_type": "lookup", "anchor": "How many Hit Points does a Noble have?"}
+{"passage_id": "2264-0", "question_type": "paraphrase", "anchor": "Can a Noble raise its armor by 2 with a reaction when a melee hit lands while it holds a weapon?"}
+{"passage_id": "2264-0", "question_type": "descriptive", "anchor": "Which humanoid wears a breastplate and fights with a rapier, and has a CR of 1/8?"}
+{"passage_id": "2264-0", "question_type": "table", "anchor": "Going by the stat table, how strong is a Noble as a Strength score?"}
+{"passage_id": "1974-1", "question_type": "lookup", "anchor": "How many Slam attacks does a Flesh Golem make with Multiattack?"}
+{"passage_id": "1974-1", "question_type": "paraphrase", "anchor": "When a spell targets a Flesh Golem, does it get an edge on its save?"}
+{"passage_id": "1974-1", "question_type": "descriptive", "anchor": "What monster absorbs lightning damage to heal itself, regaining Hit Points equal to the damage?"}
+{"passage_id": "2744-0", "question_type": "lookup", "anchor": "How long can a Giant Octopus hold its breath outside water?"}
+{"passage_id": "2744-0", "question_type": "paraphrase", "anchor": "Once a Giant Octopus grabs me with its tentacles, how hard is it to break free?"}
+{"passage_id": "2744-0", "question_type": "descriptive", "anchor": "What sea creature can spray a 10-foot cloud of ink that blocks sight for a minute when hurt underwater?"}
+{"passage_id": "2744-0", "question_type": "table", "anchor": "How charismatic is a Giant Octopus, as a Charisma score?"}
+{"passage_id": "1546-0", "question_type": "lookup", "anchor": "How long does a Potion of Gaseous Form keep me gaseous?"}
+{"passage_id": "1546-0", "question_type": "paraphrase", "anchor": "Do I need to keep concentrating to stay gaseous after I drink a Potion of Gaseous Form?"}
+{"passage_id": "1546-0", "question_type": "descriptive", "anchor": "What potion holds fog that pours like water and lets me turn into mist for an hour?"}
+{"passage_id": "1830-0", "question_type": "lookup", "anchor": "How many Hit Points does a Bugbear Stalker have?"}
+{"passage_id": "1830-0", "question_type": "paraphrase", "anchor": "If I'm already held by a Bugbear Stalker's grapple, does its morningstar attack get a bonus?"}
+{"passage_id": "1830-0", "question_type": "descriptive", "anchor": "What goblinoid fey can drag a creature it has grabbed without spending extra movement?"}
+{"passage_id": "1830-0", "question_type": "table", "anchor": "In the Bugbear Stalker's ability table, what is the Wisdom saving throw bonus?"}
+{"passage_id": "147-8", "question_type": "lookup", "anchor": "What dice do I roll to pick a character trinket?"}
+{"passage_id": "147-8", "question_type": "paraphrase", "anchor": "Among character trinkets, which item is a folded cloth that unfolds into a hat?"}
+{"passage_id": "147-8", "question_type": "descriptive", "anchor": "What random curio is a diary with seven missing pages?"}
+{"passage_id": "147-8", "question_type": "table", "anchor": "On the character trinket d100 table, what item comes up on a roll of 84?"}
+{"passage_id": "2249-1", "question_type": "lookup", "anchor": "When a Nalfeshnee uses Pursuit, how close must its Teleport destination be to the triggering enemy?"}
+{"passage_id": "2249-1", "question_type": "paraphrase", "anchor": "How far from a Nalfeshnee must a foe stop moving to trigger its teleport response?"}
+{"passage_id": "2249-1", "question_type": "descriptive", "anchor": "Which monster's reaction lets it teleport right beside an enemy that has just moved nearby?"}

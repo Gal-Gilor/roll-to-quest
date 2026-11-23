@@ -1,0 +1,79 @@
+{"passage_id": "833-0", "question_type": "lookup", "anchor": "What is the casting time of Contingency?"}
+{"passage_id": "833-0", "question_type": "paraphrase", "anchor": "Can a Contingency that holds Water Breathing protect my ally when they get engulfed in water?"}
+{"passage_id": "833-0", "question_type": "descriptive", "anchor": "Which level 6 spell stores a spell of level 5 or lower to fire automatically when a trigger I set occurs?"}
+{"passage_id": "728-0", "question_type": "lookup", "anchor": "How long must an item stay more than 100 feet away before my attunement to it ends?"}
+{"passage_id": "728-0", "question_type": "paraphrase", "anchor": "Can I end my attunement to a magic item myself, and what does it take?"}
+{"passage_id": "728-0", "question_type": "descriptive", "anchor": "When does my bond with a magic item break if it gets too far away or another creature bonds with it?"}
+{"passage_id": "445-0", "question_type": "lookup", "anchor": "What does the Armor of Shadows invocation let a Warlock cast without a spell slot?"}
+{"passage_id": "445-0", "question_type": "paraphrase", "anchor": "Can I use Armor of Shadows to cast Mage Armor on my friends without a spell slot?"}
+{"passage_id": "445-0", "question_type": "descriptive", "anchor": "What Warlock invocation lets me cast a protective armor spell on myself with no spell slot?"}
+{"passage_id": "2348-0", "question_type": "lookup", "anchor": "How much Fire damage does a Remorhaz's Heat Aura deal at the end of each of its turns?"}
+{"passage_id": "2348-0", "question_type": "paraphrase", "anchor": "If a Remorhaz swallows me, how much acid and fire damage do I take at the start of each of its turns?"}
+{"passage_id": "2348-0", "question_type": "descriptive", "anchor": "What huge burrowing monster that is immune to cold and fire can swallow a grappled foe whole?"}
+{"passage_id": "2348-0", "question_type": "table", "anchor": "What is a Remorhaz's Constitution saving throw bonus?"}
+{"passage_id": "1854-0", "question_type": "lookup", "anchor": "What reach does a Chuul's Pincer attack have?"}
+{"passage_id": "1854-0", "question_type": "paraphrase", "anchor": "If a Chuul's tentacles poison and paralyze me, how long before I'm automatically freed?"}
+{"passage_id": "1854-0", "question_type": "descriptive", "anchor": "What amphibious aberration with two pincers can paralyze a grappled victim using its tentacles?"}
+{"passage_id": "1854-0", "question_type": "table", "anchor": "What is a Chuul's Intelligence saving throw bonus?"}
+{"passage_id": "872-0", "question_type": "lookup", "anchor": "What is the casting range of Elementalism, in feet?"}
+{"passage_id": "872-0", "question_type": "paraphrase", "anchor": "With Elementalism's Beckon Water, how long does the clean cup of water last before it evaporates?"}
+{"passage_id": "872-0", "question_type": "descriptive", "anchor": "Which cantrip lets me shape dirt, sand, or mist into a crude creature shape for an hour?"}
+{"passage_id": "2951-0", "question_type": "lookup", "anchor": "What is a Wolf's Speed, in feet?"}
+{"passage_id": "2951-0", "question_type": "paraphrase", "anchor": "If a Wolf bites me and I'm Medium-sized, do I end up knocked prone?"}
+{"passage_id": "2951-0", "question_type": "descriptive", "anchor": "What pack-hunting beast gets advantage on attacks against a foe near one of its allies?"}
+{"passage_id": "2951-0", "question_type": "table", "anchor": "What is a Wolf's Intelligence score?"}
+{"passage_id": "323-0", "question_type": "lookup", "anchor": "What spell does Faithful Steed always have prepared for a Paladin?"}
+{"passage_id": "323-0", "question_type": "paraphrase", "anchor": "With Faithful Steed, how often can I cast Find Steed without using a spell slot?"}
+{"passage_id": "323-0", "question_type": "descriptive", "anchor": "What paladin level 5 feature lets me call an otherworldly steed and always keeps a steed-summoning spell ready?"}
+{"passage_id": "308-0", "question_type": "lookup", "anchor": "How many Focus Points does Quivering Palm cost to start the vibrations?"}
+{"passage_id": "308-0", "question_type": "paraphrase", "anchor": "If I'm a level 9 Monk, how many days will Quivering Palm vibrations last?"}
+{"passage_id": "308-0", "question_type": "descriptive", "anchor": "What monk technique lets me set up hidden vibrations in a foe's body that later deal massive Force damage?"}
+{"passage_id": "1442-0", "question_type": "lookup", "anchor": "What save DC does a Crystal Ball of Telepathy use when casting Scrying?"}
+{"passage_id": "1442-0", "question_type": "paraphrase", "anchor": "Can I use Suggestion through a Crystal Ball of Telepathy again the same day?"}
+{"passage_id": "1442-0", "question_type": "descriptive", "anchor": "What legendary orb lets me talk telepathically with people I can see within 30 feet of its sensor?"}
+{"passage_id": "934-0", "question_type": "lookup", "anchor": "How large an area can Hallucinatory Terrain change at once?"}
+{"passage_id": "934-0", "question_type": "paraphrase", "anchor": "Can Hallucinatory Terrain make a manufactured building or piece of gear look like something else?"}
+{"passage_id": "934-0", "question_type": "descriptive", "anchor": "What illusion spell makes natural landscape look like a different kind of terrain for 24 hours?"}
+{"passage_id": "1245-0", "question_type": "lookup", "anchor": "What happens to a target that must make a save but lacks the ability score the save uses?"}
+{"passage_id": "1245-0", "question_type": "paraphrase", "anchor": "Can I deliberately fail a resist roll without rolling the dice when a rule asks for one?"}
+{"passage_id": "1245-0", "question_type": "descriptive", "anchor": "What roll do I make to try to avoid or resist a threat like a spell or trap?"}
+{"passage_id": "1551-0", "question_type": "lookup", "anchor": "How long does the Invisible condition from a Potion of Invisibility last?"}
+{"passage_id": "1551-0", "question_type": "paraphrase", "anchor": "What ends the invisibility from a Potion of Invisibility early?"}
+{"passage_id": "1551-0", "question_type": "descriptive", "anchor": "Which rare potion can make me invisible, but the effect ends early if I attack or cast a spell?"}
+{"passage_id": "1258-1", "question_type": "lookup", "anchor": "Where in a monster's stat block are its damage and condition immunities listed?"}
+{"passage_id": "1258-1", "question_type": "paraphrase", "anchor": "How do I find out what languages a monster can speak in its stat block?"}
+{"passage_id": "1258-1", "question_type": "descriptive", "anchor": "In a monster's listing, which section tells me about special Reactions it can take?"}
+{"passage_id": "948-0", "question_type": "lookup", "anchor": "How much extra damage does Hunter's Mark deal on each hit?"}
+{"passage_id": "948-0", "question_type": "paraphrase", "anchor": "If my Hunter's Mark target drops to zero health, can I shift the mark to someone else?"}
+{"passage_id": "948-0", "question_type": "descriptive", "anchor": "What first-level ranger spell makes my hits against one marked foe deal extra Force damage and helps me track it?"}
+{"passage_id": "766-0", "question_type": "lookup", "anchor": "What DC and ability check do I need to identify an ongoing spell from its effects?"}
+{"passage_id": "766-0", "question_type": "paraphrase", "anchor": "If two clerics both cast Bless on one friend, does the friend get two bonus dice?"}
+{"passage_id": "766-0", "question_type": "descriptive", "anchor": "If two different spells affect me at the same time, do their effects add together?"}
+{"passage_id": "689-0", "question_type": "lookup", "anchor": "How far away can a signal whistle be heard?"}
+{"passage_id": "689-0", "question_type": "paraphrase", "anchor": "Which action do I take to blow a signal whistle?"}
+{"passage_id": "689-0", "question_type": "descriptive", "anchor": "What cheap adventuring gear makes a sound I can blow that carries several hundred feet away?"}
+{"passage_id": "1646-0", "question_type": "lookup", "anchor": "How many charges does the Wand of Secrets hold?"}
+{"passage_id": "1646-0", "question_type": "paraphrase", "anchor": "How many charges does a Wand of Secrets get back at sunrise each day?"}
+{"passage_id": "1646-0", "question_type": "descriptive", "anchor": "Which uncommon wand can point me toward the nearest secret door or trap within 60 feet?"}
+{"passage_id": "293-0", "question_type": "lookup", "anchor": "At what Monk level does Empowered Strikes become available?"}
+{"passage_id": "293-0", "question_type": "paraphrase", "anchor": "Can my monk's punches deal Force damage instead of their usual type with Empowered Strikes?"}
+{"passage_id": "293-0", "question_type": "descriptive", "anchor": "What monk feature lets my bare-handed hits switch to a different damage type?"}
+{"passage_id": "1100-0", "question_type": "lookup", "anchor": "How far does the Tsunami wall move away from me at the start of each of my turns?"}
+{"passage_id": "1100-0", "question_type": "paraphrase", "anchor": "If a Tsunami sweeps over me when it appears and I fail, how much damage do I take?"}
+{"passage_id": "1100-0", "question_type": "descriptive", "anchor": "What druid spell conjures a wall of water that moves away from me and lasts up to six rounds?"}
+{"passage_id": "858-0", "question_type": "lookup", "anchor": "What is the range of Dispel Magic in feet?"}
+{"passage_id": "858-0", "question_type": "paraphrase", "anchor": "If I cast Dispel Magic with a 5th-level slot, does it automatically end a 4th-level spell on the target?"}
+{"passage_id": "858-0", "question_type": "descriptive", "anchor": "What abjuration spell can end ongoing magic on one creature, object, or effect within 120 feet?"}
+{"passage_id": "312-0", "question_type": "lookup", "anchor": "What armor training does a Paladin gain when multiclassing into the class?"}
+{"passage_id": "312-0", "question_type": "paraphrase", "anchor": "If I add Paladin as a second class, what weapons am I now proficient with?"}
+{"passage_id": "312-0", "question_type": "descriptive", "anchor": "What do I gain right away when I first add the holy knight class to my existing levels?"}
+{"passage_id": "824-1", "question_type": "lookup", "anchor": "With Confusion, how much bigger does the sphere get for each spell slot level above 4?"}
+{"passage_id": "824-1", "question_type": "paraphrase", "anchor": "Can someone caught by Confusion shake it off at the end of their turn?"}
+{"passage_id": "824-1", "question_type": "descriptive", "anchor": "What spell makes victims in a sphere roll a save at the end of each of their turns to break free?"}
+{"passage_id": "481-1", "question_type": "lookup", "anchor": "What class feature does a Wizard gain at character level 2?"}
+{"passage_id": "481-1", "question_type": "paraphrase", "anchor": "How many little free spells can a brand-new Wizard know?"}
+{"passage_id": "481-1", "question_type": "descriptive", "anchor": "What starting abilities does a first-level arcane spellcaster get, like Ritual Adept and Arcane Recovery?"}
+{"passage_id": "481-1", "question_type": "table", "anchor": "How many level 2 spell slots does a Wizard have at character level 3?"}
+{"passage_id": "659-0", "question_type": "lookup", "anchor": "What is an Ink Pen used for?"}
+{"passage_id": "659-0", "question_type": "paraphrase", "anchor": "How much copper does an ink pen cost?"}
+{"passage_id": "659-0", "question_type": "descriptive", "anchor": "What cheap writing tool needs ink and lets me scribble or sketch on paper?"}

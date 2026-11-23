@@ -1,0 +1,83 @@
+{"passage_id": "1016-0", "question_type": "lookup", "anchor": "How many of Prestidigitation's non-instantaneous effects can be active at a time?"}
+{"passage_id": "1016-0", "question_type": "paraphrase", "anchor": "If I cast Prestidigitation a bunch of times, how many of its lasting effects can keep going at once?"}
+{"passage_id": "1016-0", "question_type": "descriptive", "anchor": "What cantrip lets a caster light or snuff out a candle, make a small spark appear, or clean a dirty cup?"}
+{"passage_id": "167-0", "question_type": "lookup", "anchor": "What DC does Relentless Rage use for the first Constitution save when you drop to 0 Hit Points?"}
+{"passage_id": "167-0", "question_type": "paraphrase", "anchor": "After my first use of Relentless Rage, how much does each later attempt raise the difficulty?"}
+{"passage_id": "167-0", "question_type": "descriptive", "anchor": "What Barbarian rage feature lets me keep fighting after dropping to zero health while my rage is active?"}
+{"passage_id": "231-0", "question_type": "lookup", "anchor": "What DC must someone beat on an Intelligence (Investigation) check to spot a hidden Druidic message?"}
+{"passage_id": "231-0", "question_type": "paraphrase", "anchor": "Does knowing Druidic give a Druid any spell that is always ready to cast?"}
+{"passage_id": "231-0", "question_type": "descriptive", "anchor": "What secret language lets a character leave messages that others can detect but not read without magic?"}
+{"passage_id": "459-0", "question_type": "lookup", "anchor": "Which spell can the Mask of Many Faces invocation let me cast without using a spell slot?"}
+{"passage_id": "459-0", "question_type": "paraphrase", "anchor": "How high a Warlock level do I need before I can take the Mask of Many Faces option?"}
+{"passage_id": "459-0", "question_type": "descriptive", "anchor": "Which Warlock option lets me put on a disguise without spending a spell slot?"}
+{"passage_id": "1432-0", "question_type": "lookup", "anchor": "What bonus to hit does the Circlet of Blasting add when it casts Scorching Ray?"}
+{"passage_id": "1432-0", "question_type": "paraphrase", "anchor": "How long must I wait before the Circlet of Blasting can fire Scorching Ray again?"}
+{"passage_id": "1432-0", "question_type": "descriptive", "anchor": "What uncommon magic headpiece casts a ray spell and cannot cast it again until the next dawn?"}
+{"passage_id": "1487-0", "question_type": "lookup", "anchor": "How many pounds can the central pouch of a Handy Haversack hold?"}
+{"passage_id": "1487-0", "question_type": "paraphrase", "anchor": "How much does a Handy Haversack weigh itself, no matter what I stuff inside it?"}
+{"passage_id": "1487-0", "question_type": "descriptive", "anchor": "What backpack has a central pouch and two side pouches that are each extradimensional spaces?"}
+{"passage_id": "826-0", "question_type": "lookup", "anchor": "What is the casting range of Conjure Celestial in feet?"}
+{"passage_id": "826-0", "question_type": "paraphrase", "anchor": "If I cast Conjure Celestial with a bigger spell slot, how much more healing or damage does it do?"}
+{"passage_id": "826-0", "question_type": "descriptive", "anchor": "What Cleric spell summons a pillar of light that can heal some creatures and burn others with radiant damage?"}
+{"passage_id": "250-3", "question_type": "lookup", "anchor": "What class feature does a Fighter gain at level 19?"}
+{"passage_id": "250-3", "question_type": "paraphrase", "anchor": "At what character level does a Fighter's proficiency bonus reach +6?"}
+{"passage_id": "250-3", "question_type": "descriptive", "anchor": "Which martial class gets Three Extra Attacks at level 20 and an Epic Boon at level 19?"}
+{"passage_id": "250-3", "question_type": "table", "anchor": "How many weapon kinds can a Fighter at level 14 use with Weapon Mastery?"}
+{"passage_id": "1453-0", "question_type": "lookup", "anchor": "What DC must I beat on the Charisma save when I peer into a Dragon Orb?"}
+{"passage_id": "1453-0", "question_type": "paraphrase", "anchor": "How many charges does a Dragon Orb get back each day at dawn?"}
+{"passage_id": "1453-0", "question_type": "descriptive", "anchor": "What etched crystal globe with a swirling mist inside can charm the person attuned to it?"}
+{"passage_id": "1453-0", "question_type": "table", "anchor": "How many charges does a Dragon Orb spend to cast the level 9 Cure Wounds?"}
+{"passage_id": "2014-0", "question_type": "lookup", "anchor": "How much does the Parry reaction add to a Gladiator's AC against a melee attack?"}
+{"passage_id": "2014-0", "question_type": "paraphrase", "anchor": "Can a Gladiator swap one of its three spear jabs for a shield smash?"}
+{"passage_id": "2014-0", "question_type": "descriptive", "anchor": "Which humanoid fighter carries a shield and spears and can add to its AC against melee attacks when holding a weapon?"}
+{"passage_id": "2014-0", "question_type": "table", "anchor": "What does a Gladiator add to Wisdom saving throws?"}
+{"passage_id": "2276-1", "question_type": "lookup", "anchor": "Does an Oni's Invisibility spell need any spell components to cast?"}
+{"passage_id": "2276-1", "question_type": "paraphrase", "anchor": "Does an Oni's invisibility trick draw on the same magic skill as its Spellcasting?"}
+{"passage_id": "2276-1", "question_type": "descriptive", "anchor": "Which monster can cast Invisibility on itself as a trait without any spell components?"}
+{"passage_id": "2788-0", "question_type": "lookup", "anchor": "What is a Giant Weasel's climbing speed?"}
+{"passage_id": "2788-0", "question_type": "paraphrase", "anchor": "How many hit points does a Giant Weasel have?"}
+{"passage_id": "2788-0", "question_type": "descriptive", "anchor": "What medium beast has darkvision out to 60 feet and bonuses to Stealth and Acrobatics?"}
+{"passage_id": "2788-0", "question_type": "table", "anchor": "What does a Giant Weasel add to Dexterity saving throws?"}
+{"passage_id": "1054-0", "question_type": "lookup", "anchor": "What damage die does Shillelagh use once I reach character level 11?"}
+{"passage_id": "1054-0", "question_type": "paraphrase", "anchor": "Does casting Shillelagh use my action or my bonus action?"}
+{"passage_id": "1054-0", "question_type": "descriptive", "anchor": "What spell turns a club or quarterstaff into a nature-powered weapon that can use my spellcasting ability for attacks?"}
+{"passage_id": "110-0", "question_type": "lookup", "anchor": "Where do I write down my armor training when making a character?"}
+{"passage_id": "110-0", "question_type": "paraphrase", "anchor": "What does having armor training let my character actually do with a suit of armor?"}
+{"passage_id": "110-0", "question_type": "descriptive", "anchor": "What might my class give me that lets my character wear certain kinds of armor effectively for defensive bonuses?"}
+{"passage_id": "1288-0", "question_type": "lookup", "anchor": "How many skill proficiencies do I choose when building a background?"}
+{"passage_id": "1288-0", "question_type": "paraphrase", "anchor": "Do the skills I pick for my background have to match the ability scores it boosts?"}
+{"passage_id": "1288-0", "question_type": "descriptive", "anchor": "In which step of building a background do I select two skills suited to the character's history?"}
+{"passage_id": "2090-0", "question_type": "lookup", "anchor": "How many javelins does a Guard Captain carry?"}
+{"passage_id": "2090-0", "question_type": "paraphrase", "anchor": "How tough is a Guard Captain, measured by its challenge rating?"}
+{"passage_id": "2090-0", "question_type": "descriptive", "anchor": "Which armored humanoid guard leader carries a breastplate, shield and longsword, and attacks twice per turn?"}
+{"passage_id": "2090-0", "question_type": "table", "anchor": "What does a Guard Captain add to Charisma saves?"}
+{"passage_id": "933-0", "question_type": "lookup", "anchor": "What is the largest radius, in feet, that a Hallow area can have?"}
+{"passage_id": "933-0", "question_type": "paraphrase", "anchor": "If I bring a torch into a Hallow area with the darkness option, will it still light up?"}
+{"passage_id": "933-0", "question_type": "descriptive", "anchor": "What 5th-level cleric spell takes a full day to cast and blocks certain creature types from willingly entering an area?"}
+{"passage_id": "1851-0", "question_type": "lookup", "anchor": "How big is the cone of a Chimera's Fire Breath?"}
+{"passage_id": "1851-0", "question_type": "paraphrase", "anchor": "Can a Chimera breathe fire on every turn, or does it have to wait?"}
+{"passage_id": "1851-0", "question_type": "descriptive", "anchor": "Which large chaotic evil monstrosity can fly at 60 feet and has darkvision and a fire breath weapon?"}
+{"passage_id": "1851-0", "question_type": "table", "anchor": "What Wisdom modifier does a Chimera have?"}
+{"passage_id": "1257-0", "question_type": "lookup", "anchor": "What does it mean for a creature to be Stable at 0 Hit Points?"}
+{"passage_id": "1257-0", "question_type": "paraphrase", "anchor": "Where should I look for more about damage and healing if a character is Stable?"}
+{"passage_id": "1257-0", "question_type": "descriptive", "anchor": "What condition describes a character at zero hit points who doesn't need to roll death saves?"}
+{"passage_id": "196-0", "question_type": "lookup", "anchor": "What does a C in the Special column of the Bard spell list mean?"}
+{"passage_id": "196-0", "question_type": "paraphrase", "anchor": "How are the spells on the Bard spell list sorted?"}
+{"passage_id": "196-0", "question_type": "descriptive", "anchor": "Which spell list shows each spell's school of magic and marks which spells are rituals or need material components?"}
+{"passage_id": "196-0", "question_type": "table", "anchor": "Which school of magic does the Bard cantrip Vicious Mockery belong to?"}
+{"passage_id": "43-0", "question_type": "lookup", "anchor": "Who decides when the circumstances are right for hiding during exploration?"}
+{"passage_id": "43-0", "question_type": "paraphrase", "anchor": "What action do I take when I try to hide from enemies?"}
+{"passage_id": "43-0", "question_type": "descriptive", "anchor": "What rules section covers sneaking past a guardian or setting an ambush by staying out of sight?"}
+{"passage_id": "156-0", "question_type": "lookup", "anchor": "How many kinds of weapons does Weapon Mastery let a 1st-level Barbarian use the mastery of?"}
+{"passage_id": "156-0", "question_type": "paraphrase", "anchor": "When can I swap which weapons I've been drilling with under Weapon Mastery?"}
+{"passage_id": "156-0", "question_type": "descriptive", "anchor": "What Barbarian feature lets me use special properties of Simple or Martial melee weapons, and grows with level?"}
+{"passage_id": "805-0", "question_type": "lookup", "anchor": "How big is the cone that Burning Hands covers?"}
+{"passage_id": "805-0", "question_type": "paraphrase", "anchor": "If I cast Burning Hands with a bigger spell slot, how much extra damage does it deal?"}
+{"passage_id": "805-0", "question_type": "descriptive", "anchor": "What first-level spell shoots a thin sheet of flames that can ignite unattended flammable objects?"}
+{"passage_id": "245-0", "question_type": "lookup", "anchor": "When do I get to choose a new land type for Circle of the Land Spells?"}
+{"passage_id": "245-0", "question_type": "paraphrase", "anchor": "Which four land types can a Druid pick from for Circle of the Land Spells?"}
+{"passage_id": "245-0", "question_type": "descriptive", "anchor": "What druid subclass feature lets me pick a land type after a long rest for extra prepared spells?"}
+{"passage_id": "245-0", "question_type": "table", "anchor": "With Circle of the Land Spells, which spell is prepared at Druid level 7 if I pick polar land?"}
+{"passage_id": "2165-1", "question_type": "lookup", "anchor": "How far can the Kraken's Lightning Strike reach?"}
+{"passage_id": "2165-1", "question_type": "paraphrase", "anchor": "How many creatures can a Kraken have inside its body at once?"}
+{"passage_id": "2165-1", "question_type": "descriptive", "anchor": "Which monster can throw a creature it grabs, then swallow other grabbed creatures and hurt them with acid each turn?"}

@@ -1,0 +1,82 @@
+{"passage_id": "956-0", "question_type": "lookup", "anchor": "How much Necrotic damage does Inflict Wounds deal on a failed save?"}
+{"passage_id": "956-0", "question_type": "paraphrase", "anchor": "If I cast Inflict Wounds using a higher-level slot, how much extra damage do I get?"}
+{"passage_id": "956-0", "question_type": "descriptive", "anchor": "Which first-level touch spell deals necrotic damage that a Constitution save can halve?"}
+{"passage_id": "2527-0", "question_type": "lookup", "anchor": "How many Hit Points does a Warrior Veteran have?"}
+{"passage_id": "2527-0", "question_type": "paraphrase", "anchor": "Can a Warrior Veteran block a melee hit with its weapon, and how much harder does that make it to hit?"}
+{"passage_id": "2527-0", "question_type": "descriptive", "anchor": "Which medium humanoid soldier in splint armor with a greatsword and heavy crossbow can make two attacks per turn?"}
+{"passage_id": "2527-0", "question_type": "table", "anchor": "What does a Warrior Veteran add to Constitution saving throws?"}
+{"passage_id": "240-0", "question_type": "lookup", "anchor": "With Beast Spells, can a Druid in Wild Shape cast a spell whose Material component has a specified cost?"}
+{"passage_id": "240-0", "question_type": "paraphrase", "anchor": "Under Beast Spells, while I'm shapeshifted as a druid, can I cast a spell that uses up its components?"}
+{"passage_id": "240-0", "question_type": "descriptive", "anchor": "Which level 18 druid feature lets me cast spells while transformed into an animal?"}
+{"passage_id": "21-0", "question_type": "lookup", "anchor": "When multiple sources grant advantage on the same roll, how many d20s do you roll?"}
+{"passage_id": "21-0", "question_type": "paraphrase", "anchor": "If advantage and disadvantage both apply to one roll, do they cancel out and leave me rolling a single d20?"}
+{"passage_id": "21-0", "question_type": "descriptive", "anchor": "Does having three different sources of advantage on one attack let me roll more than two d20s?"}
+{"passage_id": "1224-0", "question_type": "lookup", "anchor": "What must a nonplayer character have, besides being a monster?"}
+{"passage_id": "1224-0", "question_type": "paraphrase", "anchor": "Which other rules entry should I check when I'm looking up a nonplayer character?"}
+{"passage_id": "1224-0", "question_type": "descriptive", "anchor": "What do you call a monster that has a personal name and a distinct personality, and is not played by a player?"}
+{"passage_id": "1340-0", "question_type": "lookup", "anchor": "What Dexterity save DC does a falling net trap use to catch a creature crossing the trip wire?"}
+{"passage_id": "1340-0", "question_type": "paraphrase", "anchor": "If I want to rig a falling net trap again, how many minutes does each try take?"}
+{"passage_id": "1340-0", "question_type": "descriptive", "anchor": "What trap uses a trip wire to drop a weighted square net from the ceiling onto a creature?"}
+{"passage_id": "311-0", "question_type": "lookup", "anchor": "What class features does a Paladin start with at level 1?"}
+{"passage_id": "311-0", "question_type": "paraphrase", "anchor": "When a Paladin first starts out, how many spells can it have prepared?"}
+{"passage_id": "311-0", "question_type": "descriptive", "anchor": "Which holy knight class starts with Lay On Hands and Weapon Mastery at its first level?"}
+{"passage_id": "311-0", "question_type": "table", "anchor": "How many first-level spell slots does a Paladin have at level 3?"}
+{"passage_id": "1633-0", "question_type": "lookup", "anchor": "How many charges does the Trident of Fish Command have?"}
+{"passage_id": "1633-0", "question_type": "paraphrase", "anchor": "Against the Trident of Fish Command's control spell, what difficulty must a beast beat?"}
+{"passage_id": "1633-0", "question_type": "descriptive", "anchor": "What magic trident lets its wielder charm a sea creature that can swim, using one of its charges?"}
+{"passage_id": "116-1", "question_type": "lookup", "anchor": "Which dialects are included in the Primordial language?"}
+{"passage_id": "116-1", "question_type": "paraphrase", "anchor": "Under the Primordial rules, can a creature that knows Ignan talk to one that knows Aquan?"}
+{"passage_id": "116-1", "question_type": "descriptive", "anchor": "What elemental tongue family covers the fire, water, air and earth dialects?"}
+{"passage_id": "2488-0", "question_type": "lookup", "anchor": "What Challenge Rating does a Treant have?"}
+{"passage_id": "2488-0", "question_type": "paraphrase", "anchor": "How far away can a Treant throw its barrage of bark at a foe?"}
+{"passage_id": "2488-0", "question_type": "descriptive", "anchor": "Which huge tree-like guardian can animate up to two trees once per day?"}
+{"passage_id": "2488-0", "question_type": "table", "anchor": "How strong is a Treant, as a Strength ability score?"}
+{"passage_id": "2878-0", "question_type": "lookup", "anchor": "How many Hit Points does a Reef Shark have?"}
+{"passage_id": "2878-0", "question_type": "paraphrase", "anchor": "Can a Reef Shark breathe air, or is it limited to the water?"}
+{"passage_id": "2878-0", "question_type": "descriptive", "anchor": "Which medium sea beast gets advantage on attacks when an ally stands within 5 feet of the target?"}
+{"passage_id": "2878-0", "question_type": "table", "anchor": "What is a Reef Shark's Charisma ability score?"}
+{"passage_id": "33-0", "question_type": "lookup", "anchor": "Once I take a reaction, when can I take another one?"}
+{"passage_id": "33-0", "question_type": "paraphrase", "anchor": "If my reaction interrupts another creature's turn, what can that creature do afterward?"}
+{"passage_id": "33-0", "question_type": "descriptive", "anchor": "When does an instant response to a trigger happen, if the ability's description says nothing about timing?"}
+{"passage_id": "1176-0", "question_type": "lookup", "anchor": "How much movement does it cost to move 5 feet through difficult terrain?"}
+{"passage_id": "1176-0", "question_type": "paraphrase", "anchor": "Does a hill that's 20 degrees or steeper slow my movement as difficult terrain?"}
+{"passage_id": "1176-0", "question_type": "descriptive", "anchor": "What kinds of ground or water make each foot of walking cost an extra foot of movement?"}
+{"passage_id": "230-1", "question_type": "lookup", "anchor": "Which ability score does Druid spellcasting use for its spells?"}
+{"passage_id": "230-1", "question_type": "paraphrase", "anchor": "With Druid spellcasting, when am I allowed to swap my prepared spells for different ones?"}
+{"passage_id": "230-1", "question_type": "descriptive", "anchor": "Is there a special druid item that can serve as a spellcasting focus?"}
+{"passage_id": "494-2", "question_type": "lookup", "anchor": "Which spell on the Wizard spell list belongs to the Enchantment school?"}
+{"passage_id": "494-2", "question_type": "paraphrase", "anchor": "On the Wizard spell list, which spells are the protective Abjuration ones?"}
+{"passage_id": "494-2", "question_type": "descriptive", "anchor": "Is there a list of Wizard spells that tells me each one's school of magic?"}
+{"passage_id": "494-2", "question_type": "table", "anchor": "For the Wizard spell Ray of Sickness, what school of magic is it in?"}
+{"passage_id": "2386-0", "question_type": "lookup", "anchor": "What is the Speed of a Shadow in feet?"}
+{"passage_id": "2386-0", "question_type": "paraphrase", "anchor": "Can a Shadow squeeze through a gap as narrow as an inch without spending extra movement?"}
+{"passage_id": "2386-0", "question_type": "descriptive", "anchor": "Which undead creature can take the Hide action as a bonus action in dim light or darkness?"}
+{"passage_id": "2386-0", "question_type": "table", "anchor": "How high is a Shadow's Dexterity ability score?"}
+{"passage_id": "1014-0", "question_type": "lookup", "anchor": "What range does Power Word Stun have, in feet?"}
+{"passage_id": "1014-0", "question_type": "paraphrase", "anchor": "If a creature has over 150 health when I cast Power Word Stun on it, what happens?"}
+{"passage_id": "1014-0", "question_type": "descriptive", "anchor": "Which eighth-level enchantment spell overwhelms one creature's mind, and then lets it retry a Constitution save each turn?"}
+{"passage_id": "1520-4", "question_type": "lookup", "anchor": "If I draw the Star card from the Mysterious Deck, how much does an ability score go up?"}
+{"passage_id": "1520-4", "question_type": "paraphrase", "anchor": "When I draw Sun from the Mysterious Deck, how many temporary health do I gain each morning?"}
+{"passage_id": "1520-4", "question_type": "descriptive", "anchor": "Which playing card drawn from a fate deck destroys every magic item I wear or carry?"}
+{"passage_id": "30-3", "question_type": "lookup", "anchor": "Which Wisdom skills can a Search action use for its check?"}
+{"passage_id": "30-3", "question_type": "paraphrase", "anchor": "Among the player actions, which one lets me hold off until something specific happens?"}
+{"passage_id": "30-3", "question_type": "descriptive", "anchor": "Is there a turn option that lets me work with an ordinary object that isn't magical?"}
+{"passage_id": "30-3", "question_type": "table", "anchor": "For the Study action, which Intelligence skills can I make checks with?"}
+{"passage_id": "2434-0", "question_type": "lookup", "anchor": "How many times a day can a Sphinx of Lore use Legendary Resistance?"}
+{"passage_id": "2434-0", "question_type": "paraphrase", "anchor": "Can a Sphinx of Lore's terrifying roar reach creatures 300 feet away?"}
+{"passage_id": "2434-0", "question_type": "descriptive", "anchor": "Which large celestial creature has Truesight 120 feet and is hard to read with Insight checks about its intentions?"}
+{"passage_id": "2434-0", "question_type": "table", "anchor": "What Dexterity ability score does a Sphinx of Lore have?"}
+{"passage_id": "493-0", "question_type": "lookup", "anchor": "How many level 3 spells can a Wizard pick as signature spells?"}
+{"passage_id": "493-0", "question_type": "paraphrase", "anchor": "With the Wizard's Signature Spells, do I need a spell slot to cast one at a higher level?"}
+{"passage_id": "493-0", "question_type": "descriptive", "anchor": "Which capstone wizard feature lets me cast two chosen third-level spells once each without using a slot, until I rest?"}
+{"passage_id": "250-1", "question_type": "lookup", "anchor": "What weapon proficiencies does a Fighter start with?"}
+{"passage_id": "250-1", "question_type": "paraphrase", "anchor": "Is a Fighter allowed to wear heavy armor and use a shield?"}
+{"passage_id": "250-1", "question_type": "descriptive", "anchor": "Which class's starting gear options include Chain Mail with a Greatsword, or a Longbow with 20 Arrows?"}
+{"passage_id": "250-1", "question_type": "table", "anchor": "If a Fighter takes option C, how much gold does it start with?"}
+{"passage_id": "845-0", "question_type": "lookup", "anchor": "What is the duration of the Darkvision spell?"}
+{"passage_id": "845-0", "question_type": "paraphrase", "anchor": "If I use Darkvision on a willing friend, how far can they see in the dark?"}
+{"passage_id": "845-0", "question_type": "descriptive", "anchor": "Which touch spell lets a willing creature see in the dark for eight hours?"}
+{"passage_id": "479-0", "question_type": "lookup", "anchor": "What saving throws is a Wizard proficient in?"}
+{"passage_id": "479-0", "question_type": "paraphrase", "anchor": "Can a Wizard put on any armor when adventuring, or none at all?"}
+{"passage_id": "479-0", "question_type": "descriptive", "anchor": "Which spellcasting class uses Intelligence as its primary ability and starts with a spellbook?"}
+{"passage_id": "479-0", "question_type": "table", "anchor": "How big is the die a Wizard rolls for hit points at each level?"}

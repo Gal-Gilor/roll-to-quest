@@ -1,0 +1,82 @@
+{"passage_id": "1918-0", "question_type": "lookup", "anchor": "How many attacks does a Djinni make when it uses its Multiattack action?"}
+{"passage_id": "1918-0", "question_type": "paraphrase", "anchor": "If a Djinni is killed away from the Plane of Air, how long before it comes back?"}
+{"passage_id": "1918-0", "question_type": "descriptive", "anchor": "Which genie can grant wishes but has only a 30 percent chance of knowing the Wish spell?"}
+{"passage_id": "1918-0", "question_type": "table", "anchor": "What Charisma saving throw bonus does a Djinni have?"}
+{"passage_id": "1205-0", "question_type": "lookup", "anchor": "Does Hover while flying prevent a creature from falling in certain circumstances?"}
+{"passage_id": "1205-0", "question_type": "paraphrase", "anchor": "Can a spell or magic effect give me the Hover ability to float in place?"}
+{"passage_id": "1205-0", "question_type": "descriptive", "anchor": "Which kinds of monsters can float in one spot in the air, as their stat blocks note?"}
+{"passage_id": "1169-0", "question_type": "lookup", "anchor": "Is an area of Darkness Heavily Obscured for creatures inside it?"}
+{"passage_id": "1169-0", "question_type": "paraphrase", "anchor": "If magical Darkness fills a room, how badly can I see what is inside?"}
+{"passage_id": "1169-0", "question_type": "descriptive", "anchor": "Which game term describes a zone of magical blackness that leaves everything inside Heavily Obscured?"}
+{"passage_id": "2268-0", "question_type": "lookup", "anchor": "How much Acid damage does an Ochre Jelly's Pseudopod deal on a hit?"}
+{"passage_id": "2268-0", "question_type": "paraphrase", "anchor": "When does an Ochre Jelly split into two smaller jellies, and how is its health shared?"}
+{"passage_id": "2268-0", "question_type": "descriptive", "anchor": "Which slimy creature can squeeze through a one-inch gap and climb across ceilings without a check?"}
+{"passage_id": "2268-0", "question_type": "table", "anchor": "What Strength saving throw bonus does an Ochre Jelly have?"}
+{"passage_id": "1342-0", "question_type": "lookup", "anchor": "How much Bludgeoning damage does a creature take from falling into a Hidden Pit?"}
+{"passage_id": "1342-0", "question_type": "paraphrase", "anchor": "How hard is it to spot the lid of a Hidden Pit before I step on it?"}
+{"passage_id": "1342-0", "question_type": "descriptive", "anchor": "Which trap is a 10-foot-deep pit whose hinged lid swings open under a creature's weight?"}
+{"passage_id": "1342-0", "question_type": "table", "anchor": "How much Bludgeoning damage does a Hidden Pit deal from a fall at levels 17 to 20?"}
+{"passage_id": "1160-0", "question_type": "lookup", "anchor": "What do I roll differently for damage when I score a Critical Hit?"}
+{"passage_id": "1160-0", "question_type": "paraphrase", "anchor": "Does a Critical Hit still land against a target with a very high armor class?"}
+{"passage_id": "1160-0", "question_type": "descriptive", "anchor": "If I roll the highest possible number on my d20 for an attack, does the swing always connect?"}
+{"passage_id": "117-0", "question_type": "lookup", "anchor": "How many numbers must I generate in Step 3: Ability Scores before assigning them?"}
+{"passage_id": "117-0", "question_type": "paraphrase", "anchor": "When doing Step 3: Ability Scores, where do I learn what each ability does?"}
+{"passage_id": "117-0", "question_type": "descriptive", "anchor": "When building a new adventurer, which step has you roll numbers and assign them to six abilities?"}
+{"passage_id": "198-0", "question_type": "lookup", "anchor": "How many skills does Bonus Proficiencies let a College of Lore bard pick?"}
+{"passage_id": "198-0", "question_type": "paraphrase", "anchor": "At level 3, can my Lore bard pick skills to be good at through Bonus Proficiencies, and how many?"}
+{"passage_id": "198-0", "question_type": "descriptive", "anchor": "Which Lore bard feature at level 3 lets me pick a few skills to become proficient in?"}
+{"passage_id": "931-0", "question_type": "lookup", "anchor": "What range in feet can Guiding Bolt reach a creature?"}
+{"passage_id": "931-0", "question_type": "paraphrase", "anchor": "If I cast Guiding Bolt with a bigger spell slot, how much more damage does it deal?"}
+{"passage_id": "931-0", "question_type": "descriptive", "anchor": "Which level 1 cleric spell hurls a bolt of light that gives the next attacker Advantage against the target?"}
+{"passage_id": "1471-1", "question_type": "lookup", "anchor": "How long does the swan boat from a Feather Token stay before it disappears?"}
+{"passage_id": "1471-1", "question_type": "paraphrase", "anchor": "Does a Feather Token tree need to be planted outdoors, or can I use it inside?"}
+{"passage_id": "1471-1", "question_type": "descriptive", "anchor": "Which small magic trinket can become a floating whip that lashes foes from 10 feet away?"}
+{"passage_id": "1470-0", "question_type": "lookup", "anchor": "What advantage do Eyes of the Eagle give on Wisdom (Perception) checks?"}
+{"passage_id": "1470-0", "question_type": "paraphrase", "anchor": "How small can an object be and still be spotted far away with Eyes of the Eagle?"}
+{"passage_id": "1470-0", "question_type": "descriptive", "anchor": "Which crystal lenses fit over the eyes and let me see far-off creatures on clear days?"}
+{"passage_id": "1480-0", "question_type": "lookup", "anchor": "How much extra damage does a Giant Slayer weapon deal to a Giant on a hit?"}
+{"passage_id": "1480-0", "question_type": "paraphrase", "anchor": "If a Giant Slayer weapon hits a giant, can it knock the giant prone, and what save applies?"}
+{"passage_id": "1480-0", "question_type": "descriptive", "anchor": "Which magic weapon gives a bonus to attack and damage and can topple giants on a failed Strength save?"}
+{"passage_id": "2165-2", "question_type": "lookup", "anchor": "What is the Constitution save DC for the Kraken's Toxic Ink legendary action?"}
+{"passage_id": "2165-2", "question_type": "paraphrase", "anchor": "How many legendary action uses does a Kraken get, and does its lair add any?"}
+{"passage_id": "2165-2", "question_type": "descriptive", "anchor": "Which sea monster can release an ink cloud that poisons and blinds creatures within 15 feet while underwater?"}
+{"passage_id": "347-0", "question_type": "lookup", "anchor": "Does the Fighting Style feature offer an option to learn two Druid cantrips?"}
+{"passage_id": "347-0", "question_type": "paraphrase", "anchor": "If my Ranger takes the Druidic Warrior Fighting Style option, which ability score powers those cantrips?"}
+{"passage_id": "347-0", "question_type": "descriptive", "anchor": "Which ranger option swaps a feat for two druid cantrips that I can change whenever I gain a level?"}
+{"passage_id": "630-0", "question_type": "lookup", "anchor": "How much more weight can a Block and Tackle let me hoist than I normally can lift?"}
+{"passage_id": "630-0", "question_type": "paraphrase", "anchor": "If I rig up a Block and Tackle, how many times my usual lift can I haul?"}
+{"passage_id": "630-0", "question_type": "descriptive", "anchor": "Which piece of adventuring gear multiplies the weight I can hoist by four?"}
+{"passage_id": "2233-0", "question_type": "lookup", "anchor": "What escape DC must a creature beat to break free from a Mimic's grapple?"}
+{"passage_id": "2233-0", "question_type": "paraphrase", "anchor": "If a Mimic's Bite hits someone it has grabbed, how much Piercing damage does it deal?"}
+{"passage_id": "2233-0", "question_type": "descriptive", "anchor": "Which shapeshifting blob monster can disguise itself as a Medium or Small object and sticks to anything that touches it?"}
+{"passage_id": "2233-0", "question_type": "table", "anchor": "What Dexterity saving throw bonus does a Mimic have?"}
+{"passage_id": "1042-0", "question_type": "lookup", "anchor": "How many fiery rays does Scorching Ray create when cast at its base level?"}
+{"passage_id": "1042-0", "question_type": "paraphrase", "anchor": "If I cast Scorching Ray with a bigger spell slot, how many extra rays do I get?"}
+{"passage_id": "1042-0", "question_type": "descriptive", "anchor": "Which level 2 spell hurls several fiery rays, each needing its own ranged attack roll?"}
+{"passage_id": "1341-0", "question_type": "lookup", "anchor": "How much Fire damage does a Fire-Casting Statue's flame deal on a failed save?"}
+{"passage_id": "1341-0", "question_type": "paraphrase", "anchor": "What Dexterity save DC must I beat to avoid the flame cone of a Fire-Casting Statue?"}
+{"passage_id": "1341-0", "question_type": "descriptive", "anchor": "What trap uses a statue that breathes a 15-foot cone of magical flame when a creature steps on a plate?"}
+{"passage_id": "190-0", "question_type": "lookup", "anchor": "When does a bard regain all expended uses of Bardic Inspiration with Font of Inspiration?"}
+{"passage_id": "190-0", "question_type": "paraphrase", "anchor": "Can I use Font of Inspiration to spend a spell slot for a free Bardic Inspiration use?"}
+{"passage_id": "190-0", "question_type": "descriptive", "anchor": "Which level 5 bard ability refills spent inspiration uses after a short rest?"}
+{"passage_id": "2438-1", "question_type": "lookup", "anchor": "How much Thunder damage does a Sphinx of Valor's Third Roar deal on a failed save?"}
+{"passage_id": "2438-1", "question_type": "paraphrase", "anchor": "How far can a Sphinx of Valor teleport with its Arcane Prowl legendary action?"}
+{"passage_id": "2438-1", "question_type": "descriptive", "anchor": "Which sphinx has three roars, with the last one dealing thunder damage and knocking foes prone?"}
+{"passage_id": "1201-0", "question_type": "lookup", "anchor": "How far can a High Jump carry me, based on my Strength modifier after a 10-foot run?"}
+{"passage_id": "1201-0", "question_type": "paraphrase", "anchor": "If I start a High Jump from standing still, how far can I leap compared with running?"}
+{"passage_id": "1201-0", "question_type": "descriptive", "anchor": "When jumping, how far can my reach extend if I stretch my arms over my head during the leap?"}
+{"passage_id": "233-0", "question_type": "lookup", "anchor": "How many hours can I stay in Wild Shape form, relative to my Druid level?"}
+{"passage_id": "233-0", "question_type": "paraphrase", "anchor": "How many times can I use Wild Shape before a Long Rest brings all uses back?"}
+{"passage_id": "233-0", "question_type": "descriptive", "anchor": "What druid ability lets me take on a beast's form as a bonus action?"}
+{"passage_id": "1175-0", "question_type": "lookup", "anchor": "How much Exhaustion does Dehydration cause if I drink less than half my daily water?"}
+{"passage_id": "1175-0", "question_type": "paraphrase", "anchor": "Can I shake off Dehydration exhaustion right away once I drink a little water?"}
+{"passage_id": "1175-0", "question_type": "descriptive", "anchor": "What rule penalizes a traveler who skips most of their daily water by adding a level of exhaustion?"}
+{"passage_id": "1175-0", "question_type": "table", "anchor": "How many gallons of water does a Huge creature need per day under Dehydration rules?"}
+{"passage_id": "2314-0", "question_type": "lookup", "anchor": "What spell save DC does a Priest use for its Spellcasting?"}
+{"passage_id": "2314-0", "question_type": "paraphrase", "anchor": "How far away can a Priest hit me with its Radiant Flame attack?"}
+{"passage_id": "2314-0", "question_type": "descriptive", "anchor": "Which cleric-type humanoid carries a holy symbol and can cast Divine Aid three times a day as a bonus action?"}
+{"passage_id": "2314-0", "question_type": "table", "anchor": "What Intelligence modifier does a Priest have?"}
+{"passage_id": "2599-0", "question_type": "lookup", "anchor": "How much Bludgeoning damage does a Zombie's Slam deal on a hit?"}
+{"passage_id": "2599-0", "question_type": "paraphrase", "anchor": "Can a Zombie stay on its feet at 1 health after taking a Radiant hit?"}
+{"passage_id": "2599-0", "question_type": "descriptive", "anchor": "Which mindless undead creature can sometimes shrug off a killing blow unless the damage is Radiant or a Critical Hit?"}
+{"passage_id": "2599-0", "question_type": "table", "anchor": "What Constitution saving throw bonus does a Zombie have?"}

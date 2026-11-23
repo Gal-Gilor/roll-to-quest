@@ -1,0 +1,80 @@
+{"passage_id": "407-0", "question_type": "lookup", "anchor": "How many Sorcery Points can I regain with Sorcerous Restoration when I finish a Short Rest?"}
+{"passage_id": "407-0", "question_type": "paraphrase", "anchor": "Once I've used Sorcerous Restoration, how soon can I use it again for my sorcery points?"}
+{"passage_id": "407-0", "question_type": "descriptive", "anchor": "What sorcerer ability lets me recover spent sorcery points after a short break, up to half my level?"}
+{"passage_id": "452-0", "question_type": "lookup", "anchor": "What is the prerequisite level for the Fiendish Vigor invocation?"}
+{"passage_id": "452-0", "question_type": "paraphrase", "anchor": "Do I have to use a spell slot to cast False Life through Fiendish Vigor?"}
+{"passage_id": "452-0", "question_type": "descriptive", "anchor": "What warlock invocation makes the temporary hit points from a spell always come out as the die's maximum value?"}
+{"passage_id": "1002-0", "question_type": "lookup", "anchor": "What bonus does Pass without Trace give to Dexterity (Stealth) checks?"}
+{"passage_id": "1002-0", "question_type": "paraphrase", "anchor": "Does Pass without Trace need a material component like burned mistletoe ash?"}
+{"passage_id": "1002-0", "question_type": "descriptive", "anchor": "Which druid or ranger spell makes a 30-foot aura that gives a sneaking bonus and leaves no tracks?"}
+{"passage_id": "40-0", "question_type": "lookup", "anchor": "In lightly obscured areas, what happens to my sight-based Wisdom (Perception) checks?"}
+{"passage_id": "40-0", "question_type": "paraphrase", "anchor": "In obscured areas like heavy fog or darkness, do I count as Blinded when spotting something?"}
+{"passage_id": "40-0", "question_type": "descriptive", "anchor": "What rules term describes a dense forest or thick fog that is opaque to sight?"}
+{"passage_id": "2500-0", "question_type": "lookup", "anchor": "What spell save DC does a Unicorn use for its Spellcasting?"}
+{"passage_id": "2500-0", "question_type": "paraphrase", "anchor": "How often per day can a Unicorn turn a failed save into a success?"}
+{"passage_id": "2500-0", "question_type": "descriptive", "anchor": "Which horned celestial creature has Advantage on saves against spells and other magical effects, and can heal others with its horn?"}
+{"passage_id": "2500-0", "question_type": "table", "anchor": "What is a Unicorn's Wisdom saving throw bonus?"}
+{"passage_id": "295-0", "question_type": "lookup", "anchor": "What does Acrobatic Movement let a Monk do on vertical surfaces and across liquids?"}
+{"passage_id": "295-0", "question_type": "paraphrase", "anchor": "Does wearing any armor or holding a shield stop my Monk from using Acrobatic Movement?"}
+{"passage_id": "295-0", "question_type": "descriptive", "anchor": "What monk ability lets me run up a wall or walk over a lake without falling?"}
+{"passage_id": "484-0", "question_type": "lookup", "anchor": "How many Wizard cantrips does the Spellcasting feature let me know at 1st level?"}
+{"passage_id": "484-0", "question_type": "paraphrase", "anchor": "With Spellcasting as a Wizard, how many level 1 spells does my spellbook start with?"}
+{"passage_id": "484-0", "question_type": "descriptive", "anchor": "Which Wizard feature gives me a spellbook that is a Tiny object weighing 3 pounds?"}
+{"passage_id": "1626-0", "question_type": "lookup", "anchor": "What Dexterity save DC does the Talisman of Pure Good use for its Pure Rebuke?"}
+{"passage_id": "1626-0", "question_type": "paraphrase", "anchor": "Does the Talisman of Pure Good get destroyed after I use up its last charge?"}
+{"passage_id": "1626-0", "question_type": "descriptive", "anchor": "Which holy charm can open a flaming fissure under a creature standing up to 120 feet away?"}
+{"passage_id": "1771-0", "question_type": "lookup", "anchor": "What is the Ancient Black Dragon's Armor Class?"}
+{"passage_id": "1771-0", "question_type": "paraphrase", "anchor": "How much acid damage does an Ancient Black Dragon's breath do to someone who fails the save?"}
+{"passage_id": "1771-0", "question_type": "descriptive", "anchor": "Which gargantuan chaotic evil dragon can breathe underwater and also has a 90-foot acid breath?"}
+{"passage_id": "1771-0", "question_type": "table", "anchor": "What is an Ancient Black Dragon's Dexterity saving throw bonus?"}
+{"passage_id": "1497-0", "question_type": "lookup", "anchor": "How long must I wait before I can blow the Horn of Valhalla again?"}
+{"passage_id": "1497-0", "question_type": "paraphrase", "anchor": "What happens if I blow the Horn of Valhalla and I don't meet the requirement?"}
+{"passage_id": "1497-0", "question_type": "descriptive", "anchor": "Which horn is made of silver, brass, bronze, or iron and calls warrior spirits from Ysgard?"}
+{"passage_id": "1497-0", "question_type": "table", "anchor": "What requirement must I meet to blow the Brass type of Horn of Valhalla?"}
+{"passage_id": "199-0", "question_type": "lookup", "anchor": "How far away can a creature be for me to use Cutting Words on its roll?"}
+{"passage_id": "199-0", "question_type": "paraphrase", "anchor": "Does Cutting Words use up one of my Bardic Inspiration charges when I use it?"}
+{"passage_id": "199-0", "question_type": "descriptive", "anchor": "Which bard ability lets me subtract a die roll from an enemy's attack, damage or check?"}
+{"passage_id": "982-0", "question_type": "lookup", "anchor": "How many Hit Points can Mass Heal restore in total?"}
+{"passage_id": "982-0", "question_type": "paraphrase", "anchor": "Does Mass Heal also clear away blindness, deafness, and poison from the people it heals?"}
+{"passage_id": "982-0", "question_type": "descriptive", "anchor": "Which 9th-level cleric spell uses an action with a 60-foot range to heal several creatures at once?"}
+{"passage_id": "1375-0", "question_type": "lookup", "anchor": "Do spells cast from items use up any of my spell slots?"}
+{"passage_id": "1375-0", "question_type": "paraphrase", "anchor": "For spells cast from magic items, what spellcasting modifier applies if I have no spellcasting ability?"}
+{"passage_id": "1375-0", "question_type": "descriptive", "anchor": "Which rule has an item's spell cast at the lowest possible spell and caster level?"}
+{"passage_id": "401-0", "question_type": "lookup", "anchor": "How many Sorcerer cantrips do I know at 1st level with Spellcasting?"}
+{"passage_id": "401-0", "question_type": "paraphrase", "anchor": "With Spellcasting as a Sorcerer, when do my used spell slots come back?"}
+{"passage_id": "401-0", "question_type": "descriptive", "anchor": "Which sorcerer feature lets me learn another cantrip once I reach level 4 and again at level 10?"}
+{"passage_id": "1275-0", "question_type": "lookup", "anchor": "How is damage changed when a creature has Vulnerability to a damage type?"}
+{"passage_id": "1275-0", "question_type": "paraphrase", "anchor": "Can Vulnerability double the same burst of damage more than once?"}
+{"passage_id": "1275-0", "question_type": "descriptive", "anchor": "What defensive weakness makes a specific damage type hit me twice as hard?"}
+{"passage_id": "1421-0", "question_type": "lookup", "anchor": "How long does a Water Elemental from the Bowl of Commanding Water Elementals stay before disappearing?"}
+{"passage_id": "1421-0", "question_type": "paraphrase", "anchor": "How soon can I summon another elemental from the Bowl of Commanding Water Elementals after using it?"}
+{"passage_id": "1421-0", "question_type": "descriptive", "anchor": "Which magic bowl lets me call a water elemental that obeys my commands and acts right after me?"}
+{"passage_id": "129-0", "question_type": "lookup", "anchor": "How many tiers of play are there as characters advance?"}
+{"passage_id": "129-0", "question_type": "paraphrase", "anchor": "Do the tiers of play come with any extra rules that change how my character works?"}
+{"passage_id": "129-0", "question_type": "descriptive", "anchor": "Which range of character levels covers a campaign's journey from a newbie adventurer to epic heights?"}
+{"passage_id": "1268-0", "question_type": "lookup", "anchor": "What do Temporary Hit Points do for a character?"}
+{"passage_id": "1268-0", "question_type": "paraphrase", "anchor": "Can Temporary Hit Points soak up damage before my real health is hit?"}
+{"passage_id": "1268-0", "question_type": "descriptive", "anchor": "Which name covers the extra health that certain effects hand out on top of my normal pool?"}
+{"passage_id": "717-0", "question_type": "lookup", "anchor": "Where do I look up prices for food, drink, and lodging?"}
+{"passage_id": "717-0", "question_type": "paraphrase", "anchor": "Are daily meals and room costs already included in lifestyle expenses under Food, Drink, and Lodging?"}
+{"passage_id": "717-0", "question_type": "descriptive", "anchor": "What price list tells me how much a meal and a night at an inn cost?"}
+{"passage_id": "401-8", "question_type": "lookup", "anchor": "For Sorcerer Spellcasting, which ability score do I use for my spells?"}
+{"passage_id": "401-8", "question_type": "paraphrase", "anchor": "With Sorcerer Spellcasting, when I level up, can I swap one prepared spell for another?"}
+{"passage_id": "401-8", "question_type": "descriptive", "anchor": "Which feature sets how many spells a level 3 sorcerer can keep prepared, in any mix of levels 1 and 2?"}
+{"passage_id": "99-0", "question_type": "lookup", "anchor": "What DC does a Medicine check need when stabilizing a character at 0 Hit Points?"}
+{"passage_id": "99-0", "question_type": "paraphrase", "anchor": "When stabilizing a character, does taking damage again make them start making death saves?"}
+{"passage_id": "99-0", "question_type": "descriptive", "anchor": "A downed friend at 0 hit points has stopped making death saves; how long until they regain some health?"}
+{"passage_id": "2630-0", "question_type": "lookup", "anchor": "What is a Black Bear's Challenge Rating?"}
+{"passage_id": "2630-0", "question_type": "paraphrase", "anchor": "How many times does a Black Bear attack in a single turn?"}
+{"passage_id": "2630-0", "question_type": "descriptive", "anchor": "Which medium unaligned beast can climb and swim as fast as it walks and has very low intelligence?"}
+{"passage_id": "2630-0", "question_type": "table", "anchor": "What is a Black Bear's Charisma saving throw bonus?"}
+{"passage_id": "1166-0", "question_type": "lookup", "anchor": "What is a Damage Roll in the rules?"}
+{"passage_id": "1166-0", "question_type": "paraphrase", "anchor": "Do bonuses and penalties to the dice count as part of a Damage Roll?"}
+{"passage_id": "1166-0", "question_type": "descriptive", "anchor": "What do you call the dice roll that determines how much harm an attack does to the target?"}
+{"passage_id": "2056-0", "question_type": "lookup", "anchor": "How many Hit Points does a Green Dragon Wyrmling have?"}
+{"passage_id": "2056-0", "question_type": "paraphrase", "anchor": "How big an area does a Green Dragon Wyrmling's poison breath cover?"}
+{"passage_id": "2056-0", "question_type": "descriptive", "anchor": "Which lawful evil young dragon has a 60-foot flying speed and a 15-foot poison breath?"}
+{"passage_id": "2056-0", "question_type": "table", "anchor": "What is a Green Dragon Wyrmling's Dexterity saving throw bonus?"}
+{"passage_id": "191-0", "question_type": "lookup", "anchor": "How close must a creature be for Countercharm to apply to its failed saving throw?"}
+{"passage_id": "191-0", "question_type": "paraphrase", "anchor": "If I fail a save against being charmed, can Countercharm let me roll again with an edge?"}
+{"passage_id": "191-0", "question_type": "descriptive", "anchor": "Which bard ability uses music or words of power to disrupt mind-influencing effects like being scared?"}

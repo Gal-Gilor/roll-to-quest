@@ -1,0 +1,79 @@
+{"passage_id": "60-0", "question_type": "lookup", "anchor": "Under Movement and Position in combat, how far can I move on my turn?"}
+{"passage_id": "60-0", "question_type": "paraphrase", "anchor": "During combat movement, can I mix climbing or swimming with my normal walking distance?"}
+{"passage_id": "60-0", "question_type": "descriptive", "anchor": "If I use some of my move to climb and then keep going, do I lose distance from my total?"}
+{"passage_id": "1173-0", "question_type": "lookup", "anchor": "With the Deafened condition, do I automatically fail ability checks that need hearing?"}
+{"passage_id": "1173-0", "question_type": "paraphrase", "anchor": "If my character becomes Deafened, can they still pass checks that depend on hearing?"}
+{"passage_id": "1173-0", "question_type": "descriptive", "anchor": "What status effect means I can't hear anything and automatically fail checks needing my ears?"}
+{"passage_id": "1781-0", "question_type": "lookup", "anchor": "How far can a Blink Dog teleport when it uses its Teleport ability?"}
+{"passage_id": "1781-0", "question_type": "paraphrase", "anchor": "How much health does a Blink Dog start with?"}
+{"passage_id": "1781-0", "question_type": "descriptive", "anchor": "Which Fey creature is a medium dog that can teleport short distances and bite for piercing damage?"}
+{"passage_id": "1781-0", "question_type": "table", "anchor": "What does a Blink Dog add to Dexterity saving throws?"}
+{"passage_id": "1554-0", "question_type": "lookup", "anchor": "How long does the effect of a Potion of Mind Reading last after drinking it?"}
+{"passage_id": "1554-0", "question_type": "paraphrase", "anchor": "What difficulty number does a Potion of Mind Reading give for the spell it grants?"}
+{"passage_id": "1554-0", "question_type": "descriptive", "anchor": "Which rare potion grants the effect of Detect Thoughts for ten minutes with no Concentration needed?"}
+{"passage_id": "1385-0", "question_type": "lookup", "anchor": "Are single-use items such as potions and scrolls ever sentient under Sentient Magic Items?"}
+{"passage_id": "1385-0", "question_type": "paraphrase", "anchor": "For Sentient Magic Items, does the Game Master or the bearer control the item's special powers?"}
+{"passage_id": "1385-0", "question_type": "descriptive", "anchor": "What happens when a magic item with its own personality has a bad rapport with the person carrying it?"}
+{"passage_id": "668-0", "question_type": "lookup", "anchor": "What bonus does an accurate Map give to Wisdom (Survival) checks?"}
+{"passage_id": "668-0", "question_type": "paraphrase", "anchor": "If I use a Map to find my way around, how much do I get on my Survival rolls?"}
+{"passage_id": "668-0", "question_type": "descriptive", "anchor": "What adventuring gear gives a bonus to Survival checks when I need to find my way through a mapped area?"}
+{"passage_id": "951-0", "question_type": "lookup", "anchor": "What is the range of Ice Storm when I choose where its hail falls?"}
+{"passage_id": "951-0", "question_type": "paraphrase", "anchor": "If I cast Ice Storm with a bigger spell slot, how much extra damage does it deal?"}
+{"passage_id": "951-0", "question_type": "descriptive", "anchor": "What spell rains down a wide column of hail that turns the ground underneath into rough, slowing terrain?"}
+{"passage_id": "2514-0", "question_type": "lookup", "anchor": "How many times per day can a Vampire use Legendary Resistance outside its lair?"}
+{"passage_id": "2514-0", "question_type": "paraphrase", "anchor": "If a Vampire is knocked to 0 health away from its resting place and can't turn into mist, what happens to it?"}
+{"passage_id": "2514-0", "question_type": "descriptive", "anchor": "What undead creature can turn into mist when reduced to zero hit points and must return to its resting place within two hours?"}
+{"passage_id": "2514-0", "question_type": "table", "anchor": "What is a Vampire's Wisdom modifier?"}
+{"passage_id": "1991-0", "question_type": "lookup", "anchor": "What damage does a Gelatinous Cube's Pseudopod attack deal on a hit?"}
+{"passage_id": "1991-0", "question_type": "paraphrase", "anchor": "How hard is it to pull someone out of a Gelatinous Cube?"}
+{"passage_id": "1991-0", "question_type": "descriptive", "anchor": "Which large ooze is transparent, fills its whole space, and can engulf creatures so they have Total Cover?"}
+{"passage_id": "1991-0", "question_type": "table", "anchor": "What does a Gelatinous Cube add to Constitution saving throws?"}
+{"passage_id": "1358-0", "question_type": "lookup", "anchor": "Under Unusual Features, should I include a monster in an encounter for characters below its Challenge Rating?"}
+{"passage_id": "1358-0", "question_type": "paraphrase", "anchor": "For Unusual Features, is it a bad idea to field a monster that low-level heroes can't easily beat?"}
+{"passage_id": "1358-0", "question_type": "descriptive", "anchor": "Advice for keeping an overpowered monster out of a fight with weaker heroes?"}
+{"passage_id": "561-0", "question_type": "lookup", "anchor": "For Finesse weapons, which two modifiers can I choose between for attack and damage rolls?"}
+{"passage_id": "561-0", "question_type": "paraphrase", "anchor": "With Finesse, do I have to use the same ability modifier for both attack and damage?"}
+{"passage_id": "561-0", "question_type": "descriptive", "anchor": "What weapon trait lets me swing with either my brawn or my agility, as long as I use the same one for both rolls?"}
+{"passage_id": "1595-0", "question_type": "lookup", "anchor": "What DC must a target beat on its Dexterity save against a Rope of Entanglement?"}
+{"passage_id": "1595-0", "question_type": "paraphrase", "anchor": "How far away can a Rope of Entanglement snare someone?"}
+{"passage_id": "1595-0", "question_type": "descriptive", "anchor": "Which rare magic rope restrains a creature I can see and regains 1 Hit Point every 5 minutes?"}
+{"passage_id": "1378-0", "question_type": "lookup", "anchor": "For Cursed Items, does the Identify spell reveal the curse?"}
+{"passage_id": "1378-0", "question_type": "paraphrase", "anchor": "For Cursed Items, once I'm attuned, can I end the attunement whenever I want?"}
+{"passage_id": "1378-0", "question_type": "descriptive", "anchor": "Which common way of identifying magic items usually fails to reveal a hidden curse on them?"}
+{"passage_id": "2900-0", "question_type": "lookup", "anchor": "What Climb Speed does a Spider have?"}
+{"passage_id": "2900-0", "question_type": "paraphrase", "anchor": "How much health does a Spider start with?"}
+{"passage_id": "2900-0", "question_type": "descriptive", "anchor": "Which tiny beast has a poisonous bite and ignores movement limits caused by webs?"}
+{"passage_id": "2900-0", "question_type": "table", "anchor": "What does a Spider add to Dexterity saving throws?"}
+{"passage_id": "1558-0", "question_type": "lookup", "anchor": "What does a Potion of Vitality remove or end when I drink it?"}
+{"passage_id": "1558-0", "question_type": "paraphrase", "anchor": "How do my healing dice work for the 24 hours after I drink a Potion of Vitality?"}
+{"passage_id": "1558-0", "question_type": "descriptive", "anchor": "Which very rare potion with crimson liquid lets me gain maximum healing from my dice for 24 hours?"}
+{"passage_id": "472-2", "question_type": "lookup", "anchor": "On the Warlock Spell List, what school of magic does Dimension Door belong to?"}
+{"passage_id": "472-2", "question_type": "paraphrase", "anchor": "As a Warlock, which school of magic does the Teleportation Circle spell come from?"}
+{"passage_id": "472-2", "question_type": "descriptive", "anchor": "Which Warlock spells from the level 5 list belong to the Divination school?"}
+{"passage_id": "472-2", "question_type": "table", "anchor": "What special tag does Scrying carry in the level 5 Warlock spell table?"}
+{"passage_id": "2520-0", "question_type": "lookup", "anchor": "What damage does a Vrock's Shred attack deal on a hit, including poison?"}
+{"passage_id": "2520-0", "question_type": "paraphrase", "anchor": "How often does a Vrock's Spores attack come back after it's used?"}
+{"passage_id": "2520-0", "question_type": "descriptive", "anchor": "What demon can revive with all its health somewhere in the Abyss after dying outside it?"}
+{"passage_id": "2520-0", "question_type": "table", "anchor": "What does a Vrock add to Wisdom saving throws?"}
+{"passage_id": "1290-0", "question_type": "lookup", "anchor": "In the Choose Equipment step for a Background, how much gold value should my package be?"}
+{"passage_id": "1290-0", "question_type": "paraphrase", "anchor": "When building a Background's starting gear, can I pick Martial weapons or armor?"}
+{"passage_id": "1290-0", "question_type": "descriptive", "anchor": "What kinds of weapons and armor should I leave out of my background's starter gear because my class gives them?"}
+{"passage_id": "784-0", "question_type": "lookup", "anchor": "What is the Armor Class of the hand created by Arcane Hand?"}
+{"passage_id": "784-0", "question_type": "paraphrase", "anchor": "On a turn after casting it, how far can I scoot an Arcane Hand with a quick action?"}
+{"passage_id": "784-0", "question_type": "descriptive", "anchor": "What spell summons a floating magic hand within 120 feet that copies my movements and lasts up to a minute while I concentrate?"}
+{"passage_id": "1545-0", "question_type": "lookup", "anchor": "How long does a Potion of Flying give me a Fly Speed?"}
+{"passage_id": "1545-0", "question_type": "paraphrase", "anchor": "If a Potion of Flying wears off while I'm airborne, what happens to me?"}
+{"passage_id": "1545-0", "question_type": "descriptive", "anchor": "Which very rare potion gives me a flying speed equal to my normal speed for an hour and lets me hover?"}
+{"passage_id": "1117-2", "question_type": "lookup", "anchor": "If I wish for a Legendary magic item with Wish, what might happen to me?"}
+{"passage_id": "1117-2", "question_type": "paraphrase", "anchor": "If I try to use a Wish to undo the entire multiverse, does the spell work?"}
+{"passage_id": "1117-2", "question_type": "descriptive", "anchor": "If I ask for something no standard spell option covers, how much freedom does the game master have in ruling?"}
+{"passage_id": "2454-0", "question_type": "lookup", "anchor": "What damage does a Stirge's Proboscis attack deal on a hit?"}
+{"passage_id": "2454-0", "question_type": "paraphrase", "anchor": "How fast can a Stirge fly?"}
+{"passage_id": "2454-0", "question_type": "descriptive", "anchor": "What tiny flying monster attaches to a target and deals Necrotic damage at the start of each of its turns?"}
+{"passage_id": "2454-0", "question_type": "table", "anchor": "How smart is a Stirge, as an Intelligence score?"}
+{"passage_id": "893-0", "question_type": "lookup", "anchor": "What is the casting time for Find the Path?"}
+{"passage_id": "893-0", "question_type": "paraphrase", "anchor": "If I cast Find the Path, can I ask for directions to a moving destination like a mobile fortress?"}
+{"passage_id": "893-0", "question_type": "descriptive", "anchor": "What divination spell tells me the most direct way to a place I'm familiar with and how far away it is?"}
+{"passage_id": "1579-0", "question_type": "lookup", "anchor": "How many charges does a Ring of Three Wishes start with?"}
+{"passage_id": "1579-0", "question_type": "paraphrase", "anchor": "What happens to a Ring of Three Wishes after I use its last charge?"}
+{"passage_id": "1579-0", "question_type": "descriptive", "anchor": "Which legendary ring grants three uses of a powerful spell before it turns into a plain nonmagical ring?"}

@@ -1,0 +1,80 @@
+{"passage_id": "204-13", "question_type": "lookup", "anchor": "How many Channel Divinity uses does a Cleric get at level 14?"}
+{"passage_id": "204-13", "question_type": "paraphrase", "anchor": "Once my Cleric reaches level 14, how much proficiency bonus do they add to rolls?"}
+{"passage_id": "204-13", "question_type": "descriptive", "anchor": "For a level 14 divine caster, how many fifth-level spell slots are available?"}
+{"passage_id": "204-13", "question_type": "table", "anchor": "How many Prepared Spells does a Cleric have at level 14?"}
+{"passage_id": "2402-0", "question_type": "lookup", "anchor": "What is the Initiative bonus of a Young Silver Dragon?"}
+{"passage_id": "2402-0", "question_type": "paraphrase", "anchor": "If I fail the save against a Young Silver Dragon's icy breath, how much cold damage do I take?"}
+{"passage_id": "2402-0", "question_type": "descriptive", "anchor": "Which lawful good dragon's breath first incapacitates you, then paralyzes you on a second failed save?"}
+{"passage_id": "2402-0", "question_type": "table", "anchor": "How strong is a Young Silver Dragon, as its Strength score?"}
+{"passage_id": "1234-0", "question_type": "lookup", "anchor": "Which spell can end a creature being possessed by another creature?"}
+{"passage_id": "1234-0", "question_type": "paraphrase", "anchor": "Can a spell keep a demon or fiend from taking control of my body through possession?"}
+{"passage_id": "1234-0", "question_type": "descriptive", "anchor": "What does it mean when a magical effect makes one creature take over another creature's body?"}
+{"passage_id": "2022-0", "question_type": "lookup", "anchor": "What is a Goblin Minion's Armor Class?"}
+{"passage_id": "2022-0", "question_type": "paraphrase", "anchor": "How much health does a Goblin Minion have when it shows up?"}
+{"passage_id": "2022-0", "question_type": "descriptive", "anchor": "Which small chaotic fey can take the Disengage or Hide action as a bonus action?"}
+{"passage_id": "2022-0", "question_type": "table", "anchor": "How high is a Goblin Minion's Dexterity score?"}
+{"passage_id": "495-0", "question_type": "lookup", "anchor": "Which elemental effects does the Evoker wizard subclass focus on creating?"}
+{"passage_id": "495-0", "question_type": "paraphrase", "anchor": "Do Evoker wizards ever work for armies as artillery?"}
+{"passage_id": "495-0", "question_type": "descriptive", "anchor": "Which wizard specialty is about blasting things with cold, fire, thunder, lightning, or acid?"}
+{"passage_id": "1083-0", "question_type": "lookup", "anchor": "What is the casting range of Sunburst?"}
+{"passage_id": "1083-0", "question_type": "paraphrase", "anchor": "What physical item do I need on me to cast Sunburst?"}
+{"passage_id": "1083-0", "question_type": "descriptive", "anchor": "Which spell makes a 60-foot blast of sunlight that blinds creatures and deals radiant damage?"}
+{"passage_id": "1309-0", "question_type": "lookup", "anchor": "What penalty do creatures in Heavy Precipitation have on Wisdom (Perception) checks?"}
+{"passage_id": "1309-0", "question_type": "paraphrase", "anchor": "During heavy precipitation, does the rain put out open flames like torches?"}
+{"passage_id": "1309-0", "question_type": "descriptive", "anchor": "How does a heavy storm of rain or snow affect what creatures can see?"}
+{"passage_id": "1078-0", "question_type": "lookup", "anchor": "What is the duration of the Summon Dragon spell?"}
+{"passage_id": "1078-0", "question_type": "paraphrase", "anchor": "If I upcast Summon Dragon, how much extra health does the summoned dragon get per level?"}
+{"passage_id": "1078-0", "question_type": "descriptive", "anchor": "Which wizard spell lets me call a dragon spirit that acts right after my turn in combat?"}
+{"passage_id": "1078-0", "question_type": "table", "anchor": "How strong is a Summon Dragon's Draconic Spirit, as a Strength score?"}
+{"passage_id": "1293-0", "question_type": "lookup", "anchor": "Which spell can end a curse created by Bestow Curse?"}
+{"passage_id": "1293-0", "question_type": "paraphrase", "anchor": "When gauging Bestow Curse's power, what spell level matches a curse that lasts one minute?"}
+{"passage_id": "1293-0", "question_type": "descriptive", "anchor": "Which basic curse spell creates the easiest curses, and what spell can end them?"}
+{"passage_id": "496-0", "question_type": "lookup", "anchor": "What is the maximum spell level for the two free Evocation spells from Evocation Savant?"}
+{"passage_id": "496-0", "question_type": "paraphrase", "anchor": "With Evocation Savant, when I unlock a higher spell slot level, can I copy a free Evocation spell into my spellbook?"}
+{"passage_id": "496-0", "question_type": "descriptive", "anchor": "As a wizard focused on blasting elements, how many free spells can I add to my spellbook at level 3?"}
+{"passage_id": "639-0", "question_type": "lookup", "anchor": "What Dexterity (Acrobatics) DC does escaping a Chain require?"}
+{"passage_id": "639-0", "question_type": "paraphrase", "anchor": "How strong do I have to be to snap a Chain apart?"}
+{"passage_id": "639-0", "question_type": "descriptive", "anchor": "What metal links can I wrap around an unwilling creature within 5 feet to Restrain it?"}
+{"passage_id": "1200-0", "question_type": "lookup", "anchor": "What Dexterity (Stealth) DC do I need to succeed to Hide?"}
+{"passage_id": "1200-0", "question_type": "paraphrase", "anchor": "After I use the Hide action, does casting a spell with spoken words give me away?"}
+{"passage_id": "1200-0", "question_type": "descriptive", "anchor": "After I sneak out of sight, what number must an enemy beat on a Wisdom check to spot me?"}
+{"passage_id": "1384-1", "question_type": "lookup", "anchor": "How are the time and cost of crafting a consumable magic item changed?"}
+{"passage_id": "1384-1", "question_type": "paraphrase", "anchor": "When crafting magic items, does a single-use item like a potion cost and take half as much?"}
+{"passage_id": "1384-1", "question_type": "descriptive", "anchor": "Where would I look to find how long and how much gold it takes to craft a Spell Scroll?"}
+{"passage_id": "1119-0", "question_type": "lookup", "anchor": "What is the radius of the Zone of Truth area?"}
+{"passage_id": "1119-0", "question_type": "paraphrase", "anchor": "Under Zone of Truth, can a creature that fails dodge my questions without lying?"}
+{"passage_id": "1119-0", "question_type": "descriptive", "anchor": "Which spell makes creatures unable to speak a deliberate lie while they're in a magical area?"}
+{"passage_id": "692-0", "question_type": "lookup", "anchor": "How much do objects look when viewed through a Spyglass?"}
+{"passage_id": "692-0", "question_type": "paraphrase", "anchor": "How much gold does a Spyglass cost to buy?"}
+{"passage_id": "692-0", "question_type": "descriptive", "anchor": "What adventuring tool magnifies the objects I view through it to twice their size?"}
+{"passage_id": "1423-0", "question_type": "lookup", "anchor": "What bonus to Armor Class do Bracers of Defense give when I wear no armor and no shield?"}
+{"passage_id": "1423-0", "question_type": "paraphrase", "anchor": "Do I have to bond with Bracers of Defense before I get their benefit?"}
+{"passage_id": "1423-0", "question_type": "descriptive", "anchor": "Which magic wrist guards can boost my defense by +2 when I'm unarmored with no shield?"}
+{"passage_id": "1825-0", "question_type": "lookup", "anchor": "What is the Armor Class of an Ancient Bronze Dragon?"}
+{"passage_id": "1825-0", "question_type": "paraphrase", "anchor": "Can an Ancient Bronze Dragon breathe underwater as well as in the air?"}
+{"passage_id": "1825-0", "question_type": "descriptive", "anchor": "Which gargantuan lawful good dragon can turn failed saves into successes four times a day?"}
+{"passage_id": "1825-0", "question_type": "table", "anchor": "How charming is an Ancient Bronze Dragon, as a Charisma score?"}
+{"passage_id": "1468-0", "question_type": "lookup", "anchor": "How many charges do the Eyes of Charming start with?"}
+{"passage_id": "1468-0", "question_type": "paraphrase", "anchor": "If I spend 2 charges on Eyes of Charming to cast Charm Person, what spell level is it?"}
+{"passage_id": "1468-0", "question_type": "descriptive", "anchor": "Which crystal lenses that fit over the eyes let me cast a charm spell and recharge at dawn?"}
+{"passage_id": "1526-0", "question_type": "lookup", "anchor": "How many magic beads does a Necklace of Prayer Beads have?"}
+{"passage_id": "1526-0", "question_type": "paraphrase", "anchor": "After I cast the spell from a bead on my Necklace of Prayer Beads, when can I use that bead again?"}
+{"passage_id": "1526-0", "question_type": "descriptive", "anchor": "Which magic necklace has beads of aquamarine, black pearl, or topaz that each hold a spell?"}
+{"passage_id": "1526-0", "question_type": "table", "anchor": "On the Necklace of Prayer Beads, what spell is in the bead I get on a 1d20 roll of 17 or 18?"}
+{"passage_id": "171-0", "question_type": "lookup", "anchor": "What does Indomitable Might let me do when my Strength check total is low?"}
+{"passage_id": "171-0", "question_type": "paraphrase", "anchor": "Does Indomitable Might also help with Strength saving throws, not just checks?"}
+{"passage_id": "171-0", "question_type": "descriptive", "anchor": "At level 18, what barbarian feature lets my Strength score replace a poor roll on strength checks?"}
+{"passage_id": "1066-0", "question_type": "lookup", "anchor": "How many questions can I ask a corpse with Speak with Dead?"}
+{"passage_id": "1066-0", "question_type": "paraphrase", "anchor": "If the corpse I'm questioning was undead when it died, will Speak with Dead work?"}
+{"passage_id": "1066-0", "question_type": "descriptive", "anchor": "Which spell lets me question a dead body about what it knew in life, as long as it has a mouth?"}
+{"passage_id": "1349-0", "question_type": "lookup", "anchor": "For combat encounter difficulty, when is a single monster low difficulty for a party of four?"}
+{"passage_id": "1349-0", "question_type": "paraphrase", "anchor": "When picking combat encounter difficulty, can a high-difficulty fight kill a character?"}
+{"passage_id": "1349-0", "question_type": "descriptive", "anchor": "What are the three tiers for how dangerous a monster fight could be for my party?"}
+{"passage_id": "475-0", "question_type": "lookup", "anchor": "What spells does the Fiend Spells feature give a Warlock at level 3?"}
+{"passage_id": "475-0", "question_type": "paraphrase", "anchor": "Under the Fiend Spells feature, which two spells get added to my always-ready list at Warlock level 9?"}
+{"passage_id": "475-0", "question_type": "descriptive", "anchor": "Which two spells does an infernal-patron Warlock always keep prepared at level 5?"}
+{"passage_id": "475-0", "question_type": "table", "anchor": "Under Fiend Spells, which two spells are listed in the row for Warlock level 7?"}
+{"passage_id": "481-6", "question_type": "lookup", "anchor": "What class feature does a Wizard gain at level 18?"}
+{"passage_id": "481-6", "question_type": "paraphrase", "anchor": "When my Wizard reaches level 16, what perk lets me boost my ability scores?"}
+{"passage_id": "481-6", "question_type": "descriptive", "anchor": "At what wizard level do I first get a ninth-level spell slot?"}
+{"passage_id": "481-6", "question_type": "table", "anchor": "How many Prepared Spells does a Wizard have at level 18?"}

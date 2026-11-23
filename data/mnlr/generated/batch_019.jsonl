@@ -1,0 +1,84 @@
+{"passage_id": "665-0", "question_type": "lookup", "anchor": "What DC must a Dexterity (Sleight of Hand) check reach to pick a Lock with Thieves' Tools?"}
+{"passage_id": "665-0", "question_type": "paraphrase", "anchor": "If I lose the key to a Lock, what roll with my Thieves' Tools lets me pick it open?"}
+{"passage_id": "665-0", "question_type": "descriptive", "anchor": "Which item comes with its own key and can be picked open with Thieves' Tools?"}
+{"passage_id": "481-3", "question_type": "lookup", "anchor": "Which Wizard level grants an Ability Score Improvement in the class progression?"}
+{"passage_id": "481-3", "question_type": "paraphrase", "anchor": "How many spells can a Wizard have ready at once when they hit level 9?"}
+{"passage_id": "481-3", "question_type": "descriptive", "anchor": "Which caster gets just one 5th-level spell slot at 9th level, plus three 4th-level slots?"}
+{"passage_id": "481-3", "question_type": "table", "anchor": "How many level 4 spell slots does a Wizard have at level 8?"}
+{"passage_id": "181-11", "question_type": "lookup", "anchor": "What is the Bardic Die size for a Bard at level 12?"}
+{"passage_id": "181-11", "question_type": "paraphrase", "anchor": "When my Bard reaches level 12, how many cantrips do I know?"}
+{"passage_id": "181-11", "question_type": "descriptive", "anchor": "Which musical spellcaster gets an Ability Score Improvement and 16 prepared spells at level 12?"}
+{"passage_id": "181-11", "question_type": "table", "anchor": "How many level 5 spell slots does a Bard have at level 12?"}
+{"passage_id": "2071-0", "question_type": "lookup", "anchor": "What Armor Class does a Green Hag have?"}
+{"passage_id": "2071-0", "question_type": "paraphrase", "anchor": "How much health does a Green Hag have?"}
+{"passage_id": "2071-0", "question_type": "descriptive", "anchor": "Which neutral evil fey can mimic animal sounds and humanoid voices and breathes both air and water?"}
+{"passage_id": "2071-0", "question_type": "table", "anchor": "What is a Green Hag's Constitution modifier?"}
+{"passage_id": "1157-0", "question_type": "lookup", "anchor": "How much extra movement does each foot of crawling cost?"}
+{"passage_id": "1157-0", "question_type": "paraphrase", "anchor": "If I'm crawling through rough, slow ground, how much extra movement does that cost me?"}
+{"passage_id": "1157-0", "question_type": "descriptive", "anchor": "Does moving low along the ground cost me extra movement for each foot?"}
+{"passage_id": "1631-0", "question_type": "lookup", "anchor": "How much does a Tome of Leadership and Influence raise a creature's Charisma?"}
+{"passage_id": "1631-0", "question_type": "paraphrase", "anchor": "How long do I need to study a Tome of Leadership and Influence to get its benefit?"}
+{"passage_id": "1631-0", "question_type": "descriptive", "anchor": "Which magic book needs a full century to regain its power after its benefit is used up?"}
+{"passage_id": "1064-0", "question_type": "lookup", "anchor": "What is the base range of Spare the Dying?"}
+{"passage_id": "1064-0", "question_type": "paraphrase", "anchor": "What does Spare the Dying do to a friend who is down at zero health?"}
+{"passage_id": "1064-0", "question_type": "descriptive", "anchor": "Which necromancy cantrip makes a creature at 0 hit points stable, with range that doubles as you level up?"}
+{"passage_id": "63-0", "question_type": "lookup", "anchor": "Does going prone on my turn cost an action or any of my Speed?"}
+{"passage_id": "63-0", "question_type": "paraphrase", "anchor": "If my Speed drops to 0, can I still drop to the ground on my turn?"}
+{"passage_id": "63-0", "question_type": "descriptive", "anchor": "How can I get down on the ground during my turn without spending any movement?"}
+{"passage_id": "1429-0", "question_type": "lookup", "anchor": "What action do I take to make a Carpet of Flying hover and fly?"}
+{"passage_id": "1429-0", "question_type": "paraphrase", "anchor": "If a Carpet of Flying carries more than it's meant to, how much slower does it fly?"}
+{"passage_id": "1429-0", "question_type": "descriptive", "anchor": "Which magic rug hovers and flies on command, following my directions while I stay within 30 feet?"}
+{"passage_id": "1429-0", "question_type": "table", "anchor": "If the d100 roll for a Carpet of Flying is 21 to 55, what is its Fly Speed?"}
+{"passage_id": "2607-0", "question_type": "lookup", "anchor": "What is the Armor Class of an Allosaurus?"}
+{"passage_id": "2607-0", "question_type": "paraphrase", "anchor": "If an Allosaurus charges 30 feet straight at me and then claws me, can it knock me flat?"}
+{"passage_id": "2607-0", "question_type": "descriptive", "anchor": "Which large, unaligned dinosaur has 51 hit points and a Speed of 60 feet?"}
+{"passage_id": "2607-0", "question_type": "table", "anchor": "What does an Allosaurus add to its Charisma saving throws?"}
+{"passage_id": "1482-0", "question_type": "lookup", "anchor": "How much damage do Gloves of Missile Snaring reduce from a ranged hit?"}
+{"passage_id": "1482-0", "question_type": "paraphrase", "anchor": "Can I catch an arrow with Gloves of Missile Snaring if its damage is fully blocked?"}
+{"passage_id": "1482-0", "question_type": "descriptive", "anchor": "Which uncommon wearable item lets me use a reaction to cut damage from a thrown or ranged hit?"}
+{"passage_id": "2229-0", "question_type": "lookup", "anchor": "How far can a Merrow pull a target toward itself with a Harpoon?"}
+{"passage_id": "2229-0", "question_type": "paraphrase", "anchor": "If a Merrow bites me, how long am I left sick?"}
+{"passage_id": "2229-0", "question_type": "descriptive", "anchor": "Which chaotic evil monstrosity can breathe air and water, swims at 40 feet, and has a poisoning bite?"}
+{"passage_id": "2229-0", "question_type": "table", "anchor": "What ability modifier does a Merrow have for Wisdom?"}
+{"passage_id": "549-0", "question_type": "lookup", "anchor": "What is the level prerequisite for the Boon of Fate feat?"}
+{"passage_id": "549-0", "question_type": "paraphrase", "anchor": "How often can I use the Boon of Fate's dice bonus before I need a rest?"}
+{"passage_id": "549-0", "question_type": "descriptive", "anchor": "Which epic feat lets me add or subtract 2d4 from a d20 roll for myself or nearby creatures within 60 feet?"}
+{"passage_id": "730-0", "question_type": "lookup", "anchor": "Can I normally wear more than one cloak at a time under the rules for wearing magic items?"}
+{"passage_id": "730-0", "question_type": "paraphrase", "anchor": "When wearing magic gear, can I have two pairs of boots on at the same time?"}
+{"passage_id": "730-0", "question_type": "descriptive", "anchor": "Is there a limit on how many armor-type or clothing magic items I can have on my body at once?"}
+{"passage_id": "954-1", "question_type": "lookup", "anchor": "What kind of event can serve as the end trigger for an Imprisonment spell?"}
+{"passage_id": "954-1", "question_type": "paraphrase", "anchor": "Can Dispel Magic free someone from Imprisonment if I use a low-level slot?"}
+{"passage_id": "954-1", "question_type": "descriptive", "anchor": "What spell can lock someone away until an event I pick, like making an offering at a temple, occurs?"}
+{"passage_id": "196-3", "question_type": "lookup", "anchor": "Which school of magic is Dimension Door in on the Bard spell list?"}
+{"passage_id": "196-3", "question_type": "paraphrase", "anchor": "Would Freedom of Movement count as protective magic or trickery magic for a Bard?"}
+{"passage_id": "196-3", "question_type": "descriptive", "anchor": "Which bard spell at level 4 is an Enchantment that charms a monster?"}
+{"passage_id": "196-3", "question_type": "table", "anchor": "On the level 4 Bard spell table, what school is Polymorph in?"}
+{"passage_id": "1455-0", "question_type": "lookup", "anchor": "How much extra damage does Dragon Slayer deal against a dragon?"}
+{"passage_id": "1455-0", "question_type": "paraphrase", "anchor": "How much better will I hit and hurt with a Dragon Slayer weapon?"}
+{"passage_id": "1455-0", "question_type": "descriptive", "anchor": "Which rare magic weapon of any simple or martial type grants extra 3d6 damage against dragons?"}
+{"passage_id": "457-0", "question_type": "lookup", "anchor": "What is the level prerequisite for the warlock invocation that grants an Origin feat?"}
+{"passage_id": "457-0", "question_type": "paraphrase", "anchor": "Can I pick the warlock invocation granting an Origin feat again later for a different feat?"}
+{"passage_id": "457-0", "question_type": "descriptive", "anchor": "Which warlock invocation grants an Origin feat, learned from an elder entity of the multiverse?"}
+{"passage_id": "354-0", "question_type": "lookup", "anchor": "At what Ranger level do you get Relentless Hunter?"}
+{"passage_id": "354-0", "question_type": "paraphrase", "anchor": "Does getting hurt make me lose my focus on Hunter's Mark, if I have Relentless Hunter?"}
+{"passage_id": "354-0", "question_type": "descriptive", "anchor": "Which ranger feature at level 13 stops taking damage from breaking my concentration on a spell?"}
+{"passage_id": "2916-0", "question_type": "lookup", "anchor": "How many Hit Points does a Swarm of Rats have?"}
+{"passage_id": "2916-0", "question_type": "paraphrase", "anchor": "Can a Swarm of Rats squeeze into the same square as me?"}
+{"passage_id": "2916-0", "question_type": "descriptive", "anchor": "Which Medium creature made of many Tiny beasts resists bludgeoning, piercing, and slashing damage?"}
+{"passage_id": "2916-0", "question_type": "table", "anchor": "What is a Swarm of Rats' Strength modifier?"}
+{"passage_id": "617-0", "question_type": "lookup", "anchor": "How much damage does a vial of Acid deal on a failed save?"}
+{"passage_id": "617-0", "question_type": "paraphrase", "anchor": "Can I splash Acid on an enemy during my Attack action instead of swinging?"}
+{"passage_id": "617-0", "question_type": "descriptive", "anchor": "What flask of corrosive liquid can I hurl at a creature up to 20 feet away, forcing a Dexterity save?"}
+{"passage_id": "1255-0", "question_type": "lookup", "anchor": "What can a Spellcasting Focus replace in a spell?"}
+{"passage_id": "1255-0", "question_type": "paraphrase", "anchor": "Are all spellcasting classes allowed to use every type of Spellcasting Focus?"}
+{"passage_id": "1255-0", "question_type": "descriptive", "anchor": "What object can a spellcaster carry in place of spell components that a spell doesn't consume?"}
+{"passage_id": "1033-0", "question_type": "lookup", "anchor": "What is the casting range of Remove Curse?"}
+{"passage_id": "1033-0", "question_type": "paraphrase", "anchor": "If I cast Remove Curse on a cursed magic item, does its curse go away?"}
+{"passage_id": "1033-0", "question_type": "descriptive", "anchor": "Which level 3 spell lets a cleric or wizard end all curses on one creature or object at touch range?"}
+{"passage_id": "2613-0", "question_type": "lookup", "anchor": "How far is the long range of an Ape's Rock attack?"}
+{"passage_id": "2613-0", "question_type": "paraphrase", "anchor": "How many times does an Ape get to punch on its turn?"}
+{"passage_id": "2613-0", "question_type": "descriptive", "anchor": "Which medium beast with a Climb speed of 30 feet has a 19-hit-point body and throws rocks?"}
+{"passage_id": "2613-0", "question_type": "table", "anchor": "What ability score does an Ape have for Charisma?"}
+{"passage_id": "68-0", "question_type": "lookup", "anchor": "Do spells ever involve making a ranged attack?"}
+{"passage_id": "68-0", "question_type": "paraphrase", "anchor": "If I throw an axe at an enemy across the room, does that count as a ranged attack?"}
+{"passage_id": "68-0", "question_type": "descriptive", "anchor": "How do I attack a foe from a distance by firing a bow or sending projectiles at it?"}

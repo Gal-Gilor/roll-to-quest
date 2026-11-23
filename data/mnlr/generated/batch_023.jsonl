@@ -1,0 +1,76 @@
+{"passage_id": "120-0", "question_type": "lookup", "anchor": "During character creation, can a background raise all three of its listed abilities by 1 each?"}
+{"passage_id": "120-0", "question_type": "paraphrase", "anchor": "Is there a cap on how high my stats can go when my background bumps them during character creation?"}
+{"passage_id": "120-0", "question_type": "descriptive", "anchor": "When I make a new hero, how do I spend the bonuses my background gives to my six stats?"}
+{"passage_id": "1846-1", "question_type": "lookup", "anchor": "What Dexterity save DC does a Chain Devil's Conjure Infernal Chain use?"}
+{"passage_id": "1846-1", "question_type": "paraphrase", "anchor": "Once I resist a Chain Devil's Unnerving Gaze, how long am I protected from it?"}
+{"passage_id": "1846-1", "question_type": "descriptive", "anchor": "Which fiend hurls a fiery chain that pulls a creature toward it and leaves it briefly restrained?"}
+{"passage_id": "2559-0", "question_type": "lookup", "anchor": "On what die roll does a Young White Dragon's Cold Breath recharge?"}
+{"passage_id": "2559-0", "question_type": "paraphrase", "anchor": "How hard does a Young White Dragon's frost breath hit anyone in its cone who fails to resist it?"}
+{"passage_id": "2559-0", "question_type": "descriptive", "anchor": "Which young dragon can walk across icy surfaces without an ability check and breathes a cone of frost?"}
+{"passage_id": "2559-0", "question_type": "table", "anchor": "What Intelligence score does a Young White Dragon have, not counting its modifier?"}
+{"passage_id": "58-1", "question_type": "lookup", "anchor": "On a combat grid, how many squares does a 30-foot Speed translate into?"}
+{"passage_id": "58-1", "question_type": "paraphrase", "anchor": "In combat on a battle map, how many squares of movement does stepping onto rough ground cost me?"}
+{"passage_id": "58-1", "question_type": "descriptive", "anchor": "Am I allowed to do nothing at all on my turn in a fight if I can't decide?"}
+{"passage_id": "1248-0", "question_type": "lookup", "anchor": "How long does a short rest take to complete in game time?"}
+{"passage_id": "1248-0", "question_type": "paraphrase", "anchor": "If a short rest gets cut short because I take a hit, do I still get any of its benefits?"}
+{"passage_id": "1248-0", "question_type": "descriptive", "anchor": "When I rest to patch myself up mid-adventure, can I roll my healing dice and add my Constitution modifier?"}
+{"passage_id": "1360-0", "question_type": "lookup", "anchor": "Magic items fall into how many categories in total?"}
+{"passage_id": "1360-0", "question_type": "paraphrase", "anchor": "For magic items, if one requires a certain class to attune, do I have to be that class?"}
+{"passage_id": "1360-0", "question_type": "descriptive", "anchor": "How are magic items grouped into types like armor, potions and rings?"}
+{"passage_id": "1360-0", "question_type": "table", "anchor": "Under which magic item category is the Staff of Striking listed?"}
+{"passage_id": "1310-0", "question_type": "lookup", "anchor": "At what altitude does high-altitude travel start to slow a party down?"}
+{"passage_id": "1310-0", "question_type": "paraphrase", "anchor": "How many days at a high altitude does it take for my creatures to get used to the thin air?"}
+{"passage_id": "1310-0", "question_type": "descriptive", "anchor": "When my party climbs into the thin mountain air, does an hour of walking use up more of our travel time?"}
+{"passage_id": "857-0", "question_type": "lookup", "anchor": "What ability save must a creature make to resist Dismissal from Dispel Evil and Good?"}
+{"passage_id": "857-0", "question_type": "paraphrase", "anchor": "If I send an undead packing with Dispel Evil and Good, which plane does it land in?"}
+{"passage_id": "857-0", "question_type": "descriptive", "anchor": "Which spell lets me touch an ally to free it from a fiend's control?"}
+{"passage_id": "1024-0", "question_type": "lookup", "anchor": "For how long does Protection from Evil and Good last once cast?"}
+{"passage_id": "1024-0", "question_type": "paraphrase", "anchor": "If I cast Protection from Evil and Good on my friend, do monsters like fiends have a harder time hitting them?"}
+{"passage_id": "1024-0", "question_type": "descriptive", "anchor": "Which spell protects a willing ally from fiends and undead, stopping them from charming or frightening that ally?"}
+{"passage_id": "1588-0", "question_type": "lookup", "anchor": "How many levels of spell energy can a Rod of Absorption store in total?"}
+{"passage_id": "1588-0", "question_type": "paraphrase", "anchor": "When I first find a Rod of Absorption, how much stored magic might it already hold?"}
+{"passage_id": "1588-0", "question_type": "descriptive", "anchor": "Which rod can I hold to convert soaked-up magic energy into spell slots of up to fifth level?"}
+{"passage_id": "1015-0", "question_type": "lookup", "anchor": "How many creatures can Prayer of Healing heal at once?"}
+{"passage_id": "1015-0", "question_type": "paraphrase", "anchor": "If I cast Prayer of Healing with a bigger slot, how much more health does each person get back?"}
+{"passage_id": "1015-0", "question_type": "descriptive", "anchor": "Which healing spell can I cast over ten minutes so five friends each regain hit points and benefit from a short rest?"}
+{"passage_id": "1208-0", "question_type": "lookup", "anchor": "What damage does an improvised weapon deal on a hit?"}
+{"passage_id": "1208-0", "question_type": "paraphrase", "anchor": "If I attack with an improvised weapon, like a frying pan, do I still add my proficiency bonus?"}
+{"passage_id": "1208-0", "question_type": "descriptive", "anchor": "If I toss a broken bottle or a table leg at a foe, what are its normal and long ranges?"}
+{"passage_id": "709-0", "question_type": "lookup", "anchor": "Who decides whether lifestyle costs are paid weekly or monthly?"}
+{"passage_id": "709-0", "question_type": "paraphrase", "anchor": "Do the lifestyle expenses for living Squalid or Poor come with any built-in penalty?"}
+{"passage_id": "709-0", "question_type": "descriptive", "anchor": "Which living standards can my character choose for upkeep, from Wretched up to Aristocratic?"}
+{"passage_id": "1018-1", "question_type": "lookup", "anchor": "What can destroy the orange layer of a Prismatic Wall?"}
+{"passage_id": "1018-1", "question_type": "paraphrase", "anchor": "Would a Passwall-type spell open a hole through the green layer of a Prismatic Wall?"}
+{"passage_id": "1018-1", "question_type": "descriptive", "anchor": "Which magical wall of colored layers deals fire, acid, lightning, poison and cold damage on a failed save?"}
+{"passage_id": "1018-1", "question_type": "table", "anchor": "On a Prismatic Wall, in the blue layer's row, what damage type does a failed save cause?"}
+{"passage_id": "2302-1", "question_type": "lookup", "anchor": "What damage does a Pit Fiend's Devilish Claw deal on a hit?"}
+{"passage_id": "2302-1", "question_type": "paraphrase", "anchor": "When a Pit Fiend's bite poisons me and I fail, how much poison damage do I take each turn?"}
+{"passage_id": "2302-1", "question_type": "descriptive", "anchor": "Which devil can unleash two fireballs in a single turn when its spellcasting recharges on a 4 to 6?"}
+{"passage_id": "635-0", "question_type": "lookup", "anchor": "What Dexterity saving throw DC do Caltrops force on a creature that steps into them?"}
+{"passage_id": "635-0", "question_type": "paraphrase", "anchor": "How long does it take to scoop my caltrops back up after I've scattered them?"}
+{"passage_id": "635-0", "question_type": "descriptive", "anchor": "Which cheap spiked item, scattered on the floor, can stop a chasing creature from moving?"}
+{"passage_id": "666-0", "question_type": "lookup", "anchor": "What does a Magnifying Glass give me on checks to inspect a detailed object?"}
+{"passage_id": "666-0", "question_type": "paraphrase", "anchor": "How long does it take a Magnifying Glass to start a fire in bright sunlight?"}
+{"passage_id": "666-0", "question_type": "descriptive", "anchor": "Which lens tool helps me spot details on an item and can light a fire when sunlight is strong enough?"}
+{"passage_id": "49-0", "question_type": "lookup", "anchor": "When breaking objects, do I need to roll dice to shatter a fragile glass container?"}
+{"passage_id": "49-0", "question_type": "paraphrase", "anchor": "If I try to smash something sturdier than glass, is there a separate rulebook section the GM uses?"}
+{"passage_id": "49-0", "question_type": "descriptive", "anchor": "Can I automatically shatter an enchanted glass vial with a single action?"}
+{"passage_id": "1123-0", "question_type": "lookup", "anchor": "How many abilities are there that an ability check can be based on?"}
+{"passage_id": "1123-0", "question_type": "paraphrase", "anchor": "When I use a skill like Stealth to get past a guard, does that roll count as an ability check?"}
+{"passage_id": "1123-0", "question_type": "descriptive", "anchor": "Which d20 test uses one of the six abilities or a related skill to overcome a challenge?"}
+{"passage_id": "1211-1", "question_type": "lookup", "anchor": "Using Influence on a monster, can Persuasion work on one that doesn't understand me?"}
+{"passage_id": "1211-1", "question_type": "paraphrase", "anchor": "For influence attempts, which Charisma skill covers tricking a monster that understands me?"}
+{"passage_id": "1211-1", "question_type": "descriptive", "anchor": "If I want to scare a monster into backing off, which skill do I roll?"}
+{"passage_id": "1211-1", "question_type": "table", "anchor": "Under Influence, which check is used to amuse a monster?"}
+{"passage_id": "897-0", "question_type": "lookup", "anchor": "How far away can Fire Bolt hit a target?"}
+{"passage_id": "897-0", "question_type": "paraphrase", "anchor": "As I level up, how much more damage does my Fire Bolt do?"}
+{"passage_id": "897-0", "question_type": "descriptive", "anchor": "Which cantrip hurls a mote of fire with a ranged spell attack and can set something flammable alight?"}
+{"passage_id": "1361-0", "question_type": "lookup", "anchor": "Must I wear magic armor for its magic to work, unless its own description says otherwise?"}
+{"passage_id": "1361-0", "question_type": "paraphrase", "anchor": "If a magic suit of armor doesn't name its type, who gets to decide what it is?"}
+{"passage_id": "1361-0", "question_type": "descriptive", "anchor": "Which magic items are just enchanted versions of normal protective gear I can buy in town?"}
+{"passage_id": "822-0", "question_type": "lookup", "anchor": "What saving throw does Compulsion require from each creature it targets?"}
+{"passage_id": "822-0", "question_type": "paraphrase", "anchor": "Once Compulsion has my foes under its sway, how do I steer them in a direction?"}
+{"passage_id": "822-0", "question_type": "descriptive", "anchor": "Which bard spell makes creatures I can see move in a direction I pick and lets them shake off the effect with another save?"}
+{"passage_id": "773-0", "question_type": "lookup", "anchor": "How long does Animal Friendship's charm last on a beast that fails its save?"}
+{"passage_id": "773-0", "question_type": "paraphrase", "anchor": "If I cast Animal Friendship with a bigger slot, how many more animals can I try to befriend?"}
+{"passage_id": "773-0", "question_type": "descriptive", "anchor": "Which spell lets a druid or ranger charm a wild creature they can see, so long as neither they nor their allies hurt it?"}

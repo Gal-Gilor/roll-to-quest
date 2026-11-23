@@ -1,0 +1,85 @@
+{"passage_id": "70-0", "question_type": "lookup", "anchor": "Do ranged attacks in close combat have Disadvantage when an enemy who can see me is within 5 feet?"}
+{"passage_id": "70-0", "question_type": "paraphrase", "anchor": "Does a ranged attack in close combat still get a penalty if the nearby enemy is unable to act?"}
+{"passage_id": "70-0", "question_type": "descriptive", "anchor": "When I shoot an arrow at someone standing right next to me, what penalty applies to my attack roll?"}
+{"passage_id": "799-0", "question_type": "lookup", "anchor": "How much Force damage does Blade Barrier deal to a creature that fails its Dexterity save?"}
+{"passage_id": "799-0", "question_type": "paraphrase", "anchor": "Does the Blade Barrier wall give creatures behind it real protection from attacks?"}
+{"passage_id": "799-0", "question_type": "descriptive", "anchor": "Which spell creates a ring or straight line of whirling magical blades that hurts anything passing through?"}
+{"passage_id": "945-0", "question_type": "lookup", "anchor": "Which ability saving throw does a target make against Hold Monster?"}
+{"passage_id": "945-0", "question_type": "paraphrase", "anchor": "If I cast Hold Monster with a bigger slot, how many extra creatures can I freeze?"}
+{"passage_id": "945-0", "question_type": "descriptive", "anchor": "What spell lets me freeze a creature in place, letting it retry the save each turn to break free?"}
+{"passage_id": "1340-1", "question_type": "lookup", "anchor": "What save DC does a Falling Net trap use at character levels 11 to 16?"}
+{"passage_id": "1340-1", "question_type": "paraphrase", "anchor": "Do I make a Falling Net trap nastier for high-level parties by making the net heavier?"}
+{"passage_id": "1340-1", "question_type": "descriptive", "anchor": "Which save DC applies to a net trap dropped on an adventuring party at character level 18?"}
+{"passage_id": "2078-0", "question_type": "lookup", "anchor": "How many Hit Points does a Griffon start with?"}
+{"passage_id": "2078-0", "question_type": "paraphrase", "anchor": "How quickly does a Griffon get around on the ground compared with in the air?"}
+{"passage_id": "2078-0", "question_type": "descriptive", "anchor": "Which large flying creature uses a claw attack that can hold a Medium-sized victim in place?"}
+{"passage_id": "2078-0", "question_type": "table", "anchor": "What Intelligence modifier does a Griffon have?"}
+{"passage_id": "907-0", "question_type": "lookup", "anchor": "How much damage does Forbiddance deal to chosen creature types on entering its area?"}
+{"passage_id": "907-0", "question_type": "paraphrase", "anchor": "Can I set a password so my allies can walk into a Forbiddance area without taking damage?"}
+{"passage_id": "907-0", "question_type": "descriptive", "anchor": "Which ritual ward uses ruby dust and blocks creatures from teleporting into a large area?"}
+{"passage_id": "2658-0", "question_type": "lookup", "anchor": "How many Hit Points does a Crocodile have?"}
+{"passage_id": "2658-0", "question_type": "paraphrase", "anchor": "How fast does a Crocodile move in water compared with on land?"}
+{"passage_id": "2658-0", "question_type": "descriptive", "anchor": "Which large swimming beast can hold its breath for an hour and grapple prey in its jaws?"}
+{"passage_id": "2658-0", "question_type": "table", "anchor": "How much does a Crocodile add to Constitution saving throws?"}
+{"passage_id": "624-0", "question_type": "lookup", "anchor": "What Dexterity save DC do spilled Ball Bearings use against creatures entering the area?"}
+{"passage_id": "624-0", "question_type": "paraphrase", "anchor": "How long does it take me to gather my Ball Bearings back up after scattering them?"}
+{"passage_id": "624-0", "question_type": "descriptive", "anchor": "Which cheap adventuring item, spilled from a pouch, makes pursuing creatures fall prone?"}
+{"passage_id": "2249-0", "question_type": "lookup", "anchor": "What Challenge Rating does a Nalfeshnee have?"}
+{"passage_id": "2249-0", "question_type": "paraphrase", "anchor": "If a Nalfeshnee dies outside the Abyss, where does it come back and how?"}
+{"passage_id": "2249-0", "question_type": "descriptive", "anchor": "Which large demon can unleash a 15-foot wave of fear and psychic damage as a bonus action?"}
+{"passage_id": "2249-0", "question_type": "table", "anchor": "Is a Nalfeshnee's Charisma save bonus above +5?"}
+{"passage_id": "1502-1", "question_type": "lookup", "anchor": "How many Hit Points does an Ioun Stone of Regeneration restore each hour?"}
+{"passage_id": "1502-1", "question_type": "paraphrase", "anchor": "Does an Ioun Stone that cancels enemy spells eventually stop working?"}
+{"passage_id": "1502-1", "question_type": "descriptive", "anchor": "Which floating gem boosts my Constitution by 2 while it orbits my head, to a cap of 20?"}
+{"passage_id": "2948-0", "question_type": "lookup", "anchor": "How fast can a Weasel climb?"}
+{"passage_id": "2948-0", "question_type": "paraphrase", "anchor": "How well can a Weasel hit with its bite, and what does a hit do?"}
+{"passage_id": "2948-0", "question_type": "descriptive", "anchor": "Which tiny animal has a bite that deals only a single point of piercing damage?"}
+{"passage_id": "2948-0", "question_type": "table", "anchor": "How high is a Weasel's Charisma ability score?"}
+{"passage_id": "613-0", "question_type": "lookup", "anchor": "What does a set of Navigator's Tools weigh?"}
+{"passage_id": "613-0", "question_type": "paraphrase", "anchor": "With Navigator's Tools, how hard is it to work out where I am by looking at the stars?"}
+{"passage_id": "613-0", "question_type": "descriptive", "anchor": "Which Wisdom-based kit lets a traveler plot a course for a journey?"}
+{"passage_id": "896-0", "question_type": "lookup", "anchor": "How large is the blast radius of Fireball when it explodes?"}
+{"passage_id": "896-0", "question_type": "paraphrase", "anchor": "Will a Fireball blast set flammable loot and unattended supplies on fire?"}
+{"passage_id": "896-0", "question_type": "descriptive", "anchor": "Which 3rd-level spell turns a bright streak into a fiery explosion that hurts everything in a sphere?"}
+{"passage_id": "911-0", "question_type": "lookup", "anchor": "What damage does Freezing Sphere deal on a failed Constitution save?"}
+{"passage_id": "911-0", "question_type": "paraphrase", "anchor": "Can I hold onto a Freezing Sphere without setting it off, and throw it later?"}
+{"passage_id": "911-0", "question_type": "descriptive", "anchor": "Which spell makes a frigid ball that can freeze a patch of water for a minute, trapping swimmers in ice?"}
+{"passage_id": "1718-0", "question_type": "lookup", "anchor": "How many Hit Points does an Awakened Shrub have?"}
+{"passage_id": "1718-0", "question_type": "paraphrase", "anchor": "Does an Awakened Shrub take extra harm from fire, compared with a normal creature?"}
+{"passage_id": "1718-0", "question_type": "descriptive", "anchor": "Which small plant creature makes a weak rake attack and can speak Common?"}
+{"passage_id": "1718-0", "question_type": "table", "anchor": "What Strength modifier does an Awakened Shrub have?"}
+{"passage_id": "1065-0", "question_type": "lookup", "anchor": "What is the casting time of Speak with Animals?"}
+{"passage_id": "1065-0", "question_type": "paraphrase", "anchor": "Can Speak with Animals let a beast tell me what it saw nearby recently?"}
+{"passage_id": "1065-0", "question_type": "descriptive", "anchor": "Which level 1 spell lets me understand and talk with ordinary wild creatures for 10 minutes?"}
+{"passage_id": "181-0", "question_type": "lookup", "anchor": "Which traits table does a Bard gain when starting at level 1?"}
+{"passage_id": "181-0", "question_type": "paraphrase", "anchor": "Besides casting spells, what feature does a level 1 Bard get?"}
+{"passage_id": "181-0", "question_type": "descriptive", "anchor": "Which first-level character is a musician-caster that starts with a d6 inspiration die?"}
+{"passage_id": "181-0", "question_type": "table", "anchor": "At level 1, how many prepared spells does a Bard get?"}
+{"passage_id": "196-2", "question_type": "lookup", "anchor": "Which school of magic does Shatter belong to on the Bard spell list?"}
+{"passage_id": "196-2", "question_type": "paraphrase", "anchor": "Does the Bard spell Magic Mouth need a physical ingredient to cast?"}
+{"passage_id": "196-2", "question_type": "descriptive", "anchor": "Which table lists each spell a musician-caster can learn, with its school of magic?"}
+{"passage_id": "196-2", "question_type": "table", "anchor": "In the Bard spell list, what does the Special column show for Animal Messenger?"}
+{"passage_id": "776-1", "question_type": "lookup", "anchor": "How many additional Undead does Animate Dead animate for each spell slot level above 3?"}
+{"passage_id": "776-1", "question_type": "paraphrase", "anchor": "When I upcast Animate Dead, must each new undead rise from a different corpse or pile of bones?"}
+{"passage_id": "776-1", "question_type": "descriptive", "anchor": "Which spell lets me reanimate corpses as servants, with extra servants when I use a bigger slot?"}
+{"passage_id": "2673-0", "question_type": "lookup", "anchor": "How fast can an Eagle fly?"}
+{"passage_id": "2673-0", "question_type": "paraphrase", "anchor": "When an Eagle's claws hit, how much harm do they deal?"}
+{"passage_id": "2673-0", "question_type": "descriptive", "anchor": "Which small, fast-flying hunter with a Perception of +6 strikes with talons?"}
+{"passage_id": "2673-0", "question_type": "table", "anchor": "What Wisdom score does an Eagle have?"}
+{"passage_id": "594-0", "question_type": "lookup", "anchor": "What does a set of Cartographer's Tools cost in gold?"}
+{"passage_id": "594-0", "question_type": "paraphrase", "anchor": "How hard is it to sketch a map of a small area using Cartographer's Tools?"}
+{"passage_id": "594-0", "question_type": "descriptive", "anchor": "Which Wisdom-based artisan kit lets a character draft maps of the land they travel through?"}
+{"passage_id": "1573-0", "question_type": "lookup", "anchor": "How many charges does a Ring of Shooting Stars have?"}
+{"passage_id": "1573-0", "question_type": "paraphrase", "anchor": "How many charges does it cost the Ring of Shooting Stars to make lightning spheres?"}
+{"passage_id": "1573-0", "question_type": "descriptive", "anchor": "Which ring summons floating orbs of lightning that zap creatures passing within 5 feet?"}
+{"passage_id": "1573-0", "question_type": "table", "anchor": "When three spheres are created by the Ring of Shooting Stars, what is the Lightning damage for a failed save?"}
+{"passage_id": "753-0", "question_type": "lookup", "anchor": "Is there a limit of one spell slot per turn for casting spells?"}
+{"passage_id": "753-0", "question_type": "paraphrase", "anchor": "Can I cast one spell with my action and another with my bonus action in the same turn using slots?"}
+{"passage_id": "753-0", "question_type": "descriptive", "anchor": "Can I power up two different leveled spells on the same turn if I have enough slots?"}
+{"passage_id": "2136-0", "question_type": "lookup", "anchor": "How many Hit Points does an Ice Devil have?"}
+{"passage_id": "2136-0", "question_type": "paraphrase", "anchor": "Does an Ice Devil come back in the Nine Hells if it is destroyed elsewhere?"}
+{"passage_id": "2136-0", "question_type": "descriptive", "anchor": "Which large lawful evil fiend can hurl icy spears that slow its target by 10 feet?"}
+{"passage_id": "2136-0", "question_type": "table", "anchor": "What Strength score does an Ice Devil have?"}
+{"passage_id": "134-0", "question_type": "lookup", "anchor": "When starting at higher levels, which level is recommended for seasoned D&D groups?"}
+{"passage_id": "134-0", "question_type": "paraphrase", "anchor": "Can my Dungeon Master have us start at higher levels rather than first level?"}
+{"passage_id": "134-0", "question_type": "descriptive", "anchor": "Who decides whether my adventuring group begins above level 1?"}

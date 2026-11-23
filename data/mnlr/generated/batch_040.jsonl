@@ -1,0 +1,81 @@
+{"passage_id": "451-0", "question_type": "lookup", "anchor": "How much does an Eldritch Spear increase a cantrip's range by for each Warlock level?"}
+{"passage_id": "451-0", "question_type": "paraphrase", "anchor": "Can I take the Eldritch Spear invocation more than once to pick different cantrips?"}
+{"passage_id": "451-0", "question_type": "descriptive", "anchor": "Which Warlock invocation extends the range of a damaging cantrip and can be taken more than once?"}
+{"passage_id": "1326-0", "question_type": "lookup", "anchor": "How long does the Malice poison keep a creature Poisoned?"}
+{"passage_id": "1326-0", "question_type": "paraphrase", "anchor": "Does breathing in the Malice poison also leave me unable to see?"}
+{"passage_id": "1326-0", "question_type": "descriptive", "anchor": "What poison taken by inhaling can blind and poison a creature for an hour if it fails a Constitution save?"}
+{"passage_id": "1089-0", "question_type": "lookup", "anchor": "How many of Thaumaturgy's one-minute effects can be active at the same time?"}
+{"passage_id": "1089-0", "question_type": "paraphrase", "anchor": "Does Thaumaturgy's Booming Voice make my Intimidation rolls easier to pull off?"}
+{"passage_id": "1089-0", "question_type": "descriptive", "anchor": "What cantrip lets me make my voice boom three times louder or flicker flames for a minute?"}
+{"passage_id": "1609-0", "question_type": "lookup", "anchor": "How many charges does a Staff of Fire regain at dawn each day?"}
+{"passage_id": "1609-0", "question_type": "paraphrase", "anchor": "If I'm holding a Staff of Fire, do I take less damage from fire attacks?"}
+{"passage_id": "1609-0", "question_type": "descriptive", "anchor": "Which magic staff holds ten charges for casting fire spells, and what happens if its last charge is used?"}
+{"passage_id": "1609-0", "question_type": "table", "anchor": "How many charges does a Staff of Fire expend to cast Wall of Fire?"}
+{"passage_id": "1237-0", "question_type": "lookup", "anchor": "How many feet of Reach does a creature have by default, unless a rule says otherwise?"}
+{"passage_id": "1237-0", "question_type": "paraphrase", "anchor": "Can a game rule give a creature a longer melee reach than normal?"}
+{"passage_id": "1237-0", "question_type": "descriptive", "anchor": "How far can a creature normally hit someone with a melee attack, before any special rules apply?"}
+{"passage_id": "1177-0", "question_type": "lookup", "anchor": "What does the Difficulty Class number represent for ability checks and saving throws?"}
+{"passage_id": "1177-0", "question_type": "paraphrase", "anchor": "Is the Difficulty Class the number I must reach or beat on a saving throw?"}
+{"passage_id": "1177-0", "question_type": "descriptive", "anchor": "What is the target number a roll must meet or exceed to succeed on a check?"}
+{"passage_id": "969-0", "question_type": "lookup", "anchor": "How far away can Locate Creature sense the direction to a creature I know?"}
+{"passage_id": "969-0", "question_type": "paraphrase", "anchor": "Will Locate Creature still find a friend who's been shapeshifted into a different form?"}
+{"passage_id": "969-0", "question_type": "descriptive", "anchor": "What divination spell shows the direction of a creature I know, unless lead stands between us?"}
+{"passage_id": "1092-0", "question_type": "lookup", "anchor": "What material component does the Tiny Hut spell require?"}
+{"passage_id": "1092-0", "question_type": "paraphrase", "anchor": "Can my Tiny Hut keep out low-level magic, like a level 2 spell cast from outside?"}
+{"passage_id": "1092-0", "question_type": "descriptive", "anchor": "What third-level ritual creates a 10-foot shelter around me that stays dry inside for 8 hours?"}
+{"passage_id": "498-0", "question_type": "lookup", "anchor": "How many creatures can Sculpt Spells choose, based on the spell's level?"}
+{"passage_id": "498-0", "question_type": "paraphrase", "anchor": "With Sculpt Spells, do my chosen allies avoid damage from an evocation spell that halves damage on a save?"}
+{"passage_id": "498-0", "question_type": "descriptive", "anchor": "Which Evoker feature lets me shield some of my friends from my area blasts so they automatically pass their saves?"}
+{"passage_id": "1382-0", "question_type": "lookup", "anchor": "Do the assistants I bring for crafting magic items need tool proficiency too?"}
+{"passage_id": "1382-0", "question_type": "paraphrase", "anchor": "Can I make a magic item without being proficient with the tool that the item's category requires?"}
+{"passage_id": "1382-0", "question_type": "descriptive", "anchor": "What tool skill do I need to make a magic item, and does it depend on the item's category?"}
+{"passage_id": "702-0", "question_type": "lookup", "anchor": "What advantage does a Military Saddle give on checks to remain mounted?"}
+{"passage_id": "702-0", "question_type": "paraphrase", "anchor": "Does riding a swimming or flying mount require an Exotic Saddle?"}
+{"passage_id": "702-0", "question_type": "descriptive", "anchor": "What comes packaged with a mount's gear: a bit, a bridle and reins?"}
+{"passage_id": "418-0", "question_type": "lookup", "anchor": "How many Sorcery Points does Seeking Spell cost to use?"}
+{"passage_id": "418-0", "question_type": "paraphrase", "anchor": "Can I stack Seeking Spell with a different sorcerer trick on the same spell?"}
+{"passage_id": "418-0", "question_type": "descriptive", "anchor": "What sorcerer ability lets me reroll a spell attack that missed by spending a point?"}
+{"passage_id": "1072-0", "question_type": "lookup", "anchor": "How far away can I target a creature with Starry Wisp?"}
+{"passage_id": "1072-0", "question_type": "paraphrase", "anchor": "After Starry Wisp hits, does the target glow faintly, and how far does the glow reach?"}
+{"passage_id": "1072-0", "question_type": "descriptive", "anchor": "What cantrip fires a light mote that deals radiant damage and gets stronger at higher levels?"}
+{"passage_id": "1776-1", "question_type": "lookup", "anchor": "How are a Black Pudding's Hit Points divided when it splits into two?"}
+{"passage_id": "1776-1", "question_type": "paraphrase", "anchor": "Can a Black Pudding's acid attack wear down my armor, and what undoes that?"}
+{"passage_id": "1776-1", "question_type": "descriptive", "anchor": "What monster splits in two when hit by lightning or slashing damage while large or medium with 10+ hit points?"}
+{"passage_id": "1649-18", "question_type": "lookup", "anchor": "What ends the petrification a Wand of Wonder can cause?"}
+{"passage_id": "1649-18", "question_type": "paraphrase", "anchor": "When a Wand of Wonder starts turning a creature to stone, does the creature get another chance to shake it off next turn?"}
+{"passage_id": "1649-18", "question_type": "descriptive", "anchor": "Which magic item with a random effect table can petrify a nearby creature unless it passes a Constitution save?"}
+{"passage_id": "1649-18", "question_type": "table", "anchor": "What happens to the nearest creature when a Wand of Wonder rolls 98 to 00 on its d100 table?"}
+{"passage_id": "2705-0", "question_type": "lookup", "anchor": "What Armor Class does a Giant Centipede have?"}
+{"passage_id": "2705-0", "question_type": "paraphrase", "anchor": "If a Giant Centipede bites me, do I get poisoned, and how long does it last?"}
+{"passage_id": "2705-0", "question_type": "descriptive", "anchor": "What Small beast can climb at 30 feet and has blindsight out to 30 feet, a challenge rating of 1/4?"}
+{"passage_id": "2705-0", "question_type": "table", "anchor": "What does a Giant Centipede add to Constitution saving throws?"}
+{"passage_id": "751-0", "question_type": "lookup", "anchor": "In Class Spell Lists, what appears in parentheses after a spell's school of magic?"}
+{"passage_id": "751-0", "question_type": "paraphrase", "anchor": "Do class spell lists ever include spells added by a feature for a character outside the class?"}
+{"passage_id": "751-0", "question_type": "descriptive", "anchor": "Which spell listing detail tells me which character classes can cast a spell, and which school it belongs to?"}
+{"passage_id": "1146-0", "question_type": "lookup", "anchor": "What spell level does a Cantrip belong to in the rules?"}
+{"passage_id": "1146-0", "question_type": "paraphrase", "anchor": "Do I burn a spell slot every time I cast a Cantrip?"}
+{"passage_id": "1146-0", "question_type": "descriptive", "anchor": "What kind of spell can I cast over and over without spending any of my spell slots?"}
+{"passage_id": "481-2", "question_type": "lookup", "anchor": "What class feature does a Wizard get at level 6?"}
+{"passage_id": "481-2", "question_type": "paraphrase", "anchor": "Will a Wizard learn more than 4 cantrips between levels 4 and 6?"}
+{"passage_id": "481-2", "question_type": "descriptive", "anchor": "Which level of wizard advancement gives the ability to memorize a spell?"}
+{"passage_id": "481-2", "question_type": "table", "anchor": "How many prepared spells does a Wizard have at level 5?"}
+{"passage_id": "1011-0", "question_type": "lookup", "anchor": "What saving throw does a target make against Polymorph?"}
+{"passage_id": "1011-0", "question_type": "paraphrase", "anchor": "Once Polymorph turns someone into a beast, can they still talk or cast spells?"}
+{"passage_id": "1011-0", "question_type": "descriptive", "anchor": "What level-4 spell can turn a creature into an animal form for up to an hour, with my concentration?"}
+{"passage_id": "836-1", "question_type": "lookup", "anchor": "What condition does stage 3 of the Control Weather progression describe?"}
+{"passage_id": "836-1", "question_type": "paraphrase", "anchor": "Can Control Weather take a calm day all the way to a storm?"}
+{"passage_id": "836-1", "question_type": "descriptive", "anchor": "What spell lets me shift conditions step by step from calm up to a violent tempest?"}
+{"passage_id": "836-1", "question_type": "table", "anchor": "What is stage 4 called on Control Weather's scale?"}
+{"passage_id": "1422-0", "question_type": "lookup", "anchor": "How much extra damage do Bracers of Archery add to longbow and shortbow hits?"}
+{"passage_id": "1422-0", "question_type": "paraphrase", "anchor": "Do Bracers of Archery make me good with longbows and shortbows even if I'm not trained?"}
+{"passage_id": "1422-0", "question_type": "descriptive", "anchor": "Which wrist-worn magic item boosts damage from my longbow or shortbow?"}
+{"passage_id": "9-0", "question_type": "lookup", "anchor": "Who ultimately sets the Difficulty Class of an ability check?"}
+{"passage_id": "9-0", "question_type": "paraphrase", "anchor": "As a task gets harder, does the Difficulty Class I need to beat go up?"}
+{"passage_id": "9-0", "question_type": "descriptive", "anchor": "Is there a standard scale rating a task's difficulty from very easy up to nearly impossible?"}
+{"passage_id": "9-0", "question_type": "table", "anchor": "On the typical difficulty class table, what DC is a Very hard task?"}
+{"passage_id": "708-0", "question_type": "lookup", "anchor": "How much does repairing 1 Hit Point of damage to a ship cost in materials and labor?"}
+{"passage_id": "708-0", "question_type": "paraphrase", "anchor": "Does ship repair in a big port city take less time and money?"}
+{"passage_id": "708-0", "question_type": "descriptive", "anchor": "Can I fix a damaged vessel while it's docked, and how long does it take per point of damage?"}
+{"passage_id": "1359-0", "question_type": "lookup", "anchor": "Where are magic items gleaned from in a campaign?"}
+{"passage_id": "1359-0", "question_type": "paraphrase", "anchor": "Can magic items give a character powers they'd almost never have otherwise?"}
+{"passage_id": "1359-0", "question_type": "descriptive", "anchor": "What kind of treasure from slain foes or lost vaults grants abilities no ordinary gear can?"}

@@ -1,0 +1,75 @@
+{"passage_id": "28-0", "question_type": "lookup", "anchor": "Which saves are Wizards proficient in, under Saving Throw Proficiencies?"}
+{"passage_id": "28-0", "question_type": "paraphrase", "anchor": "With Saving Throw Proficiencies, can I add my Proficiency Bonus to any save, or only to certain ones?"}
+{"passage_id": "28-0", "question_type": "descriptive", "anchor": "Do all classes train characters in at least two kinds of saving throw, for resisting or evading threats?"}
+{"passage_id": "2809-0", "question_type": "lookup", "anchor": "What is the Speed of a Hyena?"}
+{"passage_id": "2809-0", "question_type": "paraphrase", "anchor": "How much health does a Hyena start with, and how is that total rolled?"}
+{"passage_id": "2809-0", "question_type": "descriptive", "anchor": "What beast with a challenge rating of 0 gets Advantage on attacks when its allies are within 5 feet of the target?"}
+{"passage_id": "2809-0", "question_type": "table", "anchor": "What is a Hyena's Charisma saving throw bonus?"}
+{"passage_id": "1384-0", "question_type": "lookup", "anchor": "When crafting, how many hours must I work each day under Time and Cost?"}
+{"passage_id": "1384-0", "question_type": "paraphrase", "anchor": "If I bring one helper to craft a magic item, is the crafting time cut in half under Time and Cost?"}
+{"passage_id": "1384-0", "question_type": "descriptive", "anchor": "What are the chances that raw materials for a magic item are available in a city versus another settlement?"}
+{"passage_id": "1384-0", "question_type": "table", "anchor": "For Time and Cost, how much do raw materials cost to craft a Rare magic item?"}
+{"passage_id": "2273-0", "question_type": "lookup", "anchor": "How many Hit Points does an Ogre have?"}
+{"passage_id": "2273-0", "question_type": "paraphrase", "anchor": "How far can an Ogre hurl a Javelin at a distant target?"}
+{"passage_id": "2273-0", "question_type": "descriptive", "anchor": "Which large chaotic evil giant fights with a greatclub and javelins?"}
+{"passage_id": "2273-0", "question_type": "table", "anchor": "What Dexterity modifier does an Ogre have in its ability score table?"}
+{"passage_id": "147-10", "question_type": "table", "anchor": "On the Trinkets table, what item comes up when you roll 00 on the d100?"}
+{"passage_id": "2757-0", "question_type": "lookup", "anchor": "What is the Challenge Rating of a Giant Scorpion?"}
+{"passage_id": "2757-0", "question_type": "paraphrase", "anchor": "When a Giant Scorpion's stinger lands, how much total damage does it deal, poison included?"}
+{"passage_id": "2757-0", "question_type": "descriptive", "anchor": "What large beast with two claws and a poisonous stinger can grapple a creature it catches?"}
+{"passage_id": "2757-0", "question_type": "table", "anchor": "What is a Giant Scorpion's Strength modifier?"}
+{"passage_id": "1207-0", "question_type": "lookup", "anchor": "What happens when a creature has Immunity to a damage type or condition?"}
+{"passage_id": "2039-1", "question_type": "lookup", "anchor": "What is the save DC of the Weakening Breath for an Adult Gold Dragon?"}
+{"passage_id": "2039-1", "question_type": "paraphrase", "anchor": "How many legendary action uses does an Adult Gold Dragon have, and does its lair give it more?"}
+{"passage_id": "2039-1", "question_type": "descriptive", "anchor": "What dragon has a legendary action that can send a creature it sees within 120 feet into a harmless demiplane?"}
+{"passage_id": "1041-0", "question_type": "lookup", "anchor": "What is the casting time of Sanctuary?"}
+{"passage_id": "1041-0", "question_type": "paraphrase", "anchor": "Does Sanctuary protect a warded friend from area effects?"}
+{"passage_id": "1041-0", "question_type": "descriptive", "anchor": "What abjuration spell makes attackers pass a Wisdom save or pick another target against a warded creature?"}
+{"passage_id": "336-0", "question_type": "lookup", "anchor": "When I cast Divine Smite, what do I and my allies gain from Smite of Protection?"}
+{"passage_id": "336-0", "question_type": "paraphrase", "anchor": "How long does the protective benefit from Smite of Protection last after I smite?"}
+{"passage_id": "336-0", "question_type": "descriptive", "anchor": "What Oath of Devotion paladin feature at level 15 gives allies Half Cover when I smite?"}
+{"passage_id": "777-0", "question_type": "lookup", "anchor": "What is the range of the Animate Objects spell?"}
+{"passage_id": "777-0", "question_type": "paraphrase", "anchor": "How much extra damage do my Animate Objects' Slam attacks get when I use a higher-level slot?"}
+{"passage_id": "777-0", "question_type": "descriptive", "anchor": "What 5th-level spell lets me take a Bonus Action to mentally order objects I brought to life within 500 feet?"}
+{"passage_id": "1527-0", "question_type": "lookup", "anchor": "What DC does the Life Stealing property of Nine Lives Stealer use for its Constitution save?"}
+{"passage_id": "1527-0", "question_type": "paraphrase", "anchor": "Can Nine Lives Stealer instantly kill a creature that has 100 or more health?"}
+{"passage_id": "1527-0", "question_type": "descriptive", "anchor": "Which very rare magic weapon grants a +2 bonus and can slay a creature outright after a natural 20 attack roll?"}
+{"passage_id": "2290-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Phase Spider?"}
+{"passage_id": "2290-0", "question_type": "paraphrase", "anchor": "If a Phase Spider's bite reduces my health to zero, what happens to me afterward?"}
+{"passage_id": "2290-0", "question_type": "descriptive", "anchor": "What large monstrosity can teleport between the Material Plane and the Ethereal Plane?"}
+{"passage_id": "2290-0", "question_type": "table", "anchor": "On the Phase Spider's ability table, what Intelligence score does it have?"}
+{"passage_id": "1649-0", "question_type": "lookup", "anchor": "How many charges does a Wand of Wonder start with?"}
+{"passage_id": "1649-0", "question_type": "paraphrase", "anchor": "What do I need to roll on the d20 to have the Wand of Wonder crumble after I use its last charge?"}
+{"passage_id": "1649-0", "question_type": "descriptive", "anchor": "Which rare wand releases a random magical effect at a point I pick within 120 feet, and recharges at dawn?"}
+{"passage_id": "1548-0", "question_type": "lookup", "anchor": "How long does the enlarge effect from Potion of Growth last?"}
+{"passage_id": "1548-0", "question_type": "paraphrase", "anchor": "Do I need to maintain Concentration to stay enlarged after drinking Potion of Growth?"}
+{"passage_id": "1548-0", "question_type": "descriptive", "anchor": "Which uncommon potion has red liquid that keeps swelling and shrinking, which shaking can't stop?"}
+{"passage_id": "1520-3", "question_type": "lookup", "anchor": "What does the Knight card from a Mysterious Deck give me?"}
+{"passage_id": "1520-3", "question_type": "paraphrase", "anchor": "If I draw the Moon card from a Mysterious Deck, how many times can I cast Wish?"}
+{"passage_id": "1520-3", "question_type": "descriptive", "anchor": "Which card drawn from a magic deck makes a powerful devil my enemy until one of us dies?"}
+{"passage_id": "96-0", "question_type": "lookup", "anchor": "Under Character Demise, what spell can revive a dead character?"}
+{"passage_id": "96-0", "question_type": "paraphrase", "anchor": "Can I roll a new character to rejoin the group under Character Demise, if mine dies?"}
+{"passage_id": "96-0", "question_type": "descriptive", "anchor": "Which section of the rulebook explains what being dead means for a character?"}
+{"passage_id": "880-0", "question_type": "lookup", "anchor": "How long does Eyebite last?"}
+{"passage_id": "880-0", "question_type": "paraphrase", "anchor": "What roll does a creature make to resist Eyebite's effect, and which ability is it tied to?"}
+{"passage_id": "880-0", "question_type": "descriptive", "anchor": "What 6th-level spell makes my eyes an inky void and lets me put a target to sleep, panic it, or make it sick?"}
+{"passage_id": "1576-0", "question_type": "lookup", "anchor": "What Swim Speed does a Ring of Swimming give me while I wear it?"}
+{"passage_id": "1576-0", "question_type": "paraphrase", "anchor": "Is a Ring of Swimming a common or an uncommon item?"}
+{"passage_id": "1576-0", "question_type": "descriptive", "anchor": "Which magic ring could I wear to get around in water more easily than I normally can?"}
+{"passage_id": "566-0", "question_type": "lookup", "anchor": "How many feet does the Reach property add to my attack range?"}
+{"passage_id": "566-0", "question_type": "paraphrase", "anchor": "Does the Reach property also extend my range for Opportunity Attacks?"}
+{"passage_id": "566-0", "question_type": "descriptive", "anchor": "Which weapon property lets me strike foes farther away than the usual melee distance?"}
+{"passage_id": "589-0", "question_type": "lookup", "anchor": "Does each set of Artisan's Tools need its own separate proficiency?"}
+{"passage_id": "589-0", "question_type": "paraphrase", "anchor": "If I'm proficient in one kind of Artisan's Tools, does that cover the others too?"}
+{"passage_id": "589-0", "question_type": "descriptive", "anchor": "What kind of tools are focused on crafting items and pursuing a trade?"}
+{"passage_id": "2212-0", "question_type": "lookup", "anchor": "Which damage type is a Dust Mephit vulnerable to?"}
+{"passage_id": "2212-0", "question_type": "paraphrase", "anchor": "If I pass the Dexterity save against a Dust Mephit's death explosion, how much harm do I take?"}
+{"passage_id": "2212-0", "question_type": "descriptive", "anchor": "What small, neutral evil elemental flies at 30 feet and explodes when it dies?"}
+{"passage_id": "2212-0", "question_type": "table", "anchor": "What Constitution saving throw bonus does a Dust Mephit have?"}
+{"passage_id": "146-2", "question_type": "lookup", "anchor": "For Spellcasting, how many 1st-level spell slots does a multiclass caster at level 5 get?"}
+{"passage_id": "146-2", "question_type": "paraphrase", "anchor": "If I'm a multiclass caster at level 9, do I get any 5th-level spell slots under Spellcasting?"}
+{"passage_id": "146-2", "question_type": "descriptive", "anchor": "What chart tells me how many spell slots of each level a multiclass caster has as they level up?"}
+{"passage_id": "146-2", "question_type": "table", "anchor": "On the Spellcasting table, how many 4th-level spell slots does a multiclass caster at level 13 get?"}
+{"passage_id": "1-0", "question_type": "lookup", "anchor": "In Rhythm of Play, what are the three main pillars of D&D play?"}
+{"passage_id": "1-0", "question_type": "paraphrase", "anchor": "If my character tries to open a locked door, what might the GM ask me to do under Rhythm of Play?"}
+{"passage_id": "1-0", "question_type": "descriptive", "anchor": "What's the basic back-and-forth loop of a tabletop RPG session between the GM and players?"}

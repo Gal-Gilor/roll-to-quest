@@ -1,0 +1,85 @@
+{"passage_id": "1557-0", "question_type": "lookup", "anchor": "How long does the Haste effect from a Potion of Speed last?"}
+{"passage_id": "1557-0", "question_type": "paraphrase", "anchor": "Do I get tired and sluggish when a Potion of Speed wears off?"}
+{"passage_id": "1557-0", "question_type": "descriptive", "anchor": "Which very rare potion gives you a minute of Haste with no crash afterward?"}
+{"passage_id": "1037-0", "question_type": "lookup", "anchor": "How high is the Cylinder that Reverse Gravity creates?"}
+{"passage_id": "1037-0", "question_type": "paraphrase", "anchor": "Can a creature hang onto something solid to avoid getting flung upward by Reverse Gravity?"}
+{"passage_id": "1037-0", "question_type": "descriptive", "anchor": "What level 7 spell reverses gravity in a tall column so unanchored creatures and objects rise to its top?"}
+{"passage_id": "663-0", "question_type": "lookup", "anchor": "What fuel does a Bullseye Lantern burn?"}
+{"passage_id": "663-0", "question_type": "paraphrase", "anchor": "How much farther does a bullseye lantern's dim light reach past its bright beam?"}
+{"passage_id": "663-0", "question_type": "descriptive", "anchor": "Which oil-burning lantern throws a 60-foot cone of bright light?"}
+{"passage_id": "699-0", "question_type": "lookup", "anchor": "Where do I find stat blocks for the animals used as mounts?"}
+{"passage_id": "699-0", "question_type": "paraphrase", "anchor": "Why would I bring a mount along when traveling through the wilderness?"}
+{"passage_id": "699-0", "question_type": "descriptive", "anchor": "How can I tell how much gear a pack animal can carry before it slows me down?"}
+{"passage_id": "699-0", "question_type": "table", "anchor": "In the mounts and other animals table, what does a Warhorse cost?"}
+{"passage_id": "861-0", "question_type": "lookup", "anchor": "How much extra damage do my weapon attacks deal with Divine Favor?"}
+{"passage_id": "861-0", "question_type": "paraphrase", "anchor": "How long does the Divine Favor boost on my weapon hits last?"}
+{"passage_id": "861-0", "question_type": "descriptive", "anchor": "Which first-level paladin spell adds radiant damage to weapon hits for a minute, cast as a bonus action?"}
+{"passage_id": "1709-0", "question_type": "lookup", "anchor": "What is the Armor Class of an Ankheg?"}
+{"passage_id": "1709-0", "question_type": "paraphrase", "anchor": "How fast can an Ankheg travel over the ground?"}
+{"passage_id": "1709-0", "question_type": "descriptive", "anchor": "Which large burrowing monster sprays acid in a 30-foot line, hitting everything in it?"}
+{"passage_id": "1709-0", "question_type": "table", "anchor": "How strong is an Ankheg, as a Strength score?"}
+{"passage_id": "188-0", "question_type": "lookup", "anchor": "At what Bard level do I choose my subclass?"}
+{"passage_id": "188-0", "question_type": "paraphrase", "anchor": "Where are the details of the College of Lore subclass for bards written?"}
+{"passage_id": "188-0", "question_type": "descriptive", "anchor": "At what point in bard advancement do I pick a specialization that grants features at certain levels?"}
+{"passage_id": "253-0", "question_type": "lookup", "anchor": "Do I get Martial weapon proficiency when multiclassing into Fighter?"}
+{"passage_id": "253-0", "question_type": "paraphrase", "anchor": "If I add levels of fighter as a second class, which level 1 features do I get?"}
+{"passage_id": "253-0", "question_type": "descriptive", "anchor": "If I'm adding a fighter level to a character who already has other classes, what do I gain?"}
+{"passage_id": "1187-0", "question_type": "lookup", "anchor": "How is my Proficiency Bonus affected by Expertise on a skill check?"}
+{"passage_id": "1187-0", "question_type": "paraphrase", "anchor": "Can I get Expertise in the same skill twice to stack the bonus?"}
+{"passage_id": "1187-0", "question_type": "descriptive", "anchor": "What rule doubles my proficiency bonus on a skill I'm already trained in?"}
+{"passage_id": "393-0", "question_type": "lookup", "anchor": "What is the cost of the Stealth Attack option gained with Supreme Sneak?"}
+{"passage_id": "393-0", "question_type": "paraphrase", "anchor": "With Supreme Sneak, does Stealth Attack keep me invisible if I finish my turn in total cover?"}
+{"passage_id": "393-0", "question_type": "descriptive", "anchor": "Which level 9 Thief feature lets a rogue's Stealth Attack keep the Invisible condition when it ends its turn in cover?"}
+{"passage_id": "2816-0", "question_type": "lookup", "anchor": "What is the Killer Whale's swim speed?"}
+{"passage_id": "2816-0", "question_type": "paraphrase", "anchor": "How long can a Killer Whale stay underwater before it needs to breathe?"}
+{"passage_id": "2816-0", "question_type": "descriptive", "anchor": "What huge ocean beast has a bite that deals 21 piercing damage and blindsight out to 120 feet?"}
+{"passage_id": "2816-0", "question_type": "table", "anchor": "What is a Killer Whale's Dexterity modifier?"}
+{"passage_id": "1991-1", "question_type": "lookup", "anchor": "What DC must a Strength (Athletics) check beat to escape a Gelatinous Cube?"}
+{"passage_id": "1991-1", "question_type": "paraphrase", "anchor": "If a Gelatinous Cube swallows me, can I still cast spells with verbal components?"}
+{"passage_id": "1991-1", "question_type": "descriptive", "anchor": "Which ooze moves through creatures' spaces, swallowing them and leaving them suffocating and restrained?"}
+{"passage_id": "1222-0", "question_type": "lookup", "anchor": "What Constitution save DC does malnutrition use when a creature eats too little food?"}
+{"passage_id": "1222-0", "question_type": "paraphrase", "anchor": "How do I remove exhaustion caused by malnutrition?"}
+{"passage_id": "1222-0", "question_type": "descriptive", "anchor": "Which hazard causes exhaustion when you eat too little each day or go five days without any food?"}
+{"passage_id": "1222-0", "question_type": "table", "anchor": "How many pounds of food per day does a Huge creature need to avoid malnutrition?"}
+{"passage_id": "373-1", "question_type": "lookup", "anchor": "How much Sneak Attack damage does a Rogue deal at level 1?"}
+{"passage_id": "373-1", "question_type": "paraphrase", "anchor": "How many d6 of sneak attack damage does a rogue roll at level 11?"}
+{"passage_id": "373-1", "question_type": "descriptive", "anchor": "Which rogue feature starts at one d6 of damage at level 1 and adds a die every other level?"}
+{"passage_id": "373-1", "question_type": "table", "anchor": "What is the Sneak Attack damage dice for a Rogue at level 7?"}
+{"passage_id": "2071-1", "question_type": "lookup", "anchor": "How long does a Green Hag's at-will Disguise Self last?"}
+{"passage_id": "2071-1", "question_type": "paraphrase", "anchor": "Does a Green Hag leave footprints while it's invisible?"}
+{"passage_id": "2071-1", "question_type": "descriptive", "anchor": "Which monster casts Dancing Lights and Minor Illusion at will and can use Ray of Sickness at third level?"}
+{"passage_id": "743-0", "question_type": "lookup", "anchor": "When preparing spells, do most spellcasting monsters change their prepared lists?"}
+{"passage_id": "743-0", "question_type": "paraphrase", "anchor": "For preparing spells, is the GM allowed to alter a monster's prepared list?"}
+{"passage_id": "743-0", "question_type": "descriptive", "anchor": "Can a wizard swap its prepared spells after every long rest, with no limit on how many?"}
+{"passage_id": "743-0", "question_type": "table", "anchor": "How many prepared spells can a Cleric change each time it finishes a Long Rest?"}
+{"passage_id": "944-0", "question_type": "lookup", "anchor": "What saving throw does a target make against Hideous Laughter?"}
+{"passage_id": "944-0", "question_type": "paraphrase", "anchor": "If Hideous Laughter knocks a foe down, can it stand back up on its own?"}
+{"passage_id": "944-0", "question_type": "descriptive", "anchor": "Which first-level bard, warlock or wizard spell makes a creature laugh uncontrollably and fall over for up to a minute?"}
+{"passage_id": "2149-0", "question_type": "lookup", "anchor": "How fast can an Invisible Stalker fly?"}
+{"passage_id": "2149-0", "question_type": "paraphrase", "anchor": "Can an Invisible Stalker squeeze through a gap as thin as one inch?"}
+{"passage_id": "2149-0", "question_type": "descriptive", "anchor": "Which large air elemental can slip into an enemy's space and grab a target inside a whirling vortex?"}
+{"passage_id": "2149-0", "question_type": "table", "anchor": "What does an Invisible Stalker add to Constitution saving throws?"}
+{"passage_id": "2475-0", "question_type": "lookup", "anchor": "How many times per day can a Tarrasque use Legendary Resistance?"}
+{"passage_id": "2475-0", "question_type": "paraphrase", "anchor": "Does a Tarrasque get an edge on saving throws against spells?"}
+{"passage_id": "2475-0", "question_type": "descriptive", "anchor": "Which gargantuan monster sends a Magic Missile spell back at its caster when a 6 is rolled on a d6?"}
+{"passage_id": "2475-0", "question_type": "table", "anchor": "What is the Intelligence modifier of a Tarrasque?"}
+{"passage_id": "1294-0", "question_type": "lookup", "anchor": "For cursed creatures, which monster is the prime example of one linked to curses?"}
+{"passage_id": "1294-0", "question_type": "paraphrase", "anchor": "Could a cursed mummy be destroyed for good only by casting Remove Curse on its corpse?"}
+{"passage_id": "1294-0", "question_type": "descriptive", "anchor": "What rule lets the GM decide how a Remove Curse spell affects a creature whose origins are a curse?"}
+{"passage_id": "1425-0", "question_type": "lookup", "anchor": "What damage type does a Brooch of Shielding give Resistance to?"}
+{"passage_id": "1425-0", "question_type": "paraphrase", "anchor": "Does a Brooch of Shielding make Magic Missile harmless to me?"}
+{"passage_id": "1425-0", "question_type": "descriptive", "anchor": "What uncommon wearable item that requires attunement grants resistance to Force damage?"}
+{"passage_id": "847-0", "question_type": "lookup", "anchor": "How long does the Death Ward spell last?"}
+{"passage_id": "847-0", "question_type": "paraphrase", "anchor": "If I'm protected by Death Ward and would drop to 0 health, what happens?"}
+{"passage_id": "847-0", "question_type": "descriptive", "anchor": "Which 4th-level cleric or paladin spell keeps a creature at 1 Hit Point the first time it would drop to zero?"}
+{"passage_id": "998-0", "question_type": "lookup", "anchor": "What is the range of the Moonbeam spell?"}
+{"passage_id": "998-0", "question_type": "paraphrase", "anchor": "If I cast Moonbeam with a bigger spell slot, how much more damage does it do?"}
+{"passage_id": "998-0", "question_type": "descriptive", "anchor": "Which druid spell shines a silvery beam of pale light that can be moved up to 60 feet on later turns?"}
+{"passage_id": "50-0", "question_type": "lookup", "anchor": "Is Falling one of the hazards covered in the exploration rules?"}
+{"passage_id": "50-0", "question_type": "paraphrase", "anchor": "Where can I look up the definitions of the hazards like burning or suffocation?"}
+{"passage_id": "50-0", "question_type": "descriptive", "anchor": "What dangers besides monsters can harm characters while they explore, such as going hungry or running out of water?"}
+{"passage_id": "50-0", "question_type": "table", "anchor": "What hazard appears in the far-right column of the top row of the hazards table?"}
+{"passage_id": "1344-0", "question_type": "lookup", "anchor": "What Constitution saving throw DC does the Poisoned Needle trap use?"}
+{"passage_id": "1344-0", "question_type": "paraphrase", "anchor": "If a poisoned needle pricks me, how long am I poisoned?"}
+{"passage_id": "1344-0", "question_type": "descriptive", "anchor": "Which trap hidden in a lock stabs anyone who opens it with something other than the proper key?"}
+{"passage_id": "1344-0", "question_type": "table", "anchor": "What save DC does the Poisoned Needle trap use for characters at levels 17 to 20?"}

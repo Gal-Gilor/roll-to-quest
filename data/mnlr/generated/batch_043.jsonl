@@ -1,0 +1,72 @@
+{"passage_id": "1382-1", "question_type": "lookup", "anchor": "Does the tool needed for crafting magic armor depend on the kind of armor?"}
+{"passage_id": "1382-1", "question_type": "paraphrase", "anchor": "When crafting magic items, what kit can I use to make a potion?"}
+{"passage_id": "1382-1", "question_type": "descriptive", "anchor": "What craftsman's tools are needed to carve a magic staff or wand?"}
+{"passage_id": "1382-1", "question_type": "table", "anchor": "Which tool do I need to craft a magic ring?"}
+{"passage_id": "1075-0", "question_type": "lookup", "anchor": "What damage types does the Stoneskin spell make a creature resistant to?"}
+{"passage_id": "1075-0", "question_type": "paraphrase", "anchor": "If I cast Stoneskin on a friend, how long can the toughness last at most?"}
+{"passage_id": "1075-0", "question_type": "descriptive", "anchor": "Which spell makes an ally's skin tough against cuts, stabs, and blunt hits, and needs diamond dust?"}
+{"passage_id": "25-0", "question_type": "lookup", "anchor": "Does a character without proficiency in a skill still make ability checks with it?"}
+{"passage_id": "25-0", "question_type": "paraphrase", "anchor": "If my character is trained in Athletics and climbs a cliff, what do I add to the roll?"}
+{"passage_id": "25-0", "question_type": "descriptive", "anchor": "When my character tries to scale a cliff, which check does the Game Master typically ask for?"}
+{"passage_id": "1121-1", "question_type": "lookup", "anchor": "Can you tell me what PB means in the rules' abbreviation list?"}
+{"passage_id": "1121-1", "question_type": "paraphrase", "anchor": "What's the shorthand the rules use when they talk about gold coins?"}
+{"passage_id": "1121-1", "question_type": "descriptive", "anchor": "What single letter marks a spell that needs a material component?"}
+{"passage_id": "1121-1", "question_type": "table", "anchor": "In the abbreviation list, which term does XP stand for?"}
+{"passage_id": "1236-0", "question_type": "lookup", "anchor": "Do I have Disadvantage on my own attack rolls while I'm Prone?"}
+{"passage_id": "1236-0", "question_type": "paraphrase", "anchor": "If I get knocked prone, how much movement does it cost to get back up?"}
+{"passage_id": "1236-0", "question_type": "descriptive", "anchor": "Lying flat on the ground, do enemies attacking me from far away get Advantage or Disadvantage?"}
+{"passage_id": "1219-0", "question_type": "lookup", "anchor": "How long must I wait after finishing a Long Rest before starting another one?"}
+{"passage_id": "1219-0", "question_type": "paraphrase", "anchor": "If I take damage during a long rest, what happens to the rest and do I still get anything?"}
+{"passage_id": "1219-0", "question_type": "descriptive", "anchor": "What sleep-based downtime lets me heal all my lost hit points and restore my reduced ability scores?"}
+{"passage_id": "47-0", "question_type": "lookup", "anchor": "When searching for hidden objects, which ability check does the GM usually call for?"}
+{"passage_id": "47-0", "question_type": "paraphrase", "anchor": "If I'm searching for hidden objects far from where they are, can a great roll still find them?"}
+{"passage_id": "47-0", "question_type": "descriptive", "anchor": "After a successful search for a hidden trap, what else might I learn besides the trap itself?"}
+{"passage_id": "196-1", "question_type": "lookup", "anchor": "On the Bard spell list, what school of magic does Healing Word belong to?"}
+{"passage_id": "196-1", "question_type": "paraphrase", "anchor": "Do Bards need to concentrate to keep Sleep going once it's cast?"}
+{"passage_id": "196-1", "question_type": "descriptive", "anchor": "Which spell lets a caster summon an invisible helper that handles chores, castable as a ritual?"}
+{"passage_id": "196-1", "question_type": "table", "anchor": "What special requirements does the Identify spell carry on the Bard spell list?"}
+{"passage_id": "1954-1", "question_type": "lookup", "anchor": "How much Force damage does an Erinyes's Entangling Rope deal on a failed save?"}
+{"passage_id": "1954-1", "question_type": "paraphrase", "anchor": "When an Erinyes is hit in melee while holding a weapon, how much does its AC go up?"}
+{"passage_id": "1954-1", "question_type": "descriptive", "anchor": "Which creature can bind me with a magic rope that holds me until it's cut or released?"}
+{"passage_id": "1513-0", "question_type": "lookup", "anchor": "How many hours of study does the Manual of Gainful Exercise require?"}
+{"passage_id": "1513-0", "question_type": "paraphrase", "anchor": "Does the Manual of Gainful Exercise have a limit on how high it can raise my Strength?"}
+{"passage_id": "1513-0", "question_type": "descriptive", "anchor": "What magic workout book raises your Strength after days of study, then loses its magic for a century?"}
+{"passage_id": "1499-0", "question_type": "lookup", "anchor": "How much does Horseshoes of Speed raise a horse's Speed when all four are attached?"}
+{"passage_id": "1499-0", "question_type": "paraphrase", "anchor": "Do I need all four of the Horseshoes of Speed attached to get the speed boost?"}
+{"passage_id": "1499-0", "question_type": "descriptive", "anchor": "What magic horse gear is attached with a magic action and removed the same way?"}
+{"passage_id": "1043-0", "question_type": "lookup", "anchor": "How long must I wait to target the same creature with Scrying after it resists?"}
+{"passage_id": "1043-0", "question_type": "paraphrase", "anchor": "If I have a body part of a target, how much does that lower its roll to resist Scrying?"}
+{"passage_id": "1043-0", "question_type": "descriptive", "anchor": "What spell lets me spy on and hear a creature on my plane, which only feels uneasy about it?"}
+{"passage_id": "1043-0", "question_type": "table", "anchor": "When I only know a Scrying target secondhand, what Save Modifier applies?"}
+{"passage_id": "1030-0", "question_type": "lookup", "anchor": "How many Hit Points does a creature regain instantly from the Regenerate spell?"}
+{"passage_id": "1030-0", "question_type": "paraphrase", "anchor": "If I cast Regenerate on a friend, how long until their severed limbs grow back?"}
+{"passage_id": "1030-0", "question_type": "descriptive", "anchor": "Which healing spell gives a creature a little health back at the start of each of its turns for an hour?"}
+{"passage_id": "1377-0", "question_type": "lookup", "anchor": "Who decides when a magic item recharges on a world where the dawn never comes?"}
+{"passage_id": "1377-0", "question_type": "paraphrase", "anchor": "Can a magic item's charges come back at some time other than sunrise?"}
+{"passage_id": "1377-0", "question_type": "descriptive", "anchor": "Besides charges, what else about a magic item can refresh itself at a set time?"}
+{"passage_id": "422-4", "question_type": "lookup", "anchor": "Teleportation Circle is from which school of magic on the Sorcerer spell list?"}
+{"passage_id": "422-4", "question_type": "paraphrase", "anchor": "Does a Sorcerer have to keep focus on Greater Invisibility to maintain it?"}
+{"passage_id": "422-4", "question_type": "descriptive", "anchor": "Which Sorcerer spell from the Evocation school, level 5, needs concentration and is named after stone?"}
+{"passage_id": "422-4", "question_type": "table", "anchor": "On the Sorcerer spell list, what school of magic does Cloudkill belong to?"}
+{"passage_id": "1085-1", "question_type": "lookup", "anchor": "Can Telekinesis be used to open a door or a container?"}
+{"passage_id": "1085-1", "question_type": "paraphrase", "anchor": "Can Telekinesis pour the contents out of a small vial for me?"}
+{"passage_id": "1085-1", "question_type": "descriptive", "anchor": "Which spell gives me a magic grip that can stow or retrieve an item from an open container?"}
+{"passage_id": "1444-0", "question_type": "lookup", "anchor": "How many charges does a Cube of Force start with?"}
+{"passage_id": "1444-0", "question_type": "paraphrase", "anchor": "Each dawn, how many charges does a Cube of Force get back?"}
+{"passage_id": "1444-0", "question_type": "descriptive", "anchor": "What save DC do spells from a tiny magic cube with marked faces use?"}
+{"passage_id": "1444-0", "question_type": "table", "anchor": "Casting Private Sanctum from the Cube of Force costs how many charges?"}
+{"passage_id": "1577-0", "question_type": "lookup", "anchor": "Does the Ring of Telekinesis require attunement before I can use it?"}
+{"passage_id": "1577-0", "question_type": "paraphrase", "anchor": "How rare is the Ring of Telekinesis as a magic item?"}
+{"passage_id": "1577-0", "question_type": "descriptive", "anchor": "What ring lets me cast a spell that moves things with my mind while I wear it?"}
+{"passage_id": "238-0", "question_type": "lookup", "anchor": "How much extra damage does Primal Strike add to a hit under Elemental Fury?"}
+{"passage_id": "238-0", "question_type": "paraphrase", "anchor": "With Elemental Fury, can I add my Wisdom bonus to damage from my cantrips?"}
+{"passage_id": "238-0", "question_type": "descriptive", "anchor": "As a 7th-level druid, how many times per turn can I add an extra elemental hit when attacking in Wild Shape?"}
+{"passage_id": "1581-0", "question_type": "lookup", "anchor": "Can the Ring of Water Walking's spell target anyone besides its wearer?"}
+{"passage_id": "1581-0", "question_type": "paraphrase", "anchor": "Is the Ring of Water Walking a common or uncommon magic item?"}
+{"passage_id": "1581-0", "question_type": "descriptive", "anchor": "What uncommon ring casts a water-themed spell from itself while I wear it?"}
+{"passage_id": "970-0", "question_type": "lookup", "anchor": "How far away can Locate Object sense the direction of a familiar object?"}
+{"passage_id": "970-0", "question_type": "paraphrase", "anchor": "Can Locate Object find something if a sheet of lead is in the way?"}
+{"passage_id": "970-0", "question_type": "descriptive", "anchor": "What spell with a forked twig as its component points me toward the nearest item of a kind I name?"}
+{"passage_id": "273-0", "question_type": "lookup", "anchor": "What does a Champion fighter gain at 7th level from Additional Fighting Style?"}
+{"passage_id": "273-0", "question_type": "paraphrase", "anchor": "Can I choose which Fighting Style feat I get from a Champion's 7th-level bonus?"}
+{"passage_id": "273-0", "question_type": "descriptive", "anchor": "Which Champion ability at 7th level grants a second Fighting Style feat on top of the first?"}

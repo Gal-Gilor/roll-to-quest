@@ -1,0 +1,77 @@
+{"passage_id": "209-1", "question_type": "lookup", "anchor": "How far from me can Channel Divinity's Turn Undead affect Undead creatures?"}
+{"passage_id": "209-1", "question_type": "paraphrase", "anchor": "If I use Channel Divinity to scare off undead, what saving throw do they make?"}
+{"passage_id": "209-1", "question_type": "descriptive", "anchor": "How can a cleric make undead creatures run away and become unable to act for a minute?"}
+{"passage_id": "827-0", "question_type": "lookup", "anchor": "How far from me can Conjure Elemental's spirit appear when I cast it?"}
+{"passage_id": "827-0", "question_type": "paraphrase", "anchor": "With a bigger spell slot, how much extra damage does a Conjure Elemental spirit deal?"}
+{"passage_id": "827-0", "question_type": "descriptive", "anchor": "Which spell calls forth an intangible spirit from the planes that can restrain a creature with repeated saves?"}
+{"passage_id": "1097-0", "question_type": "lookup", "anchor": "How long does it take to cast True Resurrection?"}
+{"passage_id": "1097-0", "question_type": "paraphrase", "anchor": "Can True Resurrection bring back someone who died of old age?"}
+{"passage_id": "1097-0", "question_type": "descriptive", "anchor": "What spell can revive a creature that has been dead for up to two centuries, restoring all its health?"}
+{"passage_id": "1556-0", "question_type": "lookup", "anchor": "How long does the effect of a Potion of Resistance last?"}
+{"passage_id": "1556-0", "question_type": "paraphrase", "anchor": "If I drink a Potion of Resistance, who picks which damage I resist?"}
+{"passage_id": "1556-0", "question_type": "descriptive", "anchor": "Which uncommon drinkable item gives temporary protection against one kind of harm for an hour?"}
+{"passage_id": "1556-0", "question_type": "table", "anchor": "For a Potion of Resistance, what damage type is listed in the Damage Type column for a roll of 10?"}
+{"passage_id": "772-0", "question_type": "lookup", "anchor": "What Swim Speed does Alter Self's Aquatic Adaptation option give me?"}
+{"passage_id": "772-0", "question_type": "paraphrase", "anchor": "Can Alter Self make me look like a different race but still keep my own size?"}
+{"passage_id": "772-0", "question_type": "descriptive", "anchor": "Which transmutation spell can let me breathe underwater or grow natural weapons for up to an hour?"}
+{"passage_id": "91-0", "question_type": "lookup", "anchor": "When working out damage, is Resistance applied before or after Vulnerability?"}
+{"passage_id": "91-0", "question_type": "paraphrase", "anchor": "If a magical aura cuts my incoming damage, do I subtract that before halving for resistance?"}
+{"passage_id": "91-0", "question_type": "descriptive", "anchor": "What sequence should I follow when a hit has to be reduced, halved, and doubled by different effects?"}
+{"passage_id": "824-0", "question_type": "lookup", "anchor": "How far away can I center Confusion's sphere?"}
+{"passage_id": "824-0", "question_type": "paraphrase", "anchor": "If a creature fails the save against Confusion, can it still use bonus actions or reactions?"}
+{"passage_id": "824-0", "question_type": "descriptive", "anchor": "Which spell lets me make a group of foes roll a d10 each turn to decide whether they wander, freeze, or attack?"}
+{"passage_id": "824-0", "question_type": "table", "anchor": "In the Behavior for the Turn column of Confusion's table, what happens on a 7-8 roll?"}
+{"passage_id": "1228-0", "question_type": "lookup", "anchor": "What saving throws does the Paralyzed condition make me automatically fail?"}
+{"passage_id": "1228-0", "question_type": "paraphrase", "anchor": "If I'm paralyzed, can my walking speed go above zero, even with a boost?"}
+{"passage_id": "1228-0", "question_type": "descriptive", "anchor": "Which status leaves me unable to act and makes attacks from nearby foes automatically critical hits?"}
+{"passage_id": "1512-0", "question_type": "lookup", "anchor": "How much does the Manual of Bodily Health raise Constitution by?"}
+{"passage_id": "1512-0", "question_type": "paraphrase", "anchor": "Over how many days can I spend the 48 hours studying the Manual of Bodily Health?"}
+{"passage_id": "1512-0", "question_type": "descriptive", "anchor": "Which magic book of health and nutrition tips can raise my Constitution score, up to a maximum of 30?"}
+{"passage_id": "1933-0", "question_type": "lookup", "anchor": "What Armor Class does a Drider have?"}
+{"passage_id": "1933-0", "question_type": "paraphrase", "anchor": "Can a Drider climb walls or ceilings without making a roll?"}
+{"passage_id": "1933-0", "question_type": "descriptive", "anchor": "Which large chaotic evil monstrosity fires poison from range, climbs surfaces, and ignores webs?"}
+{"passage_id": "1933-0", "question_type": "table", "anchor": "What does a Drider add to Dexterity saving throws?"}
+{"passage_id": "137-0", "question_type": "lookup", "anchor": "If I'm taking levels in more than one class, can I level in a new class instead of my current one?"}
+{"passage_id": "137-0", "question_type": "paraphrase", "anchor": "Can taking levels in several classes help me build a character concept that a single class can't?"}
+{"passage_id": "137-0", "question_type": "descriptive", "anchor": "What rule lets my character advance in level without staying in the same class?"}
+{"passage_id": "1047-0", "question_type": "lookup", "anchor": "What saving throw can an unwilling target make against Seeming?"}
+{"passage_id": "1047-0", "question_type": "paraphrase", "anchor": "If I disguise a friend with Seeming, how tall can I make them look?"}
+{"passage_id": "1047-0", "question_type": "descriptive", "anchor": "Which spell changes how several creatures look for eight hours, but fails under physical inspection?"}
+{"passage_id": "552-0", "question_type": "lookup", "anchor": "What is the prerequisite level for Boon of the Night Spirit?"}
+{"passage_id": "552-0", "question_type": "paraphrase", "anchor": "Can Boon of the Night Spirit let me turn invisible in the dark as a bonus action?"}
+{"passage_id": "552-0", "question_type": "descriptive", "anchor": "Which epic feat gives resistance to most damage while I'm in shadows, except psychic and radiant?"}
+{"passage_id": "1472-3", "question_type": "lookup", "anchor": "How long can a Figurine of Wondrous Power's onyx dog form stay a mastiff?"}
+{"passage_id": "1472-3", "question_type": "paraphrase", "anchor": "If I use a Figurine of Wondrous Power as a Serpentine Owl, can it talk to me telepathically from far away?"}
+{"passage_id": "1472-3", "question_type": "descriptive", "anchor": "Which polished obsidian horse statuette turns into a nightmare that only fights to defend itself?"}
+{"passage_id": "981-0", "question_type": "lookup", "anchor": "How many creatures can Mass Cure Wounds heal at once?"}
+{"passage_id": "981-0", "question_type": "paraphrase", "anchor": "Does Mass Cure Wounds heal more when I spend a bigger spell slot on it?"}
+{"passage_id": "981-0", "question_type": "descriptive", "anchor": "Which spell can restore health to up to six allies at once in a wide burst around a point I can see?"}
+{"passage_id": "2276-0", "question_type": "lookup", "anchor": "Which damage type does an Oni have Resistance to?"}
+{"passage_id": "2276-0", "question_type": "paraphrase", "anchor": "How much health does an Oni regain at the start of each of its turns?"}
+{"passage_id": "2276-0", "question_type": "descriptive", "anchor": "Which large lawful evil fiend can shape-shift into a humanoid or giant form and regenerate its health?"}
+{"passage_id": "2276-0", "question_type": "table", "anchor": "What bonus does an Oni add to Constitution saving throws?"}
+{"passage_id": "542-0", "question_type": "lookup", "anchor": "What attack roll bonus does Archery give me with ranged weapons?"}
+{"passage_id": "542-0", "question_type": "paraphrase", "anchor": "If I take Archery, what must I already have to qualify for it?"}
+{"passage_id": "542-0", "question_type": "descriptive", "anchor": "Which fighting style feat gives me a bonus to attacking from a distance?"}
+{"passage_id": "453-0", "question_type": "lookup", "anchor": "What level must a Warlock be to take the Gaze of Two Minds invocation?"}
+{"passage_id": "453-0", "question_type": "paraphrase", "anchor": "With Gaze of Two Minds, can I cast spells from a willing friend's point of view if we're within 60 feet?"}
+{"passage_id": "453-0", "question_type": "descriptive", "anchor": "Which warlock option lets me use a bonus action to touch a willing ally and see through their eyes until my next turn ends?"}
+{"passage_id": "2562-1", "question_type": "lookup", "anchor": "What Constitution save DC does an Adult White Dragon's Freezing Burst use?"}
+{"passage_id": "2562-1", "question_type": "paraphrase", "anchor": "If an Adult White Dragon's freezing blast hits me, does my speed drop to zero?"}
+{"passage_id": "2562-1", "question_type": "descriptive", "anchor": "Which dragon can unleash a freezing burst in a sphere or cast Fear to frighten everything nearby?"}
+{"passage_id": "335-0", "question_type": "lookup", "anchor": "What condition does Aura of Devotion make me and my allies immune to?"}
+{"passage_id": "335-0", "question_type": "paraphrase", "anchor": "With Aura of Devotion, does an ally already under a charm spell stop being affected when it steps into my aura?"}
+{"passage_id": "335-0", "question_type": "descriptive", "anchor": "What paladin ability keeps allies from being charmed while they're inside my protective aura?"}
+{"passage_id": "625-0", "question_type": "lookup", "anchor": "How much liquid can a Barrel hold?"}
+{"passage_id": "625-0", "question_type": "paraphrase", "anchor": "If I fill a barrel with dry goods, what's the most it holds in cubic feet?"}
+{"passage_id": "625-0", "question_type": "descriptive", "anchor": "Which piece of adventuring gear stores liquids or dry goods, and how big is it?"}
+{"passage_id": "1572-0", "question_type": "lookup", "anchor": "How do I tell which damage type a Ring of Resistance protects against?"}
+{"passage_id": "1572-0", "question_type": "paraphrase", "anchor": "If I wear a Ring of Resistance with a Garnet, what kind of damage am I protected from?"}
+{"passage_id": "1572-0", "question_type": "table", "anchor": "Under the Gemstone column, what appears in the row for Lightning on a Ring of Resistance?"}
+{"passage_id": "1572-0", "question_type": "descriptive", "anchor": "Which piece of jewelry lets me resist one kind of damage, with the gem showing which kind?"}
+{"passage_id": "1150-0", "question_type": "lookup", "anchor": "Can I attack whoever has me Charmed?"}
+{"passage_id": "1150-0", "question_type": "paraphrase", "anchor": "If I'm charmed, does the charmer get an edge when trying to persuade me?"}
+{"passage_id": "1150-0", "question_type": "descriptive", "anchor": "Which status stops me from hurting whoever enchanted me and gives them an edge in conversation?"}
+{"passage_id": "2339-1", "question_type": "lookup", "anchor": "How many legendary action uses does an Adult Red Dragon have outside its lair?"}
+{"passage_id": "2339-1", "question_type": "paraphrase", "anchor": "When does an Adult Red Dragon get back the legendary actions it has spent?"}
+{"passage_id": "2339-1", "question_type": "descriptive", "anchor": "What dragon can act between other creatures' turns, such as casting Command or pouncing?"}

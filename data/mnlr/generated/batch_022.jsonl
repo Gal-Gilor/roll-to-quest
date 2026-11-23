@@ -1,0 +1,79 @@
+{"passage_id": "1084-1", "question_type": "lookup", "anchor": "How large is the area that the Symbol spell's glyph fills once it activates?"}
+{"passage_id": "1084-1", "question_type": "paraphrase", "anchor": "If the Symbol spell puts me to sleep, how long am I knocked out and what breaks it?"}
+{"passage_id": "1084-1", "question_type": "descriptive", "anchor": "What magic glyph can I set so that creatures entering its area are put to sleep or frightened?"}
+{"passage_id": "1690-0", "question_type": "lookup", "anchor": "How often can a monster use an ability marked 1/Day, and what restores its uses?"}
+{"passage_id": "1690-0", "question_type": "paraphrase", "anchor": "If a monster's limited-use ability says Recharge 5-6, what do I roll each turn to get it back?"}
+{"passage_id": "1690-0", "question_type": "descriptive", "anchor": "Which kind of usage limit lets a monster use an ability once, then requires it to finish a Short or Long Rest?"}
+{"passage_id": "1903-0", "question_type": "lookup", "anchor": "What is the spell save DC of a Cultist Fanatic's Spellcasting?"}
+{"passage_id": "1903-0", "question_type": "paraphrase", "anchor": "When a Cultist Fanatic hits me with its Pact Blade, how much necrotic damage do I take?"}
+{"passage_id": "1903-0", "question_type": "descriptive", "anchor": "Which Medium humanoid with a holy symbol can cast Light and Thaumaturgy at will and Hold Person once a day?"}
+{"passage_id": "1903-0", "question_type": "table", "anchor": "What is a Cultist Fanatic's Wisdom saving throw bonus?"}
+{"passage_id": "94-0", "question_type": "lookup", "anchor": "What happens to a creature when it drops to 0 Hit Points?"}
+{"passage_id": "94-0", "question_type": "paraphrase", "anchor": "When dropping to zero hit points, can my character pass out instead of dying right away?"}
+{"passage_id": "94-0", "question_type": "descriptive", "anchor": "What are the two outcomes when a creature's health pool runs completely empty?"}
+{"passage_id": "1842-0", "question_type": "lookup", "anchor": "What is the Strength saving throw DC for a Centaur Trooper's Trampling Charge?"}
+{"passage_id": "1842-0", "question_type": "paraphrase", "anchor": "How many attacks can a Centaur Trooper make in one turn, and what weapons can it use?"}
+{"passage_id": "1842-0", "question_type": "descriptive", "anchor": "Which large fey soldier carries a pike and a longbow and moves 50 feet per turn?"}
+{"passage_id": "1842-0", "question_type": "table", "anchor": "What is a Centaur Trooper's Intelligence score?"}
+{"passage_id": "558-0", "question_type": "lookup", "anchor": "Do I need proficiency with a weapon to add my Proficiency Bonus to an attack roll with it?"}
+{"passage_id": "558-0", "question_type": "paraphrase", "anchor": "Can my character still swing a sword without weapon proficiency, and does the attack bonus change?"}
+{"passage_id": "558-0", "question_type": "descriptive", "anchor": "Which rule decides when my bonus applies to attacks with a weapon I'm trained with?"}
+{"passage_id": "494-1", "question_type": "lookup", "anchor": "Which Wizard spells on the spell list are Transmutation spells?"}
+{"passage_id": "494-1", "question_type": "paraphrase", "anchor": "On the wizard spell list, is Charm Person the kind of magic that messes with minds?"}
+{"passage_id": "494-1", "question_type": "descriptive", "anchor": "What list of arcane spells sorts each one by school of magic with a Special column?"}
+{"passage_id": "494-1", "question_type": "table", "anchor": "What school of magic does the Wizard spell Ice Knife belong to?"}
+{"passage_id": "1027-0", "question_type": "lookup", "anchor": "How long can a creature have been dead for Raise Dead to bring it back?"}
+{"passage_id": "1027-0", "question_type": "paraphrase", "anchor": "Once Raise Dead brings my character back, what penalty do they suffer and how does it fade?"}
+{"passage_id": "1027-0", "question_type": "descriptive", "anchor": "Which 5th-level cleric spell needs a diamond costing at least 500 gold and takes an hour to cast?"}
+{"passage_id": "814-0", "question_type": "lookup", "anchor": "What does a creature with See Invisibility see the Clairvoyance sensor as?"}
+{"passage_id": "814-0", "question_type": "paraphrase", "anchor": "With Clairvoyance, can I switch between seeing and hearing mid-spell without using my main action?"}
+{"passage_id": "814-0", "question_type": "descriptive", "anchor": "Which spell lets me see or hear through an invisible, intangible sensor placed up to a mile away?"}
+{"passage_id": "26-2", "question_type": "lookup", "anchor": "Which skills on the skill list use Dexterity?"}
+{"passage_id": "26-2", "question_type": "paraphrase", "anchor": "On the skill list, which skill covers picking someone's pocket, and which ability is it?"}
+{"passage_id": "26-2", "question_type": "descriptive", "anchor": "Which skill covers acting out a story, singing, or dancing for an audience?"}
+{"passage_id": "26-2", "question_type": "table", "anchor": "What kind of knowledge does the Religion skill let me recall?"}
+{"passage_id": "1449-0", "question_type": "lookup", "anchor": "How many cards does a full Deck of Illusions have?"}
+{"passage_id": "1449-0", "question_type": "paraphrase", "anchor": "If I inspect a Deck of Illusions creature to see it's fake, what check and DC do I need?"}
+{"passage_id": "1449-0", "question_type": "descriptive", "anchor": "Which wondrous item of cards makes a harmless creature image appear when thrown to the ground?"}
+{"passage_id": "361-0", "question_type": "lookup", "anchor": "What does the Ranger's Hunter subclass aim to protect people and nature from?"}
+{"passage_id": "361-0", "question_type": "paraphrase", "anchor": "Does the Ranger Hunter subclass let me stalk prey through the wilds?"}
+{"passage_id": "361-0", "question_type": "descriptive", "anchor": "Which outdoorsy character path is about defending nature and people from being destroyed?"}
+{"passage_id": "481-4", "question_type": "lookup", "anchor": "What class feature does a Wizard gain at level 10?"}
+{"passage_id": "481-4", "question_type": "paraphrase", "anchor": "For a wizard past level 10, at which level does Ability Score Improvement show up?"}
+{"passage_id": "481-4", "question_type": "descriptive", "anchor": "Which table shows high-level spell slot counts for levels 10 through 12 of an arcane spellcaster?"}
+{"passage_id": "481-4", "question_type": "table", "anchor": "How many prepared spells does a Wizard have at level 12?"}
+{"passage_id": "788-0", "question_type": "lookup", "anchor": "How many willing creatures besides me can be affected by Astral Projection?"}
+{"passage_id": "788-0", "question_type": "paraphrase", "anchor": "With Astral Projection, what happens to my body and astral form if the silver cord gets cut?"}
+{"passage_id": "788-0", "question_type": "descriptive", "anchor": "What spell sends up to nine willing creatures out of their bodies to another plane, leaving them unconscious?"}
+{"passage_id": "2492-0", "question_type": "lookup", "anchor": "How many Hit Points does a Troll regain at the start of each of its turns?"}
+{"passage_id": "2492-0", "question_type": "paraphrase", "anchor": "If I deal acid or fire damage to a Troll, does its healing still work on its next turn?"}
+{"passage_id": "2492-0", "question_type": "descriptive", "anchor": "Which large chaotic evil giant regrows severed limbs and has 94 Hit Points?"}
+{"passage_id": "2492-0", "question_type": "table", "anchor": "What is the Constitution saving throw bonus for a Troll?"}
+{"passage_id": "1247-0", "question_type": "lookup", "anchor": "When does a shape-shifted character revert to their true form?"}
+{"passage_id": "1247-0", "question_type": "paraphrase", "anchor": "Do my spells and curses wear off when I use shape-shifting?"}
+{"passage_id": "1247-0", "question_type": "descriptive", "anchor": "If I'm turned into a beast by Polymorph or Wild Shape, am I still bound by a curse?"}
+{"passage_id": "1258-0", "question_type": "lookup", "anchor": "What is shown in parentheses after a monster's Hit Points in its stat block?"}
+{"passage_id": "1258-0", "question_type": "paraphrase", "anchor": "In a monster's stat block, where do I find the burrowing, climbing, flying, and swimming speeds?"}
+{"passage_id": "1258-0", "question_type": "descriptive", "anchor": "Which part of a creature's entry tells me whether it's Tiny, Small, Medium, Large, Huge, or Gargantuan?"}
+{"passage_id": "564-0", "question_type": "lookup", "anchor": "How much ammunition can a Loading weapon fire with each action, Bonus Action, or Reaction?"}
+{"passage_id": "564-0", "question_type": "paraphrase", "anchor": "With the Loading property, do my extra attacks let me shoot more than one piece of ammo at a time?"}
+{"passage_id": "564-0", "question_type": "descriptive", "anchor": "What weapon property limits me to one piece of ammunition per use no matter how many attacks I get?"}
+{"passage_id": "1373-0", "question_type": "lookup", "anchor": "What form must a magic item's command word take for the item to work?"}
+{"passage_id": "1373-0", "question_type": "paraphrase", "anchor": "Can I activate a magic item with a spoken command word inside a Silence spell's area?"}
+{"passage_id": "1373-0", "question_type": "descriptive", "anchor": "Would a sign language gesture work to activate a magic item instead of speaking?"}
+{"passage_id": "732-0", "question_type": "lookup", "anchor": "What three things do I need to craft a nonmagical item?"}
+{"passage_id": "732-0", "question_type": "paraphrase", "anchor": "Once I've crafted a nonmagical item, can I keep it or sell it, and for what price?"}
+{"passage_id": "732-0", "question_type": "descriptive", "anchor": "How do I make my own ordinary gear from raw materials, tools, and spare time?"}
+{"passage_id": "601-0", "question_type": "lookup", "anchor": "How much does a set of Painter's Supplies weigh?"}
+{"passage_id": "601-0", "question_type": "paraphrase", "anchor": "With Painter's Supplies, what's the DC to paint a recognizable picture of something I've seen?"}
+{"passage_id": "601-0", "question_type": "descriptive", "anchor": "Which tool kit can I use to craft a Druidic Focus and also paint pictures?"}
+{"passage_id": "886-0", "question_type": "lookup", "anchor": "How many falling creatures can Feather Fall affect at once?"}
+{"passage_id": "886-0", "question_type": "paraphrase", "anchor": "Does Feather Fall stop an ally from taking fall damage if they land before it ends?"}
+{"passage_id": "886-0", "question_type": "descriptive", "anchor": "Which first-level spell uses a bit of down and slows falling creatures to 60 feet per round?"}
+{"passage_id": "2144-1", "question_type": "lookup", "anchor": "What is the saving throw DC for the Incubus's Nightmare ability?"}
+{"passage_id": "2144-1", "question_type": "paraphrase", "anchor": "If someone with more than 20 hit points fails against the Incubus's Nightmare, how much psychic damage do they take?"}
+{"passage_id": "2144-1", "question_type": "descriptive", "anchor": "Which monster's Nightmare ability can knock a weak target unconscious for an hour until it takes damage?"}
+{"passage_id": "311-5", "question_type": "lookup", "anchor": "What feature does a Paladin gain at level 18?"}
+{"passage_id": "311-5", "question_type": "paraphrase", "anchor": "Does a paladin's Ability Score Improvement arrive at level 16 or 17?"}
+{"passage_id": "311-5", "question_type": "descriptive", "anchor": "What table shows a holy warrior's spell slots and Channel Divinity values for levels 16 to 18?"}
+{"passage_id": "311-5", "question_type": "table", "anchor": "How many 5th-level spell slots does a Paladin have at level 17?"}

@@ -1,0 +1,79 @@
+{"passage_id": "281-3", "question_type": "lookup", "anchor": "What Monk class feature do you gain at level 19?"}
+{"passage_id": "281-3", "question_type": "paraphrase", "anchor": "Without armor on at level 19, how much extra ground can my Monk cover each turn?"}
+{"passage_id": "281-3", "question_type": "descriptive", "anchor": "What feature do you get at level 20 of the class that uses Focus Points and Martial Arts dice?"}
+{"passage_id": "281-3", "question_type": "table", "anchor": "How many Focus Points does a Monk have at level 19?"}
+{"passage_id": "146-1", "question_type": "lookup", "anchor": "Can I use Warlock Pact Magic slots to cast prepared spells from classes with the Spellcasting feature?"}
+{"passage_id": "146-1", "question_type": "paraphrase", "anchor": "As a level 4 Ranger and level 3 Sorcerer, how many first-level spell slots do I get under multiclass Spellcasting?"}
+{"passage_id": "146-1", "question_type": "descriptive", "anchor": "Can I use a higher-level spell slot on a lower-level spell I prepared and still get its enhanced effect?"}
+{"passage_id": "535-0", "question_type": "lookup", "anchor": "Which spell lists can I choose cantrips from with Magic Initiate?"}
+{"passage_id": "535-0", "question_type": "paraphrase", "anchor": "With Magic Initiate, how do I get back my free cast of my level 1 spell?"}
+{"passage_id": "535-0", "question_type": "descriptive", "anchor": "Which feat lets me swap a learned spell for a new one each time I gain a level?"}
+{"passage_id": "472-0", "question_type": "lookup", "anchor": "What does a C in the Special column of the Warlock spell list mean?"}
+{"passage_id": "472-0", "question_type": "paraphrase", "anchor": "What kind of magic is a Warlock's Mage Hand cantrip?"}
+{"passage_id": "472-0", "question_type": "descriptive", "anchor": "Which class gets a ranged magical energy blast as a cantrip?"}
+{"passage_id": "472-0", "question_type": "table", "anchor": "In the Warlock cantrip list, what school is Prestidigitation listed under?"}
+{"passage_id": "317-0", "question_type": "lookup", "anchor": "Which ability do I use for spells from Blessed Warrior under the Paladin Fighting Style?"}
+{"passage_id": "317-0", "question_type": "paraphrase", "anchor": "As a Paladin using the Blessed Warrior Fighting Style option, can I swap one cantrip each time I level up?"}
+{"passage_id": "317-0", "question_type": "descriptive", "anchor": "As a holy warrior, can I skip a combat feat and learn two Cleric cantrips instead?"}
+{"passage_id": "243-1", "question_type": "lookup", "anchor": "What school of magic is Cure Wounds on the Druid spell list?"}
+{"passage_id": "243-1", "question_type": "paraphrase", "anchor": "As a Druid, what kind of magic is Fog Cloud?"}
+{"passage_id": "243-1", "question_type": "descriptive", "anchor": "What Druid spell lets me ask questions of wild beasts, and can be cast as a ritual?"}
+{"passage_id": "243-1", "question_type": "table", "anchor": "What school of magic is Thunderwave listed under on the Druid spell list?"}
+{"passage_id": "1982-0", "question_type": "lookup", "anchor": "How far away can a Shrieker Fungus's Shriek be heard?"}
+{"passage_id": "1982-0", "question_type": "paraphrase", "anchor": "How much health does a Shrieker Fungus start with?"}
+{"passage_id": "1982-0", "question_type": "descriptive", "anchor": "Which mushroom-type creature lets out a loud scream whenever something moves within 30 feet of it?"}
+{"passage_id": "1982-0", "question_type": "table", "anchor": "What does a Shrieker Fungus add to Wisdom saves?"}
+{"passage_id": "988-0", "question_type": "lookup", "anchor": "How far away can I cast the Message cantrip?"}
+{"passage_id": "988-0", "question_type": "paraphrase", "anchor": "What small item do I need to cast the Message spell?"}
+{"passage_id": "988-0", "question_type": "descriptive", "anchor": "What thickness of stone stops a cantrip that lets me whisper to someone far away?"}
+{"passage_id": "126-2", "question_type": "lookup", "anchor": "When filling in my character sheet's numbers, what's the formula for my spell save DC?"}
+{"passage_id": "126-2", "question_type": "paraphrase", "anchor": "When I fill in my character sheet, which modifier goes into my melee attack bonus?"}
+{"passage_id": "126-2", "question_type": "descriptive", "anchor": "Which ability's modifier goes into the bonus for a bow shot, along with proficiency?"}
+{"passage_id": "688-0", "question_type": "lookup", "anchor": "How long does it take a Shovel to dig a 5-foot hole in soil?"}
+{"passage_id": "688-0", "question_type": "paraphrase", "anchor": "How big a square pit can I dig with a shovel in soil?"}
+{"passage_id": "688-0", "question_type": "descriptive", "anchor": "What digging tool costs 2 gold and can make a hole in dirt?"}
+{"passage_id": "700-0", "question_type": "lookup", "anchor": "How much weight can a mount pulling a wagon move, as a multiple of its carrying capacity?"}
+{"passage_id": "700-0", "question_type": "paraphrase", "anchor": "If two mounts pull the same cart, how do I work out their combined hauling limit?"}
+{"passage_id": "700-0", "question_type": "descriptive", "anchor": "Does a wagon's own weight count toward how much the animal pulling it can move?"}
+{"passage_id": "676-0", "question_type": "lookup", "anchor": "How far away can a Pole let me touch something?"}
+{"passage_id": "676-0", "question_type": "paraphrase", "anchor": "Can I use a pole to vault and gain an edge on my Athletics check for a long jump?"}
+{"passage_id": "676-0", "question_type": "descriptive", "anchor": "Which piece of adventuring gear costs 5 copper and is a long staff for poking things?"}
+{"passage_id": "1103-0", "question_type": "lookup", "anchor": "How far away can I target a creature with Vicious Mockery?"}
+{"passage_id": "1103-0", "question_type": "paraphrase", "anchor": "How hard does Vicious Mockery hit once my character reaches level 11?"}
+{"passage_id": "1103-0", "question_type": "descriptive", "anchor": "What cantrip lets me hurl insults that make a creature's next attack roll harder?"}
+{"passage_id": "916-1", "question_type": "lookup", "anchor": "How many attacks does a Giant Insect make per turn when I cast it at level 6?"}
+{"passage_id": "916-1", "question_type": "paraphrase", "anchor": "What extra poison damage does a Giant Insect's melee sting add on a hit?"}
+{"passage_id": "916-1", "question_type": "descriptive", "anchor": "Which summoned spider can shoot a web that halts a target's movement until the start of its next turn?"}
+{"passage_id": "1209-0", "question_type": "lookup", "anchor": "Can I take a Reaction while I have the Incapacitated condition?"}
+{"passage_id": "1209-0", "question_type": "paraphrase", "anchor": "If I'm Incapacitated, do I lose the spell I'm keeping up?"}
+{"passage_id": "1209-0", "question_type": "descriptive", "anchor": "What status stops me from speaking or acting and gives Disadvantage on Initiative rolls?"}
+{"passage_id": "1459-0", "question_type": "lookup", "anchor": "How much does Dwarven Plate increase my Armor Class?"}
+{"passage_id": "1459-0", "question_type": "paraphrase", "anchor": "If something shoves me along the ground while I wear Dwarven Plate, how far can I cut the push short?"}
+{"passage_id": "1459-0", "question_type": "descriptive", "anchor": "What very rare dwarf-style heavy armor gives extra protection when something pushes me around?"}
+{"passage_id": "327-0", "question_type": "lookup", "anchor": "What extra damage does the Paladin's Radiant Strikes feature add on a hit?"}
+{"passage_id": "327-0", "question_type": "paraphrase", "anchor": "Does my Radiant Strikes bonus work with unarmed punches as well as weapons?"}
+{"passage_id": "327-0", "question_type": "descriptive", "anchor": "What Paladin feature makes my weapon and unarmed hits deal extra holy damage at level 11?"}
+{"passage_id": "1661-0", "question_type": "lookup", "anchor": "Do the descriptive tags on a monster's type have rules of their own?"}
+{"passage_id": "1661-0", "question_type": "paraphrase", "anchor": "Where in a monster's stat block do the tags in parentheses appear?"}
+{"passage_id": "1661-0", "question_type": "descriptive", "anchor": "What monster labels give categorization without rules but can be referenced by game effects?"}
+{"passage_id": "1093-0", "question_type": "lookup", "anchor": "How long does the Tongues spell last once cast?"}
+{"passage_id": "1093-0", "question_type": "paraphrase", "anchor": "If I cast Tongues on my ally, what can they understand?"}
+{"passage_id": "1093-0", "question_type": "descriptive", "anchor": "Which spell needs a miniature stepped temple model as its material component and lets me understand other languages?"}
+{"passage_id": "760-0", "question_type": "lookup", "anchor": "Are Material components used up when I cast a spell, unless the spell says otherwise?"}
+{"passage_id": "760-0", "question_type": "paraphrase", "anchor": "Can I swap a spell's material ingredients for a component pouch if the spell doesn't use them up and gives no price?"}
+{"passage_id": "760-0", "question_type": "descriptive", "anchor": "Do I need a free hand to reach into a pouch of spell ingredients?"}
+{"passage_id": "1270-0", "question_type": "lookup", "anchor": "Does Truesight let me see through magical Darkness?"}
+{"passage_id": "1270-0", "question_type": "paraphrase", "anchor": "With Truesight, can I spot creatures that are invisible?"}
+{"passage_id": "1270-0", "question_type": "descriptive", "anchor": "What sense shows me a creature's true form when it has been magically disguised?"}
+{"passage_id": "450-0", "question_type": "lookup", "anchor": "What is the level prerequisite for the Eldritch Smite invocation?"}
+{"passage_id": "450-0", "question_type": "paraphrase", "anchor": "How often per turn can my Warlock pact weapon deliver an Eldritch Smite?"}
+{"passage_id": "450-0", "question_type": "descriptive", "anchor": "Which Warlock invocation makes my pact weapon's hits deal extra Force damage and can knock a target Prone?"}
+{"passage_id": "1106-0", "question_type": "lookup", "anchor": "How far away can I place a Wall of Force?"}
+{"passage_id": "1106-0", "question_type": "paraphrase", "anchor": "What spell can instantly destroy a Wall of Force?"}
+{"passage_id": "1106-0", "question_type": "descriptive", "anchor": "Which Wizard spell creates an invisible barrier that can form a dome or flat panels?"}
+{"passage_id": "1145-0", "question_type": "lookup", "anchor": "In D&D, what is a campaign?"}
+{"passage_id": "1145-0", "question_type": "paraphrase", "anchor": "Is a campaign just one long adventure or a string of several?"}
+{"passage_id": "1145-0", "question_type": "descriptive", "anchor": "What's the name for a linked sequence of adventures that a group plays through together?"}
+{"passage_id": "398-0", "question_type": "lookup", "anchor": "What do I get as a first-level Sorcerer?"}
+{"passage_id": "398-0", "question_type": "paraphrase", "anchor": "Where do I look up my first-level Sorcerer features?"}
+{"passage_id": "398-0", "question_type": "descriptive", "anchor": "Which table lists the core traits you gain at first level as a Sorcerer?"}

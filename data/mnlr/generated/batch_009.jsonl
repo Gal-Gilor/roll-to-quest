@@ -1,0 +1,80 @@
+{"passage_id": "1391-1", "question_type": "lookup", "anchor": "For a sentient magic item's Special Purpose, what does the Aligned result make the item seek to defeat?"}
+{"passage_id": "1391-1", "question_type": "paraphrase", "anchor": "If my sentient magic item has the Protector purpose, what kind of creature is it trying to shield?"}
+{"passage_id": "1391-1", "question_type": "descriptive", "anchor": "Which goal drives a thinking magic item that wants to become the most famous magic item in the world?"}
+{"passage_id": "1391-1", "question_type": "table", "anchor": "On a d10 roll of 9 for a sentient magic item's purpose, what does the item seek?"}
+{"passage_id": "1259-0", "question_type": "lookup", "anchor": "Which ability score's check do I make when I take the Study action?"}
+{"passage_id": "1259-0", "question_type": "paraphrase", "anchor": "Could I use the Study action on a clue I found, or does it only work on books?"}
+{"passage_id": "1259-0", "question_type": "descriptive", "anchor": "Which action lets me think hard about a clue or a book to recall something important I'd forgotten?"}
+{"passage_id": "1261-0", "question_type": "lookup", "anchor": "In the Suffocation rules, how long can a creature hold its breath before it starts to suffocate?"}
+{"passage_id": "1261-0", "question_type": "paraphrase", "anchor": "Under the Suffocation rules, how many Exhaustion levels does a creature gain each turn while choking?"}
+{"passage_id": "1261-0", "question_type": "descriptive", "anchor": "After a creature gets its breath back following a choking episode, what happens to the fatigue it picked up?"}
+{"passage_id": "1096-1", "question_type": "lookup", "anchor": "What is the highest Challenge Rating of a creature that True Polymorph can turn an object into?"}
+{"passage_id": "1096-1", "question_type": "paraphrase", "anchor": "If my True Polymorph lasts more than an hour, can I still order around what I turned something into?"}
+{"passage_id": "1096-1", "question_type": "descriptive", "anchor": "Which spell can make a statue into a creature that fights on my side and obeys my commands in battle?"}
+{"passage_id": "2733-0", "question_type": "lookup", "anchor": "How much Bludgeoning damage does a Giant Goat's Ram deal on a normal hit?"}
+{"passage_id": "2733-0", "question_type": "paraphrase", "anchor": "If a Giant Goat charges at me in a straight line for 20 feet first, what extra damage and condition does it inflict?"}
+{"passage_id": "2733-0", "question_type": "descriptive", "anchor": "What large beast with a 30-foot climb speed can knock a foe Prone with a ram after running at it?"}
+{"passage_id": "2733-0", "question_type": "table", "anchor": "What does a Giant Goat add to its Constitution saving throws?"}
+{"passage_id": "2520-1", "question_type": "lookup", "anchor": "What is the Constitution saving throw DC for a Vrock's Stunning Screech?"}
+{"passage_id": "2520-1", "question_type": "paraphrase", "anchor": "Can demons be stunned by a Vrock's Stunning Screech, or do they automatically avoid it?"}
+{"passage_id": "2520-1", "question_type": "descriptive", "anchor": "Which once-per-day shriek from a demon deals thunder damage to creatures in a 20-foot area and stuns those who fail?"}
+{"passage_id": "487-0", "question_type": "lookup", "anchor": "What does the Scholar wizard feature give me in one skill I'm proficient in?"}
+{"passage_id": "487-0", "question_type": "paraphrase", "anchor": "Which skills can I pick for the Scholar wizard feature at level 2?"}
+{"passage_id": "487-0", "question_type": "descriptive", "anchor": "Which wizard feature makes me specialize in another field of study alongside my magic?"}
+{"passage_id": "422-6", "question_type": "lookup", "anchor": "On the Sorcerer Spell List, what school of magic is Incendiary Cloud in?"}
+{"passage_id": "422-6", "question_type": "paraphrase", "anchor": "Which level 9 spells on the Sorcerer Spell List come from the Enchantment school?"}
+{"passage_id": "422-6", "question_type": "descriptive", "anchor": "Which level 9 Sorcerer spell belongs to the evocation school?"}
+{"passage_id": "422-6", "question_type": "table", "anchor": "On the Sorcerer Spell List, what appears in the Special column for the Dominate Monster row?"}
+{"passage_id": "1492-0", "question_type": "lookup", "anchor": "What rarity is the Helm of Comprehending Languages?"}
+{"passage_id": "1492-0", "question_type": "paraphrase", "anchor": "Does wearing the Helm of Comprehending Languages let me cast a spell, and which one?"}
+{"passage_id": "1492-0", "question_type": "descriptive", "anchor": "Among uncommon wondrous items, which helmet lets its wearer cast a spell from it?"}
+{"passage_id": "1232-0", "question_type": "lookup", "anchor": "In the Rules Glossary, what does Player Character mean?"}
+{"passage_id": "1232-0", "question_type": "paraphrase", "anchor": "Where should I look for more guidance on making a player character?"}
+{"passage_id": "1232-0", "question_type": "descriptive", "anchor": "What do you call a character that one of the people at the table controls?"}
+{"passage_id": "2722-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Giant Elk?"}
+{"passage_id": "2722-0", "question_type": "paraphrase", "anchor": "Does a Giant Elk resist any damage types, and if so which ones?"}
+{"passage_id": "2722-0", "question_type": "descriptive", "anchor": "What huge celestial beast with a 60-foot Speed attacks with a ram that reaches 10 feet?"}
+{"passage_id": "2722-0", "question_type": "table", "anchor": "What modifier does a Giant Elk have for Constitution?"}
+{"passage_id": "529-1", "question_type": "lookup", "anchor": "Which cantrip does a Tiefling know from its Otherworldly Presence trait?"}
+{"passage_id": "529-1", "question_type": "paraphrase", "anchor": "For a Tiefling's legacy spells, which abilities can I pick as my spellcasting ability?"}
+{"passage_id": "529-1", "question_type": "descriptive", "anchor": "Which species trait gives a free cantrip that uses the same casting ability as your legacy spells?"}
+{"passage_id": "131-0", "question_type": "lookup", "anchor": "In Tier 2 of play, what kinds of dangers threaten characters?"}
+{"passage_id": "131-0", "question_type": "paraphrase", "anchor": "In Tier 2 of play, can a weapon-focused class make more than one attack in a round?"}
+{"passage_id": "131-0", "question_type": "descriptive", "anchor": "At what level range do spellcasters start learning iconic spells such as Fireball and Lightning Bolt?"}
+{"passage_id": "912-0", "question_type": "lookup", "anchor": "What is the range of the Gaseous Form spell?"}
+{"passage_id": "912-0", "question_type": "paraphrase", "anchor": "If Gaseous Form turns me into a misty cloud, can I still attack or cast spells?"}
+{"passage_id": "912-0", "question_type": "descriptive", "anchor": "Which spell lets me change a willing ally into a misty cloud that can slip through narrow openings?"}
+{"passage_id": "2371-0", "question_type": "lookup", "anchor": "How much Fire damage does a Salamander's Fire Aura deal at the end of its turns?"}
+{"passage_id": "2371-0", "question_type": "paraphrase", "anchor": "Does a Salamander take extra damage from cold attacks?"}
+{"passage_id": "2371-0", "question_type": "descriptive", "anchor": "Which large evil fire elemental can throw a flaming spear that flies back to its hand and grapple a foe?"}
+{"passage_id": "2371-0", "question_type": "table", "anchor": "What does a Salamander add to its Charisma saving throws?"}
+{"passage_id": "975-0", "question_type": "lookup", "anchor": "What is the casting time of Magic Jar?"}
+{"passage_id": "975-0", "question_type": "paraphrase", "anchor": "Can I use Magic Jar to possess someone who is protected by a Magic Circle spell?"}
+{"passage_id": "975-0", "question_type": "descriptive", "anchor": "Which level 6 necromancy spell lets my soul leave my body and possess a nearby humanoid?"}
+{"passage_id": "404-0", "question_type": "lookup", "anchor": "How many more Metamagic options does a Sorcerer gain at level 10?"}
+{"passage_id": "404-0", "question_type": "paraphrase", "anchor": "Can I apply more than one Metamagic option to a single spell when I cast it?"}
+{"passage_id": "404-0", "question_type": "descriptive", "anchor": "What sorcerer feature lets me swap one of my spell-altering options for a new one each time I gain a level?"}
+{"passage_id": "466-0", "question_type": "lookup", "anchor": "How many cantrips do I choose when the Pact of the Tome book appears?"}
+{"passage_id": "466-0", "question_type": "paraphrase", "anchor": "With Pact of the Tome, what happens to my book if I conjure a second one or die?"}
+{"passage_id": "466-0", "question_type": "descriptive", "anchor": "Which warlock option lets me conjure a spellbook after a rest that holds rituals and cantrips I can cast?"}
+{"passage_id": "1112-0", "question_type": "lookup", "anchor": "How many willing creatures can Water Walk affect at once?"}
+{"passage_id": "1112-0", "question_type": "paraphrase", "anchor": "Does a creature crossing lava under Water Walk still get hurt by the heat?"}
+{"passage_id": "1112-0", "question_type": "descriptive", "anchor": "What spell lets willing friends stroll over quicksand, mud, or lava as if it were solid ground for an hour?"}
+{"passage_id": "742-0", "question_type": "lookup", "anchor": "Under Gaining Spells, what magic item can give me access to a spell so I can cast it?"}
+{"passage_id": "742-0", "question_type": "paraphrase", "anchor": "According to Gaining Spells, who decides which spells I can access and whether I can swap my prepared list?"}
+{"passage_id": "742-0", "question_type": "descriptive", "anchor": "What rule says I must have a spell prepared in my mind or from a magic item before I can cast it?"}
+{"passage_id": "30-4", "question_type": "lookup", "anchor": "When I try an action not covered by the Actions rules, what does the Game Master decide?"}
+{"passage_id": "30-4", "question_type": "paraphrase", "anchor": "Under Actions, can my class give me options beyond the standard list, or can I improvise something new?"}
+{"passage_id": "30-4", "question_type": "descriptive", "anchor": "What rule lets a player attempt a creative move the book doesn't list, with the game master deciding the roll?"}
+{"passage_id": "1319-0", "question_type": "lookup", "anchor": "When purchasing Poison, what must characters without criminal contacts do to get it?"}
+{"passage_id": "1319-0", "question_type": "paraphrase", "anchor": "When buying poison where it's illegal, could a shady dealer still have a secret stash?"}
+{"passage_id": "1319-0", "question_type": "descriptive", "anchor": "In a land where possessing poison is against the law, who might secretly sell some to adventurers?"}
+{"passage_id": "1070-0", "question_type": "lookup", "anchor": "How large is the Emanation that Spirit Guardians creates around me?"}
+{"passage_id": "1070-0", "question_type": "paraphrase", "anchor": "If I'm an evil caster, what kind of damage does Spirit Guardians deal to creatures that fail?"}
+{"passage_id": "1070-0", "question_type": "descriptive", "anchor": "Which concentration spell surrounds me with protective spirits that halve enemies' speed and hurt those who enter?"}
+{"passage_id": "144-0", "question_type": "lookup", "anchor": "When multiclassing, how many Armor Class calculation methods can I use at one time?"}
+{"passage_id": "144-0", "question_type": "paraphrase", "anchor": "As a Monk/Sorcerer, can I use both Unarmored Defense and Draconic Resilience to work out my Armor Class?"}
+{"passage_id": "144-0", "question_type": "descriptive", "anchor": "When my two classes each offer a way to work out my defense rating, can I use both at once?"}
+{"passage_id": "193-0", "question_type": "lookup", "anchor": "What does Superior Inspiration let me do when I roll Initiative?"}
+{"passage_id": "193-0", "question_type": "paraphrase", "anchor": "At what Bard level does a character gain Superior Inspiration?"}
+{"passage_id": "193-0", "question_type": "descriptive", "anchor": "What high-level bard feature restores my Bardic Inspiration uses when I roll for Initiative?"}

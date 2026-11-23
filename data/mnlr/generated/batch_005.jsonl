@@ -1,0 +1,82 @@
+{"passage_id": "1543-0", "question_type": "lookup", "anchor": "How long does the Climb Speed from a Potion of Climbing last?"}
+{"passage_id": "1543-0", "question_type": "paraphrase", "anchor": "After drinking a Potion of Climbing, do I get an edge on Athletics rolls to scale walls?"}
+{"passage_id": "1543-0", "question_type": "descriptive", "anchor": "What magic drink with layers of brown, silver, and gray gives me a climbing speed for an hour?"}
+{"passage_id": "297-0", "question_type": "lookup", "anchor": "When can a Monk using Self-Restoration end the Charmed, Frightened, or Poisoned conditions on themselves?"}
+{"passage_id": "297-0", "question_type": "paraphrase", "anchor": "Does Self-Restoration stop a Monk from getting worn out when they skip meals and water?"}
+{"passage_id": "297-0", "question_type": "descriptive", "anchor": "Which monk ability at level 10 lets me shake off being charmed, scared, or poisoned by sheer willpower?"}
+{"passage_id": "1509-0", "question_type": "lookup", "anchor": "How much extra Bludgeoning damage does a Mace of Smiting deal on a natural 20 attack roll?"}
+{"passage_id": "1509-0", "question_type": "paraphrase", "anchor": "If I hit a Construct with a Mace of Smiting, how much does my attack bonus go up?"}
+{"passage_id": "1509-0", "question_type": "descriptive", "anchor": "What magic weapon can destroy a Construct outright when a critical hit leaves it at 25 Hit Points or fewer?"}
+{"passage_id": "1655-0", "question_type": "lookup", "anchor": "How long do the Wings of Flying last before they disappear on their own?"}
+{"passage_id": "1655-0", "question_type": "paraphrase", "anchor": "After my Wings of Flying vanish, how long must I wait before I can use the cloak's wings again?"}
+{"passage_id": "1655-0", "question_type": "descriptive", "anchor": "What cloak can turn into wings on my back that give a 60-foot flying speed?"}
+{"passage_id": "1403-0", "question_type": "lookup", "anchor": "What damage types does Armor of Invulnerability make me Resistant to while I wear it?"}
+{"passage_id": "1403-0", "question_type": "paraphrase", "anchor": "If I activate the Metal Shell power on my Armor of Invulnerability, how long am I immune to physical attacks?"}
+{"passage_id": "1403-0", "question_type": "descriptive", "anchor": "Which legendary plate armor can only grant full immunity again after the next dawn once its power is spent?"}
+{"passage_id": "1356-0", "question_type": "lookup", "anchor": "How many stat blocks does the advice suggest a GM should juggle in one combat encounter?"}
+{"passage_id": "1356-0", "question_type": "paraphrase", "anchor": "Which monster pairings make the best combat encounters, like fire giants with hell hounds?"}
+{"passage_id": "1356-0", "question_type": "descriptive", "anchor": "Is it hard to run a fight involving several complicated monsters at once for a GM?"}
+{"passage_id": "118-0", "question_type": "lookup", "anchor": "What six numbers make up the Standard Array for generating ability scores?"}
+{"passage_id": "118-0", "question_type": "paraphrase", "anchor": "How many points do I get to spend on my ability scores if I use the point buy method?"}
+{"passage_id": "118-0", "question_type": "descriptive", "anchor": "Which method of rolling for stats means I roll four six-sided dice and keep the best three?"}
+{"passage_id": "118-0", "question_type": "table", "anchor": "In the ability score point costs table, what does a score of 11 cost?"}
+{"passage_id": "427-0", "question_type": "lookup", "anchor": "How long do Dragon Wings last after I cause them to appear?"}
+{"passage_id": "427-0", "question_type": "paraphrase", "anchor": "Can I use Dragon Wings again before a full night's rest if I spend some Sorcery Points?"}
+{"passage_id": "427-0", "question_type": "descriptive", "anchor": "What Sorcerer level 14 feature lets me grow draconic wings as a Bonus Action?"}
+{"passage_id": "2165-0", "question_type": "lookup", "anchor": "What is the Kraken's Armor Class and how many Hit Points does it have?"}
+{"passage_id": "2165-0", "question_type": "paraphrase", "anchor": "How many times a day can a Kraken choose to succeed on a save it failed?"}
+{"passage_id": "2165-0", "question_type": "descriptive", "anchor": "Which giant sea monster has attacks that grapple with escape DC 20 and can hold a creature in place?"}
+{"passage_id": "2165-0", "question_type": "table", "anchor": "What is a Kraken's Intelligence saving throw bonus?"}
+{"passage_id": "474-0", "question_type": "lookup", "anchor": "How is the amount of Temporary Hit Points from Dark One's Blessing calculated?"}
+{"passage_id": "474-0", "question_type": "paraphrase", "anchor": "Does Dark One's Blessing still give me extra health if an ally drops a foe within 10 feet of me?"}
+{"passage_id": "474-0", "question_type": "descriptive", "anchor": "What Warlock Fiend patron feature gives me a little bonus health each time a foe falls near me?"}
+{"passage_id": "1518-1", "question_type": "lookup", "anchor": "When Mirror of Life Trapping's twelve cells are full, which creature gets freed?"}
+{"passage_id": "1518-1", "question_type": "paraphrase", "anchor": "If I stick my Mirror of Life Trapping inside a Bag of Holding, what happens to both items?"}
+{"passage_id": "1518-1", "question_type": "descriptive", "anchor": "Which mirror lets me call up an image of a trapped creature and talk with it while standing close?"}
+{"passage_id": "218-5", "question_type": "lookup", "anchor": "Which level 8 Cleric spells are in the Evocation school?"}
+{"passage_id": "218-5", "question_type": "paraphrase", "anchor": "Which spell level is the Cleric's Resurrection spell?"}
+{"passage_id": "218-5", "question_type": "descriptive", "anchor": "What level 7 Cleric spell summons a celestial being?"}
+{"passage_id": "218-5", "question_type": "table", "anchor": "In the level 8 Cleric spells table, which school does Holy Aura belong to?"}
+{"passage_id": "622-0", "question_type": "lookup", "anchor": "Which classes can use an Arcane Focus as a Spellcasting Focus?"}
+{"passage_id": "622-0", "question_type": "paraphrase", "anchor": "Can a Wizard use a quarterstaff as an Arcane Focus for casting spells?"}
+{"passage_id": "622-0", "question_type": "descriptive", "anchor": "What is a bejeweled or carved item that wizards can use to channel magic?"}
+{"passage_id": "622-0", "question_type": "table", "anchor": "In the Arcane Focuses table, what does the Orb form weigh and cost?"}
+{"passage_id": "1154-0", "question_type": "lookup", "anchor": "Can a condition stack with itself on the same creature?"}
+{"passage_id": "1154-0", "question_type": "paraphrase", "anchor": "Is Exhaustion the one game effect that can pile up on a creature more than once?"}
+{"passage_id": "1154-0", "question_type": "descriptive", "anchor": "Where in the rules can I find all the temporary effects like Blinded, Deafened, and Unconscious?"}
+{"passage_id": "93-0", "question_type": "lookup", "anchor": "When healing restores 8 Hit Points to someone at 14 of 20, how many do they actually regain?"}
+{"passage_id": "93-0", "question_type": "paraphrase", "anchor": "Can healing ever push my health above my maximum?"}
+{"passage_id": "93-0", "question_type": "descriptive", "anchor": "Is there a way to drop a foe with a melee hit without killing it outright?"}
+{"passage_id": "747-0", "question_type": "lookup", "anchor": "How many level 1 spell slots does a level 3 Wizard have?"}
+{"passage_id": "747-0", "question_type": "paraphrase", "anchor": "How do I get my used-up spell slots back as a spellcaster?"}
+{"passage_id": "747-0", "question_type": "descriptive", "anchor": "If I cast a 2nd-level spell, can I use a 1st-level empty slot to cast it?"}
+{"passage_id": "820-0", "question_type": "lookup", "anchor": "How far does Commune with Nature reach outdoors?"}
+{"passage_id": "820-0", "question_type": "paraphrase", "anchor": "If I cast Commune with Nature underground, how far does its knowledge reach?"}
+{"passage_id": "820-0", "question_type": "descriptive", "anchor": "Which 5th-level druid or ranger spell lets me learn three facts about the land around me?"}
+{"passage_id": "746-0", "question_type": "lookup", "anchor": "What spell level are cantrips, the simplest spells cast almost by rote?"}
+{"passage_id": "746-0", "question_type": "paraphrase", "anchor": "What's the range of spell levels a spell can have in the game?"}
+{"passage_id": "746-0", "question_type": "descriptive", "anchor": "Where do I find out when my class gets access to spells of each level?"}
+{"passage_id": "490-0", "question_type": "lookup", "anchor": "How often can a Wizard use Memorize Spell to swap a prepared spell?"}
+{"passage_id": "490-0", "question_type": "paraphrase", "anchor": "Can Memorize Spell let a Wizard swap in a level 3 spell from the spellbook?"}
+{"passage_id": "490-0", "question_type": "descriptive", "anchor": "Which Wizard level 5 feature lets me change a prepared spell for a new one from my book after a brief rest?"}
+{"passage_id": "2510-0", "question_type": "lookup", "anchor": "What happens to a Vampire Spawn that starts its turn in sunlight?"}
+{"passage_id": "2510-0", "question_type": "paraphrase", "anchor": "Can a Vampire Spawn walk into my house if I haven't invited it?"}
+{"passage_id": "2510-0", "question_type": "descriptive", "anchor": "What happens to a vampire that finishes its turn standing in flowing water?"}
+{"passage_id": "2510-0", "question_type": "table", "anchor": "What is a Vampire Spawn's Constitution saving throw bonus?"}
+{"passage_id": "1259-1", "question_type": "lookup", "anchor": "When I take the Study action, what does the Nature skill cover?"}
+{"passage_id": "1259-1", "question_type": "paraphrase", "anchor": "Which skill would I use with a Study action to figure out traps, ciphers, and gadgets?"}
+{"passage_id": "1259-1", "question_type": "descriptive", "anchor": "Which skill is about deities, cults, and holy symbols?"}
+{"passage_id": "1259-1", "question_type": "table", "anchor": "For a Study action using History, which creature types are included?"}
+{"passage_id": "1449-1", "question_type": "lookup", "anchor": "Where can I find the stat blocks for the illusions a Deck of Illusions shows?"}
+{"passage_id": "1449-1", "question_type": "paraphrase", "anchor": "Does the card drawer from a Deck of Illusions have a stat block?"}
+{"passage_id": "1449-1", "question_type": "descriptive", "anchor": "Which magic card deck produces illusions of creatures like a Lich, Medusa, or an Ettin?"}
+{"passage_id": "1449-1", "question_type": "table", "anchor": "On a 1d100 roll of 70 to 72 for a Deck of Illusions, which illusion appears?"}
+{"passage_id": "881-0", "question_type": "lookup", "anchor": "How large an object can Fabricate create from raw materials other than metal or stone?"}
+{"passage_id": "881-0", "question_type": "paraphrase", "anchor": "Can Fabricate make me a suit of armor if I'm not trained with the tools?"}
+{"passage_id": "881-0", "question_type": "descriptive", "anchor": "What 4th-level spell takes ten minutes to cast and turns raw materials into finished goods?"}
+{"passage_id": "1003-0", "question_type": "lookup", "anchor": "Which ability score does a target use for the saving throw against Phantasmal Force?"}
+{"passage_id": "1003-0", "question_type": "paraphrase", "anchor": "If a creature sees through my Phantasmal Force illusion, how can it tell it's fake?"}
+{"passage_id": "1003-0", "question_type": "descriptive", "anchor": "Which spell creates a fake creature or object only one foe can see, dealing 2d8 psychic damage?"}
+{"passage_id": "109-0", "question_type": "lookup", "anchor": "How many Experience Points does a level 1 character start with?"}
+{"passage_id": "109-0", "question_type": "paraphrase", "anchor": "If my GM starts me at level 4, do I need to write my subclass on my character sheet?"}
+{"passage_id": "109-0", "question_type": "descriptive", "anchor": "What do I write on my sheet besides my level to track progress toward the next level?"}

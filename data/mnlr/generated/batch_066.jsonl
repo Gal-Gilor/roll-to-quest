@@ -1,0 +1,84 @@
+{"passage_id": "1565-0", "question_type": "lookup", "anchor": "How fast do I descend when I fall while wearing the Ring of Feather Falling?"}
+{"passage_id": "1565-0", "question_type": "paraphrase", "anchor": "Will the Ring of Feather Falling keep me from getting hurt when I take a fall?"}
+{"passage_id": "1565-0", "question_type": "descriptive", "anchor": "Which rare magic ring makes falls harmless and needs attunement before I can use it?"}
+{"passage_id": "1528-0", "question_type": "lookup", "anchor": "How much extra damage does the Oathbow deal to my sworn enemy when it hits?"}
+{"passage_id": "1528-0", "question_type": "paraphrase", "anchor": "Once I mark a sworn enemy with an Oathbow, what penalty do I take with my other weapons?"}
+{"passage_id": "1528-0", "question_type": "descriptive", "anchor": "Which longbow or shortbow lets me pick a sworn foe and ignores cover against them?"}
+{"passage_id": "1471-2", "question_type": "lookup", "anchor": "What is the rarity of the Bird result on the Feather Token table?"}
+{"passage_id": "1471-2", "question_type": "paraphrase", "anchor": "If I roll a 91 to 00 on a Feather Token, which token do I get and how rare is it?"}
+{"passage_id": "1471-2", "question_type": "descriptive", "anchor": "Which magic token comes in forms like an anchor, a bird, a fan, a swan boat, a tree, or a whip?"}
+{"passage_id": "1471-2", "question_type": "table", "anchor": "For a Feather Token, what d100 range gives the Tree token?"}
+{"passage_id": "2647-0", "question_type": "lookup", "anchor": "How much Armor Class does a Cat have?"}
+{"passage_id": "2647-0", "question_type": "paraphrase", "anchor": "How quickly can a Cat move across flat ground without climbing?"}
+{"passage_id": "2647-0", "question_type": "descriptive", "anchor": "Which tiny beast's jumping distance depends on its Dexterity instead of its Strength?"}
+{"passage_id": "2647-0", "question_type": "table", "anchor": "What does a Cat add to Dexterity saving throws?"}
+{"passage_id": "182-0", "question_type": "lookup", "anchor": "When multiclassing into Bard, which traits from the Core Bard Traits table do I gain?"}
+{"passage_id": "182-0", "question_type": "paraphrase", "anchor": "If I add a Bard level to my character as a second class, which level 1 features do I get?"}
+{"passage_id": "182-0", "question_type": "descriptive", "anchor": "Which proficiencies and armor training come with the first level of a musical class I add?"}
+{"passage_id": "90-0", "question_type": "lookup", "anchor": "Can two Resistances to the same damage type stack, or do they count as one?"}
+{"passage_id": "90-0", "question_type": "paraphrase", "anchor": "If I resist Necrotic damage and also resist all damage, how much Necrotic damage do I take?"}
+{"passage_id": "90-0", "question_type": "descriptive", "anchor": "When two separate defenses guard against the same harm, do their protections add up?"}
+{"passage_id": "1967-0", "question_type": "lookup", "anchor": "How many Hit Points does a Fire Elemental have?"}
+{"passage_id": "1967-0", "question_type": "paraphrase", "anchor": "If I stand near a Fire Elemental when its turn ends, how much fire damage do I take?"}
+{"passage_id": "1967-0", "question_type": "descriptive", "anchor": "Which large elemental can squeeze through a gap an inch wide and gets hurt by water splashed on it?"}
+{"passage_id": "1967-0", "question_type": "table", "anchor": "What does a Fire Elemental add to Constitution saves?"}
+{"passage_id": "718-0", "question_type": "lookup", "anchor": "How much does a loaf of bread cost in the food, drink, and lodging prices?"}
+{"passage_id": "718-0", "question_type": "paraphrase", "anchor": "How much would a comfortable room for one night at an inn cost me?"}
+{"passage_id": "718-0", "question_type": "descriptive", "anchor": "Is a bottle of everyday table wine much cheaper than a fine bottle?"}
+{"passage_id": "718-0", "question_type": "table", "anchor": "What does a Wealthy-quality meal cost on the food and drink price list?"}
+{"passage_id": "878-0", "question_type": "lookup", "anchor": "How long does it take to cast Etherealness?"}
+{"passage_id": "878-0", "question_type": "paraphrase", "anchor": "When I cast Etherealness with a bigger slot, how many friends can come along?"}
+{"passage_id": "878-0", "question_type": "descriptive", "anchor": "Which spell lets me slip into a gray border region beside my plane and move in any direction?"}
+{"passage_id": "1163-0", "question_type": "lookup", "anchor": "Is the point of origin of a Cylinder included in its area of effect?"}
+{"passage_id": "1163-0", "question_type": "paraphrase", "anchor": "Who decides how wide and how tall a Cylinder-shaped effect is?"}
+{"passage_id": "1163-0", "question_type": "descriptive", "anchor": "What round, tube-shaped area of effect starts from the center of its top or bottom circle?"}
+{"passage_id": "1621-0", "question_type": "lookup", "anchor": "Does the Stone of Good Luck require attunement before I can use it?"}
+{"passage_id": "1621-0", "question_type": "paraphrase", "anchor": "How much does carrying a Luckstone improve my ability checks and saving throws?"}
+{"passage_id": "1621-0", "question_type": "descriptive", "anchor": "What polished agate stone gives a small luck bonus to my checks and saves when I keep it on me?"}
+{"passage_id": "770-0", "question_type": "lookup", "anchor": "How many creatures can I target with Aid at once?"}
+{"passage_id": "770-0", "question_type": "paraphrase", "anchor": "When I cast Aid with a bigger slot, how much extra max health does each person get?"}
+{"passage_id": "770-0", "question_type": "descriptive", "anchor": "What spell gives up to three allies a boost to their maximum health for eight hours, using a white strip of cloth?"}
+{"passage_id": "643-0", "question_type": "lookup", "anchor": "How much does a set of Traveler's Clothes cost?"}
+{"passage_id": "643-0", "question_type": "paraphrase", "anchor": "Are Traveler's Clothes tough enough to handle many kinds of terrain?"}
+{"passage_id": "643-0", "question_type": "descriptive", "anchor": "What durable clothing is made for journeys through many different environments?"}
+{"passage_id": "1520-6", "question_type": "lookup", "anchor": "How many Reaping Scythe attacks does a Mysterious Deck avatar make with Multiattack?"}
+{"passage_id": "1520-6", "question_type": "paraphrase", "anchor": "On a Reaping Scythe hit, how much extra Necrotic damage does a Mysterious Deck avatar deal?"}
+{"passage_id": "1520-6", "question_type": "descriptive", "anchor": "Which summoned reaper's melee attack always hits and deals Slashing plus Necrotic damage?"}
+{"passage_id": "265-0", "question_type": "lookup", "anchor": "What can Tactical Master let me swap my weapon mastery property for?"}
+{"passage_id": "265-0", "question_type": "paraphrase", "anchor": "At what level do I unlock Tactical Master as a Fighter?"}
+{"passage_id": "265-0", "question_type": "descriptive", "anchor": "Which high-level Fighter feature lets my attacks use a different weapon mastery effect instead?"}
+{"passage_id": "1339-0", "question_type": "lookup", "anchor": "What Dexterity save DC does the Collapsing Roof trap use at levels 1-4?"}
+{"passage_id": "1339-0", "question_type": "paraphrase", "anchor": "Which DC must I beat on a Wisdom (Perception) check to spot the Collapsing Roof's trip wire?"}
+{"passage_id": "1339-0", "question_type": "descriptive", "anchor": "Is there a trap where a trip wire collapses an unstable ceiling on whoever walks through?"}
+{"passage_id": "1339-0", "question_type": "table", "anchor": "How much Bludgeoning damage does the Collapsing Roof deal at levels 11-16?"}
+{"passage_id": "1287-0", "question_type": "lookup", "anchor": "When creating a background, which feat category must I pick from in the feat step?"}
+{"passage_id": "1287-0", "question_type": "paraphrase", "anchor": "Where can I find example feats for the feat step of making a background?"}
+{"passage_id": "1287-0", "question_type": "descriptive", "anchor": "Which background-building step has me select a single feat from a specific category?"}
+{"passage_id": "147-7", "question_type": "lookup", "anchor": "What trinket does a 71 on the Trinkets table give me?"}
+{"passage_id": "147-7", "question_type": "paraphrase", "anchor": "On the Trinkets table, which roll gives a silver teardrop earring with a real teardrop?"}
+{"passage_id": "147-7", "question_type": "descriptive", "anchor": "Which random curio is a clover pressed inside a book about etiquette?"}
+{"passage_id": "147-7", "question_type": "table", "anchor": "On a roll of 77 on the Trinkets table, what item do I get?"}
+{"passage_id": "2461-0", "question_type": "lookup", "anchor": "How much damage does a Stone Golem's Slam deal when it hits?"}
+{"passage_id": "2461-0", "question_type": "paraphrase", "anchor": "How hard is it for me to resist a Stone Golem's Slow spell?"}
+{"passage_id": "2461-0", "question_type": "descriptive", "anchor": "Which large construct can't shape-shift and gets Advantage on saves against magic?"}
+{"passage_id": "2461-0", "question_type": "table", "anchor": "What Charisma score does a Stone Golem have?"}
+{"passage_id": "1143-0", "question_type": "lookup", "anchor": "How much damage does Burning deal to a creature at the start of each of its turns?"}
+{"passage_id": "1143-0", "question_type": "paraphrase", "anchor": "Using an action, how do I put out Burning on myself?"}
+{"passage_id": "1143-0", "question_type": "descriptive", "anchor": "What puts out a creature's fire when it is doused, submerged, or suffocated?"}
+{"passage_id": "933-1", "question_type": "lookup", "anchor": "What does the Peaceful Rest option of Hallow stop from happening to bodies in the area?"}
+{"passage_id": "933-1", "question_type": "paraphrase", "anchor": "Can Hallow stop chosen creatures from teleporting into or out of the area?"}
+{"passage_id": "933-1", "question_type": "descriptive", "anchor": "Which spell creates a zone where no sound can emanate from within or reach into it?"}
+{"passage_id": "244-0", "question_type": "lookup", "anchor": "Where do members of the Circle of the Land Druid subclass meet?"}
+{"passage_id": "244-0", "question_type": "paraphrase", "anchor": "What language do Circle of the Land Druids whisper their secrets in?"}
+{"passage_id": "244-0", "question_type": "descriptive", "anchor": "Which Druid subclass is made of mystics who guard ancient knowledge and rites?"}
+{"passage_id": "1573-1", "question_type": "lookup", "anchor": "How far away can the Ring of Shooting Stars launch a mote of light?"}
+{"passage_id": "1573-1", "question_type": "paraphrase", "anchor": "Can I spend several charges at once with the Ring of Shooting Stars?"}
+{"passage_id": "1573-1", "question_type": "descriptive", "anchor": "Which magic item launches glowing motes of light that burst into a cube of sparks, dealing radiant damage?"}
+{"passage_id": "1793-0", "question_type": "lookup", "anchor": "How many Hit Points does an Ancient Blue Dragon have?"}
+{"passage_id": "1793-0", "question_type": "paraphrase", "anchor": "In one turn, how many melee attacks can an Ancient Blue Dragon make with Multiattack?"}
+{"passage_id": "1793-0", "question_type": "descriptive", "anchor": "Which gargantuan lawful evil dragon breathes lightning in a long line?"}
+{"passage_id": "1793-0", "question_type": "table", "anchor": "What does an Ancient Blue Dragon add to Wisdom saves?"}
+{"passage_id": "2003-0", "question_type": "lookup", "anchor": "How many Hit Points does a Ghoul have?"}
+{"passage_id": "2003-0", "question_type": "paraphrase", "anchor": "When a Ghoul's bite lands, how much extra Necrotic damage do I suffer?"}
+{"passage_id": "2003-0", "question_type": "descriptive", "anchor": "Which undead's claw can paralyze a target that isn't undead or elf unless it makes a Constitution save?"}
+{"passage_id": "2003-0", "question_type": "table", "anchor": "What Intelligence score does a Ghoul have?"}
