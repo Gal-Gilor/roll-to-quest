@@ -11,6 +11,8 @@ from src.graphrag.evaluation import score
 from src.graphrag.graph import CONTAINS
 from src.graphrag.graph import REFERENCES
 from src.graphrag.graph import build_graph
+from src.graphrag.graph import parse_progression
+from src.graphrag.graph import spell_level
 from src.graphrag.retrieval import GraphRetriever
 
 REPO_ROOT = Path(__file__).parents[1]
@@ -22,6 +24,12 @@ MARKDOWN = dedent(
     | Attribute       | Description  |
     |-----------------|--------------|
     | Primary Ability | Intelligence |
+    ### Becoming a Wizard
+    | Level | Cantrips | Spell Slots Level 1 | Spell Slots Level 2 | Spell Slots Level 3 |
+    |-------|----------|---------------------|---------------------|---------------------|
+    | 1     | 3        | 2                   | -                   | -                   |
+    | 3     | 3        | 4                   | 2                   | -                   |
+    | 5     | 4        | 4                   | 3                   | 2                   |
     ### Wizard Subclass: Evoker
     #### Level 3: Potent Cantrip
     Your cantrips hit harder.
@@ -211,6 +219,7 @@ def test_format_context_lists_relationships_in_both_directions(graph):
     assert context.startswith("## [Spell] Spells > Spell Descriptions > Fireball\n")
     assert "- DEALS_DAMAGE: Fire" in context
     assert "- <- CAN_CAST: Mage" in context
+    assert "- CAST_BY: Wizard (from class level 5)" in context
     assert REFERENCES not in context
 
 
@@ -335,3 +344,49 @@ def test_graph_round_trips_through_neo4j(embedded_graph):
     assert {(s, t, d["type"]) for s, t, d in loaded.edges(data=True)} == {
         (s, t, d["type"]) for s, t, d in embedded_graph.edges(data=True)
     }
+
+
+# Class progression ------------------------------------------------------------------
+
+
+def test_spell_level_reads_the_first_line():
+    assert spell_level("Level 3 Evocation (Sorcerer, Wizard)\n\nA bright streak") == 3
+    assert spell_level("Evocation Cantrip (Sorcerer, Wizard)") == 0
+    assert spell_level("*Medium Undead, Chaotic Evil*") is None
+
+
+def test_parse_progression_reads_slot_columns_and_cantrips():
+    header = [
+        "Level",
+        "Cantrips",
+        "Spell Slots per Spell Level: 1",
+        "Spell Slots per Spell Level: 2",
+    ]
+    rows = [["1", "2", "2", "-"], ["2", "2", "3", "-"], ["3", "2", "4", "2"]]
+
+    assert parse_progression(header, rows) == {0: 1, 1: 1, 2: 3}
+
+
+def test_parse_progression_reads_warlock_slot_level_and_mystic_arcanum():
+    header = ["Level", "Class Features", "Cantrips", "Spell Slots", "Slot Level"]
+    rows = [
+        ["1", "Pact Magic", "2", "1", "1"],
+        ["3", "-", "2", "2", "2"],
+        ["11", "Mystic Arcanum (level 6 spell)", "4", "3", "5"],
+    ]
+
+    assert parse_progression(header, rows) == {0: 1, 1: 1, 2: 3, 3: 11, 4: 11, 5: 11, 6: 11}
+
+
+def test_parse_progression_ignores_other_tables():
+    assert parse_progression(["Attribute", "Description"], [["Hit Die", "D6"]]) == {}
+
+
+def test_class_links_to_its_level_table_and_spells_carry_class_levels(graph):
+    assert ("HAS_PROGRESSION", "Becoming a Wizard") in _edges(graph, "Class", "Wizard")
+
+    fireball = _node(graph, "Spell", "Fireball")
+    wizard = _node(graph, "Class", "Wizard")
+    assert graph.nodes[fireball]["spell_level"] == 3
+    assert graph.edges[fireball, wizard]["min_class_level"] == 5
+    assert graph.edges[_node(graph, "Spell", "Hold Person"), wizard]["min_class_level"] == 3
