@@ -20,28 +20,29 @@ def apply_verdicts(
     ]
 
 
-def split_by_node(
+def split_by_section(
     rows: list[dict], validation_share: float = 0.05, test_share: float = 0.1, seed: int = 0
 ) -> dict[str, list[dict]]:
-    """Split rows so that all pairs of a node land in the same split.
+    """Split rows so that all pairs of an SRD section land in the same split.
 
-    A model is then tested on entities it never saw a question about.
+    Rows are grouped by `breadcrumb`, the path of headers above the passage. A model is
+    then tested on sections it never saw a question about.
     """
-    by_node: dict[str, list[dict]] = defaultdict(list)
+    by_section: dict[str, list[dict]] = defaultdict(list)
     for row in rows:
-        by_node[row["node_id"]].append(row)
+        by_section[row["breadcrumb"]].append(row)
 
-    nodes = sorted(by_node)
-    random.Random(seed).shuffle(nodes)
-    num_test = round(len(nodes) * test_share)
-    num_validation = round(len(nodes) * validation_share)
-    node_splits = {
-        "test": nodes[:num_test],
-        "validation": nodes[num_test : num_test + num_validation],
-        "train": nodes[num_test + num_validation :],
+    sections = sorted(by_section)
+    random.Random(seed).shuffle(sections)
+    num_test = round(len(sections) * test_share)
+    num_validation = round(len(sections) * validation_share)
+    section_splits = {
+        "test": sections[:num_test],
+        "validation": sections[num_test : num_test + num_validation],
+        "train": sections[num_test + num_validation :],
     }
 
     return {
-        split: [row for node in split_nodes for row in by_node[node]]
-        for split, split_nodes in node_splits.items()
+        split: [row for section in split_sections for row in by_section[section]]
+        for split, split_sections in section_splits.items()
     }

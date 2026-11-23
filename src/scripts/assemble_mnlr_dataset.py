@@ -7,7 +7,8 @@ later verdict for a row replaces an earlier one, so a file like zz_adjudicated.j
 settles the rows the judge marked "unsure".
 
 Writes train.jsonl, validation.jsonl and test.jsonl to <data>/dataset/, with the dataset
-card as README.md. The split is by node, so all pairs of a node land in the same split.
+card as README.md. Each row has only `anchor`, `positive` and `question_type`. The split
+is by SRD section, so all pairs of a section land in the same split.
 
 To publish the folder:
     huggingface-cli upload <user>/<name> data/mnlr/dataset . --repo-type dataset
@@ -23,10 +24,13 @@ from collections import Counter
 from pathlib import Path
 
 from src.mnlr.assembly import apply_verdicts
-from src.mnlr.assembly import split_by_node
+from src.mnlr.assembly import split_by_section
 from src.mnlr.validation import HARD_RANK
 
 DATASET_CARD = Path(__file__).parents[1] / "mnlr" / "DATASET_CARD.md"
+# The published dataset holds only the pair and its question type. The other fields in
+# validated.jsonl describe how the pairs were made and stay local.
+DATASET_FIELDS = ("anchor", "positive", "question_type")
 
 
 def main() -> None:
@@ -57,16 +61,14 @@ def main() -> None:
     output = args.data / "dataset"
     output.mkdir(exist_ok=True)
     shutil.copy(DATASET_CARD, output / "README.md")
-    for split, split_rows in split_by_node(accepted, seed=args.seed).items():
+    for split, split_rows in split_by_section(accepted, seed=args.seed).items():
         with (output / f"{split}.jsonl").open("w", encoding="utf-8") as file:
-            file.writelines(json.dumps(row, ensure_ascii=False) + "\n" for row in split_rows)
+            for row in split_rows:
+                record = {field: row[field] for field in DATASET_FIELDS}
+                file.write(json.dumps(record, ensure_ascii=False) + "\n")
         types = Counter(row["question_type"] for row in split_rows)
-        nodes = len({row["node_id"] for row in split_rows})
-        hard_kept = sum(row["bm25_rank"] > args.hard_rank for row in split_rows)
-        print(
-            f"{split}: {len(split_rows):,} pairs from {nodes:,} nodes, "
-            f"{hard_kept:,} hard, {dict(types)}"
-        )
+        sections = len({row["breadcrumb"] for row in split_rows})
+        print(f"{split}: {len(split_rows):,} pairs from {sections:,} sections, {dict(types)}")
 
 
 if __name__ == "__main__":
