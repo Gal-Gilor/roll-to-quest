@@ -99,6 +99,7 @@ The graph is built in `src/graphrag/graph.py`:
 3. Damage types, schools of magic, sizes and the other enums in `src/extraction/enums.py` become nodes of their own.
 4. Rules read the fixed-format lines of each entity. A spell's first line gives `BELONGS_TO_SCHOOL` and `CAST_BY`, a monster's Immunities line gives `IMMUNE_TO_DAMAGE` and `IMMUNE_TO_CONDITION`.
 5. A node whose text names another node gets an edge typed by the two labels, such as Monster `CAN_CAST` Spell, or `REFERENCES` when the pair has no specific meaning.
+6. Each spellcasting class is linked to its level table with `HAS_PROGRESSION`. The table gives the lowest class level with a slot of each spell level, which goes on the spell's `CAST_BY` edge as `min_class_level`. Fireball is a level 3 spell, so its edge to Wizard carries 5, and the context sent to Gemini reads "CAST_BY: Sorcerer (from class level 5), Wizard (from class level 5)".
 
 Labels and edge types follow `src/extraction/entities.json` and `relationships.json`. The rules are heuristics, so a small share of edges is wrong.
 

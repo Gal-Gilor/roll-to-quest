@@ -70,7 +70,10 @@ def save_graph(graph: nx.DiGraph, driver: Driver, node_label: str = NODE_LABEL) 
 
     edges_by_type: dict[str, list[dict]] = defaultdict(list)
     for source, target, data in graph.edges(data=True):
-        edges_by_type[_identifier(data["type"])].append({"source": source, "target": target})
+        properties = {key: value for key, value in data.items() if key != "type"}
+        edges_by_type[_identifier(data["type"])].append(
+            {"source": source, "target": target, "properties": properties}
+        )
 
     with driver.session() as session:
         session.run(
@@ -93,7 +96,7 @@ def save_graph(graph: nx.DiGraph, driver: Driver, node_label: str = NODE_LABEL) 
                     f"UNWIND $rows AS row "
                     f"MATCH (a:{node_label} {{id: row.source}}) "
                     f"MATCH (b:{node_label} {{id: row.target}}) "
-                    f"CREATE (a)-[:{edge_type}]->(b)",
+                    f"CREATE (a)-[r:{edge_type}]->(b) SET r = row.properties",
                     rows=batch,
                 )
 
@@ -115,8 +118,14 @@ def load_graph(driver: Driver, node_label: str = NODE_LABEL) -> nx.DiGraph:
 
         for record in session.run(
             f"MATCH (a:{node_label})-[r]->(b:{node_label}) "
-            f"RETURN a.id AS source, type(r) AS type, b.id AS target"
+            f"RETURN a.id AS source, type(r) AS type, b.id AS target, "
+            f"properties(r) AS properties"
         ):
-            graph.add_edge(record["source"], record["target"], type=record["type"])
+            graph.add_edge(
+                record["source"],
+                record["target"],
+                type=record["type"],
+                **dict(record["properties"]),
+            )
 
     return graph

@@ -152,13 +152,20 @@ class GraphRetriever:
 
         return seeds + neighbors[:num_neighbors]
 
+    def _describe(self, node_id: str, edge: dict) -> str:
+        """Name the other end of an edge, with the edge's class level if it has one."""
+        header = self.graph.nodes[node_id]["header"]
+        level = edge.get("min_class_level")
+
+        return f"{header} (from class level {level})" if level is not None else header
+
     def _relationships(self, node_id: str) -> str:
         """List a node's typed edges, one line per type. "<-" marks incoming edges."""
         names: dict[str, list[str]] = defaultdict(list)
         for _, target, data in self.graph.out_edges(node_id, data=True):
-            names[data["type"]].append(self.graph.nodes[target]["header"])
+            names[data["type"]].append(self._describe(target, data))
         for source, _, data in self.graph.in_edges(node_id, data=True):
-            names[f"<- {data['type']}"].append(self.graph.nodes[source]["header"])
+            names[f"<- {data['type']}"].append(self._describe(source, data))
 
         return "\n".join(
             f"- {edge_type}: {', '.join(sorted(headers))}"

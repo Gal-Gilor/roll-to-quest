@@ -45,6 +45,16 @@
         "type": "SYNERGIZES_WITH_RACE",
         "target": "Race",
         "description": "Class has good synergy with this race"
+      },
+      {
+        "type": "HAS_PROGRESSION",
+        "target": "Section",
+        "description": "Class's level table: proficiency bonus, features and spell slots per class level"
+      },
+      {
+        "type": "HAS_PROGRESSION",
+        "target": "Feature",
+        "description": "Class's level table, when it sits inside a class feature"
       }
     ],
     "Race": [

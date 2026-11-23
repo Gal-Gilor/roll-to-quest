@@ -12,6 +12,10 @@ The SRD is regular enough to read entities and relationships from its structure:
 5. FIELD_RULES read fixed-format lines, such as a monster's Immunities line.
 6. A section that names another section's header gets an edge typed by the two labels
    (REFERENCE_TYPES), or REFERENCES when the pair has no specific meaning.
+7. Each spellcasting class is linked to its level table (HAS_PROGRESSION). The table
+   gives the lowest class level with a slot of each spell level, which is stored on
+   the spell's CAST_BY edge as `min_class_level`: Fireball is a level 3 spell, so its
+   edge to Wizard carries 5. Spell nodes get a `spell_level` attribute (0 for cantrips).
 
 Labels and edge types follow `src/extraction/entities.json` and `relationships.json`.
 The graph is rebuilt in memory on startup, so nothing is persisted.
@@ -32,6 +36,8 @@ from src.extraction import enums
 SECTION = "Section"
 CONTAINS = "CONTAINS"
 REFERENCES = "REFERENCES"
+CAST_BY = "CAST_BY"
+HAS_PROGRESSION = "HAS_PROGRESSION"
 
 # Entities whose subsections are other entities, so they don't absorb them.
 CONTAINER_LABELS = frozenset({SECTION, "Class", "Subclass"})
@@ -85,7 +91,7 @@ _VULNERABILITIES = _line(r"\*\*Vulnerabilities\*\* ")
 FIELD_RULES = [
     # "Level 3 Evocation (Sorcerer, Wizard)"
     FieldRule("Spell", _FIRST_LINE, "SchoolOfMagic", "BELONGS_TO_SCHOOL"),
-    FieldRule("Spell", _FIRST_LINE, "Class", "CAST_BY"),
+    FieldRule("Spell", _FIRST_LINE, "Class", CAST_BY),
     FieldRule("Spell", re.compile(r"(\w+) damage"), "DamageType", "DEALS_DAMAGE"),
     FieldRule("Spell", re.compile(r"(\w+) saving throw"), "AbilityScore", "REQUIRES_SAVE"),
     FieldRule("Spell", _INFLICTS, "Condition", "INFLICTS_CONDITION"),
@@ -301,6 +307,109 @@ def _add_reference_edges(graph: nx.DiGraph) -> None:
                 graph.add_edge(source, target, type=edge_type)
 
 
+# "Level 3 Evocation (Sorcerer, Wizard)" or "Evocation Cantrip (Sorcerer, Wizard)"
+_SPELL_LEVEL = re.compile(r"\A(?:Level (\d) \w+|\w+ Cantrip) \(")
+# "Spell Slots Level 3" or "Spell Slots per Spell Level: 3"
+_SLOT_COLUMN = re.compile(r"^Spell Slots\b.*?(\d)$")
+# Warlocks get spells above level 5 from Mystic Arcanum, named in the features column
+_ARCANUM = re.compile(r"Mystic Arcanum \(level (\d) spell\)")
+
+
+def spell_level(content: str) -> int | None:
+    """Return a spell's level from its first line, 0 for a cantrip, None if absent."""
+    match = _SPELL_LEVEL.match(content)
+    if match is None:
+        return None
+
+    return int(match.group(1)) if match.group(1) else 0
+
+
+def _tables(content: str) -> list[tuple[list[str], list[list[str]]]]:
+    """Return the Markdown tables in a text as (header cells, row cells) pairs."""
+    tables, lines = [], content.splitlines()
+    for index, line in enumerate(lines):
+        is_header = line.startswith("|") and (
+            index == 0 or not lines[index - 1].startswith("|")
+        )
+        if not is_header or index + 1 >= len(lines) or "---" not in lines[index + 1]:
+            continue
+        rows = []
+        for row in lines[index + 2 :]:
+            if not row.startswith("|"):
+                break
+            rows.append([cell.strip() for cell in row.strip().strip("|").split("|")])
+        tables.append(([cell.strip() for cell in line.strip().strip("|").split("|")], rows))
+
+    return tables
+
+
+def parse_progression(header: list[str], rows: list[list[str]]) -> dict[int, int]:
+    """Map each spell level to the lowest class level that can cast spells of it.
+
+    Reads a class level table: "Cantrips" gives level 0, a "Spell Slots ... N" column
+    gives level N, a Warlock's "Slot Level" column gives every level up to its value,
+    and "Mystic Arcanum (level N spell)" in the features column gives level N.
+    Returns an empty dict for a table that is not a class level table.
+    """
+    if not header or header[0] != "Level":
+        return {}
+
+    first: dict[int, int] = {}
+    for row in rows:
+        cells = dict(zip(header, row))
+        if not cells.get("Level", "").isdigit():
+            continue
+        class_level = int(cells["Level"])
+        available = set()
+        for column, value in cells.items():
+            if value in ("", "-", "—"):
+                continue
+            if column == "Cantrips":
+                available.add(0)
+            elif match := _SLOT_COLUMN.match(column):
+                available.add(int(match.group(1)))
+            elif column == "Slot Level" and value.isdigit():
+                available.update(range(1, int(value) + 1))
+        available.update(int(m) for m in _ARCANUM.findall(cells.get("Class Features", "")))
+        for level in available:
+            first.setdefault(level, class_level)
+
+    return first
+
+
+def _add_progressions(graph: nx.DiGraph) -> None:
+    """Link each class to its level table and put class levels on CAST_BY edges."""
+    progressions: dict[str, dict[int, int]] = {}
+    for class_node, class_data in list(graph.nodes(data=True)):
+        if class_data["label"] != "Class":
+            continue
+        prefix = f"Classes > {class_data['header']}"
+        candidates = [
+            node
+            for node, data in graph.nodes(data=True)
+            if data["breadcrumb"] == prefix or data["breadcrumb"].startswith(f"{prefix} > ")
+        ]
+        for node in candidates:
+            parsed = [
+                parse_progression(*table) for table in _tables(graph.nodes[node]["content"])
+            ]
+            progression = next((levels for levels in parsed if levels), None)
+            if progression:
+                progressions[class_node] = progression
+                if node != class_node:
+                    graph.add_edge(class_node, node, type=HAS_PROGRESSION)
+                break
+
+    for node, data in graph.nodes(data=True):
+        if data["label"] != "Spell" or (level := spell_level(data["content"])) is None:
+            continue
+        data["spell_level"] = level
+        for _, class_node, edge in graph.out_edges(node, data=True):
+            min_level = progressions.get(class_node, {}).get(level)
+            if edge["type"] == CAST_BY and min_level is not None:
+                edge["min_class_level"] = min_level
+
+
 def build_graph(markdown_path: str | Path) -> nx.DiGraph:
     """Split a Markdown file into sections and link them into a directed graph.
 
@@ -309,13 +418,15 @@ def build_graph(markdown_path: str | Path) -> nx.DiGraph:
 
     Returns:
         A graph keyed by string node ids. Nodes have `label` (entity type), `header`,
-        `breadcrumb`, `category` (the top-level header) and `content` attributes. Each
-        edge has a `type` attribute.
+        `breadcrumb`, `category` (the top-level header) and `content` attributes; spells
+        also have `spell_level`. Each edge has a `type` attribute; CAST_BY edges also
+        have `min_class_level` when the class's level table gives it.
     """
     graph = nx.DiGraph()
     _add_section_nodes(graph, MarkdownSplitter().split_file(markdown_path))
     _add_concept_nodes(graph)
     _add_field_edges(graph)
     _add_reference_edges(graph)
+    _add_progressions(graph)
 
     return graph
