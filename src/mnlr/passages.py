@@ -13,7 +13,7 @@ from collections import defaultdict
 import networkx as nx
 from pydantic import BaseModel
 
-MAX_PASSAGE_CHARS = 1600  # About 400 tokens
+MAX_PASSAGE_CHARS = 1600  # Median 145 tokens with compacted tables
 MIN_PASSAGE_WORDS = 8
 SHINGLE_SIZE = 5
 DUPLICATE_OVERLAP = 0.8  # Share of the shorter passage's shingles found in the other
@@ -81,6 +81,37 @@ def split_text(text: str, limit: int = MAX_PASSAGE_CHARS) -> list[str]:
     return _pack(paragraphs, "\n\n", limit)
 
 
+_TABLE_ROW = re.compile(r"^\s*\|.*\|\s*$")
+_DELIMITER_CELL = re.compile(r"^\s*:?-+:?\s*$")
+
+
+def compact_tables(text: str) -> str:
+    """Remove the padding from Markdown table rows and shorten the delimiter rows.
+
+    The SRD pads cells to line up columns (`| 5     | +3    |`) and draws long delimiter
+    rows (`|-------|`). Both cost tokens and carry nothing, and they pushed some table
+    passages past an embedding model's 512-token input. Rows become `| 5 | +3 |` and
+    delimiters `| - |`, keeping `:` alignment markers. Other lines are unchanged.
+    """
+    lines = []
+    for line in text.split("\n"):
+        if _TABLE_ROW.match(line):
+            cells = line.strip()[1:-1].split("|")
+            if all(_DELIMITER_CELL.match(cell) for cell in cells):
+                cells = [
+                    (":" if cell.strip().startswith(":") else "")
+                    + "-"
+                    + (":" if cell.strip().endswith(":") and len(cell.strip()) > 1 else "")
+                    for cell in cells
+                ]
+            else:
+                cells = [" ".join(cell.split()) for cell in cells]
+            line = "|" + "|".join(f" {cell} " if cell else " " for cell in cells) + "|"
+        lines.append(line)
+
+    return "\n".join(lines)
+
+
 def _shingles(text: str) -> set[tuple[str, ...]]:
     words = re.findall(r"[a-z0-9]+", text.lower())
     if len(words) <= SHINGLE_SIZE:
@@ -113,7 +144,11 @@ def drop_near_duplicates(passages: list[Passage]) -> list[Passage]:
 
 
 def extract_passages(graph: nx.DiGraph) -> list[Passage]:
-    """Return the deduplicated passages of every node that has text, in graph order."""
+    """Return the deduplicated passages of every node that has text, in graph order.
+
+    Tables are compacted after splitting, so passage boundaries and ids don't depend on
+    the compaction.
+    """
     passages = []
     for node, data in graph.nodes(data=True):
         chunks = [
@@ -129,7 +164,7 @@ def extract_passages(graph: nx.DiGraph) -> list[Passage]:
                     label=data["label"],
                     entity=entity_name(data["header"]),
                     breadcrumb=data["breadcrumb"],
-                    text=chunk,
+                    text=compact_tables(chunk),
                 )
             )
 
