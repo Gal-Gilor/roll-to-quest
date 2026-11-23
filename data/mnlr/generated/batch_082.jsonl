@@ -1,0 +1,80 @@
+{"passage_id": "2117-0", "question_type": "lookup", "anchor": "How far is the long range of a Hobgoblin Warrior's Longbow attack?"}
+{"passage_id": "2117-0", "question_type": "paraphrase", "anchor": "Does a Hobgoblin Warrior get an edge on attacks when an ally stands within 5 feet of the target?"}
+{"passage_id": "2117-0", "question_type": "descriptive", "anchor": "Which goblinoid fey fighter wears half plate and carries a shield and a longbow?"}
+{"passage_id": "2117-0", "question_type": "table", "anchor": "Does a Hobgoblin Warrior add a bonus to Constitution saves?"}
+{"passage_id": "1667-0", "question_type": "lookup", "anchor": "How many ability scores does every monster have in a stat block?"}
+{"passage_id": "1667-0", "question_type": "paraphrase", "anchor": "Do a monster's six ability scores come with modifiers and saving throw numbers too?"}
+{"passage_id": "1667-0", "question_type": "descriptive", "anchor": "If I'm reading a monster's stat block, what does the group of six numbers on it represent?"}
+{"passage_id": "572-0", "question_type": "lookup", "anchor": "How close must a second enemy be to my first target for a sweeping weapon mastery to hit it?"}
+{"passage_id": "572-0", "question_type": "paraphrase", "anchor": "Do I add my usual ability bonus to the damage of a sweeping follow-up swing at a second foe?"}
+{"passage_id": "572-0", "question_type": "descriptive", "anchor": "Which weapon mastery lets me make one extra attack per turn against an enemy standing next to my first target?"}
+{"passage_id": "984-0", "question_type": "lookup", "anchor": "How long does Mass Suggestion last when cast with a 7th-level spell slot?"}
+{"passage_id": "984-0", "question_type": "paraphrase", "anchor": "How many folks can I nudge at once with Mass Suggestion if they can hear me?"}
+{"passage_id": "984-0", "question_type": "descriptive", "anchor": "Which level 6 Enchantment spell makes a group of people follow a plan they hear, for up to a day?"}
+{"passage_id": "225-0", "question_type": "lookup", "anchor": "What is a Druid's primary ability score?"}
+{"passage_id": "225-0", "question_type": "paraphrase", "anchor": "Which two kinds of resistance rolls are a Druid good at?"}
+{"passage_id": "225-0", "question_type": "descriptive", "anchor": "Which class gets Herbalism Kit proficiency and also light armor and shields training?"}
+{"passage_id": "225-0", "question_type": "table", "anchor": "Under the core traits table, what die does a Druid roll for hit points at each level?"}
+{"passage_id": "1663-0", "question_type": "lookup", "anchor": "Does a monster's armor rating count its Dexterity?"}
+{"passage_id": "1663-0", "question_type": "paraphrase", "anchor": "Does a monster's armor rating count tough natural skin as well as worn gear?"}
+{"passage_id": "1663-0", "question_type": "descriptive", "anchor": "If I'm reading a monster's stat block, what number tells me how hard it is to hit?"}
+{"passage_id": "600-0", "question_type": "lookup", "anchor": "How much does a set of Mason's Tools weigh?"}
+{"passage_id": "600-0", "question_type": "paraphrase", "anchor": "How hard is it, with Mason's Tools, to carve a symbol or hole into rock?"}
+{"passage_id": "600-0", "question_type": "descriptive", "anchor": "Which tool kit lets a crafter make a block and tackle and is used with Strength checks?"}
+{"passage_id": "168-0", "question_type": "lookup", "anchor": "What bonus does the Sundering Blow option of Improved Brutal Strike give?"}
+{"passage_id": "168-0", "question_type": "paraphrase", "anchor": "With Improved Brutal Strike, can I make a foe roll at a disadvantage on its next resist roll?"}
+{"passage_id": "168-0", "question_type": "descriptive", "anchor": "Which level 13 Barbarian ability lets me stop a foe from making Opportunity Attacks until my next turn?"}
+{"passage_id": "1574-0", "question_type": "lookup", "anchor": "How many spell levels can a Ring of Spell Storing hold at one time?"}
+{"passage_id": "1574-0", "question_type": "paraphrase", "anchor": "If I'm wearing a Ring of Spell Storing, can I cast spells someone else tucked into it?"}
+{"passage_id": "1574-0", "question_type": "descriptive", "anchor": "Which ring lets someone stash a spell of up to level five inside it for a wearer to cast later?"}
+{"passage_id": "1514-0", "question_type": "lookup", "anchor": "What spellcasting requirement is needed to decipher and use a Manual of Golems?"}
+{"passage_id": "1514-0", "question_type": "paraphrase", "anchor": "If I try to read a Manual of Golems without being a spellcaster, what happens to me?"}
+{"passage_id": "1514-0", "question_type": "descriptive", "anchor": "Which tome lets a d20 roll pick the golem type, and burns up after you make one?"}
+{"passage_id": "1514-0", "question_type": "table", "anchor": "In the Manual of Golems table, how many days does it take to create an Iron Golem?"}
+{"passage_id": "123-0", "question_type": "lookup", "anchor": "What two factors make up a creature's alignment?"}
+{"passage_id": "123-0", "question_type": "paraphrase", "anchor": "Which alignment fits a person who follows the law and personal codes without being swayed by evil temptations?"}
+{"passage_id": "123-0", "question_type": "descriptive", "anchor": "What alignment describes a rebel who steals from corrupt tax collectors and gives the money to the poor?"}
+{"passage_id": "2348-1", "question_type": "lookup", "anchor": "What DC Constitution save does a Remorhaz make if it takes 30 damage in one turn from swallowed creatures?"}
+{"passage_id": "2348-1", "question_type": "paraphrase", "anchor": "If a Remorhaz dies, can a swallowed victim get out of the corpse on its own?"}
+{"passage_id": "2348-1", "question_type": "descriptive", "anchor": "Which monster coughs up its swallowed victims when it takes heavy damage from inside?"}
+{"passage_id": "1435-0", "question_type": "lookup", "anchor": "What does a Cloak of Elvenkind do to Wisdom (Perception) checks made to notice me?"}
+{"passage_id": "1435-0", "question_type": "paraphrase", "anchor": "Does a Cloak of Elvenkind give me an edge when I try to sneak around unseen?"}
+{"passage_id": "1435-0", "question_type": "descriptive", "anchor": "Which uncommon cloak needs attunement and makes it harder for people to spot the wearer?"}
+{"passage_id": "1674-0", "question_type": "lookup", "anchor": "Where can I find the definitions of Passive Perception and special senses?"}
+{"passage_id": "1674-0", "question_type": "paraphrase", "anchor": "Does the sensing part of a monster's stat block also track how well it notices things without trying?"}
+{"passage_id": "1674-0", "question_type": "descriptive", "anchor": "Which stat block part would show a monster's unusual ways of perceiving things beyond normal sight?"}
+{"passage_id": "837-0", "question_type": "lookup", "anchor": "What ability score is used for the saving throw against Counterspell?"}
+{"passage_id": "837-0", "question_type": "paraphrase", "anchor": "If I interrupt a caster's spell with Counterspell, does their spell slot get used up anyway?"}
+{"passage_id": "837-0", "question_type": "descriptive", "anchor": "Which reaction spell lets me disrupt a nearby caster whose spell has verbal, somatic or material components?"}
+{"passage_id": "906-0", "question_type": "lookup", "anchor": "What is the radius of a Fog Cloud when cast with a level 1 spell slot?"}
+{"passage_id": "906-0", "question_type": "paraphrase", "anchor": "If I use a bigger spell slot for Fog Cloud, how much wider does the mist get?"}
+{"passage_id": "906-0", "question_type": "descriptive", "anchor": "Which Conjuration spell creates a dense cloud that blocks sight and is dispersed by strong wind?"}
+{"passage_id": "580-2", "question_type": "lookup", "anchor": "Which weapon mastery property does the Glaive have?"}
+{"passage_id": "580-2", "question_type": "paraphrase", "anchor": "Can I use my agility instead of brute strength when swinging a Rapier?"}
+{"passage_id": "580-2", "question_type": "descriptive", "anchor": "Which heavy two-handed weapon deals 2d6 bludgeoning damage and has the Topple mastery?"}
+{"passage_id": "580-2", "question_type": "table", "anchor": "In the mastery properties table, how heavy is a Pike?"}
+{"passage_id": "1277-0", "question_type": "lookup", "anchor": "Does a weapon attack require an attack roll?"}
+{"passage_id": "1277-0", "question_type": "paraphrase", "anchor": "Does a bow shot count as a weapon attack?"}
+{"passage_id": "1277-0", "question_type": "descriptive", "anchor": "What's the name for an attack roll made with a sword, axe, or bow?"}
+{"passage_id": "714-0", "question_type": "lookup", "anchor": "How do I spend on necessities at the Comfortable lifestyle level?"}
+{"passage_id": "714-0", "question_type": "paraphrase", "anchor": "How much gold a day does a Comfortable lifestyle run me?"}
+{"passage_id": "714-0", "question_type": "descriptive", "anchor": "Which lifestyle tier lets me treat myself now and then while keeping my everyday spending in check?"}
+{"passage_id": "6-0", "question_type": "lookup", "anchor": "Which everyday challenges call for an ability check, such as picking a lock?"}
+{"passage_id": "6-0", "question_type": "paraphrase", "anchor": "Do ability checks only come up when I attack something, or also for other risky moves?"}
+{"passage_id": "6-0", "question_type": "descriptive", "anchor": "When is a roll of the dice what decides an uncertain outcome that matters to the story?"}
+{"passage_id": "283-0", "question_type": "lookup", "anchor": "How is a Monk's base Armor Class calculated with Unarmored Defense?"}
+{"passage_id": "283-0", "question_type": "paraphrase", "anchor": "Can I use a shield and still get Unarmored Defense as a Monk?"}
+{"passage_id": "283-0", "question_type": "descriptive", "anchor": "Which level 1 Monk feature sets my defense from my agility and insight when I wear no armor?"}
+{"passage_id": "1561-0", "question_type": "lookup", "anchor": "How many charges does a Ring of Animal Influence have?"}
+{"passage_id": "1561-0", "question_type": "paraphrase", "anchor": "At what time of day does a Ring of Animal Influence refill its used charges?"}
+{"passage_id": "1561-0", "question_type": "descriptive", "anchor": "Which ring lets me spend a charge to cast Animal Friendship or Fear with DC 13?"}
+{"passage_id": "1469-0", "question_type": "lookup", "anchor": "How far out does Eyes of Minute Seeing improve my vision?"}
+{"passage_id": "1469-0", "question_type": "paraphrase", "anchor": "With Eyes of Minute Seeing on, do I get an edge when investigating small things up close?"}
+{"passage_id": "1469-0", "question_type": "descriptive", "anchor": "Which uncommon wondrous item of crystal lenses gives me darkvision, but only very close up?"}
+{"passage_id": "2882-0", "question_type": "lookup", "anchor": "How far must a Rhinoceros move toward a target before its Gore can knock it Prone?"}
+{"passage_id": "2882-0", "question_type": "paraphrase", "anchor": "Can a Rhinoceros's Gore also knock down a Huge foe?"}
+{"passage_id": "2882-0", "question_type": "descriptive", "anchor": "Which large beast with 45 hit points and a 13 AC has a single gore attack?"}
+{"passage_id": "2882-0", "question_type": "table", "anchor": "How strong is a Rhinoceros, as an ability score?"}
+{"passage_id": "478-0", "question_type": "lookup", "anchor": "How much Psychic damage does Hurl Through Hell deal to a target that isn't a Fiend?"}
+{"passage_id": "478-0", "question_type": "paraphrase", "anchor": "Can I use Hurl Through Hell again before a long rest by spending a Pact Magic slot?"}
+{"passage_id": "478-0", "question_type": "descriptive", "anchor": "Which Warlock level 14 feature lets me once per turn send a struck foe into a nightmare landscape?"}

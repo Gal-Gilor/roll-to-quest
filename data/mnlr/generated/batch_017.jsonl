@@ -1,0 +1,81 @@
+{"passage_id": "1006-0", "question_type": "lookup", "anchor": "How long does it take to cast Planar Ally?"}
+{"passage_id": "1006-0", "question_type": "paraphrase", "anchor": "Does a helper summoned by Planar Ally have to do what I ask for free?"}
+{"passage_id": "1006-0", "question_type": "descriptive", "anchor": "What spell lets me beg a god or demon prince to send a helper that I might have to bargain with?"}
+{"passage_id": "178-0", "question_type": "lookup", "anchor": "How large an area does Intimidating Presence affect?"}
+{"passage_id": "178-0", "question_type": "paraphrase", "anchor": "How long does Intimidating Presence scare someone and can they shake it off on their turns?"}
+{"passage_id": "178-0", "question_type": "descriptive", "anchor": "Which Berserker-path Barbarian feature lets me use a bonus action to terrify chosen creatures nearby?"}
+{"passage_id": "2651-0", "question_type": "lookup", "anchor": "What is the Constrictor Snake's Passive Perception score?"}
+{"passage_id": "2651-0", "question_type": "paraphrase", "anchor": "If a Constrictor Snake squeezes me, how much bludgeoning damage can it deal on a failed save?"}
+{"passage_id": "2651-0", "question_type": "descriptive", "anchor": "Which large snake that can swim wraps around a nearby creature to grapple it?"}
+{"passage_id": "2651-0", "question_type": "table", "anchor": "What is a Constrictor Snake's Charisma modifier?"}
+{"passage_id": "1203-0", "question_type": "lookup", "anchor": "Can my hit points ever go above my maximum?"}
+{"passage_id": "1203-0", "question_type": "paraphrase", "anchor": "Can my hit points drop below zero, or does zero work as a floor?"}
+{"passage_id": "1203-0", "question_type": "descriptive", "anchor": "What measure of how hard it is to kill a creature or object goes down when it takes damage?"}
+{"passage_id": "949-0", "question_type": "lookup", "anchor": "How far away can I cast Hypnotic Pattern?"}
+{"passage_id": "949-0", "question_type": "paraphrase", "anchor": "Does Hypnotic Pattern's trance break if a victim gets hurt or a friend shakes it awake?"}
+{"passage_id": "949-0", "question_type": "descriptive", "anchor": "Which level 3 illusion makes creatures who watch swirling colors become charmed and unable to act?"}
+{"passage_id": "1815-0", "question_type": "lookup", "anchor": "How many Hit Points does a Bronze Dragon Wyrmling have?"}
+{"passage_id": "1815-0", "question_type": "paraphrase", "anchor": "Can a Bronze Dragon Wyrmling breathe underwater as well as air?"}
+{"passage_id": "1815-0", "question_type": "descriptive", "anchor": "Which young lawful good dragon is immune to lightning damage and has a breath that pushes foes away?"}
+{"passage_id": "1815-0", "question_type": "table", "anchor": "What does a Bronze Dragon Wyrmling add to Dexterity saving throws?"}
+{"passage_id": "731-0", "question_type": "lookup", "anchor": "What kinds of items count as paired items, such as boots and gloves?"}
+{"passage_id": "731-0", "question_type": "paraphrase", "anchor": "If I wear two different boots, one on each foot, do paired items still give me either effect?"}
+{"passage_id": "731-0", "question_type": "descriptive", "anchor": "What rule says a magic item pair only helps if I put on both pieces, like one glove and its mate?"}
+{"passage_id": "1950-1", "question_type": "lookup", "anchor": "What is the spell save DC of an Efreeti's spellcasting?"}
+{"passage_id": "1950-1", "question_type": "paraphrase", "anchor": "Can an Efreeti cast Plane Shift as many times as it wants, or is it limited?"}
+{"passage_id": "1950-1", "question_type": "descriptive", "anchor": "Which monster can cast Wall of Fire once a day and Detect Magic at will, using Charisma?"}
+{"passage_id": "1108-1", "question_type": "lookup", "anchor": "How many Hit Points does each panel of Wall of Stone have per inch of thickness?"}
+{"passage_id": "1108-1", "question_type": "paraphrase", "anchor": "Can anyone dispel Wall of Stone if I hold concentration for its full duration?"}
+{"passage_id": "1108-1", "question_type": "descriptive", "anchor": "Which stone wall of panels can be breached by reducing a panel to zero health?"}
+{"passage_id": "444-0", "question_type": "lookup", "anchor": "Can a Warlock add their Charisma modifier to a damage cantrip's damage rolls?"}
+{"passage_id": "444-0", "question_type": "paraphrase", "anchor": "How high a level must a Warlock reach to take the invocation that adds Charisma to cantrip damage?"}
+{"passage_id": "444-0", "question_type": "descriptive", "anchor": "Which Warlock option can be taken several times, each time for a different damaging cantrip?"}
+{"passage_id": "1010-0", "question_type": "lookup", "anchor": "How far away can Poison Spray reach a target?"}
+{"passage_id": "1010-0", "question_type": "paraphrase", "anchor": "At what character level does Poison Spray's damage go up to 2d12?"}
+{"passage_id": "1010-0", "question_type": "descriptive", "anchor": "Which necromancy cantrip hits a creature with a ranged spell attack for poison damage?"}
+{"passage_id": "1612-0", "question_type": "lookup", "anchor": "How many charges does a Staff of Power hold?"}
+{"passage_id": "1612-0", "question_type": "paraphrase", "anchor": "If I spend the last charge of my Staff of Power and roll a 1, what bonus remains?"}
+{"passage_id": "1612-0", "question_type": "descriptive", "anchor": "What very rare staff that needs attunement by a sorcerer, warlock, or wizard lets me cast spells using charges?"}
+{"passage_id": "1612-0", "question_type": "table", "anchor": "How many charges does it cost to cast Globe of Invulnerability from a Staff of Power?"}
+{"passage_id": "1394-0", "question_type": "lookup", "anchor": "What does Adamantine Armor do to Critical Hits against me?"}
+{"passage_id": "1394-0", "question_type": "paraphrase", "anchor": "Does Adamantine Armor work on both medium and heavy armor, or just one kind?"}
+{"passage_id": "1394-0", "question_type": "descriptive", "anchor": "Which uncommon suit of armor is reinforced with one of the hardest substances in existence?"}
+{"passage_id": "1693-1", "question_type": "lookup", "anchor": "What is the escape DC for a Tentacle grapple on an Aboleth?"}
+{"passage_id": "1693-1", "question_type": "paraphrase", "anchor": "When I chat with an Aboleth telepathically, what does it learn about my deepest wants?"}
+{"passage_id": "1693-1", "question_type": "descriptive", "anchor": "Which monster can take control of one creature's mind twice a day, using Wisdom saves?"}
+{"passage_id": "360-0", "question_type": "lookup", "anchor": "What does a C in the Special column mean for ranger spells?"}
+{"passage_id": "360-0", "question_type": "paraphrase", "anchor": "Are the ranger's spells listed alphabetically within each spell level?"}
+{"passage_id": "360-0", "question_type": "descriptive", "anchor": "Which nature-focused class's level 1 spells start with Alarm, Animal Friendship, and Cure Wounds?"}
+{"passage_id": "360-0", "question_type": "table", "anchor": "On the Ranger's level 1 spell list, what school of magic is Fog Cloud?"}
+{"passage_id": "1018-2", "question_type": "lookup", "anchor": "What spell destroys the Violet layer of a Prismatic Wall?"}
+{"passage_id": "1018-2", "question_type": "paraphrase", "anchor": "Can I cast a spell through the Indigo layer of a Prismatic Wall to hit someone behind it?"}
+{"passage_id": "1018-2", "question_type": "descriptive", "anchor": "Which barrier has a layer that blinds a creature and teleports it to another plane after a failed save?"}
+{"passage_id": "1018-2", "question_type": "table", "anchor": "On the Indigo layer of a Prismatic Wall, what happens after a creature fails its save three times?"}
+{"passage_id": "267-0", "question_type": "lookup", "anchor": "How long does the Advantage from Studied Attacks last?"}
+{"passage_id": "267-0", "question_type": "paraphrase", "anchor": "If I swing and whiff with Studied Attacks, does the next swing against that foe get an edge?"}
+{"passage_id": "267-0", "question_type": "descriptive", "anchor": "Which level 13 Fighter feature is about studying your opponents and learning from each swing?"}
+{"passage_id": "2765-0", "question_type": "lookup", "anchor": "What is the Giant Shark's swimming Speed?"}
+{"passage_id": "2765-0", "question_type": "paraphrase", "anchor": "Can a Giant Shark breathe on land or only underwater?"}
+{"passage_id": "2765-0", "question_type": "descriptive", "anchor": "Which huge sea predator gets Advantage on its bite when its prey has lost some health?"}
+{"passage_id": "2765-0", "question_type": "table", "anchor": "How high is a Giant Shark's Constitution score?"}
+{"passage_id": "1036-0", "question_type": "lookup", "anchor": "How long does it take to cast Resurrection?"}
+{"passage_id": "1036-0", "question_type": "paraphrase", "anchor": "If I revive someone who has been dead a year or more with Resurrection, what does it cost me?"}
+{"passage_id": "1036-0", "question_type": "descriptive", "anchor": "Which 7th-level spell brings back a creature dead for up to a century and restores its missing body parts?"}
+{"passage_id": "1413-0", "question_type": "lookup", "anchor": "What is the maximum Constitution a Belt of Dwarvenkind can raise me to?"}
+{"passage_id": "1413-0", "question_type": "paraphrase", "anchor": "If I'm not a dwarf, how far does the Belt of Dwarvenkind let me see in darkness?"}
+{"passage_id": "1413-0", "question_type": "descriptive", "anchor": "Which rare belt gives me a daily chance of growing a full beard if I can grow one?"}
+{"passage_id": "1021-0", "question_type": "lookup", "anchor": "How big can a Programmed Illusion be?"}
+{"passage_id": "1021-0", "question_type": "paraphrase", "anchor": "How long must a Programmed Illusion rest after it plays before it can trigger again?"}
+{"passage_id": "1021-0", "question_type": "descriptive", "anchor": "Which level 6 illusion lets me set a scripted image to appear when a sound or sight happens within 30 feet?"}
+{"passage_id": "454-0", "question_type": "lookup", "anchor": "What Swim Speed does the Warlock's underwater-breathing invocation give me?"}
+{"passage_id": "454-0", "question_type": "paraphrase", "anchor": "How high must my Warlock level be before I can take the underwater breathing invocation?"}
+{"passage_id": "454-0", "question_type": "descriptive", "anchor": "Which Warlock option lets me cast Water Breathing without a spell slot, regaining it after a long rest?"}
+{"passage_id": "436-0", "question_type": "lookup", "anchor": "How long does Magical Cunning's rite take to perform?"}
+{"passage_id": "436-0", "question_type": "paraphrase", "anchor": "With Magical Cunning, how many of my Pact Magic slots come back, and is there a limit?"}
+{"passage_id": "436-0", "question_type": "descriptive", "anchor": "Which Warlock feature lets me perform a one-minute ritual to get some spell slots back once per long rest?"}
+{"passage_id": "1162-0", "question_type": "lookup", "anchor": "What spells can remove a curse?"}
+{"passage_id": "1162-0", "question_type": "paraphrase", "anchor": "Who decides what a curse actually does to a creature or object?"}
+{"passage_id": "1162-0", "question_type": "descriptive", "anchor": "What game effect puts a hex on a creature or object that can be lifted by other magic that ends it?"}
+{"passage_id": "649-0", "question_type": "lookup", "anchor": "How many days of rations come in the 12 GP adventuring pack for dungeons?"}
+{"passage_id": "649-0", "question_type": "paraphrase", "anchor": "Does the 12 GP adventuring pack for dungeons come with a bag to carry gear?"}
+{"passage_id": "649-0", "question_type": "descriptive", "anchor": "What kit includes a crowbar, caltrops, a tinderbox, and a waterskin for exploring dungeons?"}

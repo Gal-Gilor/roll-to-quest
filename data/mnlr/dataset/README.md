@@ -65,6 +65,17 @@ The split is by SRD section: every pair whose passage comes from the same sectio
 
 The 7,470 pairs BM25 ranks in the top 4 were not judged, and no person reviewed every pair.
 
+## Reproducing
+
+The [Roll-to-Quest repository](https://github.com/Gal-Gilor/roll-to-quest) holds the model-written questions (`data/mnlr/generated/`) and the judge's verdicts with the manual rulings (`data/mnlr/judged/`). The model steps can't be rerun identically, but from those files the splits rebuild exactly:
+
+```bash
+uv run python -m src.scripts.validate_questions
+uv run python -m src.scripts.assemble_mnlr_dataset
+```
+
+`uv run python -m src.scripts.passage_stats` prints the passage sizes stated above, for any tokenizer (`--tokenizer`).
+
 ## Training notes
 
 - Several pairs share a `positive`. Use a batch sampler that keeps duplicates of a positive out of a batch, such as `BatchSamplers.NO_DUPLICATES` in Sentence Transformers.

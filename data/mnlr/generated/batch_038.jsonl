@@ -1,0 +1,77 @@
+{"passage_id": "2243-1", "question_type": "lookup", "anchor": "How far can a Mummy Lord teleport when it uses its Whirlwind of Sand reaction?"}
+{"passage_id": "2243-1", "question_type": "paraphrase", "anchor": "If a mummy lord's melee hit curses me, how does my maximum health change each day?"}
+{"passage_id": "2243-1", "question_type": "descriptive", "anchor": "Which undead guardian has a Wisdom-based glare that can paralyze a creature it can see within 60 feet?"}
+{"passage_id": "922-0", "question_type": "lookup", "anchor": "What material component does the Globe of Invulnerability spell need?"}
+{"passage_id": "922-0", "question_type": "paraphrase", "anchor": "If a spell of level 5 or lower is cast from outside the Globe of Invulnerability, can it still affect creatures inside?"}
+{"passage_id": "922-0", "question_type": "descriptive", "anchor": "What 6th-level spell creates a shimmering barrier around me that blocks weaker spells from outside?"}
+{"passage_id": "1117-0", "question_type": "lookup", "anchor": "What is the highest level of spell that Wish can duplicate in its basic use?"}
+{"passage_id": "1117-0", "question_type": "paraphrase", "anchor": "If I use the Wish spell to copy another spell, do I still need its expensive ingredients?"}
+{"passage_id": "1117-0", "question_type": "descriptive", "anchor": "What 9th-level spell lets me just speak aloud to change reality, with a casting time of one action?"}
+{"passage_id": "2335-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Red Dragon Wyrmling?"}
+{"passage_id": "2335-0", "question_type": "paraphrase", "anchor": "How far can a Red Dragon Wyrmling fly on its turn?"}
+{"passage_id": "2335-0", "question_type": "descriptive", "anchor": "What medium-sized chaotic evil dragon has a fire breath cone that recharges on a 5 or 6?"}
+{"passage_id": "2335-0", "question_type": "table", "anchor": "Is a Red Dragon Wyrmling's Strength modifier higher than +3?"}
+{"passage_id": "304-0", "question_type": "lookup", "anchor": "What do Warrior of the Open Hand monks learn to do to their opponents?"}
+{"passage_id": "304-0", "question_type": "paraphrase", "anchor": "Can a Warrior of the Open Hand monk use inner energy to protect themselves from harm?"}
+{"passage_id": "304-0", "question_type": "descriptive", "anchor": "Which path is built around unarmed combat, with techniques to knock opponents prone and to channel inner energy defensively?"}
+{"passage_id": "222-0", "question_type": "lookup", "anchor": "How many Hit Points can Preserve Life restore, given as a multiple of Cleric level?"}
+{"passage_id": "222-0", "question_type": "paraphrase", "anchor": "Can Preserve Life heal someone past half of their full health?"}
+{"passage_id": "222-0", "question_type": "descriptive", "anchor": "What cleric ability spends a Channel Divinity use to split healing among wounded allies within 30 feet?"}
+{"passage_id": "1730-0", "question_type": "lookup", "anchor": "How many Hit Points does a Balor have?"}
+{"passage_id": "1730-0", "question_type": "paraphrase", "anchor": "If a balor is slain outside the Abyss, where does it come back?"}
+{"passage_id": "1730-0", "question_type": "descriptive", "anchor": "Which huge demon explodes when it dies, dealing fire and force damage in a 30-foot area?"}
+{"passage_id": "1730-0", "question_type": "table", "anchor": "What does a Balor add to Constitution saves?"}
+{"passage_id": "1346-0", "question_type": "lookup", "anchor": "How much Piercing damage do the spikes in a spiked pit trap deal?"}
+{"passage_id": "1346-0", "question_type": "paraphrase", "anchor": "What's the difficulty for spotting a hidden spiked pit trap by searching the floor?"}
+{"passage_id": "1346-0", "question_type": "descriptive", "anchor": "Which deadly floor trap uses a hinged lid that drops a creature into a 10-foot-deep hole?"}
+{"passage_id": "1032-0", "question_type": "lookup", "anchor": "What is the range of the Reincarnate spell?"}
+{"passage_id": "1032-0", "question_type": "paraphrase", "anchor": "Can Reincarnate bring back someone who has been dead for 12 days?"}
+{"passage_id": "1032-0", "question_type": "descriptive", "anchor": "Which 5th-level Druid spell rebuilds a dead creature's body using rare oils worth over 1,000 GP?"}
+{"passage_id": "1032-0", "question_type": "table", "anchor": "What species does a Reincarnate body become on a 1d10 roll of 8?"}
+{"passage_id": "142-0", "question_type": "lookup", "anchor": "When multiclassing, do I gain all of a new class's starting proficiencies at my first level in it?"}
+{"passage_id": "142-0", "question_type": "paraphrase", "anchor": "Where do I look up what proficiencies a class gives when I multiclass into it?"}
+{"passage_id": "142-0", "question_type": "descriptive", "anchor": "When I pick up levels in a second class, which of its starting training do I actually receive?"}
+{"passage_id": "1223-0", "question_type": "lookup", "anchor": "Is a monster controlled by the GM even if it's benevolent?"}
+{"passage_id": "1223-0", "question_type": "paraphrase", "anchor": "Does a monster have to be hostile to the party to count as a monster?"}
+{"passage_id": "1223-0", "question_type": "descriptive", "anchor": "What do the D&D rules call any creature the Game Master controls, even a benevolent one?"}
+{"passage_id": "413-0", "question_type": "lookup", "anchor": "How many Sorcery Points does the metamagic option for extending spell range cost?"}
+{"passage_id": "413-0", "question_type": "paraphrase", "anchor": "If I use metamagic to extend a Touch spell's range, how far can it reach?"}
+{"passage_id": "413-0", "question_type": "descriptive", "anchor": "I want my spell to reach twice as far, and my Sorcerer has spare Sorcery Points. What option is that?"}
+{"passage_id": "562-0", "question_type": "lookup", "anchor": "Do I have Disadvantage on melee attacks with heavy weapons when my Strength is below 13?"}
+{"passage_id": "562-0", "question_type": "paraphrase", "anchor": "For a bulky ranged weapon, does a Dexterity score under 13 give me Disadvantage on attacks?"}
+{"passage_id": "562-0", "question_type": "descriptive", "anchor": "Which weapon trait gives me Disadvantage on attacks unless I have enough muscle or agility?"}
+{"passage_id": "100-0", "question_type": "lookup", "anchor": "What kinds of things grant Temporary Hit Points to a character?"}
+{"passage_id": "100-0", "question_type": "paraphrase", "anchor": "Do temporary health points act as a shield that protects my real health from being lost?"}
+{"passage_id": "100-0", "question_type": "descriptive", "anchor": "What's the name for the spare health a spell gives me that soaks up damage first?"}
+{"passage_id": "1244-0", "question_type": "lookup", "anchor": "Is a save just another name for a saving throw?"}
+{"passage_id": "1244-0", "question_type": "paraphrase", "anchor": "Where else in the rules should I look for more on saves?"}
+{"passage_id": "1244-0", "question_type": "descriptive", "anchor": "Is there a shorter rules term for the roll that resists a harmful effect?"}
+{"passage_id": "812-0", "question_type": "lookup", "anchor": "What damage dice does Chromatic Orb deal on a hit?"}
+{"passage_id": "812-0", "question_type": "paraphrase", "anchor": "If I cast Chromatic Orb with a level 3 slot, how many times can it bounce to new targets?"}
+{"passage_id": "812-0", "question_type": "descriptive", "anchor": "What 1st-level spell lets me pick acid, cold, fire, lightning, poison, or thunder for a ranged spell attack?"}
+{"passage_id": "873-0", "question_type": "lookup", "anchor": "How long does Enhance Ability last?"}
+{"passage_id": "873-0", "question_type": "paraphrase", "anchor": "If I cast Enhance Ability with a 3rd-level slot, how many extra creatures can I target?"}
+{"passage_id": "873-0", "question_type": "descriptive", "anchor": "Which 2nd-level spell gives a touched creature Advantage on ability checks with one ability I choose?"}
+{"passage_id": "1280-0", "question_type": "lookup", "anchor": "How much does a good road change my group's travel pace?"}
+{"passage_id": "1280-0", "question_type": "paraphrase", "anchor": "Does a well-maintained road let my group move from Normal pace up to Fast?"}
+{"passage_id": "1280-0", "question_type": "descriptive", "anchor": "How do I make my overland travel faster when we're trekking along a well-kept highway?"}
+{"passage_id": "1999-1", "question_type": "lookup", "anchor": "What Charisma save DC does a Ghost's Possession use?"}
+{"passage_id": "1999-1", "question_type": "paraphrase", "anchor": "How long does a ghost's possession last if it takes over my body?"}
+{"passage_id": "1999-1", "question_type": "descriptive", "anchor": "Which undead spirit can take over a nearby humanoid, using an ability that recharges on a 6?"}
+{"passage_id": "1040-0", "question_type": "lookup", "anchor": "How far away can Sacred Flame target a creature?"}
+{"passage_id": "1040-0", "question_type": "paraphrase", "anchor": "Does hiding behind a low wall protect a target from Sacred Flame's radiant damage?"}
+{"passage_id": "1040-0", "question_type": "descriptive", "anchor": "What cleric cantrip calls down radiance on a visible creature and grows stronger at levels 5, 11 and 17?"}
+{"passage_id": "2784-0", "question_type": "lookup", "anchor": "What is a Giant Wasp's flying speed?"}
+{"passage_id": "2784-0", "question_type": "paraphrase", "anchor": "When a Giant Wasp's sting lands, how much extra poison damage comes with it?"}
+{"passage_id": "2784-0", "question_type": "descriptive", "anchor": "What flying insect with a poisonous sting doesn't provoke an Opportunity Attack when flying out of reach?"}
+{"passage_id": "2784-0", "question_type": "table", "anchor": "How high is a Giant Wasp's Dexterity score?"}
+{"passage_id": "494-11", "question_type": "lookup", "anchor": "On the Wizard Spell List, what school of magic does Antimagic Field belong to?"}
+{"passage_id": "494-11", "question_type": "paraphrase", "anchor": "On the Wizard spell list, what kind of magic is Mind Blank?"}
+{"passage_id": "494-11", "question_type": "descriptive", "anchor": "Which 9th-level spell belongs to the Illusion school on a spellcaster's list?"}
+{"passage_id": "494-11", "question_type": "table", "anchor": "On the level 9 Wizard spell list, what school is Gate in?"}
+{"passage_id": "621-0", "question_type": "lookup", "anchor": "How long does the Antitoxin's protection against poison last?"}
+{"passage_id": "621-0", "question_type": "paraphrase", "anchor": "Which action type do I spend to drink an antitoxin?"}
+{"passage_id": "621-0", "question_type": "descriptive", "anchor": "What piece of adventuring gear can I drink to gain Advantage against poison for an hour?"}
+{"passage_id": "785-0", "question_type": "lookup", "anchor": "What material component does Arcane Lock require?"}
+{"passage_id": "785-0", "question_type": "paraphrase", "anchor": "Can I set a password on Arcane Lock that unlocks the door for a minute?"}
+{"passage_id": "785-0", "question_type": "descriptive", "anchor": "What 2nd-level spell locks a door or container so no nonmagical means can open it?"}

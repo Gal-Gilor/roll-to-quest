@@ -1,0 +1,84 @@
+{"passage_id": "1129-0", "question_type": "lookup", "anchor": "What makes a creature count as my Ally in the rules?"}
+{"passage_id": "1129-0", "question_type": "paraphrase", "anchor": "Can the GM declare a creature my ally even if it isn't in my party?"}
+{"passage_id": "1129-0", "question_type": "descriptive", "anchor": "Which creatures count as friendly to my character for rules purposes if they are not in my adventuring party?"}
+{"passage_id": "1168-0", "question_type": "lookup", "anchor": "Do Damage Types have any rules of their own, or do other rules rely on them?"}
+{"passage_id": "1168-0", "question_type": "paraphrase", "anchor": "When I invent a new effect, how can a GM use Damage Types to decide what harm it does?"}
+{"passage_id": "1168-0", "question_type": "descriptive", "anchor": "What are the thirteen categories of harm that attacks and harmful effects can inflict, such as fire, cold, or necrotic?"}
+{"passage_id": "1168-0", "question_type": "table", "anchor": "In the Damage Types table, what does the Necrotic row list as its examples?"}
+{"passage_id": "784-1", "question_type": "lookup", "anchor": "How much Force damage does the Arcane Hand's Clenched Fist deal on a hit?"}
+{"passage_id": "784-1", "question_type": "paraphrase", "anchor": "If my Arcane Hand is grappling someone, how much bludgeoning damage can it crush them for as a bonus action?"}
+{"passage_id": "784-1", "question_type": "descriptive", "anchor": "Which spell summons a magical hand that can grant me half cover or punch and grab foes within five feet?"}
+{"passage_id": "331-0", "question_type": "lookup", "anchor": "In the Special column of the paladin spell list, what does C mean?"}
+{"passage_id": "331-0", "question_type": "paraphrase", "anchor": "Which first-level spells on the paladin spell list need a specific material component?"}
+{"passage_id": "331-0", "question_type": "descriptive", "anchor": "Which first-level holy warrior spells from the Evocation school are on the class list?"}
+{"passage_id": "331-0", "question_type": "table", "anchor": "On the paladin spell list, what school of magic is Cure Wounds from?"}
+{"passage_id": "1389-0", "question_type": "lookup", "anchor": "What are the three ways a sentient magic item can communicate with a creature carrying it?"}
+{"passage_id": "1389-0", "question_type": "paraphrase", "anchor": "If I don't want to pick how my sentient magic item talks to me, what can I roll instead?"}
+{"passage_id": "1389-0", "question_type": "descriptive", "anchor": "Which roll result gives a sentient item the ability to both speak languages and telepathically reach the creature carrying it?"}
+{"passage_id": "1389-0", "question_type": "table", "anchor": "What does a sentient magic item do to communicate when its Communication table roll is between 1 and 6?"}
+{"passage_id": "745-0", "question_type": "lookup", "anchor": "What training must I have with armor to cast spells while wearing it?"}
+{"passage_id": "745-0", "question_type": "paraphrase", "anchor": "Why does armor I'm not trained in stop me from casting spells?"}
+{"passage_id": "745-0", "question_type": "descriptive", "anchor": "Where do the rules explain the details that come after each spell's name, such as its casting time and range?"}
+{"passage_id": "1887-0", "question_type": "lookup", "anchor": "What is the Armor Class of an Ancient Copper Dragon?"}
+{"passage_id": "1887-0", "question_type": "paraphrase", "anchor": "How many times a day can an Ancient Copper Dragon turn a failed save into a success?"}
+{"passage_id": "1887-0", "question_type": "descriptive", "anchor": "Which Gargantuan chaotic good metallic dragon has a Slowing Breath that halves the target's Speed?"}
+{"passage_id": "1887-0", "question_type": "table", "anchor": "How high is an Ancient Copper Dragon's Strength ability score?"}
+{"passage_id": "2866-0", "question_type": "lookup", "anchor": "Which Speed value does a Pteranodon have for flying?"}
+{"passage_id": "2866-0", "question_type": "paraphrase", "anchor": "What dice are rolled to determine a Pteranodon's health?"}
+{"passage_id": "2866-0", "question_type": "descriptive", "anchor": "Which flying dinosaur-type beast doesn't provoke Opportunity Attacks when flying out of an enemy's reach?"}
+{"passage_id": "2866-0", "question_type": "table", "anchor": "What Intelligence modifier does a Pteranodon have according to its stats?"}
+{"passage_id": "2848-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Panther?"}
+{"passage_id": "2848-0", "question_type": "paraphrase", "anchor": "What can a Panther do as a bonus action to get away from a fight?"}
+{"passage_id": "2848-0", "question_type": "descriptive", "anchor": "Which medium beast has a Climb speed of 40 feet and darkvision out to 60 feet?"}
+{"passage_id": "2848-0", "question_type": "table", "anchor": "What Charisma saving throw bonus does a Panther have?"}
+{"passage_id": "192-0", "question_type": "lookup", "anchor": "Which spell lists does Magical Secrets draw from?"}
+{"passage_id": "192-0", "question_type": "paraphrase", "anchor": "With Magical Secrets, do the spells I borrow from the Cleric, Druid or Wizard lists count as Bard spells for me?"}
+{"passage_id": "192-0", "question_type": "descriptive", "anchor": "Which bard feature lets me learn spells from other lists when my prepared spell count goes up?"}
+{"passage_id": "1584-0", "question_type": "lookup", "anchor": "How many charges does a Robe of Scintillating Colors have?"}
+{"passage_id": "1584-0", "question_type": "paraphrase", "anchor": "When I flash a Robe of Scintillating Colors, how hard is it for creatures nearby to resist being stunned?"}
+{"passage_id": "1584-0", "question_type": "descriptive", "anchor": "Which very rare wearable magic item lights up in dazzling hues to make attackers have Disadvantage against its wearer?"}
+{"passage_id": "813-0", "question_type": "lookup", "anchor": "How much Necrotic damage does a failed save against Circle of Death deal?"}
+{"passage_id": "813-0", "question_type": "paraphrase", "anchor": "If I cast Circle of Death with a 7th-level slot, how much extra damage do I add?"}
+{"passage_id": "813-0", "question_type": "descriptive", "anchor": "What 6th-level spell sends a 60-foot-radius sphere of negative energy over an area that forces Constitution saves?"}
+{"passage_id": "691-0", "question_type": "lookup", "anchor": "How many iron spikes come in each bundle?"}
+{"passage_id": "691-0", "question_type": "paraphrase", "anchor": "Can I use a Light Hammer to drive iron spikes into wood or earth?"}
+{"passage_id": "691-0", "question_type": "descriptive", "anchor": "Which pack of metal stakes can I hammer into wood to jam a door shut or tie a rope to?"}
+{"passage_id": "513-0", "question_type": "lookup", "anchor": "What skill proficiencies does the Soldier background give?"}
+{"passage_id": "513-0", "question_type": "paraphrase", "anchor": "Which of my core stats can a Soldier background raise?"}
+{"passage_id": "513-0", "question_type": "descriptive", "anchor": "Which starting background comes with the Savage Attacker feat and a gaming set proficiency?"}
+{"passage_id": "2666-0", "question_type": "lookup", "anchor": "How far can a Dire Wolf move on the ground per turn?"}
+{"passage_id": "2666-0", "question_type": "paraphrase", "anchor": "Can a Dire Wolf's bite knock a Large or smaller creature flat on the ground?"}
+{"passage_id": "2666-0", "question_type": "descriptive", "anchor": "Which large beast gets Advantage on attacks when one of its pack mates is within 5 feet of the target?"}
+{"passage_id": "2666-0", "question_type": "table", "anchor": "What Charisma ability score does a Dire Wolf have?"}
+{"passage_id": "2033-0", "question_type": "lookup", "anchor": "How many hit points does a Gold Dragon Wyrmling have?"}
+{"passage_id": "2033-0", "question_type": "paraphrase", "anchor": "How hard does a Gold Dragon Wyrmling's Fire Breath hit a creature that fails the save?"}
+{"passage_id": "2033-0", "question_type": "descriptive", "anchor": "Which young lawful good metallic dragon can breathe both air and water?"}
+{"passage_id": "2033-0", "question_type": "table", "anchor": "What is a Gold Dragon Wyrmling's Wisdom score?"}
+{"passage_id": "1401-1", "question_type": "lookup", "anchor": "How many claws extend from the front of the Apparatus of the Crab when Lever 4 is set Up?"}
+{"passage_id": "1401-1", "question_type": "paraphrase", "anchor": "If I push Lever 1 down on the Apparatus of the Crab, how fast can it go?"}
+{"passage_id": "1401-1", "question_type": "descriptive", "anchor": "Which lever, when set up, opens a forward window shutter on a walking mechanical contraption?"}
+{"passage_id": "1401-1", "question_type": "table", "anchor": "On the Apparatus of the Crab, what happens to the side window shutters when Lever 3 is set Down?"}
+{"passage_id": "885-0", "question_type": "lookup", "anchor": "Which saving throw does a creature make against Fear to avoid being frightened?"}
+{"passage_id": "885-0", "question_type": "paraphrase", "anchor": "Can a creature frightened by Fear shake the effect off if it ends its turn where it can't see me?"}
+{"passage_id": "885-0", "question_type": "descriptive", "anchor": "Which 3rd-level illusion makes creatures in a 30-foot cone drop what they hold and run from me?"}
+{"passage_id": "846-0", "question_type": "lookup", "anchor": "What is the radius of the sphere Daylight fills with Bright Light?"}
+{"passage_id": "846-0", "question_type": "paraphrase", "anchor": "Can I stop Daylight's glow by putting something opaque over the object I cast it on?"}
+{"passage_id": "846-0", "question_type": "descriptive", "anchor": "What 3rd-level light spell dispels darkness spells of level 3 or lower it overlaps?"}
+{"passage_id": "972-0", "question_type": "lookup", "anchor": "What base AC does Mage Armor give a creature that isn't wearing armor?"}
+{"passage_id": "972-0", "question_type": "paraphrase", "anchor": "If my target puts on armor, does Mage Armor end early?"}
+{"passage_id": "972-0", "question_type": "descriptive", "anchor": "Which first-level spell gives an unarmored friend a base AC of 13 plus their Dexterity modifier for eight hours?"}
+{"passage_id": "849-0", "question_type": "lookup", "anchor": "How big is the empty room that Demiplane's door leads to?"}
+{"passage_id": "849-0", "question_type": "paraphrase", "anchor": "What happens to creatures still inside a Demiplane when its door vanishes?"}
+{"passage_id": "849-0", "question_type": "descriptive", "anchor": "Which 8th-level conjuration spell creates a shadowy door that can link to a pocket dimension I made earlier?"}
+{"passage_id": "926-0", "question_type": "lookup", "anchor": "What condition does Greater Invisibility give the creature I touch?"}
+{"passage_id": "926-0", "question_type": "paraphrase", "anchor": "Does Greater Invisibility require me to keep focusing on it to stay active?"}
+{"passage_id": "926-0", "question_type": "descriptive", "anchor": "Which 4th-level illusion lets me make a creature I touch vanish from sight for up to a minute?"}
+{"passage_id": "159-0", "question_type": "lookup", "anchor": "Which Barbarian subclass features do I gain, based on my Barbarian level?"}
+{"passage_id": "159-0", "question_type": "paraphrase", "anchor": "Where do I find the details of the Barbarian subclass I choose?"}
+{"passage_id": "159-0", "question_type": "descriptive", "anchor": "At what level does a barbarian pick a specialization that gives extra features as their career goes on?"}
+{"passage_id": "658-0", "question_type": "lookup", "anchor": "How many pages of writing does a 1-ounce bottle of ink cover?"}
+{"passage_id": "658-0", "question_type": "paraphrase", "anchor": "What size bottle does ink come in when I buy it?"}
+{"passage_id": "658-0", "question_type": "descriptive", "anchor": "Which 10 GP writing supply is enough for about 500 pages of notes?"}
+{"passage_id": "1662-0", "question_type": "lookup", "anchor": "Is a monster's alignment in its stat block a strict rule I must follow?"}
+{"passage_id": "1662-0", "question_type": "paraphrase", "anchor": "For a monster with a Neutral alignment, is that a hint I should figure out which way it leans?"}
+{"passage_id": "1662-0", "question_type": "descriptive", "anchor": "How much freedom do I have to change a monster's default moral leaning to fit my story?"}

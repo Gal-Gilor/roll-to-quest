@@ -1,0 +1,82 @@
+{"passage_id": "595-0", "question_type": "lookup", "anchor": "How much does a set of Cobbler's Tools weigh?"}
+{"passage_id": "595-0", "question_type": "paraphrase", "anchor": "If I use Cobbler's Tools to modify someone's footwear, what edge do they get on their next Acrobatics check?"}
+{"passage_id": "595-0", "question_type": "descriptive", "anchor": "Which toolkit lets someone modify footwear to gain an edge on their next Acrobatics check?"}
+{"passage_id": "2375-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Satyr?"}
+{"passage_id": "2375-0", "question_type": "paraphrase", "anchor": "How fast can a Satyr move, in feet?"}
+{"passage_id": "2375-0", "question_type": "descriptive", "anchor": "Which chaotic fey creature has Advantage against magic and hooves that shove Medium or smaller targets away?"}
+{"passage_id": "2375-0", "question_type": "table", "anchor": "How much does a Satyr add to its Wisdom saving throws?"}
+{"passage_id": "565-0", "question_type": "lookup", "anchor": "What penalty applies when I attack a target beyond a weapon's normal distance?"}
+{"passage_id": "565-0", "question_type": "paraphrase", "anchor": "Can I shoot something that's farther away than my weapon's maximum distance?"}
+{"passage_id": "565-0", "question_type": "descriptive", "anchor": "How do I read the two distance numbers in parentheses on a thrown or ammunition weapon?"}
+{"passage_id": "655-0", "question_type": "lookup", "anchor": "Can a Paladin use a Holy Symbol as a Spellcasting Focus?"}
+{"passage_id": "655-0", "question_type": "paraphrase", "anchor": "Which holy symbol form gets borne on a tabard or banner rather than held in the hand?"}
+{"passage_id": "655-0", "question_type": "descriptive", "anchor": "What bejeweled or painted religious symbol can a cleric wear or hold to channel divine magic?"}
+{"passage_id": "655-0", "question_type": "table", "anchor": "How much does a Reliquary Holy Symbol weigh?"}
+{"passage_id": "1410-0", "question_type": "lookup", "anchor": "How far can I throw the fuzzy object from a Bag of Tricks?"}
+{"passage_id": "1410-0", "question_type": "paraphrase", "anchor": "If I've already pulled three fuzzy objects from my Bag of Tricks, when can I use it again?"}
+{"passage_id": "1410-0", "question_type": "descriptive", "anchor": "What cloth sack looks empty but lets me toss out a fuzzy object that turns into a creature?"}
+{"passage_id": "1410-0", "question_type": "table", "anchor": "On a roll of 6 on the table for a Rust Bag of Tricks, which creature appears?"}
+{"passage_id": "1265-0", "question_type": "lookup", "anchor": "Can a target be an object rather than a creature?"}
+{"passage_id": "1265-0", "question_type": "paraphrase", "anchor": "Does someone who must roll a saving throw against an effect count as a target?"}
+{"passage_id": "1265-0", "question_type": "descriptive", "anchor": "Which word describes the creature or object an attack roll is aimed at?"}
+{"passage_id": "1325-0", "question_type": "lookup", "anchor": "What Constitution save DC does Essence of Ether require?"}
+{"passage_id": "1325-0", "question_type": "paraphrase", "anchor": "How do I wake someone who's knocked out by Essence of Ether?"}
+{"passage_id": "1325-0", "question_type": "descriptive", "anchor": "Which inhaled poison leaves a victim Unconscious and Poisoned for 8 hours unless they make a save?"}
+{"passage_id": "394-0", "question_type": "lookup", "anchor": "How many magic items can I attune to at once with Use Magic Device?"}
+{"passage_id": "394-0", "question_type": "paraphrase", "anchor": "If I fail the check to cast a high-level spell from a scroll, what happens to the scroll?"}
+{"passage_id": "394-0", "question_type": "descriptive", "anchor": "Which level 13 rogue feature lets a 6 on a d6 keep a magic item from spending its charges?"}
+{"passage_id": "239-0", "question_type": "lookup", "anchor": "By how many feet does Improved Elemental Fury extend a Druid cantrip's range?"}
+{"passage_id": "239-0", "question_type": "paraphrase", "anchor": "If my Primal Strike from Improved Elemental Fury gets bigger, what's the extra damage dice?"}
+{"passage_id": "239-0", "question_type": "descriptive", "anchor": "What druid upgrade adds 300 feet to my cantrips' range, if they already reach 10 feet or more?"}
+{"passage_id": "791-0", "question_type": "lookup", "anchor": "How long does it take to cast Awaken?"}
+{"passage_id": "791-0", "question_type": "paraphrase", "anchor": "For how long does an awakened creature stay Charmed unless someone hurts it?"}
+{"passage_id": "791-0", "question_type": "descriptive", "anchor": "Which level 5 transmutation spell raises a beast's Intelligence to 10 and lets it speak a language I know?"}
+{"passage_id": "627-0", "question_type": "lookup", "anchor": "How much does a Bedroll cost?"}
+{"passage_id": "627-0", "question_type": "paraphrase", "anchor": "Can two Medium adventurers sleep together in one Bedroll?"}
+{"passage_id": "627-0", "question_type": "descriptive", "anchor": "What sleeping gear automatically lets me pass saving throws against extreme cold?"}
+{"passage_id": "1666-0", "question_type": "lookup", "anchor": "Which special speeds can appear in a monster's Speed entry?"}
+{"passage_id": "1666-0", "question_type": "paraphrase", "anchor": "Where are the full rules for how fast monsters move and their special movement written?"}
+{"passage_id": "1666-0", "question_type": "descriptive", "anchor": "In a creature's stat block, where do I see whether it can fly, swim, or burrow?"}
+{"passage_id": "1999-0", "question_type": "lookup", "anchor": "What is a Ghost's flying speed?"}
+{"passage_id": "1999-0", "question_type": "paraphrase", "anchor": "How much damage does a ghost take if it finishes its turn stuck inside a solid object?"}
+{"passage_id": "1999-0", "question_type": "descriptive", "anchor": "Which undead creature can move through other creatures and objects as if they were difficult terrain?"}
+{"passage_id": "1999-0", "question_type": "table", "anchor": "Is a Ghost's Charisma score higher than 15?"}
+{"passage_id": "1401-0", "question_type": "lookup", "anchor": "What is the Armor Class of the Apparatus of the Crab?"}
+{"passage_id": "1401-0", "question_type": "paraphrase", "anchor": "How deep can the Apparatus of the Crab go underwater before pressure starts hurting it?"}
+{"passage_id": "1401-0", "question_type": "descriptive", "anchor": "Which sealed iron barrel weighing 500 pounds is really a vehicle that transforms into a giant lobster?"}
+{"passage_id": "979-1", "question_type": "lookup", "anchor": "Where are creatures and objects put when a Magnificent Mansion spell ends?"}
+{"passage_id": "979-1", "question_type": "paraphrase", "anchor": "If a Magnificent Mansion spell wears off while my friends are inside, do they get kicked out too?"}
+{"passage_id": "979-1", "question_type": "descriptive", "anchor": "What spell's extradimensional house pushes everyone and everything inside out near the door when it times out?"}
+{"passage_id": "1295-0", "question_type": "lookup", "anchor": "How do cursed magic items come about?"}
+{"passage_id": "1295-0", "question_type": "paraphrase", "anchor": "Where can I read about the specific magic items that come with curses?"}
+{"passage_id": "1295-0", "question_type": "descriptive", "anchor": "Can a magic item become hexed by accident, or does someone always hex it on purpose?"}
+{"passage_id": "86-0", "question_type": "lookup", "anchor": "How many creatures must save against an effect at once before its damage is rolled only once?"}
+{"passage_id": "86-0", "question_type": "paraphrase", "anchor": "If a wizard casts Fireball on a group, does each creature in the blast get a separate damage roll?"}
+{"passage_id": "86-0", "question_type": "descriptive", "anchor": "When an effect hits a whole crowd at once, is its damage rolled one time or once per victim?"}
+{"passage_id": "434-0", "question_type": "lookup", "anchor": "How many Eldritch Invocations does a Warlock gain at 1st level?"}
+{"passage_id": "434-0", "question_type": "paraphrase", "anchor": "When I level up as a Warlock, can I swap out an invocation I already picked?"}
+{"passage_id": "434-0", "question_type": "descriptive", "anchor": "What warlock feature grants forbidden knowledge that gives a lasting magical ability, such as the Pact of the Tome?"}
+{"passage_id": "1489-5", "question_type": "lookup", "anchor": "How wide is the two-way portal that a Hat of Many Spells can open?"}
+{"passage_id": "1489-5", "question_type": "paraphrase", "anchor": "Within what distance of me can a Hat of Many Spells portal appear?"}
+{"passage_id": "1489-5", "question_type": "descriptive", "anchor": "Which magic hat effect opens a two-way doorway to another plane that lasts until the end of my next turn?"}
+{"passage_id": "1489-5", "question_type": "table", "anchor": "What flies out of a Hat of Many Spells on a roll of 86 to 90?"}
+{"passage_id": "1702-0", "question_type": "lookup", "anchor": "What is the Armor Class of Animated Armor?"}
+{"passage_id": "1702-0", "question_type": "paraphrase", "anchor": "How many swings does Animated Armor get when it uses its multiattack?"}
+{"passage_id": "1702-0", "question_type": "descriptive", "anchor": "Which armor-shaped construct is immune to poison and psychic damage and can't be frightened?"}
+{"passage_id": "1702-0", "question_type": "table", "anchor": "Is Animated Armor's Dexterity score above 10?"}
+{"passage_id": "932-0", "question_type": "lookup", "anchor": "How long is the line of wind that Gust of Wind creates?"}
+{"passage_id": "932-0", "question_type": "paraphrase", "anchor": "If a creature in the gust tries to walk toward me, how much movement does it cost per foot?"}
+{"passage_id": "932-0", "question_type": "descriptive", "anchor": "What level 2 evocation pushes creatures 15 feet on a failed Strength save and blows out candles?"}
+{"passage_id": "39-0", "question_type": "lookup", "anchor": "Which everyday adventuring tasks depend on sight, such as noticing danger and hitting an enemy?"}
+{"passage_id": "39-0", "question_type": "paraphrase", "anchor": "If something obscures my vision, does it hinder me from aiming a spell at a target?"}
+{"passage_id": "39-0", "question_type": "descriptive", "anchor": "What happens to my tasks when an effect blocks what I can see?"}
+{"passage_id": "1008-0", "question_type": "lookup", "anchor": "How many willing creatures besides me can hold hands in the circle for Plane Shift?"}
+{"passage_id": "1008-0", "question_type": "paraphrase", "anchor": "If I know the sigil sequence of a teleportation circle, can Plane Shift take me straight there?"}
+{"passage_id": "1008-0", "question_type": "descriptive", "anchor": "Which level 7 conjuration lets me and up to eight friends travel to another plane?"}
+{"passage_id": "1649-7", "question_type": "lookup", "anchor": "Where does the line from a Wand of Wonder's Lightning Bolt extend to?"}
+{"passage_id": "1649-7", "question_type": "paraphrase", "anchor": "If my wand's random roll makes me cast a bolt of lightning, which spell is it?"}
+{"passage_id": "1649-7", "question_type": "descriptive", "anchor": "Which random wand effect fires a line of lightning from me toward a point I choose?"}
+{"passage_id": "1649-7", "question_type": "table", "anchor": "On a roll of 46 to 50 on the Wand of Wonder table, which spell is cast?"}
+{"passage_id": "114-0", "question_type": "lookup", "anchor": "Which ancestries can a new character choose from during creation?"}
+{"passage_id": "114-0", "question_type": "paraphrase", "anchor": "Does my character's race decide how big they are and how fast they move?"}
+{"passage_id": "114-0", "question_type": "descriptive", "anchor": "Where are the write-ups for each playable heritage detailed?"}

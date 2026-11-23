@@ -1,0 +1,84 @@
+{"passage_id": "1246-0", "question_type": "lookup", "anchor": "Which ability score does the Search action's check use?"}
+{"passage_id": "1246-0", "question_type": "paraphrase", "anchor": "If I use Search to tell how someone is feeling inside, which skill should I roll?"}
+{"passage_id": "1246-0", "question_type": "descriptive", "anchor": "To spot a hidden creature or object by looking carefully, what roll do I make?"}
+{"passage_id": "1246-0", "question_type": "table", "anchor": "When I take the Search action to find tracks or food, which skill applies?"}
+{"passage_id": "384-0", "question_type": "lookup", "anchor": "How many Cunning Strike effects can Improved Cunning Strike let me use at once?"}
+{"passage_id": "384-0", "question_type": "paraphrase", "anchor": "With Improved Cunning Strike, do I pay a die cost for each effect I add to my Sneak Attack?"}
+{"passage_id": "384-0", "question_type": "descriptive", "anchor": "Which Rogue ability at level 11 lets me stack two special tricks on one sneaky strike?"}
+{"passage_id": "2093-0", "question_type": "lookup", "anchor": "What is the Speed of a Half-Dragon?"}
+{"passage_id": "2093-0", "question_type": "paraphrase", "anchor": "Once a Half-Dragon fires its breath attack, what roll lets it use the breath again?"}
+{"passage_id": "2093-0", "question_type": "descriptive", "anchor": "Which creature with a breath weapon can jump 30 feet as a bonus action?"}
+{"passage_id": "2093-0", "question_type": "table", "anchor": "What is a Half-Dragon's Charisma saving throw bonus?"}
+{"passage_id": "64-0", "question_type": "lookup", "anchor": "What does a creature's size category determine on a battle map?"}
+{"passage_id": "64-0", "question_type": "paraphrase", "anchor": "For creature size, how is a player character's size decided compared with a monster's?"}
+{"passage_id": "64-0", "question_type": "descriptive", "anchor": "On a battle map, what sets how wide a creature's occupied square area is, from tiny to gargantuan?"}
+{"passage_id": "64-0", "question_type": "table", "anchor": "Under the creature size rules, how many squares does a Huge creature occupy?"}
+{"passage_id": "169-0", "question_type": "lookup", "anchor": "How long does Persistent Rage last without me extending it round by round?"}
+{"passage_id": "169-0", "question_type": "paraphrase", "anchor": "With Persistent Rage, when can I get my expended Rage uses back during Initiative?"}
+{"passage_id": "169-0", "question_type": "descriptive", "anchor": "What Barbarian level 15 feature keeps my Rage going for ten minutes without extra effort?"}
+{"passage_id": "1101-0", "question_type": "lookup", "anchor": "How many Hit Points does an Unseen Servant have?"}
+{"passage_id": "1101-0", "question_type": "paraphrase", "anchor": "If I send my Unseen Servant too far away, when does the spell end?"}
+{"passage_id": "1101-0", "question_type": "descriptive", "anchor": "What low-level spell makes an invisible helper that can fetch, clean, and fold clothes for me?"}
+{"passage_id": "793-0", "question_type": "lookup", "anchor": "What saving throw does a target of Banishment make to resist the spell?"}
+{"passage_id": "793-0", "question_type": "paraphrase", "anchor": "If I cast Banishment on a Fiend, will it come back after a minute?"}
+{"passage_id": "793-0", "question_type": "descriptive", "anchor": "Which spell sends a creature to a harmless pocket dimension until it ends?"}
+{"passage_id": "225-3", "question_type": "lookup", "anchor": "Which class features does a Druid gain at level 2?"}
+{"passage_id": "225-3", "question_type": "paraphrase", "anchor": "How many spells can a Druid keep prepared at character level 2?"}
+{"passage_id": "225-3", "question_type": "descriptive", "anchor": "At second level, which nature caster can transform into beasts twice and knows two cantrips?"}
+{"passage_id": "225-3", "question_type": "table", "anchor": "In the Druid table, at level 2, how many 1st-level spell slots are there?"}
+{"passage_id": "1897-0", "question_type": "lookup", "anchor": "Is a Swarm of Crawling Claws resistant to Slashing damage?"}
+{"passage_id": "1897-0", "question_type": "paraphrase", "anchor": "Can a Swarm of Crawling Claws regain health or gain temporary hit points?"}
+{"passage_id": "1897-0", "question_type": "descriptive", "anchor": "Which swarm of tiny undead can squeeze through any gap a Tiny creature fits through?"}
+{"passage_id": "1897-0", "question_type": "table", "anchor": "What is a Swarm of Crawling Claws's Charisma modifier?"}
+{"passage_id": "2306-1", "question_type": "lookup", "anchor": "Which spell can a Planetar cast at will?"}
+{"passage_id": "2306-1", "question_type": "paraphrase", "anchor": "How many times a day can a Planetar use its Divine Aid bonus action?"}
+{"passage_id": "2306-1", "question_type": "descriptive", "anchor": "Which creature can cast Commune, Control Weather, Dispel Evil and Good, and Raise Dead once per day each?"}
+{"passage_id": "602-0", "question_type": "lookup", "anchor": "Which ability score is used with Potter's Tools?"}
+{"passage_id": "602-0", "question_type": "paraphrase", "anchor": "With Potter's Tools, what can I craft, like jugs or lamps?"}
+{"passage_id": "602-0", "question_type": "descriptive", "anchor": "Using a kit, how can I learn what a clay vessel held in the past day?"}
+{"passage_id": "1035-0", "question_type": "lookup", "anchor": "What is the casting time of the Resistance spell?"}
+{"passage_id": "1035-0", "question_type": "paraphrase", "anchor": "How much does Resistance cut from damage each time an ally takes the chosen type?"}
+{"passage_id": "1035-0", "question_type": "descriptive", "anchor": "Which cantrip lets me touch a willing ally and blunt one chosen damage type for up to a minute?"}
+{"passage_id": "2413-0", "question_type": "lookup", "anchor": "What is a Skeleton's Armor Class, the target number for attacks against it?"}
+{"passage_id": "2413-0", "question_type": "paraphrase", "anchor": "What kind of damage does a Skeleton take extra harm from?"}
+{"passage_id": "2413-0", "question_type": "descriptive", "anchor": "Which undead archer with a shortbow and shortsword can see in the dark up to 60 feet?"}
+{"passage_id": "2413-0", "question_type": "table", "anchor": "What is a Skeleton's Intelligence saving throw bonus?"}
+{"passage_id": "2178-1", "question_type": "lookup", "anchor": "How many Legendary Action uses does a Lich have outside its lair?"}
+{"passage_id": "2178-1", "question_type": "paraphrase", "anchor": "Can a Lich use its Frightening Gaze again right after using it on the same turn?"}
+{"passage_id": "2178-1", "question_type": "descriptive", "anchor": "Which undead spellcaster can respond to a spell by casting Counterspell or Shield?"}
+{"passage_id": "305-0", "question_type": "lookup", "anchor": "How far can Open Hand Technique's Push effect move a target away from me?"}
+{"passage_id": "305-0", "question_type": "paraphrase", "anchor": "With Open Hand Technique, what saving throw does a target make to avoid falling prone?"}
+{"passage_id": "305-0", "question_type": "descriptive", "anchor": "Which monk ability lets my Flurry of Blows hits shove enemies back, topple them, or stop their Opportunity Attacks?"}
+{"passage_id": "1453-1", "question_type": "lookup", "anchor": "How long must I wait before using a Dragon Orb's Call Dragons property again?"}
+{"passage_id": "1453-1", "question_type": "paraphrase", "anchor": "Does anything besides a +3 weapon or Disintegrate hurt a Dragon Orb?"}
+{"passage_id": "1453-1", "question_type": "descriptive", "anchor": "What magic item sends a telepathic summons over 40 miles that pulls chromatic dragons toward its holder?"}
+{"passage_id": "1131-0", "question_type": "lookup", "anchor": "What is the base Armor Class calculation when no other rule applies?"}
+{"passage_id": "1131-0", "question_type": "paraphrase", "anchor": "When a rule gives me another way to figure my AC, can I combine both calculations?"}
+{"passage_id": "1131-0", "question_type": "descriptive", "anchor": "What number is the target for an attack roll, showing how hard a creature is to hit?"}
+{"passage_id": "1303-0", "question_type": "lookup", "anchor": "What Constitution save DC does Sight Rot use when a creature drinks tainted water?"}
+{"passage_id": "1303-0", "question_type": "paraphrase", "anchor": "How long does ointment have to hold back Sight Rot before it ends for good?"}
+{"passage_id": "1303-0", "question_type": "descriptive", "anchor": "Which magical contagion spreads through skin contact and blinds creatures that drink tainted water?"}
+{"passage_id": "1401-2", "question_type": "lookup", "anchor": "Which way does the Apparatus of the Crab walk when lever 6 is set Up?"}
+{"passage_id": "1401-2", "question_type": "paraphrase", "anchor": "If the Apparatus of the Crab's claws grab something, how hard is it to break free?"}
+{"passage_id": "1401-2", "question_type": "descriptive", "anchor": "What mechanical contraption with a lever panel can turn 90 degrees and shine a light from eyelike fixtures?"}
+{"passage_id": "1401-2", "question_type": "table", "anchor": "In the Apparatus of the Crab lever table, what happens when lever 7 is set Down?"}
+{"passage_id": "1283-0", "question_type": "lookup", "anchor": "Which spell is an example of traveling at high Speed for an extended time?"}
+{"passage_id": "1283-0", "question_type": "paraphrase", "anchor": "If my party uses a Carpet of Flying for days, how do I work out our travel pace?"}
+{"passage_id": "1283-0", "question_type": "descriptive", "anchor": "How do I measure travel pace for a group flying unusually fast across different landscapes?"}
+{"passage_id": "1283-0", "question_type": "table", "anchor": "When a party travels at high speed through a swamp, what Search DC applies?"}
+{"passage_id": "1564-0", "question_type": "lookup", "anchor": "How many charges does a Ring of Evasion have?"}
+{"passage_id": "1564-0", "question_type": "paraphrase", "anchor": "Can I use a reaction to pass a failed Dexterity save while wearing Ring of Evasion?"}
+{"passage_id": "1564-0", "question_type": "descriptive", "anchor": "What ring lets me spend a charge to turn a failed Dexterity saving throw into a success?"}
+{"passage_id": "1-1", "question_type": "lookup", "anchor": "When an exception and a general rule disagree in D&D, which one takes precedence?"}
+{"passage_id": "1-1", "question_type": "paraphrase", "anchor": "If my class feature says I can use Charisma for melee attacks, does the usual Strength rule still stop me?"}
+{"passage_id": "1-1", "question_type": "descriptive", "anchor": "In which part of the game does everyone take turns in a set order, such as during a fight?"}
+{"passage_id": "1284-0", "question_type": "lookup", "anchor": "What unit is a vehicle's speed measured in when figuring travel rate?"}
+{"passage_id": "1284-0", "question_type": "paraphrase", "anchor": "If my party rides in a wagon, do we get to pick a travel pace?"}
+{"passage_id": "1284-0", "question_type": "descriptive", "anchor": "When traveling in a vehicle, how do I determine our rate without choosing a pace?"}
+{"passage_id": "1148-0", "question_type": "lookup", "anchor": "How many player characters does a monster's challenge rating assume in a group?"}
+{"passage_id": "1148-0", "question_type": "paraphrase", "anchor": "If a monster's CR is higher than my level, is it probably a danger?"}
+{"passage_id": "1148-0", "question_type": "descriptive", "anchor": "What number tells the GM how threatening a creature is compared with the party's level?"}
+{"passage_id": "2571-0", "question_type": "lookup", "anchor": "How many zombies can a Wight control at one time?"}
+{"passage_id": "2571-0", "question_type": "paraphrase", "anchor": "If a Wight's Life Drain kills a humanoid, how long before that person gets back up?"}
+{"passage_id": "2571-0", "question_type": "descriptive", "anchor": "Which undead creature can sap life with a Constitution-based drain and make two attacks in one turn?"}
+{"passage_id": "2571-0", "question_type": "table", "anchor": "Is a Wight's Constitution modifier higher than +2?"}

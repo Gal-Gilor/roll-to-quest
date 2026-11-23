@@ -1,0 +1,72 @@
+{"passage_id": "421-0", "question_type": "lookup", "anchor": "How many Sorcery Points does Twinned Spell cost a Sorcerer?"}
+{"passage_id": "421-0", "question_type": "paraphrase", "anchor": "When a Sorcerer uses Twinned Spell to add a target, how much does the spell's level go up?"}
+{"passage_id": "421-0", "question_type": "descriptive", "anchor": "What sorcerer metamagic lets me spend a sorcery point so a spell reaches another creature?"}
+{"passage_id": "1149-0", "question_type": "lookup", "anchor": "What is a Character Sheet used for in the game?"}
+{"passage_id": "1149-0", "question_type": "paraphrase", "anchor": "Can a Character Sheet be digital, or does my character's record have to be on paper?"}
+{"passage_id": "1149-0", "question_type": "descriptive", "anchor": "What paper or digital record do players use to track their hero's information during play?"}
+{"passage_id": "2400-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Silver Dragon Wyrmling?"}
+{"passage_id": "2400-0", "question_type": "paraphrase", "anchor": "How fast does a Silver Dragon Wyrmling move on foot versus in the air?"}
+{"passage_id": "2400-0", "question_type": "descriptive", "anchor": "What young lawful good dragon has a cold breath weapon and a paralyzing breath in a cone?"}
+{"passage_id": "2400-0", "question_type": "table", "anchor": "How high is a Silver Dragon Wyrmling's Intelligence ability score?"}
+{"passage_id": "1320-0", "question_type": "lookup", "anchor": "When harvesting poison from a venomous creature, what Intelligence (Nature) check DC applies?"}
+{"passage_id": "1320-0", "question_type": "paraphrase", "anchor": "If I botch harvesting venom from a creature by 5 or more, does the venom get me?"}
+{"passage_id": "1320-0", "question_type": "descriptive", "anchor": "How do I milk the venom out of a creature that's dead or unconscious, and how many doses do I get?"}
+{"passage_id": "678-0", "question_type": "lookup", "anchor": "How many Hit Points does drinking a healing potion restore?"}
+{"passage_id": "678-0", "question_type": "paraphrase", "anchor": "How much of my turn does it take to hand a healing potion to a friend beside me?"}
+{"passage_id": "678-0", "question_type": "descriptive", "anchor": "What's the magical red liquid in a small vial that heals wounds and can be shared with a nearby ally?"}
+{"passage_id": "1863-0", "question_type": "lookup", "anchor": "What DC must a creature beat on a Strength (Athletics) check to detach a Cloaker?"}
+{"passage_id": "1863-0", "question_type": "paraphrase", "anchor": "When a Cloaker is stuck to me, do I share the damage it takes?"}
+{"passage_id": "1863-0", "question_type": "descriptive", "anchor": "What large flying monster wraps around a victim, blinding them and splitting damage it takes with them?"}
+{"passage_id": "1863-0", "question_type": "table", "anchor": "What is a Cloaker's Wisdom saving throw bonus?"}
+{"passage_id": "14-0", "question_type": "lookup", "anchor": "What must an Attack Roll equal or exceed to hit?"}
+{"passage_id": "14-0", "question_type": "paraphrase", "anchor": "Do Attack Rolls happen only in battle, or can the GM call for them outside combat?"}
+{"passage_id": "14-0", "question_type": "descriptive", "anchor": "When I swing a sword and roll a d20, what has to happen for my blow to actually land?"}
+{"passage_id": "1416-0", "question_type": "lookup", "anchor": "Do my steps make any noise while I wear Boots of Elvenkind?"}
+{"passage_id": "1416-0", "question_type": "paraphrase", "anchor": "Do Boots of Elvenkind give me an edge on Stealth rolls?"}
+{"passage_id": "1416-0", "question_type": "descriptive", "anchor": "What footwear makes my footsteps silent on any surface and gives me an edge on sneaking checks?"}
+{"passage_id": "218-4", "question_type": "lookup", "anchor": "On the Cleric spell list, which school of magic is Flame Strike in?"}
+{"passage_id": "218-4", "question_type": "paraphrase", "anchor": "Can a Cleric cast Commune as a ritual?"}
+{"passage_id": "218-4", "question_type": "descriptive", "anchor": "Which fifth-level cleric spell can be aimed at creatures that are evil or good and requires concentration?"}
+{"passage_id": "218-4", "question_type": "table", "anchor": "On the Cleric's level 5 spell list, what school is Legend Lore in?"}
+{"passage_id": "1395-0", "question_type": "lookup", "anchor": "Does Ammunition, +1, +2, or +3 lose its magic once it hits a target?"}
+{"passage_id": "1395-0", "question_type": "paraphrase", "anchor": "How much is a bundle of magic Ammunition, +1, +2, or +3 worth compared to a potion of the same rarity?"}
+{"passage_id": "1395-0", "question_type": "descriptive", "anchor": "What magic arrows or bolts give a bonus to attack and damage, with the bonus set by how rare they are?"}
+{"passage_id": "1530-0", "question_type": "lookup", "anchor": "How long does it take to apply Oil of Sharpness to a weapon?"}
+{"passage_id": "1530-0", "question_type": "paraphrase", "anchor": "Can I coat my magic sword with Oil of Sharpness, or only nonmagical weapons that do cutting or piercing damage?"}
+{"passage_id": "1530-0", "question_type": "descriptive", "anchor": "Which very rare consumable oil magically makes a plain blade or arrows into +3 magic weapons?"}
+{"passage_id": "1258-2", "question_type": "lookup", "anchor": "Do I use both the static number and the dice expression for stat block damage?"}
+{"passage_id": "1258-2", "question_type": "paraphrase", "anchor": "How does a monster's stat block describe the kind of save and the DC for an effect?"}
+{"passage_id": "1258-2", "question_type": "descriptive", "anchor": "Who decides whether the fixed number or the dice expression in parentheses is used for monster damage?"}
+{"passage_id": "2188-1", "question_type": "lookup", "anchor": "How many times per day can an Archmage use Protective Magic?"}
+{"passage_id": "2188-1", "question_type": "paraphrase", "anchor": "Can an Archmage react to my spell by casting Counterspell or Shield?"}
+{"passage_id": "2188-1", "question_type": "descriptive", "anchor": "Which powerful spellcaster can cast Counterspell or Shield in reaction to a spell, up to three times a day?"}
+{"passage_id": "2006-1", "question_type": "lookup", "anchor": "What save DC does a Gibbering Mouther's Blinding Spittle use?"}
+{"passage_id": "2006-1", "question_type": "paraphrase", "anchor": "How much health does a Gibbering Mouther's Blinding Spittle cost me if I fail its save?"}
+{"passage_id": "2006-1", "question_type": "descriptive", "anchor": "What monster's spit blinds creatures in a 10-foot-radius sphere and deals radiant damage, recharging on 5-6?"}
+{"passage_id": "249-0", "question_type": "lookup", "anchor": "How big is the cube of trees and vines that Nature's Sanctuary creates?"}
+{"passage_id": "249-0", "question_type": "paraphrase", "anchor": "Do my allies get any cover from attacks while they're inside a Nature's Sanctuary area?"}
+{"passage_id": "249-0", "question_type": "descriptive", "anchor": "What druid ability creates spectral trees and vines that I can move 60 feet as a bonus action?"}
+{"passage_id": "1649-5", "question_type": "lookup", "anchor": "How long does the heavy rain from a Wand of Wonder last?"}
+{"passage_id": "1649-5", "question_type": "paraphrase", "anchor": "If my Wand of Wonder makes it pour rain, how tall is the storm column?"}
+{"passage_id": "1649-5", "question_type": "descriptive", "anchor": "What wild magic item effect makes heavy rain fall in a tall cylinder that dims light in the area?"}
+{"passage_id": "1649-5", "question_type": "table", "anchor": "In the Wand of Wonder d100 table, what does the Effect column say for the 36-40 row?"}
+{"passage_id": "1438-0", "question_type": "lookup", "anchor": "What Fly Speed does a Cloak of the Bat give while I'm in dim light?"}
+{"passage_id": "1438-0", "question_type": "paraphrase", "anchor": "After I shapeshift into a bat with a Cloak of the Bat, which mental stats do I keep?"}
+{"passage_id": "1438-0", "question_type": "descriptive", "anchor": "How often can a magic garment let its wearer shapeshift into a bat until dawn?"}
+{"passage_id": "672-0", "question_type": "lookup", "anchor": "How many handwritten words can fit on one sheet of paper?"}
+{"passage_id": "672-0", "question_type": "descriptive", "anchor": "What writing surface holds roughly 250 handwritten words per sheet?"}
+{"passage_id": "2616-0", "question_type": "lookup", "anchor": "How fast can an Archelon swim through water?"}
+{"passage_id": "2616-0", "question_type": "paraphrase", "anchor": "Can an Archelon breathe both air and water, or only one?"}
+{"passage_id": "2616-0", "question_type": "descriptive", "anchor": "What huge dinosaur-type beast has a bite that deals 14 piercing damage and can breathe underwater?"}
+{"passage_id": "2616-0", "question_type": "table", "anchor": "Is an Archelon's Strength modifier higher than +3?"}
+{"passage_id": "20-0", "question_type": "lookup", "anchor": "When I have Advantage on a roll, which of the two d20s do I use?"}
+{"passage_id": "20-0", "question_type": "paraphrase", "anchor": "How many dice do I roll when I have Advantage on a d20 roll?"}
+{"passage_id": "20-0", "question_type": "descriptive", "anchor": "When I roll twice and must keep the lower of two dice, what rule applies?"}
+{"passage_id": "315-0", "question_type": "lookup", "anchor": "How many level 1 spells does Paladin Spellcasting let me prepare at first?"}
+{"passage_id": "315-0", "question_type": "paraphrase", "anchor": "Can I change a prepared spell under Paladin Spellcasting after a long rest?"}
+{"passage_id": "315-0", "question_type": "descriptive", "anchor": "When do paladins get back all of their expended spell slots?"}
+{"passage_id": "633-0", "question_type": "lookup", "anchor": "How much can a bucket hold in cubic feet?"}
+{"passage_id": "633-0", "question_type": "descriptive", "anchor": "What adventuring container holds up to half a cubic foot of contents, like a pail?"}
+{"passage_id": "628-0", "question_type": "lookup", "anchor": "How far away can a bell's sound be heard?"}
+{"passage_id": "628-0", "question_type": "paraphrase", "anchor": "Which action do I use to ring a bell so that it makes noise?"}
+{"passage_id": "628-0", "question_type": "descriptive", "anchor": "What small item makes a ringing sound that carries about 60 feet when I use it as an action?"}

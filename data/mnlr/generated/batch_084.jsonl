@@ -1,0 +1,84 @@
+{"passage_id": "1311-0", "question_type": "lookup", "anchor": "What Dexterity saving throw DC must a creature beat to avoid falling prone on Slippery Ice?"}
+{"passage_id": "1311-0", "question_type": "paraphrase", "anchor": "Will I end up on the ground if I slip onto Slippery Ice, and what Dexterity roll keeps me standing?"}
+{"passage_id": "1311-0", "question_type": "descriptive", "anchor": "What kind of icy ground counts as Difficult Terrain and can knock a creature flat on its back?"}
+{"passage_id": "585-0", "question_type": "lookup", "anchor": "What training do I need before a Shield's Armor Class benefit applies to me?"}
+{"passage_id": "585-0", "question_type": "paraphrase", "anchor": "Can I count my shield's AC boost if I've never practiced using one?"}
+{"passage_id": "585-0", "question_type": "descriptive", "anchor": "Does strapping a defensive board to my arm raise my AC if I was never trained with one?"}
+{"passage_id": "575-0", "question_type": "lookup", "anchor": "How far can the Push mastery move a creature after I hit it?"}
+{"passage_id": "575-0", "question_type": "paraphrase", "anchor": "Can I shove a very large foe with a weapon that has Push, or only smaller ones?"}
+{"passage_id": "575-0", "question_type": "descriptive", "anchor": "What weapon trick lets me drive an enemy several feet backward after a successful strike?"}
+{"passage_id": "207-0", "question_type": "lookup", "anchor": "How many cantrips do I know at first level from Cleric Spellcasting?"}
+{"passage_id": "207-0", "question_type": "paraphrase", "anchor": "For Cleric Spellcasting, what kind of rest restores all my expended spell slots?"}
+{"passage_id": "207-0", "question_type": "descriptive", "anchor": "Which four first-level spells are recommended for a god-serving caster to prepare when starting out?"}
+{"passage_id": "761-0", "question_type": "lookup", "anchor": "What are the three typical forms a spell's Duration can take?"}
+{"passage_id": "761-0", "question_type": "paraphrase", "anchor": "Does a spell's Duration let me end a lasting spell early without spending an action?"}
+{"passage_id": "761-0", "question_type": "descriptive", "anchor": "What spell effect vanishes in a single moment, leaving nothing lasting behind?"}
+{"passage_id": "616-0", "question_type": "lookup", "anchor": "In what order are the items in the Adventuring Gear section listed?"}
+{"passage_id": "616-0", "question_type": "paraphrase", "anchor": "Do the prices of adventuring gear items come before or after their names?"}
+{"passage_id": "616-0", "question_type": "descriptive", "anchor": "Where is the list of handy travel supplies and tools that adventurers commonly carry, arranged alphabetically?"}
+{"passage_id": "1910-0", "question_type": "lookup", "anchor": "What Constitution save DC does a Death Dog's Bite impose?"}
+{"passage_id": "1910-0", "question_type": "paraphrase", "anchor": "How quickly can a Death Dog move across the ground in one turn?"}
+{"passage_id": "1910-0", "question_type": "descriptive", "anchor": "What evil, dog-shaped monstrosity bites twice per turn and sees in darkness out to 120 feet?"}
+{"passage_id": "1910-0", "question_type": "table", "anchor": "How low is a Death Dog's Intelligence, as an ability score?"}
+{"passage_id": "1369-0", "question_type": "lookup", "anchor": "What wearable items count as Wondrous Items, such as boots, belts or capes?"}
+{"passage_id": "1369-0", "question_type": "paraphrase", "anchor": "Would a flying carpet or a figurine count as a Wondrous Item?"}
+{"passage_id": "1369-0", "question_type": "descriptive", "anchor": "Which broad magic item category covers wearables like amulets and circlets along with horns and musical instruments?"}
+{"passage_id": "2691-0", "question_type": "lookup", "anchor": "What Dexterity save DC does a Giant Ape's Boulder Toss use?"}
+{"passage_id": "2691-0", "question_type": "paraphrase", "anchor": "How far can a Giant Ape leap, and what does it cost in movement?"}
+{"passage_id": "2691-0", "question_type": "descriptive", "anchor": "Which hulking beast throws a rock at a point up to 90 feet away, catching nearby creatures in a blast?"}
+{"passage_id": "2691-0", "question_type": "table", "anchor": "What Constitution score does a Giant Ape have?"}
+{"passage_id": "744-0", "question_type": "lookup", "anchor": "Do Always-Prepared Spells count against my number of prepared spells?"}
+{"passage_id": "744-0", "question_type": "paraphrase", "anchor": "Can some features grant me Always-Prepared Spells on top of my normal prepared list?"}
+{"passage_id": "744-0", "question_type": "descriptive", "anchor": "Is there a way to have a spell ready at all times without it reducing how many spells I can swap in?"}
+{"passage_id": "2543-0", "question_type": "lookup", "anchor": "What range does a Wererat's Hand Crossbow attack have, in feet?"}
+{"passage_id": "2543-0", "question_type": "paraphrase", "anchor": "Can a Wererat talk to me in Common while it's in its rat shape?"}
+{"passage_id": "2543-0", "question_type": "descriptive", "anchor": "What lycanthrope's bite curses a humanoid, turning them into a rat-man if they drop to 0 Hit Points?"}
+{"passage_id": "2543-0", "question_type": "table", "anchor": "How nimble is a Wererat, as a Dexterity score?"}
+{"passage_id": "363-0", "question_type": "lookup", "anchor": "How much extra damage does the Colossus Slayer option of Hunter's Prey deal?"}
+{"passage_id": "363-0", "question_type": "paraphrase", "anchor": "When can I switch my Hunter's Prey choice to the other option?"}
+{"passage_id": "363-0", "question_type": "descriptive", "anchor": "Which ranger option lets me swing at a second enemy standing within 5 feet of my first target?"}
+{"passage_id": "147-1", "question_type": "lookup", "anchor": "Which d100 trinket is a crystal that faintly glows in moonlight?"}
+{"passage_id": "147-1", "question_type": "paraphrase", "anchor": "Is one of the random trinkets a 1-ounce block of an unknown material?"}
+{"passage_id": "147-1", "question_type": "descriptive", "anchor": "What odd keepsake could I start my adventure with, like a lock of someone's hair or a mummified goblin hand?"}
+{"passage_id": "147-1", "question_type": "table", "anchor": "What trinket comes up on a 1d100 roll of 07?"}
+{"passage_id": "1872-0", "question_type": "lookup", "anchor": "What Constitution save DC does a Cockatrice's Petrifying Bite use?"}
+{"passage_id": "1872-0", "question_type": "paraphrase", "anchor": "How long does a Cockatrice's stone effect last once I've been turned fully to stone?"}
+{"passage_id": "1872-0", "question_type": "descriptive", "anchor": "What small monster's bite can slowly turn a creature to stone over two failed saves?"}
+{"passage_id": "1872-0", "question_type": "table", "anchor": "What does a Cockatrice add to Strength saves?"}
+{"passage_id": "2327-0", "question_type": "lookup", "anchor": "What damage types does a Quasit resist?"}
+{"passage_id": "2327-0", "question_type": "paraphrase", "anchor": "Will a Quasit get an edge on saves against spells cast at it?"}
+{"passage_id": "2327-0", "question_type": "descriptive", "anchor": "What tiny demon can turn invisible, shift into a bat, and frighten a foe once per day?"}
+{"passage_id": "2327-0", "question_type": "table", "anchor": "What Intelligence modifier does a Quasit have?"}
+{"passage_id": "2514-3", "question_type": "lookup", "anchor": "How far can a Vampire move with its Deathless Strike before attacking?"}
+{"passage_id": "2514-3", "question_type": "paraphrase", "anchor": "What attack does a Vampire's Deathless Strike finish with?"}
+{"passage_id": "2514-3", "question_type": "descriptive", "anchor": "What undead bloodsucker's move lets it close distance and then make a single strike?"}
+{"passage_id": "661-0", "question_type": "lookup", "anchor": "How tall is a Ladder, in feet?"}
+{"passage_id": "661-0", "question_type": "paraphrase", "anchor": "Can I just walk up a Ladder, or do I need to climb it?"}
+{"passage_id": "661-0", "question_type": "descriptive", "anchor": "What piece of adventuring gear is ten feet tall and must be climbed to move up or down?"}
+{"passage_id": "1640-0", "question_type": "lookup", "anchor": "How many charges does a Wand of Fireballs start with?"}
+{"passage_id": "1640-0", "question_type": "paraphrase", "anchor": "If I spend a Wand of Fireballs' last charge, what's the chance it gets destroyed?"}
+{"passage_id": "1640-0", "question_type": "descriptive", "anchor": "What rare magic wand lets a spellcaster unleash a flame blast using up to three charges?"}
+{"passage_id": "1341-1", "question_type": "lookup", "anchor": "What area of effect does a Fire-Casting Statue have at levels 5 to 10?"}
+{"passage_id": "1341-1", "question_type": "paraphrase", "anchor": "How hard does a Fire-Casting Statue's fire hit at level 18?"}
+{"passage_id": "1341-1", "question_type": "descriptive", "anchor": "What trap statue shoots a fire cone that does big damage at high character levels?"}
+{"passage_id": "1341-1", "question_type": "table", "anchor": "How much damage, with dice, does a Fire-Casting Statue deal at levels 11 to 16?"}
+{"passage_id": "1144-0", "question_type": "lookup", "anchor": "What terrain can a creature with a Burrow Speed move through?"}
+{"passage_id": "1144-0", "question_type": "paraphrase", "anchor": "Can a creature with Burrow Speed dig through solid rock without a special trait?"}
+{"passage_id": "1144-0", "question_type": "descriptive", "anchor": "What movement speed lets a creature dig tunnels through the ground?"}
+{"passage_id": "250-0", "question_type": "lookup", "anchor": "What saving throws is a Fighter proficient in?"}
+{"passage_id": "250-0", "question_type": "paraphrase", "anchor": "What die do Fighters roll for their health each level?"}
+{"passage_id": "250-0", "question_type": "descriptive", "anchor": "Which martial class can pick two skills from a list including Athletics and Perception?"}
+{"passage_id": "250-0", "question_type": "table", "anchor": "What Primary Ability can a Fighter use?"}
+{"passage_id": "830-0", "question_type": "lookup", "anchor": "How much Force damage does Conjure Woodland Beings deal on a failed save?"}
+{"passage_id": "830-0", "question_type": "paraphrase", "anchor": "If I cast Conjure Woodland Beings with a higher slot, how much more damage do I get?"}
+{"passage_id": "830-0", "question_type": "descriptive", "anchor": "What level 4 druid and ranger spell surrounds me with nature spirits that deal Force damage to nearby creatures?"}
+{"passage_id": "243-5", "question_type": "lookup", "anchor": "Which school of magic is Wind Walk from for Druids at level 6?"}
+{"passage_id": "243-5", "question_type": "paraphrase", "anchor": "Which Druid spell on the list can bring a dead creature back in a new body?"}
+{"passage_id": "243-5", "question_type": "descriptive", "anchor": "What sixth-level druid spell calls forth a fey creature?"}
+{"passage_id": "243-5", "question_type": "table", "anchor": "What school is the Geas spell in on the Druid spell list?"}
+{"passage_id": "987-0", "question_type": "lookup", "anchor": "What material component does Mending require, and how many are needed?"}
+{"passage_id": "987-0", "question_type": "paraphrase", "anchor": "Can Mending fix a cracked magic sword, and will it bring back the magic?"}
+{"passage_id": "987-0", "question_type": "descriptive", "anchor": "What cantrip can patch a torn cloak or a leaking wineskin if the damage is no bigger than a foot across?"}
+{"passage_id": "365-0", "question_type": "lookup", "anchor": "How far from the marked creature can Superior Hunter's Prey reach to a second target?"}
+{"passage_id": "365-0", "question_type": "paraphrase", "anchor": "How often can I spread Hunter's Mark damage to another enemy with Superior Hunter's Prey?"}
+{"passage_id": "365-0", "question_type": "descriptive", "anchor": "At what ranger level do I gain the ability to pass my marked-foe damage to a nearby enemy?"}

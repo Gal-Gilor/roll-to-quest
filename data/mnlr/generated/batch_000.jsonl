@@ -1,0 +1,85 @@
+{"passage_id": "1022-0", "question_type": "lookup", "anchor": "How far can you move the Project Image illusion as a Magic action?"}
+{"passage_id": "1022-0", "question_type": "paraphrase", "anchor": "How long does the Project Image spell last if I have to keep focusing on it?"}
+{"passage_id": "1022-0", "question_type": "descriptive", "anchor": "Which spell lets me make an intangible illusory copy of myself that I can see through, placed where I've seen before?"}
+{"passage_id": "434-2", "question_type": "lookup", "anchor": "At which Warlock level does the Eldritch Invocations table first list a Mystic Arcanum for a level 6 spell?"}
+{"passage_id": "434-2", "question_type": "paraphrase", "anchor": "How many Eldritch Invocations can I have when I reach Warlock level 15?"}
+{"passage_id": "434-2", "question_type": "descriptive", "anchor": "Which warlock class feature grants a growing number of magical boons as you level up?"}
+{"passage_id": "434-2", "question_type": "table", "anchor": "How many spell slots does a Warlock have at level 17, per the Warlock class features table?"}
+{"passage_id": "726-0", "question_type": "lookup", "anchor": "When attuning to a magic item during a Short Rest, can the same Short Rest I used to learn its properties count?"}
+{"passage_id": "726-0", "question_type": "paraphrase", "anchor": "If a short rest gets interrupted while I'm trying to attune to a magic ring, does the attunement still happen?"}
+{"passage_id": "726-0", "question_type": "descriptive", "anchor": "What do I have to do during a brief rest with a magic item in hand before its full powers become usable for me?"}
+{"passage_id": "2128-0", "question_type": "lookup", "anchor": "How much damage does a Horned Devil's Searing Fork deal on a hit?"}
+{"passage_id": "2128-0", "question_type": "paraphrase", "anchor": "If a Horned Devil is killed outside the Nine Hells, does it come back to life and where?"}
+{"passage_id": "2128-0", "question_type": "descriptive", "anchor": "Which large lawful evil devil can hurl fire from 150 feet away and resists cold damage?"}
+{"passage_id": "2128-0", "question_type": "table", "anchor": "What is a Horned Devil's Strength saving throw bonus?"}
+{"passage_id": "1706-0", "question_type": "lookup", "anchor": "What escape DC must a Medium creature beat to get out of an Animated Rug of Smothering's grapple?"}
+{"passage_id": "1706-0", "question_type": "paraphrase", "anchor": "Does an Animated Rug of Smothering hit me for damage every turn while it smothers me?"}
+{"passage_id": "1706-0", "question_type": "descriptive", "anchor": "Which animated carpet-like construct can wrap around one creature at a time and make it suffocate?"}
+{"passage_id": "1706-0", "question_type": "table", "anchor": "What is an Animated Rug of Smothering's Dexterity saving throw bonus?"}
+{"passage_id": "2729-0", "question_type": "lookup", "anchor": "How far can a Giant Frog long jump, with or without a running start?"}
+{"passage_id": "2729-0", "question_type": "paraphrase", "anchor": "Can a Giant Frog breathe underwater as well as in the air?"}
+{"passage_id": "2729-0", "question_type": "descriptive", "anchor": "What medium animal with a swim speed can swallow a small creature it has grabbed and hurt it with acid?"}
+{"passage_id": "2729-0", "question_type": "table", "anchor": "What is a Giant Frog's Strength score?"}
+{"passage_id": "2896-0", "question_type": "lookup", "anchor": "Does a Seahorse provoke Opportunity Attacks when it uses Bubble Dash underwater?"}
+{"passage_id": "2896-0", "question_type": "paraphrase", "anchor": "How fast can a Seahorse swim through the water?"}
+{"passage_id": "2896-0", "question_type": "descriptive", "anchor": "What tiny sea creature can only breathe underwater and can swim past enemies without triggering their attacks?"}
+{"passage_id": "2896-0", "question_type": "table", "anchor": "What is a Seahorse's Constitution saving throw bonus?"}
+{"passage_id": "797-0", "question_type": "lookup", "anchor": "Which ability saving throw does a creature make to resist Bestow Curse?"}
+{"passage_id": "797-0", "question_type": "paraphrase", "anchor": "If I upcast Bestow Curse using a level 9 slot, how long does the curse stick around?"}
+{"passage_id": "797-0", "question_type": "descriptive", "anchor": "Which touch spell curses a creature so it has disadvantage against me or takes extra necrotic damage from my hits?"}
+{"passage_id": "901-0", "question_type": "lookup", "anchor": "Against Flame Strike, what ability does the saving throw use?"}
+{"passage_id": "901-0", "question_type": "paraphrase", "anchor": "If I upcast Flame Strike with a 7th level slot, how much harder does it hit?"}
+{"passage_id": "901-0", "question_type": "descriptive", "anchor": "What cleric spell calls down a towering pillar of brilliant fire from above onto a spot within 60 feet?"}
+{"passage_id": "1489-2", "question_type": "lookup", "anchor": "How long does a Hat of Many Spells butterfly swarm last before it disperses?"}
+{"passage_id": "1489-2", "question_type": "paraphrase", "anchor": "Could a Hat of Many Spells give me a torch, a crowbar, or a vial of acid?"}
+{"passage_id": "1489-2", "question_type": "descriptive", "anchor": "What magic item randomly produces a harmless swarm of butterflies or a nonmagical object such as a torch?"}
+{"passage_id": "1489-2", "question_type": "table", "anchor": "On a Hat of Many Spells 1d100 roll of 56 to 60, what area does the butterfly swarm fill?"}
+{"passage_id": "208-0", "question_type": "lookup", "anchor": "What weapon proficiency does a Cleric gain from the Protector option of Divine Order?"}
+{"passage_id": "208-0", "question_type": "paraphrase", "anchor": "If I pick Thaumaturge for my Divine Order, how do I get a bonus to my Arcana or Religion checks?"}
+{"passage_id": "208-0", "question_type": "descriptive", "anchor": "What cleric level 1 choice lets me pick between battle training and a mystical connection to the divine?"}
+{"passage_id": "1443-0", "question_type": "lookup", "anchor": "What save DC does a Crystal Ball of True Seeing use when casting Scrying?"}
+{"passage_id": "1443-0", "question_type": "paraphrase", "anchor": "How far from the sensor does a Crystal Ball of True Seeing's true sight reach?"}
+{"passage_id": "1443-0", "question_type": "descriptive", "anchor": "What legendary wondrous item lets me cast a viewing spell through a crystal orb I'm touching?"}
+{"passage_id": "2924-0", "question_type": "lookup", "anchor": "How much poison damage does a Swarm of Venomous Snakes bite deal on a hit?"}
+{"passage_id": "2924-0", "question_type": "paraphrase", "anchor": "Can a Swarm of Venomous Snakes heal itself back up after taking damage?"}
+{"passage_id": "2924-0", "question_type": "descriptive", "anchor": "What group of tiny poisonous serpents attacks as one creature and can squeeze through any gap a tiny snake fits through?"}
+{"passage_id": "2924-0", "question_type": "table", "anchor": "What is a Swarm of Venomous Snakes' Intelligence score?"}
+{"passage_id": "1540-0", "question_type": "lookup", "anchor": "How deep is the extradimensional hole that a Portable Hole creates when unfolded?"}
+{"passage_id": "1540-0", "question_type": "paraphrase", "anchor": "Can I use a Portable Hole to make a passage I can walk through to another room?"}
+{"passage_id": "1540-0", "question_type": "descriptive", "anchor": "What rare magic item is a silky black cloth that opens into a six-foot circle and holds objects in another dimension?"}
+{"passage_id": "1407-6", "question_type": "lookup", "anchor": "What undead could be inside the burial chamber of a Bag of Beans pyramid?"}
+{"passage_id": "1407-6", "question_type": "paraphrase", "anchor": "If my Bag of Beans makes a giant plant shoot up, where can the top lead?"}
+{"passage_id": "1407-6", "question_type": "descriptive", "anchor": "Which magic item, when used, may cause a towering stalk to sprout or a pyramid to burst upward?"}
+{"passage_id": "1407-6", "question_type": "table", "anchor": "How wide is the base of the pyramid that a Bag of Beans roll of 91 to 95 produces?"}
+{"passage_id": "2124-0", "question_type": "lookup", "anchor": "What Constitution saving throw DC must a target beat when a Homunculus bites it?"}
+{"passage_id": "2124-0", "question_type": "paraphrase", "anchor": "If a Homunculus bite beats my save by 5 or more, does damage wake me from being knocked out?"}
+{"passage_id": "2124-0", "question_type": "descriptive", "anchor": "What tiny construct can communicate telepathically with its master while on the same plane?"}
+{"passage_id": "2124-0", "question_type": "table", "anchor": "What is a Homunculus's Wisdom saving throw bonus?"}
+{"passage_id": "1174-0", "question_type": "lookup", "anchor": "Where can I read more about damage and healing that relates to a Death Saving Throw?"}
+{"passage_id": "1174-0", "question_type": "paraphrase", "anchor": "What do players usually call a Death Saving Throw for short?"}
+{"passage_id": "1174-0", "question_type": "descriptive", "anchor": "What roll does a player character make at the start of their turn when they are at zero hit points?"}
+{"passage_id": "1362-0", "question_type": "lookup", "anchor": "How much liquid does a typical potion in its vial hold?"}
+{"passage_id": "1362-0", "question_type": "paraphrase", "anchor": "Does drinking a Potion use up my action or my Bonus Action?"}
+{"passage_id": "1362-0", "question_type": "descriptive", "anchor": "If I mix two magic brews together, what do I roll on and what might happen unexpectedly?"}
+{"passage_id": "207-1", "question_type": "lookup", "anchor": "Which ability score powers Cleric Spellcasting for the spells you cast?"}
+{"passage_id": "207-1", "question_type": "paraphrase", "anchor": "When can a Cleric swap out one of their Spellcasting prepared spells for a different one?"}
+{"passage_id": "207-1", "question_type": "descriptive", "anchor": "As a level 3 cleric, how many spells of levels 1 and 2 can I have ready at once?"}
+{"passage_id": "185-1", "question_type": "lookup", "anchor": "Which ability score does Bard Spellcasting rely on for Bard spells?"}
+{"passage_id": "185-1", "question_type": "paraphrase", "anchor": "Can a lute be my focus for casting Bard spells?"}
+{"passage_id": "185-1", "question_type": "descriptive", "anchor": "When I level up as a bard, how many prepared spells can I swap out, and for what?"}
+{"passage_id": "683-0", "question_type": "lookup", "anchor": "What foods make up Rations for travel?"}
+{"passage_id": "683-0", "question_type": "paraphrase", "anchor": "If I carry Rations but don't eat, which rules explain the risks?"}
+{"passage_id": "683-0", "question_type": "descriptive", "anchor": "What adventuring gear costs 5 silver pieces and is travel-ready food like jerky or hardtack?"}
+{"passage_id": "1109-0", "question_type": "lookup", "anchor": "How much movement does crossing one foot of Wall of Thorns cost a creature?"}
+{"passage_id": "1109-0", "question_type": "paraphrase", "anchor": "If I cast Wall of Thorns with a level 8 slot, how much harder do the damage dice get?"}
+{"passage_id": "1109-0", "question_type": "descriptive", "anchor": "What druid spell creates a tangled barrier of brush that blocks sight and hurts anyone who pushes through it?"}
+{"passage_id": "1501-0", "question_type": "lookup", "anchor": "How tall is the tower an Instant Fortress grows into?"}
+{"passage_id": "1501-0", "question_type": "paraphrase", "anchor": "How do I get my Instant Fortress's door to open, and does it take an action?"}
+{"passage_id": "1501-0", "question_type": "descriptive", "anchor": "What adamantine statuette can grow into a square tower that pushes creatures out of its space and has arrow slits?"}
+{"passage_id": "1737-0", "question_type": "lookup", "anchor": "What is the range of a Bandit Captain's Pistol attack?"}
+{"passage_id": "1737-0", "question_type": "paraphrase", "anchor": "Can a Bandit Captain raise its defenses by 2 when a melee swing hits it while holding a weapon?"}
+{"passage_id": "1737-0", "question_type": "descriptive", "anchor": "Which neutral humanoid outlaw leader makes two attacks per turn with a scimitar or a pistol?"}
+{"passage_id": "1737-0", "question_type": "table", "anchor": "What is a Bandit Captain's Strength saving throw bonus?"}
+{"passage_id": "514-0", "question_type": "lookup", "anchor": "How long do members of most character species typically live?"}
+{"passage_id": "514-0", "question_type": "paraphrase", "anchor": "In game terms, what does picking a character species give my character?"}
+{"passage_id": "514-0", "question_type": "descriptive", "anchor": "How old can my character be, given how long their people usually live?"}

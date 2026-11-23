@@ -1,0 +1,81 @@
+{"passage_id": "1206-0", "question_type": "lookup", "anchor": "Do illusions that manifest in space have physical weight or substance?"}
+{"passage_id": "1206-0", "question_type": "paraphrase", "anchor": "Does a magical illusion of a creature still cast shadows and get blown around by wind?"}
+{"passage_id": "1206-0", "question_type": "descriptive", "anchor": "Does a magical fake sound made by a spell bounce around the way a real noise would in a cavern?"}
+{"passage_id": "1629-1", "question_type": "lookup", "anchor": "How large is the radius of the Thunderous Greatclub's Earthquake circle?"}
+{"passage_id": "1629-1", "question_type": "paraphrase", "anchor": "After I set off an earthquake with my Thunderous Greatclub, when can I do it again?"}
+{"passage_id": "1629-1", "question_type": "descriptive", "anchor": "Is there a magic weapon that can break a concentrating caster's focus by causing an earthquake when slammed on the ground?"}
+{"passage_id": "362-0", "question_type": "lookup", "anchor": "Which creatures does Hunter's Lore give me information about?"}
+{"passage_id": "362-0", "question_type": "paraphrase", "anchor": "With Hunter's Lore, can I find out what a monster shrugs off or is weak to?"}
+{"passage_id": "362-0", "question_type": "descriptive", "anchor": "Is there a Ranger ability that reveals a hunted monster's strengths and weaknesses, and at what level do I get it?"}
+{"passage_id": "1930-0", "question_type": "lookup", "anchor": "How many times per day can a Dretch use its Fetid Cloud?"}
+{"passage_id": "1930-0", "question_type": "paraphrase", "anchor": "Does a Dretch shrug off some cold, fire, or lightning damage?"}
+{"passage_id": "1930-0", "question_type": "descriptive", "anchor": "Which small demon can release a poisonous cloud once a day that poisons creatures around it?"}
+{"passage_id": "1930-0", "question_type": "table", "anchor": "What bonus does a Dretch add to its Dexterity saving throws?"}
+{"passage_id": "1260-0", "question_type": "lookup", "anchor": "Does being Stunned also impose another condition on me, and which one?"}
+{"passage_id": "1260-0", "question_type": "paraphrase", "anchor": "If I'm Stunned, do enemies get an edge when they attack me?"}
+{"passage_id": "1260-0", "question_type": "descriptive", "anchor": "What kind of dazed state leaves me automatically failing my Strength and Dexterity saves?"}
+{"passage_id": "256-0", "question_type": "lookup", "anchor": "How many Hit Points does Second Wind restore when I use it?"}
+{"passage_id": "256-0", "question_type": "paraphrase", "anchor": "Can I use Second Wind twice, and does a short rest give me one back?"}
+{"passage_id": "256-0", "question_type": "descriptive", "anchor": "Which Fighter bonus action lets me catch my breath and recover health a limited number of times?"}
+{"passage_id": "355-0", "question_type": "lookup", "anchor": "How many times can I use Nature's Veil, and what sets that number?"}
+{"passage_id": "355-0", "question_type": "paraphrase", "anchor": "How long does Nature's Veil keep me hidden once I activate it?"}
+{"passage_id": "355-0", "question_type": "descriptive", "anchor": "At what level does a Ranger get a spirit-of-nature ability that lets them vanish from sight as a bonus action?"}
+{"passage_id": "1181-0", "question_type": "lookup", "anchor": "What happens to the Dodge action's benefits if my Speed is 0?"}
+{"passage_id": "1181-0", "question_type": "paraphrase", "anchor": "When I use Dodge, do enemies I can see have a harder time hitting me?"}
+{"passage_id": "1181-0", "question_type": "descriptive", "anchor": "What combat move gives me an edge on Dexterity saving throws until my next turn?"}
+{"passage_id": "524-1", "question_type": "lookup", "anchor": "How many clockwork devices can a Gnome have in existence at one time?"}
+{"passage_id": "524-1", "question_type": "paraphrase", "anchor": "How long does a Gnome's clockwork gadget keep working before it falls apart on its own?"}
+{"passage_id": "524-1", "question_type": "descriptive", "anchor": "Which cantrips come with the small, tinkering ancestry known for making clockwork toys?"}
+{"passage_id": "2687-0", "question_type": "lookup", "anchor": "What is the swimming speed of a Frog?"}
+{"passage_id": "2687-0", "question_type": "paraphrase", "anchor": "Can a Frog breathe underwater as well as on land?"}
+{"passage_id": "2687-0", "question_type": "descriptive", "anchor": "Which tiny creature has a standing leap of up to 10 feet forward and 5 feet high?"}
+{"passage_id": "2687-0", "question_type": "table", "anchor": "What bonus does a Frog add to Charisma saving throws?"}
+{"passage_id": "952-0", "question_type": "lookup", "anchor": "What material component does the Identify spell require?"}
+{"passage_id": "952-0", "question_type": "paraphrase", "anchor": "If I cast Identify, can I learn which spells are affecting a creature I'm touching?"}
+{"passage_id": "952-0", "question_type": "descriptive", "anchor": "Which first-level divination spell reveals how many charges a magic item has and whether it needs Attunement?"}
+{"passage_id": "340-0", "question_type": "lookup", "anchor": "Which table lists the core traits I gain as a level 1 Ranger?"}
+{"passage_id": "340-0", "question_type": "paraphrase", "anchor": "Does a level 1 Ranger character automatically get the level 1 features of the class?"}
+{"passage_id": "340-0", "question_type": "descriptive", "anchor": "What traits does a new ranger begin with, before gaining any later levels?"}
+{"passage_id": "494-9", "question_type": "lookup", "anchor": "Which special casting requirements are listed for Instant Summons on the Wizard spell list?"}
+{"passage_id": "494-9", "question_type": "paraphrase", "anchor": "Does the Wizard spell list let a Wizard pick Chain Lightning as a spell?"}
+{"passage_id": "494-9", "question_type": "descriptive", "anchor": "Which table lists every arcane spell available to a Wizard alongside its school and special tags?"}
+{"passage_id": "494-9", "question_type": "table", "anchor": "What school of magic is Disintegrate listed under on the Wizard spell list?"}
+{"passage_id": "1071-0", "question_type": "lookup", "anchor": "How far can I move Spiritual Weapon on my later turns?"}
+{"passage_id": "1071-0", "question_type": "paraphrase", "anchor": "If I cast Spiritual Weapon at a higher level, how much more damage does it deal?"}
+{"passage_id": "1071-0", "question_type": "descriptive", "anchor": "What Cleric spell conjures a floating, ghostly weapon that attacks enemies within 5 feet of it and lasts a minute?"}
+{"passage_id": "494-7", "question_type": "lookup", "anchor": "Which special tags does Stoneskin carry on the Wizard spell list?"}
+{"passage_id": "494-7", "question_type": "paraphrase", "anchor": "Can a Wizard pick up Polymorph as a spell from the Wizard spell list?"}
+{"passage_id": "494-7", "question_type": "descriptive", "anchor": "Which spell in this Wizard list creates a wall of flame and requires Concentration?"}
+{"passage_id": "494-7", "question_type": "table", "anchor": "What school of magic does Conjure Minor Elementals belong to on the Wizard spell list?"}
+{"passage_id": "2339-0", "question_type": "lookup", "anchor": "How many times per day can an Adult Red Dragon use Legendary Resistance outside its lair?"}
+{"passage_id": "2339-0", "question_type": "paraphrase", "anchor": "How far does an Adult Red Dragon's fire breath reach in a cone?"}
+{"passage_id": "2339-0", "question_type": "descriptive", "anchor": "Which huge evil dragon can cast Fireball once a day and recharge its fire breath?"}
+{"passage_id": "2339-0", "question_type": "table", "anchor": "What bonus does an Adult Red Dragon add to Wisdom saving throws?"}
+{"passage_id": "821-0", "question_type": "lookup", "anchor": "What material component does Comprehend Languages need?"}
+{"passage_id": "821-0", "question_type": "paraphrase", "anchor": "If I cast Comprehend Languages, can I understand a secret code hidden in a message?"}
+{"passage_id": "821-0", "question_type": "descriptive", "anchor": "What spell lets me understand written words I'm touching, and how long does it last?"}
+{"passage_id": "1367-0", "question_type": "lookup", "anchor": "Can wands in general be used as an Arcane Focus?"}
+{"passage_id": "1367-0", "question_type": "paraphrase", "anchor": "How long are magic wands usually, and what material are they made from?"}
+{"passage_id": "1367-0", "question_type": "descriptive", "anchor": "What foot-long magic stick tipped with crystal or stone can serve as a spellcasting focus?"}
+{"passage_id": "1984-0", "question_type": "lookup", "anchor": "How many Rotting Touch attacks does a Violet Fungus make in one Multiattack?"}
+{"passage_id": "1984-0", "question_type": "paraphrase", "anchor": "Can a Violet Fungus be scared or charmed into doing something else?"}
+{"passage_id": "1984-0", "question_type": "descriptive", "anchor": "What slow, fungal creature can strike with a rotting touch from up to 10 feet away?"}
+{"passage_id": "1984-0", "question_type": "table", "anchor": "What bonus does a Violet Fungus add to its Strength saving throws?"}
+{"passage_id": "1153-0", "question_type": "lookup", "anchor": "Can I end Concentration at any time without spending an action?"}
+{"passage_id": "1153-0", "question_type": "paraphrase", "anchor": "When I take damage during Concentration, what's the DC of the save to keep going?"}
+{"passage_id": "1153-0", "question_type": "descriptive", "anchor": "If I get knocked out of action or die, does my ongoing spell stay active?"}
+{"passage_id": "1520-5", "question_type": "lookup", "anchor": "What skills can the Throne result of a Mysterious Deck make me proficient or expert in?"}
+{"passage_id": "1520-5", "question_type": "paraphrase", "anchor": "If I'm pulled into the Void from a Mysterious Deck, can a Wish spell bring my soul back?"}
+{"passage_id": "1520-5", "question_type": "descriptive", "anchor": "What card result from a fortune deck leaves my body inert and stops me aging while my soul sits in a faraway object?"}
+{"passage_id": "1520-5", "question_type": "table", "anchor": "How high is the Charisma score of an Avatar of Death?"}
+{"passage_id": "2098-0", "question_type": "lookup", "anchor": "How far does a Harpy's Luring Song reach?"}
+{"passage_id": "2098-0", "question_type": "paraphrase", "anchor": "If I resist a Harpy's Luring Song, how long am I protected from that same harpy's song?"}
+{"passage_id": "2098-0", "question_type": "descriptive", "anchor": "What creature's song can charm humanoids and giants within 300 feet of it?"}
+{"passage_id": "2098-0", "question_type": "table", "anchor": "What is a Harpy's Intelligence score?"}
+{"passage_id": "2420-0", "question_type": "lookup", "anchor": "How many times per day can a Solar use Legendary Resistance?"}
+{"passage_id": "2420-0", "question_type": "paraphrase", "anchor": "Does a Solar have an edge on saves against spells and magic?"}
+{"passage_id": "2420-0", "question_type": "descriptive", "anchor": "Which celestial angel knows if it hears someone telling a lie?"}
+{"passage_id": "2420-0", "question_type": "table", "anchor": "What Constitution modifier does a Solar have?"}
+{"passage_id": "983-0", "question_type": "lookup", "anchor": "How many creatures can Mass Healing Word heal at once?"}
+{"passage_id": "983-0", "question_type": "paraphrase", "anchor": "If I cast Mass Healing Word with a bigger slot, how much more does each target heal?"}
+{"passage_id": "983-0", "question_type": "descriptive", "anchor": "What bonus-action spell lets a Cleric heal up to six nearby allies at once, from up to 60 feet away?"}

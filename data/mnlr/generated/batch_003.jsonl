@@ -1,0 +1,84 @@
+{"passage_id": "1012-0", "question_type": "lookup", "anchor": "How far away can I target a creature with Power Word Heal?"}
+{"passage_id": "1012-0", "question_type": "paraphrase", "anchor": "Does Power Word Heal clear bad effects like being Poisoned or Stunned off a friend?"}
+{"passage_id": "1012-0", "question_type": "descriptive", "anchor": "Which 9th-level spell instantly restores a creature to full health and can end fear or paralysis on it?"}
+{"passage_id": "1491-0", "question_type": "lookup", "anchor": "How much extra Fire damage does a hit deal when the Helm of Brilliance sets my weapon aflame?"}
+{"passage_id": "1491-0", "question_type": "paraphrase", "anchor": "If I still have a ruby in the Helm of Brilliance, am I protected from fire while I wear it?"}
+{"passage_id": "1491-0", "question_type": "descriptive", "anchor": "Which magic headpiece is set with diamonds, rubies, opals and fire opals that each grant a different power?"}
+{"passage_id": "1838-0", "question_type": "lookup", "anchor": "How much damage does a Bulette's Deadly Leap deal on a failed save?"}
+{"passage_id": "1838-0", "question_type": "paraphrase", "anchor": "How far can a Bulette jump using its Leap ability as a quick bonus move?"}
+{"passage_id": "1838-0", "question_type": "descriptive", "anchor": "What large burrowing monster bites twice and can leap at creatures to knock them prone?"}
+{"passage_id": "1838-0", "question_type": "table", "anchor": "On a Bulette's ability score table, what is the save bonus in the Constitution row?"}
+{"passage_id": "1511-0", "question_type": "lookup", "anchor": "Does the Mantle of Spell Resistance give me Advantage on saving throws against spells?"}
+{"passage_id": "1511-0", "question_type": "paraphrase", "anchor": "Do I have to bond with the Mantle of Spell Resistance before it works?"}
+{"passage_id": "1511-0", "question_type": "descriptive", "anchor": "What rare magic cloak helps me shrug off spells and requires attunement?"}
+{"passage_id": "2500-1", "question_type": "lookup", "anchor": "When does a Unicorn regain its expended Legendary Action uses?"}
+{"passage_id": "2500-1", "question_type": "paraphrase", "anchor": "When a Unicorn protects a buddy, how much extra health and AC does the buddy get?"}
+{"passage_id": "2500-1", "question_type": "descriptive", "anchor": "Which legendary horned beast can charge at foes after another creature's turn and strike with its horn?"}
+{"passage_id": "1374-0", "question_type": "lookup", "anchor": "Once a consumable magic item is used up, does it keep its magic?"}
+{"passage_id": "1374-0", "question_type": "paraphrase", "anchor": "Do I have to gulp down a healing potion for it to work, unlike reading a scroll?"}
+{"passage_id": "1374-0", "question_type": "descriptive", "anchor": "When someone reads a magic scroll, what happens to the writing on it?"}
+{"passage_id": "1735-0", "question_type": "lookup", "anchor": "What is a Bandit's walking Speed in feet?"}
+{"passage_id": "1735-0", "question_type": "paraphrase", "anchor": "How far can a Bandit shoot its light crossbow, and how hard does a hit land?"}
+{"passage_id": "1735-0", "question_type": "descriptive", "anchor": "Which low-level humanoid brigand carries a scimitar and a light crossbow and is Neutral?"}
+{"passage_id": "1735-0", "question_type": "table", "anchor": "On a Bandit's ability score table, what are the Dexterity score and modifier?"}
+{"passage_id": "476-0", "question_type": "lookup", "anchor": "How many uses of Dark One's Own Luck do I get, based on my Charisma?"}
+{"passage_id": "476-0", "question_type": "paraphrase", "anchor": "Can Dark One's Own Luck be used twice on the same roll for an extra d10?"}
+{"passage_id": "476-0", "question_type": "descriptive", "anchor": "What warlock feature gives me a bonus d10 on an ability check or saving throw, and refills after a long rest?"}
+{"passage_id": "950-0", "question_type": "lookup", "anchor": "How far away can the target of an Ice Knife be?"}
+{"passage_id": "950-0", "question_type": "paraphrase", "anchor": "If I upcast Ice Knife with a bigger slot, how much more cold damage does it do?"}
+{"passage_id": "950-0", "question_type": "descriptive", "anchor": "Which first-level spell throws an icy shard that explodes and hits creatures nearby with cold damage?"}
+{"passage_id": "2839-0", "question_type": "lookup", "anchor": "How fast can an Octopus swim through water?"}
+{"passage_id": "2839-0", "question_type": "paraphrase", "anchor": "Can an Octopus squeeze through a really narrow gap without spending extra movement?"}
+{"passage_id": "2839-0", "question_type": "descriptive", "anchor": "What small sea creature can release an ink cloud once a day when a creature ends its turn right next to it?"}
+{"passage_id": "2839-0", "question_type": "table", "anchor": "On an Octopus's ability score table, what are the Charisma score and modifier?"}
+{"passage_id": "1316-0", "question_type": "lookup", "anchor": "Which ability save usually resists intense mental stress effects?"}
+{"passage_id": "1316-0", "question_type": "paraphrase", "anchor": "On a successful save against mental stress, do I take no damage at all?"}
+{"passage_id": "1316-0", "question_type": "descriptive", "anchor": "What is the best damage type to use for an effect that causes intense mental stress?"}
+{"passage_id": "1316-0", "question_type": "table", "anchor": "When a magical trap flings a character into the Far Realm, what Save DC and Psychic damage apply?"}
+{"passage_id": "1250-0", "question_type": "lookup", "anchor": "What size categories can a creature or object belong to?"}
+{"passage_id": "1250-0", "question_type": "paraphrase", "anchor": "Does a creature's size change how much room it takes up when fighting?"}
+{"passage_id": "1250-0", "question_type": "descriptive", "anchor": "How does an object's size category affect how much health it has?"}
+{"passage_id": "1520-2", "question_type": "lookup", "anchor": "What penalty does the Euryale card of the Mysterious Deck give to my saving throws?"}
+{"passage_id": "1520-2", "question_type": "paraphrase", "anchor": "Can I use the Mysterious Deck's Fates card to undo a bad event, even after I draw it?"}
+{"passage_id": "1520-2", "question_type": "descriptive", "anchor": "Which magic deck card banishes you to a sealed extradimensional sphere until someone finds you?"}
+{"passage_id": "1649-1", "question_type": "lookup", "anchor": "Which spell comes from a Wand of Wonder when the 1d10 roll is a 5 or 6?"}
+{"passage_id": "1649-1", "question_type": "paraphrase", "anchor": "If my Wand of Wonder rolls 1 to 20, where does the spell I cast start?"}
+{"passage_id": "1649-1", "question_type": "descriptive", "anchor": "Which random magic wand effect picks a spell from five options with a d10 roll?"}
+{"passage_id": "1649-1", "question_type": "table", "anchor": "On the d100 Effect column of a Wand of Wonder table, what does a roll of 01 to 20 produce?"}
+{"passage_id": "2391-0", "question_type": "lookup", "anchor": "When a Shambling Mound takes Lightning damage, how many Hit Points does it regain?"}
+{"passage_id": "2391-0", "question_type": "paraphrase", "anchor": "Can a Shambling Mound yank a Medium or smaller victim 5 feet toward itself with a tendril?"}
+{"passage_id": "2391-0", "question_type": "descriptive", "anchor": "What large plant creature can strike foes with tendrils and resist Cold and Fire damage?"}
+{"passage_id": "2391-0", "question_type": "table", "anchor": "On a Shambling Mound's ability score table, what are the Intelligence score and modifier?"}
+{"passage_id": "2725-0", "question_type": "lookup", "anchor": "What is a Giant Fire Beetle's Blindsight range?"}
+{"passage_id": "2725-0", "question_type": "paraphrase", "anchor": "Does a Giant Fire Beetle glow, and how far does its light reach?"}
+{"passage_id": "2725-0", "question_type": "descriptive", "anchor": "What small insect that resists fire can climb and gives off light?"}
+{"passage_id": "2725-0", "question_type": "table", "anchor": "On a Giant Fire Beetle's ability score table, what are the Wisdom score and modifier?"}
+{"passage_id": "106-0", "question_type": "lookup", "anchor": "What counts as a character sheet when creating a character?"}
+{"passage_id": "106-0", "question_type": "paraphrase", "anchor": "Do I need to buy a printed form to write down my character's details?"}
+{"passage_id": "106-0", "question_type": "descriptive", "anchor": "Which early step of making a character asks me to choose how to record my details?"}
+{"passage_id": "303-0", "question_type": "lookup", "anchor": "What is the maximum score Body and Mind lets a Monk's Dexterity and Wisdom reach?"}
+{"passage_id": "303-0", "question_type": "paraphrase", "anchor": "At level 20, by how many points do my Monk's Dexterity and Wisdom go up with Body and Mind?"}
+{"passage_id": "303-0", "question_type": "descriptive", "anchor": "What level 20 monk feature raises two of my ability scores, making me more agile and perceptive?"}
+{"passage_id": "2484-0", "question_type": "lookup", "anchor": "What Armor Class does a Tough Boss have?"}
+{"passage_id": "2484-0", "question_type": "paraphrase", "anchor": "Does a Tough Boss get a better chance to land hits when its pal stands close to the target?"}
+{"passage_id": "2484-0", "question_type": "descriptive", "anchor": "Which neutral humanoid hits with a warhammer that can push a Large or smaller target up to 10 feet?"}
+{"passage_id": "2484-0", "question_type": "table", "anchor": "On a Tough Boss's ability score table, what are the Charisma score and Charisma save bonus?"}
+{"passage_id": "1533-0", "question_type": "lookup", "anchor": "How many Hit Points can the Periapt of Health restore with its Magic action?"}
+{"passage_id": "1533-0", "question_type": "paraphrase", "anchor": "Do I get an edge on rolls to shake off being poisoned while I wear a Periapt of Health?"}
+{"passage_id": "1533-0", "question_type": "descriptive", "anchor": "How often can I heal myself with a pendant that restores hit points until the next dawn?"}
+{"passage_id": "1649-11", "question_type": "lookup", "anchor": "What happens to an object within 120 feet when a Wand of Wonder roll lands on 65 to 68?"}
+{"passage_id": "1649-11", "question_type": "paraphrase", "anchor": "If my Wand of Wonder rolls 65 to 68, will it make the sword in my hand vanish?"}
+{"passage_id": "1649-11", "question_type": "descriptive", "anchor": "Which wand effect sends a nearby unattended object into the Ethereal Plane, as long as it's no bigger than 10 feet?"}
+{"passage_id": "1649-11", "question_type": "table", "anchor": "In a Wand of Wonder's d100 table, what does the 65 to 68 row say happens when no object is in range?"}
+{"passage_id": "126-0", "question_type": "lookup", "anchor": "How is a character's Passive Perception score calculated?"}
+{"passage_id": "126-0", "question_type": "paraphrase", "anchor": "If my Wisdom is 15 and I'm proficient in Perception, what's my passive awareness score?"}
+{"passage_id": "126-0", "question_type": "descriptive", "anchor": "How do I calculate the total for a saving throw I'm proficient in when creating my character?"}
+{"passage_id": "853-0", "question_type": "lookup", "anchor": "How far can Detect Thoughts sense the presence of thoughts?"}
+{"passage_id": "853-0", "question_type": "paraphrase", "anchor": "Can a foot of stone or wood block Detect Thoughts from sensing minds?"}
+{"passage_id": "853-0", "question_type": "descriptive", "anchor": "What divination spell lets me read what a nearby creature is most focused on, and possibly probe deeper into its mind?"}
+{"passage_id": "42-0", "question_type": "lookup", "anchor": "Which senses that help creatures perceive in certain situations does the Rules Glossary define?"}
+{"passage_id": "42-0", "question_type": "paraphrase", "anchor": "Are senses like seeing without light or feeling tremors in the ground handled in the Rules Glossary?"}
+{"passage_id": "42-0", "question_type": "descriptive", "anchor": "Which vision-related list names the senses some creatures use to perceive things in particular situations?"}
+{"passage_id": "1327-0", "question_type": "lookup", "anchor": "How much damage does an ingested poison that acts at midnight deal on a failed save?"}
+{"passage_id": "1327-0", "question_type": "paraphrase", "anchor": "If something cures the Poisoned condition before midnight, does the delayed ingested poison still hurt a character?"}
+{"passage_id": "1327-0", "question_type": "descriptive", "anchor": "What sneaky poison could a character swallow that waits until midnight before doing anything?"}

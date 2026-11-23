@@ -1,0 +1,85 @@
+{"passage_id": "651-0", "question_type": "lookup", "anchor": "What items are included in an Explorer's Pack?"}
+{"passage_id": "651-0", "question_type": "paraphrase", "anchor": "If I buy an Explorer's Pack for a dungeon trip, how many torches come with it?"}
+{"passage_id": "651-0", "question_type": "descriptive", "anchor": "What bundle of basic travel gear includes a bedroll, a tinderbox, rope, and a waterskin?"}
+{"passage_id": "855-0", "question_type": "lookup", "anchor": "How long does the Disguise Self spell last once I cast it?"}
+{"passage_id": "855-0", "question_type": "paraphrase", "anchor": "If I cast Disguise Self to put on a fake hat, will someone who grabs it feel anything?"}
+{"passage_id": "855-0", "question_type": "descriptive", "anchor": "What spell lets me look a foot taller or shorter, but can't change how many arms I have?"}
+{"passage_id": "2170-0", "question_type": "lookup", "anchor": "What Armor Class does a Lamia have?"}
+{"passage_id": "2170-0", "question_type": "paraphrase", "anchor": "If a Lamia's touch curses me after I fail the save, how long does the curse last?"}
+{"passage_id": "2170-0", "question_type": "descriptive", "anchor": "Which large chaotic evil fiend casts Geas, Major Image, and Scrying once per day each?"}
+{"passage_id": "2170-0", "question_type": "table", "anchor": "What Charisma score does a Lamia have?"}
+{"passage_id": "1434-0", "question_type": "lookup", "anchor": "When does the Cloak of Displacement's illusion come back after I take damage?"}
+{"passage_id": "1434-0", "question_type": "paraphrase", "anchor": "If I wear a Cloak of Displacement, do enemies get a penalty when attacking me?"}
+{"passage_id": "1434-0", "question_type": "descriptive", "anchor": "Which rare cloak that requires attunement makes enemies roll at a disadvantage against me by projecting an image?"}
+{"passage_id": "1593-0", "question_type": "lookup", "anchor": "How many other creatures can a Rod of Security transport to its demiplane?"}
+{"passage_id": "1593-0", "question_type": "paraphrase", "anchor": "How long can my friends stay in the pocket dimension from a Rod of Security before they have to leave?"}
+{"passage_id": "1593-0", "question_type": "descriptive", "anchor": "Which very rare rod can whisk my whole party into a safe pocket realm where we heal and don't age?"}
+{"passage_id": "835-1", "question_type": "lookup", "anchor": "How much Bludgeoning damage does a Control Water whirlpool deal on a failed Strength save?"}
+{"passage_id": "835-1", "question_type": "paraphrase", "anchor": "When I make a whirlpool with Control Water, how far does it pull creatures in the water toward it?"}
+{"passage_id": "835-1", "question_type": "descriptive", "anchor": "Which spell lets me steer flowing water in any direction I choose, even up walls?"}
+{"passage_id": "729-0", "question_type": "lookup", "anchor": "Can a magic item meant to be worn fit a creature regardless of its size or build?"}
+{"passage_id": "729-0", "question_type": "paraphrase", "anchor": "How do you actually use a magic weapon, and how is a magic cloak put on?"}
+{"passage_id": "729-0", "question_type": "descriptive", "anchor": "Are magic clothes hard to fit, or do they adjust themselves to whoever wears them?"}
+{"passage_id": "1477-0", "question_type": "lookup", "anchor": "What Strength score do the Gauntlets of Ogre Power give me while I wear them?"}
+{"passage_id": "1477-0", "question_type": "paraphrase", "anchor": "If my Strength is already 19 or higher, do Gauntlets of Ogre Power still change anything?"}
+{"passage_id": "1477-0", "question_type": "descriptive", "anchor": "Which uncommon gloves that need attunement raise my strength to 19 while I'm wearing them?"}
+{"passage_id": "71-0", "question_type": "lookup", "anchor": "How far away can a target be for a melee attack to hit it?"}
+{"passage_id": "71-0", "question_type": "paraphrase", "anchor": "Can monsters make close-up attacks with their claws, teeth, or other body parts?"}
+{"passage_id": "71-0", "question_type": "descriptive", "anchor": "Which close-range attack uses a handheld weapon or a bare-handed strike against a target within reach?"}
+{"passage_id": "338-0", "question_type": "lookup", "anchor": "Which saving throws does the Ranger class have proficiency in?"}
+{"passage_id": "338-0", "question_type": "paraphrase", "anchor": "How big is the health die a Ranger rolls each level?"}
+{"passage_id": "338-0", "question_type": "descriptive", "anchor": "Which class has Dexterity and Wisdom as primary abilities and can use Simple and Martial weapons?"}
+{"passage_id": "338-0", "question_type": "table", "anchor": "Does a Ranger's armor training include Shields?"}
+{"passage_id": "1484-0", "question_type": "lookup", "anchor": "What bonus do Gloves of Thievery give to Dexterity (Sleight of Hand) checks?"}
+{"passage_id": "1484-0", "question_type": "paraphrase", "anchor": "Will anyone notice Gloves of Thievery on my hands while I'm wearing them?"}
+{"passage_id": "1484-0", "question_type": "descriptive", "anchor": "Which uncommon magic gloves boost my sleight-of-hand skill by five while staying hidden?"}
+{"passage_id": "1689-0", "question_type": "lookup", "anchor": "When can a monster use a Legendary Action during a fight?"}
+{"passage_id": "1689-0", "question_type": "paraphrase", "anchor": "If a monster is Incapacitated, can it still use its extra legendary moves?"}
+{"passage_id": "1689-0", "question_type": "descriptive", "anchor": "When does a monster's limited pool of off-turn actions refill?"}
+{"passage_id": "218-0", "question_type": "lookup", "anchor": "What does the C mark mean in a Cleric spell list's Special column?"}
+{"passage_id": "218-0", "question_type": "paraphrase", "anchor": "How are the Cleric's spells sorted on its spell list?"}
+{"passage_id": "218-0", "question_type": "descriptive", "anchor": "Which spell list has cantrips named Guidance, Resistance, and Sacred Flame?"}
+{"passage_id": "218-0", "question_type": "table", "anchor": "For the Cleric's Mending cantrip, which school of magic is listed?"}
+{"passage_id": "2018-0", "question_type": "lookup", "anchor": "How much damage does a Gnoll Warrior's Rend attack deal on a hit?"}
+{"passage_id": "2018-0", "question_type": "paraphrase", "anchor": "How often can a Gnoll Warrior use Rampage to swing again at a badly hurt foe?"}
+{"passage_id": "2018-0", "question_type": "descriptive", "anchor": "Which Medium chaotic evil fiend has a Bone Bow with a 600-foot long range?"}
+{"passage_id": "2018-0", "question_type": "table", "anchor": "How smart is a Gnoll Warrior, as an Intelligence score?"}
+{"passage_id": "1412-0", "question_type": "lookup", "anchor": "How many days of food does one Bead of Nourishment equal?"}
+{"passage_id": "1412-0", "question_type": "paraphrase", "anchor": "Does eating a Bead of Nourishment taste like anything?"}
+{"passage_id": "1412-0", "question_type": "descriptive", "anchor": "Which common wondrous item is a gelatinous bead that melts on your tongue to feed you for a day?"}
+{"passage_id": "2885-0", "question_type": "lookup", "anchor": "What is a Riding Horse's Speed in feet?"}
+{"passage_id": "2885-0", "question_type": "paraphrase", "anchor": "If a Riding Horse hits me with its hooves, how much damage do I take?"}
+{"passage_id": "2885-0", "question_type": "descriptive", "anchor": "Which large beast has 13 hit points and no languages?"}
+{"passage_id": "2885-0", "question_type": "table", "anchor": "What Wisdom score does a Riding Horse have?"}
+{"passage_id": "720-0", "question_type": "lookup", "anchor": "How much does a skilled hireling cost per day?"}
+{"passage_id": "720-0", "question_type": "paraphrase", "anchor": "If I need to send word ahead by hiring a messenger, what does that cost per mile?"}
+{"passage_id": "720-0", "question_type": "descriptive", "anchor": "What are the going rates for paying skilled or untrained workers by the day in a campaign?"}
+{"passage_id": "720-0", "question_type": "table", "anchor": "How many silver pieces does an untrained hireling cost per day?"}
+{"passage_id": "1544-0", "question_type": "lookup", "anchor": "How long does a Potion of Diminution's reduce effect last?"}
+{"passage_id": "1544-0", "question_type": "paraphrase", "anchor": "Do I have to concentrate to stay shrunk after drinking a Potion of Diminution?"}
+{"passage_id": "1544-0", "question_type": "descriptive", "anchor": "Which rare potion makes its drinker shrink for 1d4 hours without needing concentration?"}
+{"passage_id": "2633-0", "question_type": "lookup", "anchor": "How much does a Blood Hawk's Beak attack deal to a Bloodied target?"}
+{"passage_id": "2633-0", "question_type": "paraphrase", "anchor": "Do Blood Hawks attack with an edge when one of their allies stands within 5 feet of the target?"}
+{"passage_id": "2633-0", "question_type": "descriptive", "anchor": "Which tiny beast with 60-foot flight and a passive Perception of 16 has Pack Tactics?"}
+{"passage_id": "2633-0", "question_type": "table", "anchor": "What is a Blood Hawk's Dexterity score?"}
+{"passage_id": "528-0", "question_type": "lookup", "anchor": "How far can an Orc see in the dark with Darkvision?"}
+{"passage_id": "528-0", "question_type": "paraphrase", "anchor": "Can an Orc survive a hit that would normally knock it out, and how often can it do that?"}
+{"passage_id": "528-0", "question_type": "descriptive", "anchor": "What playable species gets a bonus action Dash that also grants temporary Hit Points equal to proficiency bonus?"}
+{"passage_id": "1184-0", "question_type": "lookup", "anchor": "Does a creature that actively works to harm me count as my enemy?"}
+{"passage_id": "1184-0", "question_type": "paraphrase", "anchor": "Can the GM declare a creature my enemy even if it isn't fighting me?"}
+{"passage_id": "1184-0", "question_type": "descriptive", "anchor": "What term in the rules glossary describes a foe who fights you or is marked hostile by the game master?"}
+{"passage_id": "1362-1", "question_type": "lookup", "anchor": "When two potions are mixed, what happens to both if the roll is 36 to 90?"}
+{"passage_id": "1362-1", "question_type": "paraphrase", "anchor": "If I mix potions and roll a 26 to 35, do the potions still work and how strong are they?"}
+{"passage_id": "1362-1", "question_type": "descriptive", "anchor": "If I mash together two magic brews, can the mixture turn into a poison?"}
+{"passage_id": "1362-1", "question_type": "table", "anchor": "What gets doubled when mixed potions roll between 91 and 99?"}
+{"passage_id": "1306-0", "question_type": "lookup", "anchor": "What Constitution save DC do I face each hour in extreme cold?"}
+{"passage_id": "1306-0", "question_type": "paraphrase", "anchor": "In extreme cold, does having Cold Resistance let me skip the hourly save?"}
+{"passage_id": "1306-0", "question_type": "descriptive", "anchor": "When it drops to zero degrees Fahrenheit, how often do I risk gaining a level of fatigue?"}
+{"passage_id": "1776-0", "question_type": "lookup", "anchor": "How much Acid damage does a creature take when it hits a Black Pudding with a melee attack?"}
+{"passage_id": "1776-0", "question_type": "paraphrase", "anchor": "Can casting Mending on my sword undo the corrosion from a Black Pudding?"}
+{"passage_id": "1776-0", "question_type": "descriptive", "anchor": "Which large ooze is immune to acid and cold and can climb along ceilings?"}
+{"passage_id": "1776-0", "question_type": "table", "anchor": "What is a Black Pudding's Constitution score?"}
+{"passage_id": "2059-0", "question_type": "lookup", "anchor": "How much Poison damage does a Young Green Dragon's breath deal on a failed save?"}
+{"passage_id": "2059-0", "question_type": "paraphrase", "anchor": "If a Young Green Dragon's breath hits me and I succeed on the save, how much does it hurt?"}
+{"passage_id": "2059-0", "question_type": "descriptive", "anchor": "Which large chromatic dragon is lawful evil and can breathe air and water?"}
+{"passage_id": "2059-0", "question_type": "table", "anchor": "How much does a Young Green Dragon add to Wisdom saves?"}

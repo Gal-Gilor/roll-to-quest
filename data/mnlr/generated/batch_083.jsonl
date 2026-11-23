@@ -1,0 +1,81 @@
+{"passage_id": "1372-0", "question_type": "lookup", "anchor": "What kind of action does activating a magic item usually take?"}
+{"passage_id": "1372-0", "question_type": "paraphrase", "anchor": "When I activate a magic item, do I ever need to do something special beyond the usual action?"}
+{"passage_id": "1372-0", "question_type": "descriptive", "anchor": "Where are the rules for turning on an enchanted item, since each item might work a bit differently?"}
+{"passage_id": "1094-0", "question_type": "lookup", "anchor": "How much movement does it take to step into a plant under Transport via Plants?"}
+{"passage_id": "1094-0", "question_type": "paraphrase", "anchor": "Can I use Transport via Plants on a tiny flower, or does the plant have to be bigger?"}
+{"passage_id": "1094-0", "question_type": "descriptive", "anchor": "Is there a druid spell that links two plants so a person can pass between them over any distance?"}
+{"passage_id": "1347-0", "question_type": "lookup", "anchor": "Which objects does the Combat Encounters section suggest to get characters moving around?"}
+{"passage_id": "1347-0", "question_type": "paraphrase", "anchor": "In a combat encounter, what sort of terrain like ledges and balconies rewards clever positioning?"}
+{"passage_id": "1347-0", "question_type": "descriptive", "anchor": "Why is a mix of different monster types fighting together tougher for a party to beat?"}
+{"passage_id": "2043-0", "question_type": "lookup", "anchor": "What is the Armor Class of an Ancient Gold Dragon?"}
+{"passage_id": "2043-0", "question_type": "paraphrase", "anchor": "How much health does an Ancient Gold Dragon have, and what dice make up that total?"}
+{"passage_id": "2043-0", "question_type": "descriptive", "anchor": "What fire breath attack hits each creature in a 90-foot cone, with half damage on a successful Dexterity save?"}
+{"passage_id": "2043-0", "question_type": "table", "anchor": "How much does an Ancient Gold Dragon add to its Charisma saving throws?"}
+{"passage_id": "909-0", "question_type": "lookup", "anchor": "What material component does the Foresight spell require when cast?"}
+{"passage_id": "909-0", "question_type": "paraphrase", "anchor": "If I cast Foresight on my ally, do enemies get a penalty when they swing at my ally?"}
+{"passage_id": "909-0", "question_type": "descriptive", "anchor": "Is there a divination spell that lets me touch a friend so they roll better checks and foes struggle to hit them for hours?"}
+{"passage_id": "482-0", "question_type": "lookup", "anchor": "When multiclassing into Wizard, which Hit Point Die do I gain?"}
+{"passage_id": "482-0", "question_type": "paraphrase", "anchor": "Once I've multiclassed into Wizard, where do I find the rules for counting my spell slots?"}
+{"passage_id": "482-0", "question_type": "descriptive", "anchor": "If my character picks up Wizard for the first time later on, which class features do I get at that point?"}
+{"passage_id": "1067-0", "question_type": "lookup", "anchor": "How far does the emanation of Speak with Plants reach?"}
+{"passage_id": "1067-0", "question_type": "paraphrase", "anchor": "Can my Speak with Plants spell make plants physically walk over to me?"}
+{"passage_id": "1067-0", "question_type": "descriptive", "anchor": "What spell lets me ask a patch of plants what happened nearby over the last day?"}
+{"passage_id": "164-0", "question_type": "lookup", "anchor": "What does Feral Instinct give a Barbarian on Initiative rolls?"}
+{"passage_id": "164-0", "question_type": "paraphrase", "anchor": "Which Barbarian level gives me the Feral Instinct feature that helps me act first in combat?"}
+{"passage_id": "164-0", "question_type": "descriptive", "anchor": "What Barbarian ability makes me more likely to act early when a fight starts?"}
+{"passage_id": "1283-1", "question_type": "lookup", "anchor": "In the Travel Pace rules, what multiplier turns normal daily miles into a Fast pace?"}
+{"passage_id": "1283-1", "question_type": "paraphrase", "anchor": "If my character has special movement and ignores rough ground, can the group still move at a Fast travel pace?"}
+{"passage_id": "1283-1", "question_type": "descriptive", "anchor": "How do I convert a creature's movement number into miles per hour when planning a long journey?"}
+{"passage_id": "279-0", "question_type": "lookup", "anchor": "When becoming a Monk at level 1, which table lists the core traits I gain?"}
+{"passage_id": "279-0", "question_type": "paraphrase", "anchor": "Is a first-level Monk automatically given all the core traits, or do I have to choose them?"}
+{"passage_id": "279-0", "question_type": "descriptive", "anchor": "What class traits does a martial artist automatically receive upon reaching first level?"}
+{"passage_id": "1757-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Berserker?"}
+{"passage_id": "1757-0", "question_type": "paraphrase", "anchor": "What bonus does a Berserker get on attacks and saves once it is badly hurt?"}
+{"passage_id": "1757-0", "question_type": "descriptive", "anchor": "Which challenge rating 2 humanoid carries a greataxe and hide armor?"}
+{"passage_id": "1757-0", "question_type": "table", "anchor": "What Constitution score does a Berserker have?"}
+{"passage_id": "44-0", "question_type": "lookup", "anchor": "What examples of object interaction does the Interacting with Objects section mention?"}
+{"passage_id": "44-0", "question_type": "paraphrase", "anchor": "Are there always special rules when interacting with objects, or is it usually simple?"}
+{"passage_id": "44-0", "question_type": "descriptive", "anchor": "When a player says their character moves a lever, who narrates what happens at the table?"}
+{"passage_id": "555-0", "question_type": "lookup", "anchor": "How many Copper Pieces make up one Gold Piece in the Coins section?"}
+{"passage_id": "555-0", "question_type": "paraphrase", "anchor": "For coins in general, how many of them add up to one pound of weight?"}
+{"passage_id": "555-0", "question_type": "descriptive", "anchor": "Why are the different kinds of money in the game worth different amounts?"}
+{"passage_id": "555-0", "question_type": "table", "anchor": "For coins, how much is a Platinum Piece worth in Gold Pieces?"}
+{"passage_id": "953-0", "question_type": "lookup", "anchor": "How much must the ink for Illusory Script be worth at minimum?"}
+{"passage_id": "953-0", "question_type": "paraphrase", "anchor": "If someone dispels my Illusory Script note, do both the disguise and the original writing vanish?"}
+{"passage_id": "953-0", "question_type": "descriptive", "anchor": "Which spell makes my letter look ordinary to me and my friends but gibberish to everyone else?"}
+{"passage_id": "1471-0", "question_type": "lookup", "anchor": "How long does a Feather Token Anchor keep a ship from being moved?"}
+{"passage_id": "1471-0", "question_type": "paraphrase", "anchor": "How much weight can the bird form of a Feather Token carry while flying?"}
+{"passage_id": "1471-0", "question_type": "descriptive", "anchor": "What magic token can I toss into the air to make my ship faster for a while?"}
+{"passage_id": "1363-0", "question_type": "lookup", "anchor": "Where must a magic ring be worn for its magic to function?"}
+{"passage_id": "1363-0", "question_type": "paraphrase", "anchor": "Can a magic ring's own description change where it has to be worn?"}
+{"passage_id": "1363-0", "question_type": "descriptive", "anchor": "Where on my body should a magical band go for its powers to work?"}
+{"passage_id": "1186-0", "question_type": "lookup", "anchor": "What happens to a character's level when its Experience Points total crosses certain thresholds?"}
+{"passage_id": "1186-0", "question_type": "paraphrase", "anchor": "Does the referee decide how many Experience Points I get, or do I track them myself?"}
+{"passage_id": "1186-0", "question_type": "descriptive", "anchor": "What's the game term for points characters earn by overcoming challenges that eventually lead to higher levels?"}
+{"passage_id": "2391-1", "question_type": "lookup", "anchor": "What escape DC applies to a creature grappled by a Shambling Mound's Engulf?"}
+{"passage_id": "2391-1", "question_type": "paraphrase", "anchor": "If a Shambling Mound swallows me, how much lightning damage do I take each turn?"}
+{"passage_id": "2391-1", "question_type": "descriptive", "anchor": "Can a creature that swallows people with a Strength save hold several victims at once?"}
+{"passage_id": "1542-0", "question_type": "lookup", "anchor": "What happens to the eyeball in a Potion of Clairvoyance when the potion is opened?"}
+{"passage_id": "1542-0", "question_type": "paraphrase", "anchor": "Does drinking a Potion of Clairvoyance make me hold my concentration on the effect?"}
+{"passage_id": "1542-0", "question_type": "descriptive", "anchor": "Which rare drink lets me see a faraway place as though I cast a far-seeing spell?"}
+{"passage_id": "1922-0", "question_type": "lookup", "anchor": "How many hit points does a Doppelganger have?"}
+{"passage_id": "1922-0", "question_type": "paraphrase", "anchor": "Can a Doppelganger shift into another form, like a person, on its turn using a bonus action?"}
+{"passage_id": "1922-0", "question_type": "descriptive", "anchor": "Which mimic-like monster's frightening face attack recharges on a roll of 6 and affects creatures in a 15-foot area?"}
+{"passage_id": "1922-0", "question_type": "table", "anchor": "What Wisdom modifier does a Doppelganger have?"}
+{"passage_id": "48-0", "question_type": "lookup", "anchor": "When carrying objects, do I usually need to worry about the weight of my gear and treasure?"}
+{"passage_id": "48-0", "question_type": "paraphrase", "anchor": "Do I need to worry about carrying lots of small things or only heavy items?"}
+{"passage_id": "48-0", "question_type": "descriptive", "anchor": "Where does the rulebook explain how much weight a character can haul around?"}
+{"passage_id": "637-0", "question_type": "lookup", "anchor": "How many Crossbow Bolts fit in a Crossbow Bolt Case?"}
+{"passage_id": "637-0", "question_type": "paraphrase", "anchor": "What does a crossbow bolt case cost?"}
+{"passage_id": "637-0", "question_type": "descriptive", "anchor": "What small container would I buy to keep my ammunition for a crossbow organized and protected?"}
+{"passage_id": "1650-0", "question_type": "lookup", "anchor": "Which rarity level goes with a +2 magic weapon?"}
+{"passage_id": "1650-0", "question_type": "paraphrase", "anchor": "Does the magic bonus on a +1, +2, or +3 weapon also add to how much damage I deal?"}
+{"passage_id": "1650-0", "question_type": "descriptive", "anchor": "Which magic weapon bonus applies to any simple or martial weapon and comes in several rarities?"}
+{"passage_id": "422-3", "question_type": "lookup", "anchor": "Which school of magic does Fireball fall under on the Sorcerer spell list?"}
+{"passage_id": "422-3", "question_type": "paraphrase", "anchor": "Can a Sorcerer learn Dispel Magic as one of their spells?"}
+{"passage_id": "422-3", "question_type": "descriptive", "anchor": "What Sorcerer spell can make my party walk on water?"}
+{"passage_id": "422-3", "question_type": "table", "anchor": "On the Sorcerer list, which school of magic is Vampiric Touch in?"}
+{"passage_id": "2893-0", "question_type": "lookup", "anchor": "What is the Speed of a Scorpion?"}
+{"passage_id": "2893-0", "question_type": "paraphrase", "anchor": "How much damage does a Scorpion's sting do when it hits, including poison?"}
+{"passage_id": "2893-0", "question_type": "descriptive", "anchor": "Which tiny beast can sense nearby without sight, with a range of 10 feet, and has a single weak sting?"}
+{"passage_id": "2893-0", "question_type": "table", "anchor": "How does a Scorpion's Strength modifier compare to zero?"}

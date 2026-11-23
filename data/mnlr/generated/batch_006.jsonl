@@ -1,0 +1,79 @@
+{"passage_id": "1087-2", "question_type": "lookup", "anchor": "How far away from the destination do I appear with Teleport if I'm off target?"}
+{"passage_id": "1087-2", "question_type": "paraphrase", "anchor": "If Teleport drops me off target, how far and in what direction do I land?"}
+{"passage_id": "1087-2", "question_type": "descriptive", "anchor": "Which travel magic can drop me miles from my destination in a random compass direction?"}
+{"passage_id": "1665-0", "question_type": "lookup", "anchor": "How does a monster's Constitution modifier change its Hit Points when it has Hit Dice?"}
+{"passage_id": "1665-0", "question_type": "paraphrase", "anchor": "For a monster's Hit Points, can I use both the fixed number and the dice roll?"}
+{"passage_id": "1665-0", "question_type": "descriptive", "anchor": "What die size does a huge monster usually use to figure out its health?"}
+{"passage_id": "1665-0", "question_type": "table", "anchor": "In the hit dice by size table, what average Hit Points per die goes with Gargantuan monsters?"}
+{"passage_id": "1571-0", "question_type": "lookup", "anchor": "How many Hit Points per 10 minutes does a Ring of Regeneration restore while worn?"}
+{"passage_id": "1571-0", "question_type": "paraphrase", "anchor": "If I lose a limb while wearing a Ring of Regeneration, how long until it grows back?"}
+{"passage_id": "1571-0", "question_type": "descriptive", "anchor": "Which very rare ring lets me heal a little over time and regrow a severed body part?"}
+{"passage_id": "898-0", "question_type": "lookup", "anchor": "How long does Fire Shield last once I cast it?"}
+{"passage_id": "898-0", "question_type": "paraphrase", "anchor": "If I pick the chill version of Fire Shield, what damage type does it make me resistant to?"}
+{"passage_id": "898-0", "question_type": "descriptive", "anchor": "Which level 4 spell makes flames burst out at anyone who hits me with a melee attack?"}
+{"passage_id": "620-0", "question_type": "lookup", "anchor": "How many Needles does the Ammunition table list in its Amount column?"}
+{"passage_id": "620-0", "question_type": "paraphrase", "anchor": "Where would I store Bolts if I'm carrying Ammunition?"}
+{"passage_id": "620-0", "question_type": "descriptive", "anchor": "How much does a pouch of firearm bullets cost?"}
+{"passage_id": "620-0", "question_type": "table", "anchor": "What does a sling bullet cost and how much does it weigh in Ammunition?"}
+{"passage_id": "1051-0", "question_type": "lookup", "anchor": "What is the range of Shatter?"}
+{"passage_id": "1051-0", "question_type": "paraphrase", "anchor": "If I cast Shatter with a bigger slot, how much more damage does it deal?"}
+{"passage_id": "1051-0", "question_type": "descriptive", "anchor": "Which spell makes a loud noise burst from a point and damage creatures within a 10-foot radius?"}
+{"passage_id": "1263-0", "question_type": "lookup", "anchor": "How much extra movement does swimming cost per foot?"}
+{"passage_id": "1263-0", "question_type": "paraphrase", "anchor": "If I'm swimming through difficult terrain, how many extra feet does each step cost?"}
+{"passage_id": "1263-0", "question_type": "descriptive", "anchor": "Do creatures with a Swim Speed pay extra movement cost to move through water?"}
+{"passage_id": "2719-0", "question_type": "lookup", "anchor": "What is a Giant Eagle's Armor Class?"}
+{"passage_id": "2719-0", "question_type": "paraphrase", "anchor": "How far can a Giant Eagle move through the air each turn?"}
+{"passage_id": "2719-0", "question_type": "table", "anchor": "What is a Giant Eagle's Wisdom saving throw bonus?"}
+{"passage_id": "2719-0", "question_type": "descriptive", "anchor": "Which large good-aligned flying monster can make two Rend attacks in one turn?"}
+{"passage_id": "1172-0", "question_type": "lookup", "anchor": "Can a dead creature regain Hit Points without magic?"}
+{"passage_id": "1172-0", "question_type": "paraphrase", "anchor": "When a dead character is revived, can the spirit refuse the spell?"}
+{"passage_id": "1172-0", "question_type": "descriptive", "anchor": "Do I come back from death with fewer Exhaustion levels than when I died?"}
+{"passage_id": "334-0", "question_type": "lookup", "anchor": "How long does Sacred Weapon last after I activate it?"}
+{"passage_id": "334-0", "question_type": "paraphrase", "anchor": "With Sacred Weapon, how much bonus do I add to attack rolls with a melee weapon?"}
+{"passage_id": "334-0", "question_type": "descriptive", "anchor": "Which paladin feature uses Channel Divinity to imbue a held weapon with positive energy?"}
+{"passage_id": "1504-0", "question_type": "lookup", "anchor": "What DC does an Iron Flask use for the Wisdom saving throw?"}
+{"passage_id": "1504-0", "question_type": "paraphrase", "anchor": "If I release what's inside an Iron Flask, how long does it obey my orders?"}
+{"passage_id": "1504-0", "question_type": "descriptive", "anchor": "Which legendary brass-stoppered bottle can trap a creature from another plane?"}
+{"passage_id": "1995-0", "question_type": "lookup", "anchor": "How many Hit Points does a Ghast have?"}
+{"passage_id": "1995-0", "question_type": "paraphrase", "anchor": "When a Ghast bites me and hits, how much damage do I take?"}
+{"passage_id": "1995-0", "question_type": "table", "anchor": "What is a Ghast's Wisdom saving throw bonus?"}
+{"passage_id": "1995-0", "question_type": "descriptive", "anchor": "Which chaotic evil undead has a 5-foot aura that poisons anything that starts its turn nearby?"}
+{"passage_id": "1401-3", "question_type": "lookup", "anchor": "What does the Apparatus of the Crab do when lever 9 is moved up?"}
+{"passage_id": "1401-3", "question_type": "paraphrase", "anchor": "If I want the Apparatus of the Crab's back hatch to seal shut, which way do I push lever 10?"}
+{"passage_id": "1401-3", "question_type": "descriptive", "anchor": "Which magic device with numbered levers can sink or rise in liquid and seal or unseal a rear hatch?"}
+{"passage_id": "1401-3", "question_type": "table", "anchor": "On the Apparatus of the Crab, what happens when lever 9 is set to Down?"}
+{"passage_id": "318-0", "question_type": "lookup", "anchor": "How often can Paladin's Smite be cast without expending a spell slot?"}
+{"passage_id": "318-0", "question_type": "paraphrase", "anchor": "With Paladin's Smite, do I always have Divine Smite ready or must I prepare it?"}
+{"passage_id": "318-0", "question_type": "descriptive", "anchor": "Which paladin level 2 feature lets me cast a spell for free once per long rest?"}
+{"passage_id": "669-0", "question_type": "lookup", "anchor": "What is a handheld steel Mirror useful for?"}
+{"passage_id": "669-0", "question_type": "paraphrase", "anchor": "Can a Mirror help me signal someone or look around a corner?"}
+{"passage_id": "669-0", "question_type": "descriptive", "anchor": "What small steel item for personal grooming can also flash light to signal others?"}
+{"passage_id": "875-0", "question_type": "lookup", "anchor": "How much damage does Ensnaring Strike deal at the start of each of the target's turns?"}
+{"passage_id": "875-0", "question_type": "paraphrase", "anchor": "Do Large or bigger targets get an edge on the Strength save against Ensnaring Strike?"}
+{"passage_id": "875-0", "question_type": "descriptive", "anchor": "Which level 1 ranger spell grabs a target with vines when I hit with a weapon?"}
+{"passage_id": "481-7", "question_type": "lookup", "anchor": "How many prepared spells does a Wizard have at character level 20?"}
+{"passage_id": "481-7", "question_type": "paraphrase", "anchor": "At level 19, how big is a Wizard's proficiency bonus?"}
+{"passage_id": "481-7", "question_type": "descriptive", "anchor": "How many 9th-level spell slots can a high-level wizard use at character level 19?"}
+{"passage_id": "481-7", "question_type": "table", "anchor": "How many cantrips can a Wizard know at character level 19?"}
+{"passage_id": "670-0", "question_type": "lookup", "anchor": "How far away can I throw a Net at a target?"}
+{"passage_id": "670-0", "question_type": "paraphrase", "anchor": "When a Net has me stuck, what check do I need to pass to wriggle free?"}
+{"passage_id": "670-0", "question_type": "descriptive", "anchor": "Which thrown item tangles a target so it's Restrained unless it passes a Dexterity save?"}
+{"passage_id": "485-0", "question_type": "lookup", "anchor": "Which spells can I cast as a Ritual with Ritual Adept?"}
+{"passage_id": "485-0", "question_type": "paraphrase", "anchor": "Do I need to have a spell memorized to cast it as a ritual with Ritual Adept?"}
+{"passage_id": "485-0", "question_type": "descriptive", "anchor": "Which wizard feature lets me cast ritual spells from my spellbook by reading from it?"}
+{"passage_id": "2415-0", "question_type": "lookup", "anchor": "What is a Warhorse Skeleton's Speed?"}
+{"passage_id": "2415-0", "question_type": "paraphrase", "anchor": "Can a Warhorse Skeleton knock me over with its hooves after running at me?"}
+{"passage_id": "2415-0", "question_type": "table", "anchor": "What is a Warhorse Skeleton's Strength saving throw bonus?"}
+{"passage_id": "2415-0", "question_type": "descriptive", "anchor": "Which large undead horse is immune to poison and vulnerable to bludgeoning?"}
+{"passage_id": "869-0", "question_type": "lookup", "anchor": "How far away can I create a Druidcraft effect?"}
+{"passage_id": "869-0", "question_type": "paraphrase", "anchor": "With Druidcraft, can I light or put out a campfire?"}
+{"passage_id": "869-0", "question_type": "descriptive", "anchor": "Which druid cantrip can predict the weather for the next 24 hours with a tiny harmless effect?"}
+{"passage_id": "242-0", "question_type": "lookup", "anchor": "How fast does Archdruid's Longevity let me age?"}
+{"passage_id": "242-0", "question_type": "paraphrase", "anchor": "With Archdruid, how many spell levels does each unused Wild Shape use turn into?"}
+{"passage_id": "242-0", "question_type": "descriptive", "anchor": "Which level 20 druid feature gives me back a Wild Shape use when I roll Initiative with none left?"}
+{"passage_id": "867-0", "question_type": "lookup", "anchor": "How big is the exhale from Dragon's Breath?"}
+{"passage_id": "867-0", "question_type": "paraphrase", "anchor": "If I cast Dragon's Breath with a bigger slot, how much more damage does the breath do?"}
+{"passage_id": "867-0", "question_type": "descriptive", "anchor": "Which concentration spell lets a touched willing creature exhale a cone of one damage type I choose?"}
+{"passage_id": "1020-0", "question_type": "lookup", "anchor": "What is Produce Flame's damage when I reach character level 11?"}
+{"passage_id": "1020-0", "question_type": "paraphrase", "anchor": "How far away can I hurl fire at a target with Produce Flame?"}
+{"passage_id": "1020-0", "question_type": "descriptive", "anchor": "Which druid cantrip makes a flame in my hand that gives light but no heat?"}

@@ -1,0 +1,76 @@
+{"passage_id": "1231-0", "question_type": "lookup", "anchor": "Which saving throws do I automatically fail while I have the Petrified condition?"}
+{"passage_id": "1231-0", "question_type": "paraphrase", "anchor": "If I'm Petrified, how much heavier do I get when I turn to stone?"}
+{"passage_id": "1231-0", "question_type": "descriptive", "anchor": "What condition turns you into stone, stops your aging, and makes you resist all damage?"}
+{"passage_id": "2584-0", "question_type": "lookup", "anchor": "What damage does a Worg's Bite deal on a hit, and what type is it?"}
+{"passage_id": "2584-0", "question_type": "paraphrase", "anchor": "How quickly can a Worg get across the ground on its turn?"}
+{"passage_id": "2584-0", "question_type": "descriptive", "anchor": "What large, evil fey monster speaks Goblin and has Darkvision out to 60 feet?"}
+{"passage_id": "2584-0", "question_type": "table", "anchor": "What does a Worg add to Charisma saving throws?"}
+{"passage_id": "376-0", "question_type": "lookup", "anchor": "Which actions can I take as a Bonus Action with Cunning Action?"}
+{"passage_id": "376-0", "question_type": "paraphrase", "anchor": "Can Cunning Action let me sprint and then sneak out of sight in a single turn?"}
+{"passage_id": "376-0", "question_type": "descriptive", "anchor": "What Rogue ability lets me scurry, step back from enemies, or slip out of view as a quick bonus move?"}
+{"passage_id": "2194-0", "question_type": "lookup", "anchor": "What happens to a creature hit by a Magmin's Touch attack?"}
+{"passage_id": "2194-0", "question_type": "paraphrase", "anchor": "If a Magmin blows up when it dies, what fire damage do nearby creatures take?"}
+{"passage_id": "2194-0", "question_type": "descriptive", "anchor": "Which small elemental creature can set itself ablaze or put out its own flames at will?"}
+{"passage_id": "2194-0", "question_type": "table", "anchor": "What is a Magmin's Constitution score, as an ability score?"}
+{"passage_id": "996-0", "question_type": "lookup", "anchor": "How far can I teleport when I cast Misty Step?"}
+{"passage_id": "996-0", "question_type": "paraphrase", "anchor": "Do I need to use my full action to cast Misty Step, or is a quick bonus action enough?"}
+{"passage_id": "996-0", "question_type": "descriptive", "anchor": "Which spell lets me teleport a short distance to a space I can see, surrounded by silvery mist?"}
+{"passage_id": "2874-0", "question_type": "lookup", "anchor": "How many hit points does a Raven have?"}
+{"passage_id": "2874-0", "question_type": "paraphrase", "anchor": "How quickly can a Raven zoom through the air?"}
+{"passage_id": "2874-0", "question_type": "descriptive", "anchor": "Which tiny beast can mimic simple sounds it has heard, such as a whisper or a chitter?"}
+{"passage_id": "2874-0", "question_type": "table", "anchor": "Is a Raven's Wisdom modifier positive, negative, or zero?"}
+{"passage_id": "840-0", "question_type": "lookup", "anchor": "How many corpses can I animate with one casting of Create Undead?"}
+{"passage_id": "840-0", "question_type": "paraphrase", "anchor": "How long will the creatures I raise with Create Undead keep obeying me?"}
+{"passage_id": "840-0", "question_type": "descriptive", "anchor": "What spell can turn up to three dead humanoid bodies into servants that I mentally command?"}
+{"passage_id": "1619-0", "question_type": "lookup", "anchor": "How much extra Necrotic damage does a Staff of Withering deal when I expend a charge?"}
+{"passage_id": "1619-0", "question_type": "paraphrase", "anchor": "After a Staff of Withering hit and a failed save, what does the target struggle with for an hour?"}
+{"passage_id": "1619-0", "question_type": "descriptive", "anchor": "Which rare staff has three charges and regains some of them each day at dawn?"}
+{"passage_id": "1959-1", "question_type": "lookup", "anchor": "How far can an Ettercap pull a creature with its Reel?"}
+{"passage_id": "1959-1", "question_type": "paraphrase", "anchor": "Can an Ettercap yank a creature that's stuck in its web from up to 30 feet away?"}
+{"passage_id": "1959-1", "question_type": "descriptive", "anchor": "Which monster can reel in a creature trapped by its web strand?"}
+{"passage_id": "2496-0", "question_type": "lookup", "anchor": "How many Hit Points does a Troll Limb regain at the start of each of its turns?"}
+{"passage_id": "2496-0", "question_type": "paraphrase", "anchor": "What kinds of damage stop a Troll Limb from regenerating on its next turn?"}
+{"passage_id": "2496-0", "question_type": "descriptive", "anchor": "Which severed monster limb regenerates five Hit Points each turn and may become a whole monster?"}
+{"passage_id": "2496-0", "question_type": "table", "anchor": "What is a Troll Limb's Strength modifier?"}
+{"passage_id": "1599-0", "question_type": "lookup", "anchor": "Which Wisdom skill checks get Advantage while I hold a Sentinel Shield?"}
+{"passage_id": "1599-0", "question_type": "paraphrase", "anchor": "What symbol is painted on a Sentinel Shield?"}
+{"passage_id": "1599-0", "question_type": "descriptive", "anchor": "What uncommon shield gives me an edge on rolling to go first in a fight?"}
+{"passage_id": "299-0", "question_type": "lookup", "anchor": "How many Focus Points do I spend to reroll a failed saving throw with Disciplined Survivor?"}
+{"passage_id": "299-0", "question_type": "paraphrase", "anchor": "If I fail a save with Disciplined Survivor, do I have to keep the new roll even if it's worse?"}
+{"passage_id": "299-0", "question_type": "descriptive", "anchor": "Which high-level Monk feature grants proficiency in every saving throw and lets me reroll a failed one?"}
+{"passage_id": "1550-0", "question_type": "lookup", "anchor": "How many Temporary Hit Points does a Potion of Heroism give when I drink it?"}
+{"passage_id": "1550-0", "question_type": "paraphrase", "anchor": "If I drink a Potion of Heroism, which spell's effect do I get for an hour without needing concentration?"}
+{"passage_id": "1550-0", "question_type": "descriptive", "anchor": "Which rare magic liquid gives me a temporary health boost and a blessing that lasts an hour?"}
+{"passage_id": "598-0", "question_type": "lookup", "anchor": "How much does a set of Jeweler's Tools weigh?"}
+{"passage_id": "598-0", "question_type": "paraphrase", "anchor": "What DC do I need to tell how valuable a gem is using Jeweler's Tools?"}
+{"passage_id": "598-0", "question_type": "descriptive", "anchor": "What kit lets me judge how much a gem is worth, and can craft an Arcane Focus or Holy Symbol?"}
+{"passage_id": "1594-0", "question_type": "lookup", "anchor": "How much weight can a Rope of Climbing hold?"}
+{"passage_id": "1594-0", "question_type": "paraphrase", "anchor": "When I tie a Rope of Climbing into knots, how long does it end up being?"}
+{"passage_id": "1594-0", "question_type": "descriptive", "anchor": "Which 60-foot magic rope can move one end toward a destination I choose and fasten itself to an object?"}
+{"passage_id": "815-0", "question_type": "lookup", "anchor": "How long does a Clone take to finish growing after the spell is cast?"}
+{"passage_id": "815-0", "question_type": "paraphrase", "anchor": "If someone's body dies after a Clone spell has finished growing, can their soul move into it?"}
+{"passage_id": "815-0", "question_type": "descriptive", "anchor": "What eighth-level spell grows an inert duplicate of a person inside a sealed vessel?"}
+{"passage_id": "1262-0", "question_type": "lookup", "anchor": "What does being surprised at the start of combat do to my Initiative roll?"}
+{"passage_id": "1262-0", "question_type": "paraphrase", "anchor": "What do the rules call being caught off guard when a fight starts?"}
+{"passage_id": "1262-0", "question_type": "descriptive", "anchor": "What is the label for a creature that is caught unaware when a battle begins?"}
+{"passage_id": "343-0", "question_type": "lookup", "anchor": "When do my expended spell slots come back for Ranger Spellcasting?"}
+{"passage_id": "343-0", "question_type": "paraphrase", "anchor": "Does Ranger Spellcasting follow the general spell rules, with Ranger details layered on top?"}
+{"passage_id": "343-0", "question_type": "descriptive", "anchor": "Where do I find how many spell slots a Ranger has at each level?"}
+{"passage_id": "512-0", "question_type": "lookup", "anchor": "Which skill proficiencies does the Sage background give?"}
+{"passage_id": "512-0", "question_type": "paraphrase", "anchor": "Which magic-training feat does the Sage background come with?"}
+{"passage_id": "512-0", "question_type": "descriptive", "anchor": "What background gives you Constitution, Intelligence, and Wisdom ability scores and a Calligrapher's Supplies tool?"}
+{"passage_id": "1088-0", "question_type": "lookup", "anchor": "How long does a Teleportation Circle portal stay open after I cast it?"}
+{"passage_id": "1088-0", "question_type": "paraphrase", "anchor": "How many places does Teleportation Circle let me travel to when I first learn it?"}
+{"passage_id": "1088-0", "question_type": "descriptive", "anchor": "How can a caster make a permanent travel point by casting magic in one place for 365 days?"}
+{"passage_id": "1535-0", "question_type": "lookup", "anchor": "Up to what Death Saving Throw roll can a Periapt of Wound Closure raise to a 10?"}
+{"passage_id": "1535-0", "question_type": "paraphrase", "anchor": "When I roll dice to heal, what does a Periapt of Wound Closure do with the total?"}
+{"passage_id": "1535-0", "question_type": "descriptive", "anchor": "What pendant can turn a near-fatal death save into a success?"}
+{"passage_id": "408-0", "question_type": "lookup", "anchor": "How many Metamagic options can Sorcery Incarnate let me use per spell while Innate Sorcery is active?"}
+{"passage_id": "408-0", "question_type": "paraphrase", "anchor": "With Sorcery Incarnate, what does it cost in Sorcery Points to use Innate Sorcery once I've run out of uses?"}
+{"passage_id": "408-0", "question_type": "descriptive", "anchor": "Which sorcerer feature lets me stack two metamagic effects onto each spell while my innate power is active?"}
+{"passage_id": "1402-0", "question_type": "lookup", "anchor": "Does Armor, +1, +2, or +3 give a bigger Armor Class bonus for Legendary armor than for Rare armor?"}
+{"passage_id": "1402-0", "question_type": "paraphrase", "anchor": "Does Armor, +1, +2, or +3 work on heavy armor types as well as light ones?"}
+{"passage_id": "1402-0", "question_type": "descriptive", "anchor": "Which magic suit of protective gear adds to my AC based on its rarity, up to plus three?"}
+{"passage_id": "1301-0", "question_type": "lookup", "anchor": "How many successful Constitution saves does it take to end a laughing sickness caught from tainted potions?"}
+{"passage_id": "1301-0", "question_type": "paraphrase", "anchor": "How many days after drinking a tainted potion does the laughing sickness kick in?"}
+{"passage_id": "1301-0", "question_type": "descriptive", "anchor": "Which contagion that spreads from infected creatures to nearby humanoids leaves gnomes immune?"}

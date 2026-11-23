@@ -1,0 +1,82 @@
+{"passage_id": "1390-0", "question_type": "lookup", "anchor": "How can I determine a sentient magic item's senses without rolling?"}
+{"passage_id": "1390-0", "question_type": "paraphrase", "anchor": "Can a sentient magic item sense things at a distance, or only right next to it?"}
+{"passage_id": "1390-0", "question_type": "descriptive", "anchor": "Who decides how far a talking magic item can see and hear, the owner or a dice roll?"}
+{"passage_id": "1390-0", "question_type": "table", "anchor": "A sentient magic item rolls a 1d4 for its senses; what does a roll of 3 give it?"}
+{"passage_id": "994-0", "question_type": "lookup", "anchor": "How many illusory duplicates does Mirror Image create when I cast it?"}
+{"passage_id": "994-0", "question_type": "paraphrase", "anchor": "If an enemy swings at me while Mirror Image is up, what number on each d6 makes a copy get hit instead?"}
+{"passage_id": "994-0", "question_type": "descriptive", "anchor": "Which spell makes three copies of me that confuse enemies into attacking the wrong one?"}
+{"passage_id": "1611-0", "question_type": "lookup", "anchor": "How many charges does a Staff of Healing regain each day at dawn?"}
+{"passage_id": "1611-0", "question_type": "paraphrase", "anchor": "Can a Wizard attune to a Staff of Healing, or only certain classes?"}
+{"passage_id": "1611-0", "question_type": "descriptive", "anchor": "Which magic staff with ten charges lets a cleric or druid cast a spell from it, and what if the last charge is spent?"}
+{"passage_id": "1611-0", "question_type": "table", "anchor": "On a Staff of Healing, how many charges does Mass Cure Wounds cost to cast?"}
+{"passage_id": "2680-0", "question_type": "lookup", "anchor": "What is the Speed of an Elk, in feet?"}
+{"passage_id": "2680-0", "question_type": "paraphrase", "anchor": "If an Elk runs at me for at least 20 feet before ramming, what extra damage and condition do I take?"}
+{"passage_id": "2680-0", "question_type": "descriptive", "anchor": "Which large beast has an Intelligence of 2 and a Ram attack that deals bludgeoning damage?"}
+{"passage_id": "2680-0", "question_type": "table", "anchor": "What bonus does an Elk add to Charisma saving throws?"}
+{"passage_id": "557-0", "question_type": "lookup", "anchor": "What fraction of an item's cost do I get when selling equipment?"}
+{"passage_id": "557-0", "question_type": "paraphrase", "anchor": "When I sell equipment, do trade goods and gems fetch less than half their value?"}
+{"passage_id": "557-0", "question_type": "descriptive", "anchor": "If I want to get rid of my old armor or sword, how much gold will a shop pay me for it?"}
+{"passage_id": "92-0", "question_type": "lookup", "anchor": "What happens to damage of a type a creature has Immunity to?"}
+{"passage_id": "92-0", "question_type": "paraphrase", "anchor": "If a monster has Immunity to the Poisoned condition, can it still be affected by it?"}
+{"passage_id": "92-0", "question_type": "descriptive", "anchor": "Which protection lets a creature shrug off fire damage or a condition like being Charmed?"}
+{"passage_id": "2543-1", "question_type": "lookup", "anchor": "Besides its humanoid shape, what forms can a Wererat shift into?"}
+{"passage_id": "2543-1", "question_type": "paraphrase", "anchor": "If a Wererat transforms, does its gear change along with it?"}
+{"passage_id": "2543-1", "question_type": "descriptive", "anchor": "Does a lycanthrope that changes into a rat get new combat stats in its animal form?"}
+{"passage_id": "1392-0", "question_type": "lookup", "anchor": "What saving throw DC does a sentient magic item's bearer face in a conflict?"}
+{"passage_id": "1392-0", "question_type": "paraphrase", "anchor": "If I refuse my sentient item's demands, can it stop me from attuning to it?"}
+{"passage_id": "1392-0", "question_type": "descriptive", "anchor": "What demands can a talking magic item make of its owner, like giving it away or keeping it close?"}
+{"passage_id": "905-0", "question_type": "lookup", "anchor": "What Fly Speed does the Fly spell grant to the target?"}
+{"passage_id": "905-0", "question_type": "paraphrase", "anchor": "If I give my ally flight with Fly, do they need to agree first?"}
+{"passage_id": "905-0", "question_type": "descriptive", "anchor": "Which third-level concentration spell lets a willing creature hover and move at 60 feet through the air?"}
+{"passage_id": "2048-0", "question_type": "lookup", "anchor": "What shape and size of area does a Gorgon's Petrifying Breath cover?"}
+{"passage_id": "2048-0", "question_type": "paraphrase", "anchor": "If a Gorgon's breath only partly stiffens me at first, what happens on my second failed save?"}
+{"passage_id": "2048-0", "question_type": "descriptive", "anchor": "Which large construct breathes a cone that can petrify creatures and is immune to exhaustion?"}
+{"passage_id": "2048-0", "question_type": "table", "anchor": "Is a Gorgon's Wisdom modifier higher than +0?"}
+{"passage_id": "524-0", "question_type": "lookup", "anchor": "What Darkvision range does a Gnome have?"}
+{"passage_id": "524-0", "question_type": "paraphrase", "anchor": "As a Gnome, do I roll with an edge on Intelligence, Wisdom, and Charisma saves?"}
+{"passage_id": "524-0", "question_type": "descriptive", "anchor": "Which small folk species sees in the dark up to 60 feet and gets an edge on mental saving throws?"}
+{"passage_id": "228-0", "question_type": "lookup", "anchor": "What armor training does a multiclass character gain when becoming a Druid?"}
+{"passage_id": "228-0", "question_type": "paraphrase", "anchor": "When I take a level in Druid as a second class, which features do I get immediately?"}
+{"passage_id": "228-0", "question_type": "descriptive", "anchor": "If my character already has levels in another class and picks up a nature spellcaster class, what do I gain?"}
+{"passage_id": "2243-0", "question_type": "lookup", "anchor": "How long does it take a Mummy Lord to regain a new body after being destroyed?"}
+{"passage_id": "2243-0", "question_type": "paraphrase", "anchor": "Is a Mummy Lord weak to fire, meaning it takes more damage from it?"}
+{"passage_id": "2243-0", "question_type": "descriptive", "anchor": "Which medium or small undead has Legendary Resistance and a heart that lets it come back if destroyed?"}
+{"passage_id": "2243-0", "question_type": "table", "anchor": "Is a Mummy Lord's Wisdom modifier higher than +3?"}
+{"passage_id": "735-0", "question_type": "lookup", "anchor": "How many days does it take to craft a nonmagical item that sells for 50 GP?"}
+{"passage_id": "735-0", "question_type": "paraphrase", "anchor": "If my friend and I both work on the same item, how do we speed up crafting it?"}
+{"passage_id": "735-0", "question_type": "descriptive", "anchor": "Do the days I spend crafting something have to be back to back, or can I spread them out?"}
+{"passage_id": "516-0", "question_type": "lookup", "anchor": "What creature type is every species in Character Origins?"}
+{"passage_id": "516-0", "question_type": "paraphrase", "anchor": "Can I play a non-Humanoid species from Character Origins?"}
+{"passage_id": "516-0", "question_type": "descriptive", "anchor": "What determines whether my character counts as a humanoid or some other kind of creature?"}
+{"passage_id": "1108-0", "question_type": "lookup", "anchor": "How far away can I create a Wall of Stone?"}
+{"passage_id": "1108-0", "question_type": "paraphrase", "anchor": "If a Wall of Stone cuts through a monster's space, which side does it get pushed to?"}
+{"passage_id": "1108-0", "question_type": "descriptive", "anchor": "Which 5th-level spell makes a solid rock barrier that can be shaped into a ramp or bridge across a chasm?"}
+{"passage_id": "260-0", "question_type": "lookup", "anchor": "Which Fighter subclass is detailed after the class description?"}
+{"passage_id": "260-0", "question_type": "paraphrase", "anchor": "Can I pick my Fighter subclass freely once I hit level 3?"}
+{"passage_id": "260-0", "question_type": "descriptive", "anchor": "Which Fighter level 3 choice picks a specialization that adds features as my level rises?"}
+{"passage_id": "288-0", "question_type": "lookup", "anchor": "Which Monk subclass is detailed after the class description?"}
+{"passage_id": "288-0", "question_type": "paraphrase", "anchor": "At Monk level 3, can I choose any Monk subclass I want?"}
+{"passage_id": "288-0", "question_type": "descriptive", "anchor": "Which Monk level 3 choice gives me a specialization with features added as my level increases?"}
+{"passage_id": "2760-0", "question_type": "lookup", "anchor": "What is a Giant Seahorse's Swim Speed?"}
+{"passage_id": "2760-0", "question_type": "paraphrase", "anchor": "Can a Giant Seahorse breathe air, or does it need to stay underwater?"}
+{"passage_id": "2760-0", "question_type": "descriptive", "anchor": "Which large water-dwelling beast can only breathe underwater and dashes forward without provoking Opportunity Attacks?"}
+{"passage_id": "2760-0", "question_type": "table", "anchor": "Is a Giant Seahorse's Charisma modifier lower than -2?"}
+{"passage_id": "2357-0", "question_type": "lookup", "anchor": "How far can a Roper's Tentacle attack reach?"}
+{"passage_id": "2357-0", "question_type": "paraphrase", "anchor": "If a Roper uses Reel on me, how far does it pull me toward it?"}
+{"passage_id": "2357-0", "question_type": "descriptive", "anchor": "Which large creature with six grabbing limbs can climb ceilings and poison a victim it has grabbed?"}
+{"passage_id": "2357-0", "question_type": "table", "anchor": "How smart is a Roper, as an Intelligence score?"}
+{"passage_id": "1472-2", "question_type": "lookup", "anchor": "How many charges does a Figurine of Wondrous Power's Goat of Traveling form have?"}
+{"passage_id": "1472-2", "question_type": "paraphrase", "anchor": "How long does a Goat of Travail figurine of wondrous power need to recharge after I use it?"}
+{"passage_id": "1472-2", "question_type": "descriptive", "anchor": "Which magic figurine turns into a giant goat for three hours and scares enemies when I ride it?"}
+{"passage_id": "615-0", "question_type": "lookup", "anchor": "How much does a set of Thieves' Tools weigh?"}
+{"passage_id": "615-0", "question_type": "paraphrase", "anchor": "Which ability score do I roll with when I use Thieves' Tools to disarm a trap?"}
+{"passage_id": "615-0", "question_type": "descriptive", "anchor": "What set of tools lets me pick a lock or disarm a trap with a DC 15 check?"}
+{"passage_id": "662-0", "question_type": "lookup", "anchor": "How far does a Lamp's Bright Light reach?"}
+{"passage_id": "662-0", "question_type": "paraphrase", "anchor": "What fuel does a Lamp need to keep burning?"}
+{"passage_id": "662-0", "question_type": "descriptive", "anchor": "What item burns oil and lights up a small circle of bright light around me?"}
+{"passage_id": "77-0", "question_type": "lookup", "anchor": "What is the DC of the Dexterity save to avoid falling off a mount?"}
+{"passage_id": "77-0", "question_type": "paraphrase", "anchor": "If my mount is knocked prone, do I have to roll a save to avoid falling off?"}
+{"passage_id": "77-0", "question_type": "descriptive", "anchor": "If something forces my steed to move against its will, what must I roll to stay in the saddle?"}
+{"passage_id": "66-0", "question_type": "lookup", "anchor": "When making an attack on a target I can't see, what do I have on the roll?"}
+{"passage_id": "66-0", "question_type": "paraphrase", "anchor": "What's the order for making an attack when I swing my sword at an enemy?"}
+{"passage_id": "66-0", "question_type": "descriptive", "anchor": "When I'm hidden and swing at a foe, what reveals where I am?"}

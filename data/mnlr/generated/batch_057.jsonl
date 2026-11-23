@@ -1,0 +1,86 @@
+{"passage_id": "871-0", "question_type": "lookup", "anchor": "What is the range of the Eldritch Blast cantrip?"}
+{"passage_id": "871-0", "question_type": "paraphrase", "anchor": "How many beams does Eldritch Blast fire once my Warlock reaches level 11?"}
+{"passage_id": "871-0", "question_type": "descriptive", "anchor": "Which Warlock cantrip hurls crackling energy that deals force damage to a target 120 feet away?"}
+{"passage_id": "648-0", "question_type": "lookup", "anchor": "Can a Ranger use a druidic focus as a spellcasting focus?"}
+{"passage_id": "648-0", "question_type": "paraphrase", "anchor": "Can a druid's spellcasting focus be a carved, ribbon-tied, or painted object?"}
+{"passage_id": "648-0", "question_type": "descriptive", "anchor": "What carved, painted, or ribbon-tied item can a druid or ranger use to channel primal magic?"}
+{"passage_id": "648-0", "question_type": "table", "anchor": "How much does the yew wand focus weigh, and what does it cost?"}
+{"passage_id": "2457-0", "question_type": "lookup", "anchor": "What is a Stone Giant's Armor Class?"}
+{"passage_id": "2457-0", "question_type": "paraphrase", "anchor": "How many swings can a Stone Giant make in one turn?"}
+{"passage_id": "2457-0", "question_type": "descriptive", "anchor": "Which huge neutral giant with 126 hit points can reduce incoming ranged damage with a reaction?"}
+{"passage_id": "2457-0", "question_type": "table", "anchor": "What does a Stone Giant add to Constitution saving throws?"}
+{"passage_id": "1834-0", "question_type": "lookup", "anchor": "What escape DC does a Bugbear Warrior's Grab attack set on a grappled target?"}
+{"passage_id": "1834-0", "question_type": "paraphrase", "anchor": "Does a Bugbear Warrior have to pay extra movement to drag along a creature it has grabbed?"}
+{"passage_id": "1834-0", "question_type": "descriptive", "anchor": "Which Medium goblinoid fey has 33 hit points and can grab foes with light hammers?"}
+{"passage_id": "1834-0", "question_type": "table", "anchor": "What is a Bugbear Warrior's Wisdom ability score?"}
+{"passage_id": "619-2", "question_type": "lookup", "anchor": "How much does a bullseye lantern cost in adventuring gear?"}
+{"passage_id": "619-2", "question_type": "paraphrase", "anchor": "How heavy is a ladder on the adventuring gear list?"}
+{"passage_id": "619-2", "question_type": "descriptive", "anchor": "What pack weighs 58½ pounds and costs 40 gold pieces among adventuring gear?"}
+{"passage_id": "619-2", "question_type": "table", "anchor": "How much does Holy Water weigh, and what does it cost?"}
+{"passage_id": "851-0", "question_type": "lookup", "anchor": "How far away can Detect Magic sense magical effects?"}
+{"passage_id": "851-0", "question_type": "paraphrase", "anchor": "Will Detect Magic get through a foot of stone wall to sense an enchanted item behind it?"}
+{"passage_id": "851-0", "question_type": "descriptive", "anchor": "What first-level divination spell lets me sense magic within 30 feet for up to 10 minutes?"}
+{"passage_id": "2524-0", "question_type": "lookup", "anchor": "How many hit points does a Warrior Infantry have?"}
+{"passage_id": "2524-0", "question_type": "paraphrase", "anchor": "Does a Warrior Infantry get an advantage on attacks when its friends stand next to the target?"}
+{"passage_id": "2524-0", "question_type": "descriptive", "anchor": "Which Medium or Small humanoid soldier wears a chain shirt and has a challenge rating of 1/8?"}
+{"passage_id": "2524-0", "question_type": "table", "anchor": "What is a Warrior Infantry's Intelligence modifier?"}
+{"passage_id": "311-3", "question_type": "lookup", "anchor": "What class feature does a paladin gain at level 11?"}
+{"passage_id": "311-3", "question_type": "paraphrase", "anchor": "What new paladin power shows up when I reach level 10?"}
+{"passage_id": "311-3", "question_type": "descriptive", "anchor": "What paladin level after 11 gives an Ability Score Improvement?"}
+{"passage_id": "311-3", "question_type": "table", "anchor": "How many level 3 spell slots does a paladin have at level 11?"}
+{"passage_id": "811-0", "question_type": "lookup", "anchor": "What is the range of the Chill Touch cantrip?"}
+{"passage_id": "811-0", "question_type": "paraphrase", "anchor": "If I cast Chill Touch at character level 11, how many dice of damage does it roll?"}
+{"passage_id": "811-0", "question_type": "descriptive", "anchor": "Which necromancy cantrip uses a melee spell attack to stop a foe from healing until my next turn?"}
+{"passage_id": "789-0", "question_type": "lookup", "anchor": "What is the casting time for Augury?"}
+{"passage_id": "789-0", "question_type": "paraphrase", "anchor": "If I cast Augury a second time before my Long Rest, what is the chance I get no answer?"}
+{"passage_id": "789-0", "question_type": "descriptive", "anchor": "What second-level divination ritual tells me whether a plan I'm about to take will turn out well or badly?"}
+{"passage_id": "789-0", "question_type": "table", "anchor": "In Augury's omen table, what does the Weal and woe result mean for the outcome?"}
+{"passage_id": "1612-1", "question_type": "lookup", "anchor": "What Dexterity save DC do other creatures face when a Staff of Power breaks?"}
+{"passage_id": "1612-1", "question_type": "paraphrase", "anchor": "If I snap a Staff of Power over my knee, do I have any chance to escape the blast by teleporting?"}
+{"passage_id": "1612-1", "question_type": "descriptive", "anchor": "Which staff can be smashed for an explosion of force that fills a 30-foot area around the wielder?"}
+{"passage_id": "2470-0", "question_type": "lookup", "anchor": "How much damage does a Succubus's Fiendish Touch deal on a hit?"}
+{"passage_id": "2470-0", "question_type": "paraphrase", "anchor": "When a Succubus charms someone, what spell is it effectively casting, and at what level?"}
+{"passage_id": "2470-0", "question_type": "descriptive", "anchor": "Which neutral evil Medium fiend can shape-shift into an Incubus after finishing a Long Rest?"}
+{"passage_id": "2470-0", "question_type": "table", "anchor": "How high is a Succubus's Strength ability score?"}
+{"passage_id": "2331-1", "question_type": "lookup", "anchor": "What spell save DC does a Rakshasa use for its spells?"}
+{"passage_id": "2331-1", "question_type": "paraphrase", "anchor": "Which spells can a rakshasa cast just once a day?"}
+{"passage_id": "2331-1", "question_type": "descriptive", "anchor": "Which creature's recharging psychic burst frightens and incapacitates enemies in a 30-foot area?"}
+{"passage_id": "1379-0", "question_type": "lookup", "anchor": "Do most magic items, other than Potions and Scrolls, have Resistance to all damage?"}
+{"passage_id": "1379-0", "question_type": "paraphrase", "anchor": "Can an Artifact be harmed by ordinary damage, or does it need something special to destroy it?"}
+{"passage_id": "1379-0", "question_type": "descriptive", "anchor": "What usually has to happen before the most powerful magic items can be destroyed?"}
+{"passage_id": "271-0", "question_type": "lookup", "anchor": "What d20 rolls score a critical hit with Improved Critical?"}
+{"passage_id": "271-0", "question_type": "paraphrase", "anchor": "Does the Improved Critical feature let my punches with bare fists crit too?"}
+{"passage_id": "271-0", "question_type": "descriptive", "anchor": "Which level 3 Champion ability lets a roll of 19 count as a critical hit?"}
+{"passage_id": "1317-0", "question_type": "lookup", "anchor": "How long can a long-term effect of mental stress last?"}
+{"passage_id": "1317-0", "question_type": "paraphrase", "anchor": "What spell ends a mental stress effect that never wears off on its own?"}
+{"passage_id": "1317-0", "question_type": "descriptive", "anchor": "What mental stress effect can leave a character Frightened, Incapacitated, or Stunned for a few minutes?"}
+{"passage_id": "1151-0", "question_type": "lookup", "anchor": "How much extra movement does each foot of climbing cost in Difficult Terrain?"}
+{"passage_id": "1151-0", "question_type": "paraphrase", "anchor": "If I have a Climb Speed, do I still pay extra movement when I climb?"}
+{"passage_id": "1151-0", "question_type": "descriptive", "anchor": "How hard might a GM make a climb on a slick surface that has few handholds?"}
+{"passage_id": "2010-1", "question_type": "lookup", "anchor": "Which spells can a Glabrezu cast at will?"}
+{"passage_id": "2010-1", "question_type": "paraphrase", "anchor": "How often can a Glabrezu cast Power Word Stun?"}
+{"passage_id": "2010-1", "question_type": "descriptive", "anchor": "Which monster casts Confusion, Fly, and Power Word Stun once per day each, and Dispel Magic at will?"}
+{"passage_id": "200-0", "question_type": "lookup", "anchor": "How many spells do I learn from Magical Discoveries at level 6?"}
+{"passage_id": "200-0", "question_type": "paraphrase", "anchor": "Can I swap out one of my Magical Discoveries spells when I gain a new Bard level?"}
+{"passage_id": "200-0", "question_type": "descriptive", "anchor": "Which level 6 Lore Bard feature keeps my chosen spells always prepared?"}
+{"passage_id": "494-4", "question_type": "lookup", "anchor": "What school of magic does the Web spell belong to on the Wizard spell list?"}
+{"passage_id": "494-4", "question_type": "paraphrase", "anchor": "Which wizard spells come from the transmutation school?"}
+{"passage_id": "494-4", "question_type": "descriptive", "anchor": "What enchantment spell can a wizard learn that carries a C in the Special column?"}
+{"passage_id": "494-4", "question_type": "table", "anchor": "In the Wizard spell list, which school does See Invisibility belong to?"}
+{"passage_id": "1806-0", "question_type": "lookup", "anchor": "How many times per day can an Adult Brass Dragon use Legendary Resistance in its lair?"}
+{"passage_id": "1806-0", "question_type": "paraphrase", "anchor": "How much fire damage can an Adult Brass Dragon's breath do if I fail my Dexterity save?"}
+{"passage_id": "1806-0", "question_type": "descriptive", "anchor": "Which Huge chaotic good metallic dragon with 172 hit points can both burrow and fly?"}
+{"passage_id": "1806-0", "question_type": "table", "anchor": "How strong is an Adult Brass Dragon, as a Strength ability score?"}
+{"passage_id": "331-1", "question_type": "lookup", "anchor": "Which school of magic is Find Steed from on the paladin spell list?"}
+{"passage_id": "331-1", "question_type": "paraphrase", "anchor": "Which level 4 paladin spells are protective abjuration magic?"}
+{"passage_id": "331-1", "question_type": "descriptive", "anchor": "Which level 3 paladin spell is a Necromancy spell that needs a material component?"}
+{"passage_id": "331-1", "question_type": "table", "anchor": "At paladin level 3, which school of magic is Create Food and Water from?"}
+{"passage_id": "163-0", "question_type": "lookup", "anchor": "How much does Fast Movement increase a Barbarian's speed by?"}
+{"passage_id": "163-0", "question_type": "paraphrase", "anchor": "Does Fast Movement still work if I'm wearing heavy armor?"}
+{"passage_id": "163-0", "question_type": "descriptive", "anchor": "Which barbarian level 5 feature gives a flat boost to walking speed?"}
+{"passage_id": "1520-0", "question_type": "lookup", "anchor": "How soon after the previous draw must I draw the next card from a Mysterious Deck?"}
+{"passage_id": "1520-0", "question_type": "paraphrase", "anchor": "If I draw the Fool from a Mysterious Deck, does it go back in for another chance to be drawn?"}
+{"passage_id": "1520-0", "question_type": "descriptive", "anchor": "What legendary wondrous item is usually kept in a box or pouch and holds ivory or vellum cards?"}
+{"passage_id": "1415-0", "question_type": "lookup", "anchor": "What Wisdom saving throw DC does the Berserker Axe's curse use to make me go berserk?"}
+{"passage_id": "1415-0", "question_type": "paraphrase", "anchor": "If I'm attuned to a Berserker Axe, does my hit point maximum go up as I level?"}
+{"passage_id": "1415-0", "question_type": "descriptive", "anchor": "Which rare magic battleaxe, greataxe, or halberd gives a +1 bonus but can drive its holder into a berserk rage?"}

@@ -1,0 +1,84 @@
+{"passage_id": "73-0", "question_type": "lookup", "anchor": "Does taking the Disengage action prevent an opportunity attack when I move away from an enemy?"}
+{"passage_id": "73-0", "question_type": "paraphrase", "anchor": "If an explosion throws me out of a foe's reach, do I still get hit by an opportunity attack?"}
+{"passage_id": "73-0", "question_type": "descriptive", "anchor": "Can I use my reaction to strike a foe I can see stepping out of my melee reach?"}
+{"passage_id": "980-0", "question_type": "lookup", "anchor": "What is the largest size an illusion from Major Image can be?"}
+{"passage_id": "980-0", "question_type": "paraphrase", "anchor": "If I cast Major Image with a 4th-level slot, do I still have to keep concentrating on it?"}
+{"passage_id": "980-0", "question_type": "descriptive", "anchor": "Which illusion lets me reposition a fake creature, and can an observer see through it by studying it closely?"}
+{"passage_id": "1713-0", "question_type": "lookup", "anchor": "What is the long range of an Assassin's Light Crossbow?"}
+{"passage_id": "1713-0", "question_type": "paraphrase", "anchor": "If an Assassin goes all out in its turn, how many attacks can it make?"}
+{"passage_id": "1713-0", "question_type": "descriptive", "anchor": "Which monster trait means a successful Dexterity save against a half-damage effect deals no damage at all?"}
+{"passage_id": "1713-0", "question_type": "table", "anchor": "How much does an Assassin add to Dexterity saving throws?"}
+{"passage_id": "2084-0", "question_type": "lookup", "anchor": "How long does it take a Guardian Naga to return to life after it dies?"}
+{"passage_id": "2084-0", "question_type": "paraphrase", "anchor": "Does Dispel Evil and Good stop a Guardian Naga from coming back after it is killed?"}
+{"passage_id": "2084-0", "question_type": "descriptive", "anchor": "Which big Celestial serpent can spit venom at a foe within 60 feet that blinds it on a failed Constitution save?"}
+{"passage_id": "2084-0", "question_type": "table", "anchor": "What does a Guardian Naga add to Wisdom saving throws?"}
+{"passage_id": "2695-0", "question_type": "lookup", "anchor": "What is a Giant Badger's burrowing speed?"}
+{"passage_id": "2695-0", "question_type": "paraphrase", "anchor": "Will a Giant Badger take less damage from poison?"}
+{"passage_id": "2695-0", "question_type": "descriptive", "anchor": "Which burrowing beast has a Challenge Rating of 1/4 and a bite that deals piercing damage?"}
+{"passage_id": "2695-0", "question_type": "table", "anchor": "How smart is a Giant Badger, as an ability score?"}
+{"passage_id": "887-0", "question_type": "lookup", "anchor": "How far away can my Find Familiar be and still talk to it telepathically?"}
+{"passage_id": "887-0", "question_type": "paraphrase", "anchor": "Can the familiar from Find Familiar attack monsters for me in a fight?"}
+{"passage_id": "887-0", "question_type": "descriptive", "anchor": "Which first-level conjuration spell gives me an animal spirit whose eyes I can borrow and that can deliver my touch spells?"}
+{"passage_id": "1519-0", "question_type": "lookup", "anchor": "Does Mithral Armor impose Disadvantage on Dexterity (Stealth) checks, like heavier armor does?"}
+{"passage_id": "1519-0", "question_type": "paraphrase", "anchor": "Does Mithral Armor have a Strength requirement, like ordinary Medium or Heavy armor?"}
+{"passage_id": "1519-0", "question_type": "descriptive", "anchor": "Which uncommon armor is made of a light, flexible metal and can be worn under normal clothes?"}
+{"passage_id": "1350-1", "question_type": "lookup", "anchor": "At level 2, what XP budget per character does a Low-difficulty encounter get?"}
+{"passage_id": "1350-1", "question_type": "paraphrase", "anchor": "How much XP per character should I budget for a level 8 fight that could really hurt my party?"}
+{"passage_id": "1350-1", "question_type": "descriptive", "anchor": "What table gives each character's share of experience points for an encounter, by party level and danger?"}
+{"passage_id": "1350-1", "question_type": "table", "anchor": "How big is a level 11 party's High-difficulty XP budget per character?"}
+{"passage_id": "1371-0", "question_type": "lookup", "anchor": "How much gold is a Rare magic item worth?"}
+{"passage_id": "1371-0", "question_type": "paraphrase", "anchor": "Are single-use magic items other than spell scrolls worth half the normal price?"}
+{"passage_id": "1371-0", "question_type": "descriptive", "anchor": "When a magic gadget is built on an ordinary suit of armor, what should its total sale price include?"}
+{"passage_id": "1371-0", "question_type": "table", "anchor": "What gold value does a Legendary magic item have for buying and selling?"}
+{"passage_id": "525-0", "question_type": "lookup", "anchor": "How far can a Goliath teleport with its Cloud's Jaunt benefit?"}
+{"passage_id": "525-0", "question_type": "paraphrase", "anchor": "How many times can a Goliath use its Giant Ancestry boon before needing a long rest?"}
+{"passage_id": "525-0", "question_type": "descriptive", "anchor": "Which heritage gives a humanoid a reaction that cuts incoming damage by a d12 roll plus Constitution?"}
+{"passage_id": "1107-0", "question_type": "lookup", "anchor": "How many Hit Points does each 10-foot section of a Wall of Ice have?"}
+{"passage_id": "1107-0", "question_type": "paraphrase", "anchor": "If I cast Wall of Ice with a 7th-level slot, how much more damage does it deal when it appears?"}
+{"passage_id": "1107-0", "question_type": "descriptive", "anchor": "What sixth-level evocation makes a frozen barrier that's weak to fire and leaves freezing air behind when broken?"}
+{"passage_id": "701-0", "question_type": "lookup", "anchor": "How many times the normal price does barding cost?"}
+{"passage_id": "701-0", "question_type": "paraphrase", "anchor": "Is barding for a mount twice as heavy as the same armor for a person?"}
+{"passage_id": "701-0", "question_type": "descriptive", "anchor": "Can I buy protective armor for my mount made from any type sold in the armor list?"}
+{"passage_id": "1586-0", "question_type": "lookup", "anchor": "If I'm not wearing armor, what base Armor Class does the Robe of the Archmagi give me?"}
+{"passage_id": "1586-0", "question_type": "paraphrase", "anchor": "Does the Robe of the Archmagi give me an edge on saves against spells?"}
+{"passage_id": "1586-0", "question_type": "descriptive", "anchor": "Which legendary garment for sorcerers, warlocks, or wizards raises spell save DC and attack bonus by 2?"}
+{"passage_id": "275-0", "question_type": "lookup", "anchor": "With Superior Critical, on which d20 rolls do my attacks score a Critical Hit?"}
+{"passage_id": "275-0", "question_type": "paraphrase", "anchor": "Does Superior Critical let my bare-fisted punches score crits on high rolls too?"}
+{"passage_id": "275-0", "question_type": "descriptive", "anchor": "Which Champion fighter ability unlocks at level 15 and widens the critical hit range?"}
+{"passage_id": "1481-0", "question_type": "lookup", "anchor": "How much does Glamoured Studded Leather add to my Armor Class?"}
+{"passage_id": "1481-0", "question_type": "paraphrase", "anchor": "Does Glamoured Studded Leather still weigh the same when it's disguised as clothing?"}
+{"passage_id": "1481-0", "question_type": "descriptive", "anchor": "Which rare armor can be made to look like ordinary clothes or another armor?"}
+{"passage_id": "2749-0", "question_type": "lookup", "anchor": "Does a Giant Owl provoke an opportunity attack when it flies out of an enemy's reach?"}
+{"passage_id": "2749-0", "question_type": "paraphrase", "anchor": "How far can a Giant Owl see in complete darkness?"}
+{"passage_id": "2749-0", "question_type": "descriptive", "anchor": "Which large Celestial bird flies 60 feet per turn and resists necrotic and radiant damage?"}
+{"passage_id": "2749-0", "question_type": "table", "anchor": "What is a Giant Owl's Dexterity modifier?"}
+{"passage_id": "465-0", "question_type": "lookup", "anchor": "Can a Warlock with the Pact of the Chain option cast Find Familiar without spending a spell slot?"}
+{"passage_id": "465-0", "question_type": "paraphrase", "anchor": "With my Pact of the Chain, could my familiar take the form of an imp, a pseudodragon, or a sprite?"}
+{"passage_id": "465-0", "question_type": "descriptive", "anchor": "Which warlock invocation lets me give up one of my attacks so my familiar can strike with its reaction?"}
+{"passage_id": "1649-3", "question_type": "lookup", "anchor": "Where does the line from a Wand of Wonder's Gust of Wind effect start?"}
+{"passage_id": "1649-3", "question_type": "paraphrase", "anchor": "If my Wand of Wonder unleashes a huge gust of wind, which spell is that?"}
+{"passage_id": "1649-3", "question_type": "descriptive", "anchor": "Which random magic wand effect shoots a blast of wind in a straight line toward a point I choose?"}
+{"passage_id": "1649-3", "question_type": "table", "anchor": "On the Wand of Wonder's d100 table, which roll range gives the Gust of Wind effect?"}
+{"passage_id": "997-1", "question_type": "lookup", "anchor": "How far back in time can Modify Memory alter a memory using a level 8 spell slot?"}
+{"passage_id": "997-1", "question_type": "paraphrase", "anchor": "If someone has been fooled by Modify Memory, does Remove Curse or Greater Restoration undo it?"}
+{"passage_id": "997-1", "question_type": "descriptive", "anchor": "What mind-altering spell gets dismissed as a bad dream when the fake memory is too silly to believe?"}
+{"passage_id": "65-0", "question_type": "lookup", "anchor": "When moving past other creatures, can I pass through an ally's space?"}
+{"passage_id": "65-0", "question_type": "paraphrase", "anchor": "If I end my turn sharing a square with a foe while moving past creatures, do I fall prone?"}
+{"passage_id": "65-0", "question_type": "descriptive", "anchor": "Does walking into another creature's square cost extra movement for me, unless it's a friend or a tiny creature?"}
+{"passage_id": "582-0", "question_type": "lookup", "anchor": "Does wearing Scale Mail armor impose Disadvantage on Stealth checks?"}
+{"passage_id": "582-0", "question_type": "paraphrase", "anchor": "How long does it take to put on and take off light armor?"}
+{"passage_id": "582-0", "question_type": "descriptive", "anchor": "Which mid-weight suit of protection costs 400 gold and adds a Dexterity bonus, capped at 2, to AC?"}
+{"passage_id": "582-0", "question_type": "table", "anchor": "How many gold pieces does Half Plate Armor cost?"}
+{"passage_id": "1539-0", "question_type": "lookup", "anchor": "How long must I wait before Plate Armor of Etherealness can use its Etherealness effect again?"}
+{"passage_id": "1539-0", "question_type": "paraphrase", "anchor": "If I take off Plate Armor of Etherealness, does the Etherealness effect end?"}
+{"passage_id": "1539-0", "question_type": "descriptive", "anchor": "Which legendary heavy armor lets me use a command word to turn ethereal for a while?"}
+{"passage_id": "578-0", "question_type": "lookup", "anchor": "How is the Constitution saving throw DC calculated when a Topple weapon hit lands?"}
+{"passage_id": "578-0", "question_type": "paraphrase", "anchor": "When my weapon's Topple property hits and the foe fails the save, what condition do they get?"}
+{"passage_id": "578-0", "question_type": "descriptive", "anchor": "Which weapon mastery makes a hit force a Constitution save or knock the target prone?"}
+{"passage_id": "1414-0", "question_type": "lookup", "anchor": "Does a Belt of Giant Strength do anything if my own Strength already equals or beats its score?"}
+{"passage_id": "1414-0", "question_type": "paraphrase", "anchor": "Which Belt of Giant Strength would set my Strength to 29?"}
+{"passage_id": "1414-0", "question_type": "descriptive", "anchor": "What magic belt sets your Strength score based on the type of giant it came from?"}
+{"passage_id": "1414-0", "question_type": "table", "anchor": "How rare is a Belt of Giant Strength made from a cloud giant?"}
+{"passage_id": "1350-0", "question_type": "lookup", "anchor": "Do I multiply the XP budget per character by the party size to get the encounter's total XP?"}
+{"passage_id": "1350-0", "question_type": "paraphrase", "anchor": "To find an encounter's XP budget, how do I match my party's level to the difficulty I want?"}
+{"passage_id": "1350-0", "question_type": "descriptive", "anchor": "What is the way to decide how much experience a fight should be worth, per character and in total?"}

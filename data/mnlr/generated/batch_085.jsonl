@@ -1,0 +1,83 @@
+{"passage_id": "1602-0", "question_type": "lookup", "anchor": "How much does the Shield of the Cavalier add to my Armor Class beyond the Shield's normal bonus?"}
+{"passage_id": "1602-0", "question_type": "paraphrase", "anchor": "When my Shield of the Cavalier bash connects, how much Force damage does it deal?"}
+{"passage_id": "1602-0", "question_type": "descriptive", "anchor": "Which very rare magic shield adds 2 to my AC and can bash an adjacent foe to push it away?"}
+{"passage_id": "87-0", "question_type": "lookup", "anchor": "When a saving throw effect deals half damage on a success, do I round the result up or down?"}
+{"passage_id": "87-0", "question_type": "paraphrase", "anchor": "If I pass my save against a half-damage effect, do I take half of what a failed save would cost me?"}
+{"passage_id": "87-0", "question_type": "descriptive", "anchor": "When I succeed on a saving throw against a damaging effect, how much of its damage do I still take?"}
+{"passage_id": "218-2", "question_type": "lookup", "anchor": "On the Cleric spell list, which school of magic does Lesser Restoration belong to?"}
+{"passage_id": "218-2", "question_type": "paraphrase", "anchor": "On the Cleric spell list, which kind of magic is Gentle Repose, the one that deals with death?"}
+{"passage_id": "218-2", "question_type": "descriptive", "anchor": "Which spell on the Cleric list comes from the Illusion school of magic?"}
+{"passage_id": "218-2", "question_type": "table", "anchor": "On the Cleric spell list, what does the Special column say for Warding Bond?"}
+{"passage_id": "788-1", "question_type": "lookup", "anchor": "When Astral Projection ends for a target that isn't dead, where does the target reappear?"}
+{"passage_id": "788-1", "question_type": "paraphrase", "anchor": "Once Astral Projection wears off on a living creature, does it snap them out of being frozen in place?"}
+{"passage_id": "788-1", "question_type": "descriptive", "anchor": "What happens to a creature still alive when the magic that projected its spirit away finally ends?"}
+{"passage_id": "2010-0", "question_type": "lookup", "anchor": "What spell save DC does a Glabrezu's Spellcasting use?"}
+{"passage_id": "2010-0", "question_type": "paraphrase", "anchor": "When a Glabrezu dies outside the Abyss, what happens to its body, and does it stay dead?"}
+{"passage_id": "2010-0", "question_type": "descriptive", "anchor": "What large chaotic evil demon has Truesight out to 120 feet and makes two Pincer attacks in one turn?"}
+{"passage_id": "2010-0", "question_type": "table", "anchor": "How tough is a Glabrezu's Constitution, as an ability score?"}
+{"passage_id": "446-0", "question_type": "lookup", "anchor": "What Warlock level must I reach before I can take the invocation that casts Levitate for free?"}
+{"passage_id": "446-0", "question_type": "paraphrase", "anchor": "Can my Warlock cast Levitate on myself through an invocation without using a spell slot?"}
+{"passage_id": "446-0", "question_type": "descriptive", "anchor": "Which Warlock option lets me float myself up without spending a spell slot?"}
+{"passage_id": "680-0", "question_type": "lookup", "anchor": "How much does the Priest's adventuring gear bundle cost in gold?"}
+{"passage_id": "680-0", "question_type": "paraphrase", "anchor": "Does the Priest's adventuring bundle come with holy water and a blanket?"}
+{"passage_id": "680-0", "question_type": "descriptive", "anchor": "Which 33 GP adventuring kit comes with a robe, a lamp, and seven days of rations?"}
+{"passage_id": "724-0", "question_type": "lookup", "anchor": "Without the Identify spell, which kind of rest lets me learn a magic item's properties by focusing on it?"}
+{"passage_id": "724-0", "question_type": "paraphrase", "anchor": "Do I learn what a potion does just by taking a small sip of it?"}
+{"passage_id": "724-0", "question_type": "descriptive", "anchor": "If a ring gives me a strange feeling when I put it on, how do I figure out what it does?"}
+{"passage_id": "82-0", "question_type": "lookup", "anchor": "At what point do my hit points make my character Bloodied?"}
+{"passage_id": "82-0", "question_type": "paraphrase", "anchor": "Can my health go below zero, or is zero the least I can have left?"}
+{"passage_id": "82-0", "question_type": "descriptive", "anchor": "What happens to my character's abilities when they take damage but still have health left?"}
+{"passage_id": "138-0", "question_type": "lookup", "anchor": "What minimum score do I need in the primary ability of a new class to multiclass into it?"}
+{"passage_id": "138-0", "question_type": "paraphrase", "anchor": "If I'm a Barbarian and want to add Druid, which two scores need to be 13 or higher?"}
+{"passage_id": "138-0", "question_type": "descriptive", "anchor": "Can I take my first level in a new class if one of my key scores sits below 13?"}
+{"passage_id": "420-0", "question_type": "lookup", "anchor": "How many Sorcery Points does a Sorcerer spend to change a spell's damage type with metamagic?"}
+{"passage_id": "420-0", "question_type": "paraphrase", "anchor": "If my Sorcerer spell deals fire damage, can I spend a sorcery point to make it cold instead?"}
+{"passage_id": "420-0", "question_type": "descriptive", "anchor": "Which Sorcerer option lets me swap a spell's damage type among acid, cold, fire, lightning, poison, and thunder?"}
+{"passage_id": "1407-1", "question_type": "lookup", "anchor": "How long does the geyser from a Bag of Beans keep spouting?"}
+{"passage_id": "1407-1", "question_type": "paraphrase", "anchor": "What Constitution save DC do I face if I munch a toadstool from a Bag of Beans?"}
+{"passage_id": "1407-1", "question_type": "descriptive", "anchor": "Which magic bag has a random d100 table whose results include sprouting toadstools and erupting geysers?"}
+{"passage_id": "1407-1", "question_type": "table", "anchor": "On a Bag of Beans d100 roll of 01, how many toadstools sprout?"}
+{"passage_id": "326-0", "question_type": "lookup", "anchor": "Which condition do my allies become immune to while inside my Paladin Aura of Courage?"}
+{"passage_id": "326-0", "question_type": "paraphrase", "anchor": "Once a scared ally walks into my Aura of Courage, does their fear still affect them?"}
+{"passage_id": "326-0", "question_type": "descriptive", "anchor": "What Paladin class feature at level 10 makes nearby allies immune to being scared?"}
+{"passage_id": "2662-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Deer?"}
+{"passage_id": "2662-0", "question_type": "paraphrase", "anchor": "Can I take a swing at a Deer as it runs away from me, or does it avoid that?"}
+{"passage_id": "2662-0", "question_type": "descriptive", "anchor": "Which Medium Beast has a Ram attack with a +2 bonus and a Speed of 50 feet?"}
+{"passage_id": "2662-0", "question_type": "table", "anchor": "What is the Dexterity modifier of a Deer?"}
+{"passage_id": "429-0", "question_type": "lookup", "anchor": "Which saving throws is a Warlock proficient with?"}
+{"passage_id": "429-0", "question_type": "paraphrase", "anchor": "Which die does a Warlock roll for health each level?"}
+{"passage_id": "429-0", "question_type": "descriptive", "anchor": "Which class lets you pick two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion?"}
+{"passage_id": "429-0", "question_type": "table", "anchor": "What armor training does a Warlock get from its class traits?"}
+{"passage_id": "696-0", "question_type": "lookup", "anchor": "How long does a torch burn before it needs replacing?"}
+{"passage_id": "696-0", "question_type": "paraphrase", "anchor": "How far out does a torch throw bright light around me?"}
+{"passage_id": "696-0", "question_type": "descriptive", "anchor": "What cheap light source doubles as a simple melee weapon that deals fire damage?"}
+{"passage_id": "448-0", "question_type": "lookup", "anchor": "What does the Warlock invocation that upgrades Thirsting Blade's extra attack give me?"}
+{"passage_id": "448-0", "question_type": "paraphrase", "anchor": "Do I need to be level 12 as a Warlock, and must I already have Thirsting Blade?"}
+{"passage_id": "448-0", "question_type": "descriptive", "anchor": "Which Warlock option lets my blade's extra attack become two extra strikes?"}
+{"passage_id": "103-0", "question_type": "lookup", "anchor": "Can temporary hit points from two separate sources be added together?"}
+{"passage_id": "103-0", "question_type": "paraphrase", "anchor": "If a spell gives me 12 extra health and I already have 10, do I end up with 22?"}
+{"passage_id": "103-0", "question_type": "descriptive", "anchor": "When I'm already shielded with some spare health and get more, can I choose which to keep?"}
+{"passage_id": "257-0", "question_type": "lookup", "anchor": "How many kinds of weapons does Weapon Mastery let a Fighter use the mastery properties of at level 1?"}
+{"passage_id": "257-0", "question_type": "paraphrase", "anchor": "After a long rest, can my Fighter switch one of the weapons they've trained with?"}
+{"passage_id": "257-0", "question_type": "descriptive", "anchor": "What Fighter ability lets me gain the special properties of more weapon types as I level up?"}
+{"passage_id": "162-0", "question_type": "lookup", "anchor": "At what Barbarian level does Extra Attack first become available?"}
+{"passage_id": "162-0", "question_type": "paraphrase", "anchor": "When my Barbarian goes to attack on their turn, can they swing twice instead of once?"}
+{"passage_id": "162-0", "question_type": "descriptive", "anchor": "Which barbarian feature gives me two attacks in a turn once I reach a higher level?"}
+{"passage_id": "823-0", "question_type": "lookup", "anchor": "How much Cold damage does Cone of Cold deal to a creature that fails its save?"}
+{"passage_id": "823-0", "question_type": "paraphrase", "anchor": "If I cast Cone of Cold using a higher-level slot, how much more damage does it deal per level?"}
+{"passage_id": "823-0", "question_type": "descriptive", "anchor": "What 5th-level spell blasts a 60-foot cone of freezing air and turns slain creatures into statues?"}
+{"passage_id": "523-1", "question_type": "lookup", "anchor": "What Darkvision range does a Drow Elf get at level 1?"}
+{"passage_id": "523-1", "question_type": "paraphrase", "anchor": "As an Elf, do I get a leg up on saves to avoid or break the Charmed condition?"}
+{"passage_id": "523-1", "question_type": "descriptive", "anchor": "Which trait lets me finish a long rest in just 4 hours by meditating while staying conscious?"}
+{"passage_id": "523-1", "question_type": "table", "anchor": "Which spell does a Wood Elf gain at level 5?"}
+{"passage_id": "2863-0", "question_type": "lookup", "anchor": "How many Hit Points does a Pony have?"}
+{"passage_id": "2863-0", "question_type": "paraphrase", "anchor": "How dangerous is a Pony as an opponent, by its challenge rating?"}
+{"passage_id": "2863-0", "question_type": "descriptive", "anchor": "Which Medium beast moves 40 feet and makes a Hooves attack for bludgeoning damage?"}
+{"passage_id": "2863-0", "question_type": "table", "anchor": "What does a Pony add to Strength saving throws?"}
+{"passage_id": "218-6", "question_type": "lookup", "anchor": "On the Cleric spell list, what school does Mass Heal belong to?"}
+{"passage_id": "218-6", "question_type": "paraphrase", "anchor": "On the Cleric spell list, what kind of magic is Power Word Heal, the one about charms and influence?"}
+{"passage_id": "218-6", "question_type": "descriptive", "anchor": "Which Conjuration spell is on the Cleric list?"}
+{"passage_id": "218-6", "question_type": "table", "anchor": "On the Cleric spell list, what does the Special column say for Gate?"}
+{"passage_id": "1603-0", "question_type": "lookup", "anchor": "What Climb Speed do the Slippers of Spider Climbing give a wearer?"}
+{"passage_id": "1603-0", "question_type": "paraphrase", "anchor": "Can I walk up walls and across ceilings with the Slippers of Spider Climbing and keep my hands free?"}
+{"passage_id": "1603-0", "question_type": "descriptive", "anchor": "What uncommon magic shoes let me climb walls and ceilings but not on ice or oil?"}

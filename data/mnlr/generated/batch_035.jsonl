@@ -1,0 +1,86 @@
+{"passage_id": "1147-0", "question_type": "lookup", "anchor": "How much weight can a Large creature carry, based on its Strength score?"}
+{"passage_id": "1147-0", "question_type": "paraphrase", "anchor": "If I'm hauling more than I can carry, how slow does my character get?"}
+{"passage_id": "1147-0", "question_type": "descriptive", "anchor": "What sets how heavy a creature can haul, depending on its body size and muscle?"}
+{"passage_id": "1147-0", "question_type": "table", "anchor": "How much can a Huge creature drag, lift, or push, as a multiple of its Strength?"}
+{"passage_id": "2860-0", "question_type": "lookup", "anchor": "How many Hit Points does a Polar Bear have?"}
+{"passage_id": "2860-0", "question_type": "paraphrase", "anchor": "How many attacks can a Polar Bear make on its turn?"}
+{"passage_id": "2860-0", "question_type": "descriptive", "anchor": "Which large beast resists cold and makes two Rend attacks in one turn?"}
+{"passage_id": "2860-0", "question_type": "table", "anchor": "What does a Polar Bear add to Constitution saves?"}
+{"passage_id": "1787-0", "question_type": "lookup", "anchor": "How long and how wide is a Young Blue Dragon's Lightning Breath line?"}
+{"passage_id": "1787-0", "question_type": "paraphrase", "anchor": "How much damage does a Young Blue Dragon's lightning breath deal when someone fails the save?"}
+{"passage_id": "1787-0", "question_type": "descriptive", "anchor": "Which lawful evil lightning-breathing dragon makes three Rend attacks in its turn?"}
+{"passage_id": "1787-0", "question_type": "table", "anchor": "What does a Young Blue Dragon add to Wisdom saves?"}
+{"passage_id": "752-0", "question_type": "lookup", "anchor": "What does a spell's Casting Time entry tell me about how it is cast?"}
+{"passage_id": "752-0", "question_type": "paraphrase", "anchor": "Do most spells need the Magic action to cast, or something else?"}
+{"passage_id": "752-0", "question_type": "descriptive", "anchor": "Can a spell take a full minute to cast instead of just one action?"}
+{"passage_id": "1329-0", "question_type": "lookup", "anchor": "What Constitution save DC does the Pale Tincture poison use?"}
+{"passage_id": "1329-0", "question_type": "paraphrase", "anchor": "How often does a poisoned creature get to try shaking off Pale Tincture?"}
+{"passage_id": "1329-0", "question_type": "descriptive", "anchor": "How many successful saves does it take to stop being poisoned by a 1d6 poison I swallowed?"}
+{"passage_id": "2575-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Will-o'-Wisp?"}
+{"passage_id": "2575-0", "question_type": "paraphrase", "anchor": "Is a Will-o'-Wisp hurt by poison, or immune to it?"}
+{"passage_id": "2575-0", "question_type": "descriptive", "anchor": "Which tiny undead light can slip through other creatures and objects as if they were hard to cross?"}
+{"passage_id": "2575-0", "question_type": "table", "anchor": "How nimble is a Will-o'-Wisp, as a Dexterity score?"}
+{"passage_id": "1974-0", "question_type": "lookup", "anchor": "How many Hit Points does a Flesh Golem have, and what dice make them?"}
+{"passage_id": "1974-0", "question_type": "paraphrase", "anchor": "How hard is it to calm a Flesh Golem that has gone berserk?"}
+{"passage_id": "1974-0", "question_type": "descriptive", "anchor": "Which medium construct goes berserk on a roll of 6 when it starts a turn Bloodied?"}
+{"passage_id": "1974-0", "question_type": "table", "anchor": "What Charisma modifier does a Flesh Golem have?"}
+{"passage_id": "187-0", "question_type": "lookup", "anchor": "How much of my Proficiency Bonus does Jack of All Trades add to a check using a skill I lack?"}
+{"passage_id": "187-0", "question_type": "paraphrase", "anchor": "Can Jack of All Trades still add a bonus when I'm not good at Athletics?"}
+{"passage_id": "187-0", "question_type": "descriptive", "anchor": "What bard feature lets me add half my proficiency bonus to ability checks using skills I haven't learned?"}
+{"passage_id": "1391-2", "question_type": "lookup", "anchor": "What does the Templar Special Purpose make a sentient magic item do?"}
+{"passage_id": "1391-2", "question_type": "paraphrase", "anchor": "If my sentient sword's Special Purpose is Templar, whose servants and interests does it defend?"}
+{"passage_id": "1391-2", "question_type": "descriptive", "anchor": "What purpose makes a sentient magic item defend the followers and interests of a deity?"}
+{"passage_id": "1391-2", "question_type": "table", "anchor": "On the d10 table of sentient item purposes, which roll gives the Templar purpose?"}
+{"passage_id": "1357-0", "question_type": "lookup", "anchor": "Can a creature with a CR above the party's level take out characters in one action?"}
+{"passage_id": "1357-0", "question_type": "paraphrase", "anchor": "Could a CR 2 Ogre really kill a level 1 Wizard in a single blow?"}
+{"passage_id": "1357-0", "question_type": "descriptive", "anchor": "When a foe's challenge rating outstrips my party's level, what danger should I watch for?"}
+{"passage_id": "343-4", "question_type": "lookup", "anchor": "How many spells can a Ranger prepare at level 16?"}
+{"passage_id": "343-4", "question_type": "paraphrase", "anchor": "How many spells can a Ranger have ready at level 19?"}
+{"passage_id": "343-4", "question_type": "descriptive", "anchor": "At which level does a wilderness spellcaster get Feral Senses, and how many spell slots come with it?"}
+{"passage_id": "343-4", "question_type": "table", "anchor": "How many third-level spell slots does a Ranger have at level 18?"}
+{"passage_id": "1549-0", "question_type": "lookup", "anchor": "How many Hit Points does a basic Potion of Healing regain?"}
+{"passage_id": "1549-0", "question_type": "paraphrase", "anchor": "How much health would a greater healing potion give back?"}
+{"passage_id": "1549-0", "question_type": "descriptive", "anchor": "What red potion glimmers when shaken and restores health depending on its rarity?"}
+{"passage_id": "1549-0", "question_type": "table", "anchor": "How many Hit Points does a supreme healing potion regain, in dice and bonus?"}
+{"passage_id": "1563-1", "question_type": "lookup", "anchor": "What Swim Speed does the Water benefit of a Ring of Elemental Command give?"}
+{"passage_id": "1563-1", "question_type": "paraphrase", "anchor": "If my elemental command ring is tied to the Fire plane, what damage am I immune to?"}
+{"passage_id": "1563-1", "question_type": "descriptive", "anchor": "Which magic ring lets its wearer move through solid rock as if it were Difficult Terrain?"}
+{"passage_id": "477-0", "question_type": "lookup", "anchor": "Can a Warlock choose Force as the damage type for Fiendish Resilience?"}
+{"passage_id": "477-0", "question_type": "paraphrase", "anchor": "How often can a Warlock pick a new damage resistance with Fiendish Resilience?"}
+{"passage_id": "477-0", "question_type": "descriptive", "anchor": "At what level does a fiend-patron warlock gain a damage resistance it can switch after each rest?"}
+{"passage_id": "955-0", "question_type": "lookup", "anchor": "How far away can the center of an Incendiary Cloud be placed?"}
+{"passage_id": "955-0", "question_type": "paraphrase", "anchor": "How much fire damage does an Incendiary Cloud deal on a failed Dexterity save?"}
+{"passage_id": "955-0", "question_type": "descriptive", "anchor": "What level 8 spell makes a 20-foot-radius sphere of embers and smoke that drifts 10 feet each turn?"}
+{"passage_id": "186-0", "question_type": "lookup", "anchor": "How many skills does a Bard gain Expertise in at level 2?"}
+{"passage_id": "186-0", "question_type": "paraphrase", "anchor": "Which two skills does a Bard's Expertise suggest picking first?"}
+{"passage_id": "186-0", "question_type": "descriptive", "anchor": "At which bard level do I pick up two more skill specialties?"}
+{"passage_id": "705-0", "question_type": "lookup", "anchor": "Do ships bigger than a keelboat need skilled hirelings to run them?"}
+{"passage_id": "705-0", "question_type": "paraphrase", "anchor": "What kind of people do I have to hire to sail a ship bigger than a rowboat?"}
+{"passage_id": "705-0", "question_type": "descriptive", "anchor": "Does the minimum number of skilled hirelings needed to run a larger ship depend on the ship type?"}
+{"passage_id": "1881-0", "question_type": "lookup", "anchor": "How many Hit Points does a Young Copper Dragon have?"}
+{"passage_id": "1881-0", "question_type": "paraphrase", "anchor": "What damage does a Young Copper Dragon's acid breath deal on a failed save?"}
+{"passage_id": "1881-0", "question_type": "descriptive", "anchor": "Which chaotic good metallic dragon can slow a foe's speed with a 30-foot cone of breath?"}
+{"passage_id": "1881-0", "question_type": "table", "anchor": "What does a Young Copper Dragon add to Dexterity saves?"}
+{"passage_id": "250-2", "question_type": "lookup", "anchor": "How many Weapon Mastery choices does a Fighter get at level 10?"}
+{"passage_id": "250-2", "question_type": "paraphrase", "anchor": "Which level gives a Fighter Extra Attack?"}
+{"passage_id": "250-2", "question_type": "descriptive", "anchor": "Which martial class gets Tactical Master at level 9?"}
+{"passage_id": "250-2", "question_type": "table", "anchor": "How many Second Wind uses does a Fighter have at level 10?"}
+{"passage_id": "721-0", "question_type": "lookup", "anchor": "Are there people in most towns who will cast spells for pay?"}
+{"passage_id": "721-0", "question_type": "paraphrase", "anchor": "If a spell needs costly components, does the hired caster charge extra for them?"}
+{"passage_id": "721-0", "question_type": "descriptive", "anchor": "Why is it harder to hire someone to cast a high-level spell for me?"}
+{"passage_id": "640-0", "question_type": "lookup", "anchor": "How many gold pieces does a Chest cost?"}
+{"passage_id": "640-0", "question_type": "paraphrase", "anchor": "How much stuff can I stash in a chest?"}
+{"passage_id": "640-0", "question_type": "descriptive", "anchor": "What storage box for adventurers holds up to 12 cubic feet?"}
+{"passage_id": "521-0", "question_type": "lookup", "anchor": "What is the base Speed of a Dragonborn character?"}
+{"passage_id": "521-0", "question_type": "paraphrase", "anchor": "How far can the breath weapon of a Dragonborn reach?"}
+{"passage_id": "521-0", "question_type": "descriptive", "anchor": "Which kind of humanoid can exhale elemental energy and resist one damage type from its dragon lineage?"}
+{"passage_id": "521-0", "question_type": "table", "anchor": "Which damage type does a Dragonborn with Bronze draconic ancestry resist?"}
+{"passage_id": "1279-0", "question_type": "lookup", "anchor": "What determines a group's maximum overland travel pace during a journey stage?"}
+{"passage_id": "1279-0", "question_type": "paraphrase", "anchor": "What three speeds can my group travel overland at?"}
+{"passage_id": "1279-0", "question_type": "descriptive", "anchor": "Which column of the travel terrain table sets the top speed for each kind of ground?"}
+{"passage_id": "1337-0", "question_type": "lookup", "anchor": "What are examples of actions that can set off a trap?"}
+{"passage_id": "1337-0", "question_type": "paraphrase", "anchor": "What's the difference between a nuisance trap and a deadly trap?"}
+{"passage_id": "1337-0", "question_type": "descriptive", "anchor": "How long do trap effects usually last, and do some traps reset after they go off?"}
+{"passage_id": "1913-1", "question_type": "lookup", "anchor": "How many times per day can a Deva use Divine Aid?"}
+{"passage_id": "1913-1", "question_type": "paraphrase", "anchor": "Which spells can a Deva cast with its Divine Aid trait?"}
+{"passage_id": "1913-1", "question_type": "descriptive", "anchor": "Which creature has the Divine Aid trait that lets it cast Remove Curse twice a day?"}

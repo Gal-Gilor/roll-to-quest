@@ -1,0 +1,77 @@
+{"passage_id": "2835-0", "question_type": "lookup", "anchor": "How many Hit Points does a Mule have, and what dice make up that total?"}
+{"passage_id": "2835-0", "question_type": "paraphrase", "anchor": "Does a Mule count as bigger when figuring out how much it can haul?"}
+{"passage_id": "2835-0", "question_type": "descriptive", "anchor": "Which pack animal with an Intelligence score of 2 counts as one size larger when working out how much it can carry?"}
+{"passage_id": "2835-0", "question_type": "table", "anchor": "What bonus does a Mule add to Charisma saving throws?"}
+{"passage_id": "1764-0", "question_type": "lookup", "anchor": "How many Rend attacks can a Young Black Dragon make in one Multiattack?"}
+{"passage_id": "1764-0", "question_type": "paraphrase", "anchor": "If I succeed on the save against a Young Black Dragon's acid breath, how much damage do I take?"}
+{"passage_id": "1764-0", "question_type": "descriptive", "anchor": "Which amphibious chaotic evil dragon breathes acid in a 30-foot line and can also fly and swim?"}
+{"passage_id": "1764-0", "question_type": "table", "anchor": "Is a Young Black Dragon's Wisdom saving throw bonus higher than +2?"}
+{"passage_id": "1296-0", "question_type": "lookup", "anchor": "How is a creature likely to end a narrative curse in an adventure?"}
+{"passage_id": "1296-0", "question_type": "paraphrase", "anchor": "Will Remove Curse always permanently lift a narrative curse from my adventure?"}
+{"passage_id": "1296-0", "question_type": "descriptive", "anchor": "What kind of curse gets triggered when someone breaks a vow, defiles a tomb, or murders an innocent?"}
+{"passage_id": "166-0", "question_type": "lookup", "anchor": "How far does Brutal Strike's Forceful Blow push a target away from me?"}
+{"passage_id": "166-0", "question_type": "paraphrase", "anchor": "If I use Hamstring Blow from Brutal Strike, how long does the slowdown last?"}
+{"passage_id": "166-0", "question_type": "descriptive", "anchor": "Which barbarian feature lets me trade Advantage on one Strength attack for an extra 1d10 damage and a shove or slowing effect?"}
+{"passage_id": "888-0", "question_type": "lookup", "anchor": "When I cast Find Steed again, what happens to the steed I already have?"}
+{"passage_id": "888-0", "question_type": "paraphrase", "anchor": "If my Find Steed mount falls to zero health, what happens to it?"}
+{"passage_id": "888-0", "question_type": "descriptive", "anchor": "Which paladin spell summons a loyal mount that shares my initiative count and can be ridden in combat?"}
+{"passage_id": "794-0", "question_type": "lookup", "anchor": "How long does the Barkskin effect last after I cast it?"}
+{"passage_id": "794-0", "question_type": "paraphrase", "anchor": "If my friend's Armor Class is lower than 17, what does Barkskin change it to?"}
+{"passage_id": "794-0", "question_type": "descriptive", "anchor": "Is there a druid spell that gives a willing creature bark-like skin, and what does it need as a material component?"}
+{"passage_id": "1451-0", "question_type": "lookup", "anchor": "Once I put on Demon Armor, can I take it off whenever I like?"}
+{"passage_id": "1451-0", "question_type": "paraphrase", "anchor": "If I punch with Demon Armor on, what damage die and type do my Unarmed Strikes deal?"}
+{"passage_id": "1451-0", "question_type": "descriptive", "anchor": "Can you name the very rare armor that adds to Armor Class, teaches Abyssal, and gives disadvantage when attacking demons?"}
+{"passage_id": "1158-0", "question_type": "lookup", "anchor": "Does a player's character count as a creature under the rules?"}
+{"passage_id": "1158-0", "question_type": "paraphrase", "anchor": "Do monsters count as creatures too, or only player characters?"}
+{"passage_id": "1158-0", "question_type": "descriptive", "anchor": "What term covers every being in the game, including the heroes that players control?"}
+{"passage_id": "1034-0", "question_type": "lookup", "anchor": "Which saving throw ability does an unwilling creature use to resist being enclosed by Resilient Sphere?"}
+{"passage_id": "1034-0", "question_type": "paraphrase", "anchor": "If I cast Resilient Sphere on a foe, how big a target can it trap?"}
+{"passage_id": "1034-0", "question_type": "descriptive", "anchor": "Is there an abjuration spell that encloses a creature in a weightless, damage-proof globe?"}
+{"passage_id": "540-0", "question_type": "lookup", "anchor": "What is the minimum character level needed to take the Grappler feat?"}
+{"passage_id": "540-0", "question_type": "paraphrase", "anchor": "With the Grappler feat, do I get Advantage on attacks against someone I've grabbed?"}
+{"passage_id": "540-0", "question_type": "descriptive", "anchor": "Which feat lets me punch a foe and also try to grab it in one attack, once per turn?"}
+{"passage_id": "1199-0", "question_type": "lookup", "anchor": "When I spend Heroic Inspiration, what can I reroll and when must I use the new roll?"}
+{"passage_id": "1199-0", "question_type": "paraphrase", "anchor": "If I earn Heroic Inspiration while already holding it, what happens to the extra?"}
+{"passage_id": "1199-0", "question_type": "descriptive", "anchor": "What player perk lets you redo any die roll right after rolling it, and you must keep the new result?"}
+{"passage_id": "204-19", "question_type": "lookup", "anchor": "A level 20 Cleric can use Channel Divinity how many times?"}
+{"passage_id": "204-19", "question_type": "paraphrase", "anchor": "Which top-level divine power does a Cleric get when reaching level 20?"}
+{"passage_id": "204-19", "question_type": "descriptive", "anchor": "At what cleric level do you get Greater Divine Intervention and 22 prepared spells?"}
+{"passage_id": "204-19", "question_type": "table", "anchor": "How many spell slots of 9th level does a level 20 Cleric have?"}
+{"passage_id": "399-0", "question_type": "lookup", "anchor": "When multiclassing into Sorcerer, which hit die do I gain from the Core Sorcerer Traits table?"}
+{"passage_id": "399-0", "question_type": "paraphrase", "anchor": "After multiclassing into Sorcerer, which first-level features do I get?"}
+{"passage_id": "399-0", "question_type": "descriptive", "anchor": "For a character multiclassing into a magic-using class, which tables list the hit point die and first-level features?"}
+{"passage_id": "15-0", "question_type": "lookup", "anchor": "For attack rolls, which Ability Modifier does a spell attack use?"}
+{"passage_id": "15-0", "question_type": "paraphrase", "anchor": "Can a Finesse weapon let me use a different ability modifier than Strength for attack rolls?"}
+{"passage_id": "15-0", "question_type": "descriptive", "anchor": "Which stat should I add to an attack roll when I shoot a weapon from a distance?"}
+{"passage_id": "15-0", "question_type": "table", "anchor": "What ability modifier goes with a melee attack using an Unarmed Strike?"}
+{"passage_id": "870-1", "question_type": "lookup", "anchor": "What DC does the Strength (Athletics) check need to escape being buried by an Earthquake?"}
+{"passage_id": "870-1", "question_type": "paraphrase", "anchor": "If I fail my save against Earthquake, how much bludgeoning damage do I take?"}
+{"passage_id": "870-1", "question_type": "descriptive", "anchor": "Which spell makes buildings collapse nearby and leaves victims buried until they pass a Strength (Athletics) check?"}
+{"passage_id": "1178-0", "question_type": "lookup", "anchor": "Does an area with Dim Light count as Lightly Obscured?"}
+{"passage_id": "1178-0", "question_type": "paraphrase", "anchor": "If I want more detail on dim light, which other glossary entry should I check?"}
+{"passage_id": "1178-0", "question_type": "descriptive", "anchor": "What lighting level in the rules makes an area lightly obscured?"}
+{"passage_id": "842-0", "question_type": "lookup", "anchor": "How many dice of healing does Cure Wounds roll before adding the spellcasting modifier?"}
+{"passage_id": "842-0", "question_type": "paraphrase", "anchor": "Using a bigger spell slot with Cure Wounds, how much extra healing do I get?"}
+{"passage_id": "842-0", "question_type": "descriptive", "anchor": "Which healing spell can a bard, cleric, druid, paladin, or ranger cast to restore Hit Points to a touched ally?"}
+{"passage_id": "3-0", "question_type": "lookup", "anchor": "What is the highest ability score a normal adventurer can reach?"}
+{"passage_id": "3-0", "question_type": "paraphrase", "anchor": "Is an ability score of 10 or 11 considered average for a human?"}
+{"passage_id": "3-0", "question_type": "descriptive", "anchor": "Is there a numeric scale from 1 to 30 showing weak, average, strong, or extraordinary capabilities?"}
+{"passage_id": "3-0", "question_type": "table", "anchor": "Which level of capability does a score of 25 represent?"}
+{"passage_id": "525-1", "question_type": "lookup", "anchor": "At what character level can a Goliath first use its Large Form trait?"}
+{"passage_id": "525-1", "question_type": "paraphrase", "anchor": "When my Goliath grows to Large, how many extra feet of movement do I get?"}
+{"passage_id": "525-1", "question_type": "descriptive", "anchor": "Which species can change to Large for ten minutes and has Advantage on Strength checks while doing so?"}
+{"passage_id": "1354-0", "question_type": "lookup", "anchor": "How can I make a combat encounter easier while it is already underway?"}
+{"passage_id": "1354-0", "question_type": "paraphrase", "anchor": "If a player can't attend, can I remove some monsters from the encounter to keep it balanced?"}
+{"passage_id": "1354-0", "question_type": "descriptive", "anchor": "What should a game master do if a random roll makes a battle much easier or harder than planned?"}
+{"passage_id": "915-0", "question_type": "lookup", "anchor": "How long does Gentle Repose keep a corpse from decaying?"}
+{"passage_id": "915-0", "question_type": "paraphrase", "anchor": "Does time spent under Gentle Repose count against the limit for raising someone from the dead?"}
+{"passage_id": "915-0", "question_type": "descriptive", "anchor": "Which level 2 necromancy spell protects a body from rotting and keeps it from becoming undead, using two copper pieces?"}
+{"passage_id": "154-0", "question_type": "lookup", "anchor": "How long can I maintain a Rage at most?"}
+{"passage_id": "154-0", "question_type": "paraphrase", "anchor": "Can I cast spells or keep Concentration going during a Rage?"}
+{"passage_id": "154-0", "question_type": "descriptive", "anchor": "Which barbarian ability lets me take a bonus action to gain resistance to physical damage and advantage on Strength checks?"}
+{"passage_id": "1215-0", "question_type": "lookup", "anchor": "When Knocking Out a creature, what Wisdom (Medicine) DC does first aid require?"}
+{"passage_id": "1215-0", "question_type": "paraphrase", "anchor": "Can I knock out a foe with a melee hit instead of killing it, leaving it at 1 hit point?"}
+{"passage_id": "1215-0", "question_type": "descriptive", "anchor": "How can someone wake up an unconscious foe that I spared with a melee hit, other than healing it?"}
+{"passage_id": "1204-0", "question_type": "lookup", "anchor": "What penalty applies to ability checks I make to influence a Hostile creature?"}
+{"passage_id": "1204-0", "question_type": "paraphrase", "anchor": "If a creature is Hostile toward me, which other rule should I read to try to change its mind?"}
+{"passage_id": "1204-0", "question_type": "descriptive", "anchor": "Is there an attitude a creature takes when it views you unfavorably and makes persuading it harder?"}

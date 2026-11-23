@@ -1,0 +1,78 @@
+{"passage_id": "2311-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Priest Acolyte?"}
+{"passage_id": "2311-0", "question_type": "paraphrase", "anchor": "How much health does a Priest Acolyte have, and how is that total rolled?"}
+{"passage_id": "2311-0", "question_type": "descriptive", "anchor": "Which low-level humanoid cleric can cast Bless or Healing Word once a day as a Bonus Action?"}
+{"passage_id": "2311-0", "question_type": "table", "anchor": "How much does a Priest Acolyte add to Constitution saving throws?"}
+{"passage_id": "2366-0", "question_type": "lookup", "anchor": "What is the Swim Speed of a Sahuagin Warrior?"}
+{"passage_id": "2366-0", "question_type": "paraphrase", "anchor": "Does a Sahuagin Warrior get an edge on its attacks against a foe that's already wounded?"}
+{"passage_id": "2366-0", "question_type": "descriptive", "anchor": "Which aquatic fiend can magically control sharks within 120 feet of itself?"}
+{"passage_id": "2366-0", "question_type": "table", "anchor": "Is a Sahuagin Warrior's Charisma modifier a bonus or a penalty?"}
+{"passage_id": "675-0", "question_type": "lookup", "anchor": "How long does basic poison stay potent once applied to a weapon?"}
+{"passage_id": "675-0", "question_type": "paraphrase", "anchor": "Can I smear basic poison on three arrows at once using just my Bonus Action?"}
+{"passage_id": "675-0", "question_type": "descriptive", "anchor": "Which toxin deals an extra 1d4 poison damage on a piercing or slashing hit from a coated weapon?"}
+{"passage_id": "1489-4", "question_type": "lookup", "anchor": "How long does a creature that appears from the Hat of Many Spells stay before it disappears?"}
+{"passage_id": "1489-4", "question_type": "paraphrase", "anchor": "Can I order a creature that pops out of the Hat of Many Spells around?"}
+{"passage_id": "1489-4", "question_type": "descriptive", "anchor": "Which magic headgear can pull a dagger, a rope with a grappling hook, or caltrops out of itself?"}
+{"passage_id": "1489-4", "question_type": "table", "anchor": "Which creatures can appear from the Hat of Many Spells when I roll 81 to 85 on its d100 table?"}
+{"passage_id": "614-0", "question_type": "lookup", "anchor": "How much does a Poisoner's Kit weigh?"}
+{"passage_id": "614-0", "question_type": "paraphrase", "anchor": "How hard is it to notice a tainted object using a Poisoner's Kit?"}
+{"passage_id": "614-0", "question_type": "descriptive", "anchor": "Which tool set lets me make basic poison and check whether an object has been poisoned?"}
+{"passage_id": "604-0", "question_type": "lookup", "anchor": "What is the weight of a set of Tinker's Tools?"}
+{"passage_id": "604-0", "question_type": "paraphrase", "anchor": "How long does a tiny contraption I cobble from scrap with Tinker's Tools last before falling apart?"}
+{"passage_id": "604-0", "question_type": "descriptive", "anchor": "Which set of artisan's tools lets me make a lock, a lantern, or a signal whistle?"}
+{"passage_id": "484-1", "question_type": "lookup", "anchor": "What ability score is used for Wizard spellcasting?"}
+{"passage_id": "484-1", "question_type": "paraphrase", "anchor": "With Wizard spellcasting, can I swap my prepared spells after a long rest?"}
+{"passage_id": "484-1", "question_type": "descriptive", "anchor": "As a new arcane caster, how many spellbook spells do I pick to have prepared?"}
+{"passage_id": "264-0", "question_type": "lookup", "anchor": "How many times can I use Indomitable before a Long Rest at level 13?"}
+{"passage_id": "264-0", "question_type": "paraphrase", "anchor": "When I botch a saving throw with Indomitable, how much bonus do I get on the reroll?"}
+{"passage_id": "264-0", "question_type": "descriptive", "anchor": "What fighter ability lets me reroll a failed saving throw and forces me to keep the new roll?"}
+{"passage_id": "243-2", "question_type": "lookup", "anchor": "Is Moonbeam on the druid spell list as an Evocation spell?"}
+{"passage_id": "243-2", "question_type": "paraphrase", "anchor": "Does the druid spell list include a spell that guards against poison?"}
+{"passage_id": "243-2", "question_type": "descriptive", "anchor": "Which nature-themed caster's spell table has a Special column with C, R and M markers?"}
+{"passage_id": "243-2", "question_type": "table", "anchor": "What school of magic is Lesser Restoration in on the druid spell list?"}
+{"passage_id": "18-0", "question_type": "lookup", "anchor": "Does a natural 20 on an attack roll always hit, no matter the target's AC?"}
+{"passage_id": "18-0", "question_type": "paraphrase", "anchor": "If I roll a natural 1 on an attack, is it automatically a miss even with a huge bonus?"}
+{"passage_id": "18-0", "question_type": "descriptive", "anchor": "Which rule covers what happens when the d20 shows its highest or lowest face on an attack?"}
+{"passage_id": "521-1", "question_type": "lookup", "anchor": "How long does Dragonborn Draconic Flight last once I activate it?"}
+{"passage_id": "521-1", "question_type": "paraphrase", "anchor": "At what character level can my Dragonborn sprout wings and fly for a while?"}
+{"passage_id": "521-1", "question_type": "descriptive", "anchor": "Which draconic heritage lets me grow spectral wings with a fly speed equal to my own speed?"}
+{"passage_id": "1115-0", "question_type": "lookup", "anchor": "What material component does Wind Walk require?"}
+{"passage_id": "1115-0", "question_type": "paraphrase", "anchor": "If Wind Walk wears off while I'm flying as a cloud, how fast do I come down?"}
+{"passage_id": "1115-0", "question_type": "descriptive", "anchor": "Which spell turns up to ten willing friends into cloud-like wisps that can fly fast and shrug off physical hits?"}
+{"passage_id": "693-0", "question_type": "lookup", "anchor": "How long is a piece of string in adventuring gear?"}
+{"passage_id": "693-0", "question_type": "paraphrase", "anchor": "What action do I spend to knot a piece of string?"}
+{"passage_id": "693-0", "question_type": "descriptive", "anchor": "What cheap cordlike item sold in the adventuring gear list costs one silver piece?"}
+{"passage_id": "373-2", "question_type": "lookup", "anchor": "Does a Sneak Attack need Advantage on the roll when an ally is within 5 feet of the target?"}
+{"passage_id": "373-2", "question_type": "paraphrase", "anchor": "Does Sneak Attack damage work with a longbow or only with melee weapons?"}
+{"passage_id": "373-2", "question_type": "descriptive", "anchor": "When a sneaky rogue hit adds extra dice, what damage type do those dice deal?"}
+{"passage_id": "373-2", "question_type": "table", "anchor": "How many d6 does Sneak Attack roll for a level 16 Rogue?"}
+{"passage_id": "315-1", "question_type": "lookup", "anchor": "What ability score is the Spellcasting ability for Paladin spells?"}
+{"passage_id": "315-1", "question_type": "paraphrase", "anchor": "Could a religious emblem work as my focus for Paladin Spellcasting?"}
+{"passage_id": "315-1", "question_type": "descriptive", "anchor": "At what level does a holy warrior first start casting spells?"}
+{"passage_id": "1019-0", "question_type": "lookup", "anchor": "What is the casting time for Private Sanctum?"}
+{"passage_id": "1019-0", "question_type": "paraphrase", "anchor": "Which material must I have on hand to cast Private Sanctum?"}
+{"passage_id": "1019-0", "question_type": "descriptive", "anchor": "Which Wizard spell can make a warded cube last until dispelled if cast on the same spot daily for a year?"}
+{"passage_id": "1637-0", "question_type": "lookup", "anchor": "What is the save DC for spells cast from the Wand of Binding?"}
+{"passage_id": "1637-0", "question_type": "paraphrase", "anchor": "If my Wand of Binding's last charge is used, what d20 roll breaks it?"}
+{"passage_id": "1637-0", "question_type": "descriptive", "anchor": "Which rare wand with seven charges can cast a Hold spell and regain charges at dawn?"}
+{"passage_id": "1637-0", "question_type": "table", "anchor": "How many charges does the Wand of Binding need to cast Hold Person?"}
+{"passage_id": "686-0", "question_type": "lookup", "anchor": "How much space does a sack hold, measured in cubic feet?"}
+{"passage_id": "686-0", "question_type": "paraphrase", "anchor": "Is a sack expensive, or does it cost just one copper piece?"}
+{"passage_id": "686-0", "question_type": "descriptive", "anchor": "What cheap bag for hauling loot can carry up to 30 pounds?"}
+{"passage_id": "818-0", "question_type": "lookup", "anchor": "Which ability score's saving throw does the target of Command make?"}
+{"passage_id": "818-0", "question_type": "paraphrase", "anchor": "When I order a foe to fall prone with Command, does it still get to act that turn?"}
+{"passage_id": "818-0", "question_type": "descriptive", "anchor": "Which spell makes a creature approach, flee, or halt with a single spoken word?"}
+{"passage_id": "1221-0", "question_type": "lookup", "anchor": "Does a phenomenon count as a magical effect when a rule labels it magical?"}
+{"passage_id": "1221-0", "question_type": "paraphrase", "anchor": "Is a magical effect from a wand I'm holding still considered magical?"}
+{"passage_id": "1221-0", "question_type": "descriptive", "anchor": "When is an effect from a natural event treated as magical by the game rules?"}
+{"passage_id": "862-0", "question_type": "lookup", "anchor": "How much extra radiant damage does Divine Smite add on a hit?"}
+{"passage_id": "862-0", "question_type": "paraphrase", "anchor": "If I smite a devil or a zombie with Divine Smite, how much more damage do I deal?"}
+{"passage_id": "862-0", "question_type": "descriptive", "anchor": "Which Paladin spell is cast as a bonus action right after a melee hit and adds Radiant damage?"}
+{"passage_id": "1229-0", "question_type": "lookup", "anchor": "What is the base formula for a creature's passive Perception score?"}
+{"passage_id": "1229-0", "question_type": "paraphrase", "anchor": "If I have advantage on Perception checks, how much does my passive Perception go up?"}
+{"passage_id": "1229-0", "question_type": "descriptive", "anchor": "What number does a game master check to see if someone spots something without them rolling?"}
+{"passage_id": "1360-1", "question_type": "lookup", "anchor": "Can a yuan-ti with a snakelike tail instead of legs wear magic boots?"}
+{"passage_id": "1360-1", "question_type": "paraphrase", "anchor": "Could a one-armed character use just one glove from a matched pair of magic gloves?"}
+{"passage_id": "1360-1", "question_type": "descriptive", "anchor": "Do worn magic items adjust their size to the wearer, or can a DM stop that?"}
+{"passage_id": "938-0", "question_type": "lookup", "anchor": "How far away can I target a creature with Healing Word?"}
+{"passage_id": "938-0", "question_type": "paraphrase", "anchor": "How much does casting Healing Word with a higher slot boost its healing?"}
+{"passage_id": "938-0", "question_type": "descriptive", "anchor": "Which quick bonus-action spell heals a visible ally for 2d4 plus my spellcasting modifier?"}

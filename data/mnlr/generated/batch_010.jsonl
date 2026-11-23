@@ -1,0 +1,79 @@
+{"passage_id": "2395-1", "question_type": "lookup", "anchor": "How high a spell level can a Shield Guardian store in its amulet?"}
+{"passage_id": "2395-1", "question_type": "paraphrase", "anchor": "How close do I have to stand to a Shield Guardian to stash a spell in it?"}
+{"passage_id": "2395-1", "question_type": "descriptive", "anchor": "What construct can hold a spell I cast on it and cast that spell back later with my own spellcasting ability?"}
+{"passage_id": "34-0", "question_type": "lookup", "anchor": "What three attitudes can an NPC have toward my character during social interaction?"}
+{"passage_id": "34-0", "question_type": "paraphrase", "anchor": "During social interaction, does the game move forward only by roleplaying, or do I roll dice too?"}
+{"passage_id": "34-0", "question_type": "descriptive", "anchor": "How does the game handle it when my character tries to persuade or flatter someone instead of fighting them?"}
+{"passage_id": "2514-2", "question_type": "lookup", "anchor": "How many Legendary Action uses does a Vampire get when it is not in its lair?"}
+{"passage_id": "2514-2", "question_type": "paraphrase", "anchor": "If a Vampire turns into a cloud of mist, can it still talk or pick things up?"}
+{"passage_id": "2514-2", "question_type": "descriptive", "anchor": "Which undead bloodsucker can shift into a bat or misty cloud and can't do so while in sunlight or running water?"}
+{"passage_id": "2844-0", "question_type": "lookup", "anchor": "How fast can an Owl fly in feet?"}
+{"passage_id": "2844-0", "question_type": "paraphrase", "anchor": "When an Owl flies away from an enemy's reach, does the enemy get a free swing at it?"}
+{"passage_id": "2844-0", "question_type": "descriptive", "anchor": "Which tiny beast has 120 feet of Darkvision and speaks no languages?"}
+{"passage_id": "2844-0", "question_type": "table", "anchor": "What is an Owl's Wisdom ability score?"}
+{"passage_id": "553-0", "question_type": "lookup", "anchor": "What is the minimum character level needed to take the Boon of Truesight feat?"}
+{"passage_id": "553-0", "question_type": "paraphrase", "anchor": "Can the Boon of Truesight feat bump one of my stats up, and how high can it go?"}
+{"passage_id": "553-0", "question_type": "descriptive", "anchor": "What high-level feat gives 60 feet of truesight along with a point of ability score improvement?"}
+{"passage_id": "654-0", "question_type": "lookup", "anchor": "How many uses does a Healer's Kit have before it runs out?"}
+{"passage_id": "654-0", "question_type": "paraphrase", "anchor": "Does a Healer's Kit let me stabilize a downed ally without rolling for it?"}
+{"passage_id": "654-0", "question_type": "descriptive", "anchor": "What piece of adventuring gear lets me stabilize an unconscious creature at 0 Hit Points using a limited supply of uses?"}
+{"passage_id": "311-4", "question_type": "lookup", "anchor": "At what Paladin level does Restoring Touch first appear?"}
+{"passage_id": "311-4", "question_type": "paraphrase", "anchor": "How many spells can a Paladin prepare once they reach level 15?"}
+{"passage_id": "311-4", "question_type": "descriptive", "anchor": "For a holy warrior's spellcasting progression, how many Channel Divinity uses do they keep from level 13 through 15?"}
+{"passage_id": "311-4", "question_type": "table", "anchor": "How many 4th-level spell slots does a Paladin have at character level 14?"}
+{"passage_id": "434-1", "question_type": "lookup", "anchor": "For Eldritch Invocations, what is the Warlock's Proficiency Bonus at level 9?"}
+{"passage_id": "434-1", "question_type": "paraphrase", "anchor": "How many Eldritch Invocations can a Warlock pick by level 6?"}
+{"passage_id": "434-1", "question_type": "descriptive", "anchor": "Which warlock table tracks how many arcane gifts you can choose at each level up?"}
+{"passage_id": "434-1", "question_type": "table", "anchor": "At Warlock level 7, how many Prepared Spells does the Eldritch Invocations table give?"}
+{"passage_id": "1406-0", "question_type": "lookup", "anchor": "How much extra Armor Class does an Arrow-Catching Shield give against ranged attacks?"}
+{"passage_id": "1406-0", "question_type": "paraphrase", "anchor": "Can I use an Arrow-Catching Shield to take a ranged attack aimed at an ally within 5 feet of me?"}
+{"passage_id": "1406-0", "question_type": "descriptive", "anchor": "What rare shield gives extra Armor Class against ranged attacks like bows and crossbows?"}
+{"passage_id": "218-3", "question_type": "lookup", "anchor": "On the Cleric Spell List, what school of magic is Mass Healing Word in?"}
+{"passage_id": "218-3", "question_type": "paraphrase", "anchor": "Which Cleric spells need a material component, like Revivify?"}
+{"passage_id": "218-3", "question_type": "descriptive", "anchor": "What cleric spell lifts curses from a creature and is of the Abjuration school?"}
+{"passage_id": "218-3", "question_type": "table", "anchor": "On the Cleric Spell List, what is the Special entry for Spirit Guardians?"}
+{"passage_id": "2539-0", "question_type": "lookup", "anchor": "How many Hit Points does a Wereboar have?"}
+{"passage_id": "2539-0", "question_type": "paraphrase", "anchor": "How far can a Wereboar move in boar form each turn?"}
+{"passage_id": "2539-0", "question_type": "descriptive", "anchor": "What lycanthrope can curse a humanoid with a goring attack so the victim becomes its kind at 0 Hit Points?"}
+{"passage_id": "2539-0", "question_type": "table", "anchor": "What Constitution save bonus does a Wereboar add to its saving throws?"}
+{"passage_id": "332-0", "question_type": "lookup", "anchor": "What tenet says a Paladin's word should be their promise under the Oath of Devotion?"}
+{"passage_id": "332-0", "question_type": "paraphrase", "anchor": "What core ideals does a Paladin who swears the Oath of Devotion hold to?"}
+{"passage_id": "332-0", "question_type": "descriptive", "anchor": "Which holy knight oath uses images of angelic wings on helmets and coats of arms?"}
+{"passage_id": "844-0", "question_type": "lookup", "anchor": "What material components does the Darkness spell require?"}
+{"passage_id": "844-0", "question_type": "paraphrase", "anchor": "When I cast Darkness on a loose object instead of a spot, how far does the darkness reach?"}
+{"passage_id": "844-0", "question_type": "descriptive", "anchor": "What spell creates magical gloom that Darkvision can't see through and that ordinary light can't brighten?"}
+{"passage_id": "214-0", "question_type": "lookup", "anchor": "How many times can I use Divine Intervention between Long Rests?"}
+{"passage_id": "214-0", "question_type": "paraphrase", "anchor": "Does Divine Intervention make me spend a spell slot to cast a Cleric spell of 5th level or below?"}
+{"passage_id": "214-0", "question_type": "descriptive", "anchor": "What cleric ability lets me call on my god for a spell up to 5th level without paying material costs, once per long rest?"}
+{"passage_id": "719-0", "question_type": "lookup", "anchor": "For hired help, is the pay on the Hirelings table a minimum or an exact price?"}
+{"passage_id": "719-0", "question_type": "paraphrase", "anchor": "Which kinds of hired help count as skilled, like a mercenary or a scribe?"}
+{"passage_id": "719-0", "question_type": "descriptive", "anchor": "Who do you hire to haul packs and gear when the job needs no special training?"}
+{"passage_id": "2701-0", "question_type": "lookup", "anchor": "How fast can a Giant Boar move on the ground?"}
+{"passage_id": "2701-0", "question_type": "paraphrase", "anchor": "If a Giant Boar charges at me from 20 feet away and gores me, what extra happens?"}
+{"passage_id": "2701-0", "question_type": "descriptive", "anchor": "What wounded wild pig gets Advantage on melee attacks once it is Bloodied?"}
+{"passage_id": "2701-0", "question_type": "table", "anchor": "How much does a Giant Boar add to its Strength saving throws?"}
+{"passage_id": "1749-1", "question_type": "lookup", "anchor": "What is the reach of a Bearded Devil's Infernal Glaive attack?"}
+{"passage_id": "1749-1", "question_type": "paraphrase", "anchor": "How do I stop the bleeding from a Bearded Devil's infernal wound when I have no healing magic?"}
+{"passage_id": "1749-1", "question_type": "descriptive", "anchor": "What fiend's slashing attack leaves a wound that drains 1d10 Hit Points every turn until it closes?"}
+{"passage_id": "974-0", "question_type": "lookup", "anchor": "What material components does a Magic Circle consume when cast?"}
+{"passage_id": "974-0", "question_type": "paraphrase", "anchor": "If I cast Magic Circle using a 5th-level spell slot, how much longer does it last?"}
+{"passage_id": "974-0", "question_type": "descriptive", "anchor": "What spell makes a cylinder of magic that keeps chosen kinds of otherworldly creatures from willingly entering?"}
+{"passage_id": "1052-0", "question_type": "lookup", "anchor": "How long does the Shield spell's AC bonus last?"}
+{"passage_id": "1052-0", "question_type": "paraphrase", "anchor": "If I cast Shield in response to a Magic Missile, do I still take its damage?"}
+{"passage_id": "1052-0", "question_type": "descriptive", "anchor": "What reaction spell gives me a flat bonus to Armor Class against the attack that triggered it?"}
+{"passage_id": "1560-0", "question_type": "lookup", "anchor": "How far does the Quarterstaff of the Acrobat's green light reach?"}
+{"passage_id": "1560-0", "question_type": "paraphrase", "anchor": "How often can I use the Quarterstaff of the Acrobat to gain +5 AC against a hit?"}
+{"passage_id": "1560-0", "question_type": "descriptive", "anchor": "What magic staff gives +2 to attack and damage rolls and flies back to my hand after a throw?"}
+{"passage_id": "590-0", "question_type": "lookup", "anchor": "Which ability score is used with Alchemist's Supplies?"}
+{"passage_id": "590-0", "question_type": "paraphrase", "anchor": "How much does an Alchemist's Supplies kit weigh?"}
+{"passage_id": "590-0", "question_type": "descriptive", "anchor": "Which artisan's tool kit lets me craft acid and perfume and identify a substance with a DC 15 check?"}
+{"passage_id": "266-0", "question_type": "lookup", "anchor": "How many attacks can a Fighter make with Two Extra Attacks when taking the Attack action?"}
+{"passage_id": "266-0", "question_type": "paraphrase", "anchor": "At what level does a Fighter get Two Extra Attacks?"}
+{"passage_id": "266-0", "question_type": "descriptive", "anchor": "What fighter ability gives me three swings instead of one whenever I use my turn's Attack action?"}
+{"passage_id": "435-0", "question_type": "lookup", "anchor": "How many Warlock cantrips do I know when I first take Pact Magic?"}
+{"passage_id": "435-0", "question_type": "paraphrase", "anchor": "When do my Pact Magic spell slots come back?"}
+{"passage_id": "435-0", "question_type": "descriptive", "anchor": "What warlock feature gives me spell slots that are all the same level and recharge on a short rest?"}
+{"passage_id": "196-5", "question_type": "lookup", "anchor": "On the Bard Spell List, what school of magic does Teleport belong to?"}
+{"passage_id": "196-5", "question_type": "paraphrase", "anchor": "On the Bard Spell List, does Symbol need a material component?"}
+{"passage_id": "196-5", "question_type": "descriptive", "anchor": "Which ninth-level bard spell from the Enchantment school restores health?"}
+{"passage_id": "196-5", "question_type": "table", "anchor": "On the Bard Spell List's level 8 table, what is the Special entry for Dominate Monster?"}

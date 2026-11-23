@@ -1,0 +1,82 @@
+{"passage_id": "2736-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Giant Hyena?"}
+{"passage_id": "2736-0", "question_type": "paraphrase", "anchor": "Roughly how fast can a Giant Hyena move across the ground on its turn?"}
+{"passage_id": "2736-0", "question_type": "descriptive", "anchor": "Which large beast has a once-a-day Rampage that lets it move and bite again after wounding a bloodied creature?"}
+{"passage_id": "2736-0", "question_type": "table", "anchor": "What does a Giant Hyena add to Dexterity saving throws?"}
+{"passage_id": "619-3", "question_type": "lookup", "anchor": "How much does a Spyglass cost in the adventuring gear list?"}
+{"passage_id": "619-3", "question_type": "paraphrase", "anchor": "Roughly what would a Waterskin set me back in silver pieces when buying adventuring gear?"}
+{"passage_id": "619-3", "question_type": "descriptive", "anchor": "Is there a canvas shelter I can sleep in on a trip, and how heavy is it?"}
+{"passage_id": "619-3", "question_type": "table", "anchor": "Roughly how many pounds does a Portable Ram weigh in the adventuring gear list?"}
+{"passage_id": "1409-0", "question_type": "lookup", "anchor": "How many pounds can a Bag of Holding hold inside it?"}
+{"passage_id": "1409-0", "question_type": "paraphrase", "anchor": "If I stuff my Bag of Holding into a Handy Haversack, what happens to the two of them?"}
+{"passage_id": "1409-0", "question_type": "descriptive", "anchor": "Which small pouch-like item lets me haul 500 pounds of loot while weighing only 5 pounds?"}
+{"passage_id": "829-0", "question_type": "lookup", "anchor": "How long can the effects of Conjure Minor Elementals last?"}
+{"passage_id": "829-0", "question_type": "paraphrase", "anchor": "If I cast Conjure Minor Elementals with a bigger slot, how much extra damage do my hits get?"}
+{"passage_id": "829-0", "question_type": "descriptive", "anchor": "Which spell surrounds me with spirits that make my hits deal extra damage and make the ground hard to cross for foes?"}
+{"passage_id": "422-2", "question_type": "lookup", "anchor": "On the Sorcerer spell list, which school of magic does Scorching Ray belong to?"}
+{"passage_id": "422-2", "question_type": "paraphrase", "anchor": "On the Sorcerer spell list, what spell lets me see invisible creatures?"}
+{"passage_id": "422-2", "question_type": "descriptive", "anchor": "Is there a Sorcerer spell that lets me read other creatures' minds, and what magic school is it?"}
+{"passage_id": "422-2", "question_type": "table", "anchor": "On the Sorcerer spell list, what does the School column say for Web?"}
+{"passage_id": "1028-0", "question_type": "lookup", "anchor": "Is the saving throw against Ray of Enfeeblement based on Constitution?"}
+{"passage_id": "1028-0", "question_type": "paraphrase", "anchor": "When Ray of Enfeeblement lands, how much does the victim's damage get knocked down?"}
+{"passage_id": "1028-0", "question_type": "descriptive", "anchor": "Which beam spell weakens a foe for up to a minute and lets it retry its save every turn?"}
+{"passage_id": "59-0", "question_type": "lookup", "anchor": "Can both sides in a fight agree to end combat even if nobody is defeated?"}
+{"passage_id": "59-0", "question_type": "paraphrase", "anchor": "In combat, does the fight count as over if one side surrenders or runs off?"}
+{"passage_id": "59-0", "question_type": "descriptive", "anchor": "My party's fight just stopped because the goblins ran away; is that the end of the encounter?"}
+{"passage_id": "923-1", "question_type": "lookup", "anchor": "How big is the area of the explosion from a Glyph of Warding?"}
+{"passage_id": "923-1", "question_type": "paraphrase", "anchor": "If I cast Glyph of Warding with a bigger slot, how much more does the explosion hit for?"}
+{"passage_id": "923-1", "question_type": "descriptive", "anchor": "Can a magic rune trap hold a prepared spell of third level or lower and fire it when an intruder triggers it?"}
+{"passage_id": "704-0", "question_type": "lookup", "anchor": "What happens to a ship's speed when it sails straight into a strong wind?"}
+{"passage_id": "704-0", "question_type": "paraphrase", "anchor": "If I'm floating downstream on a river in a keelboat, how much does the current add to my pace?"}
+{"passage_id": "704-0", "question_type": "descriptive", "anchor": "Can a small rowing boat be carried, and how heavy is it?"}
+{"passage_id": "704-0", "question_type": "table", "anchor": "How many passengers can an Airship carry in the airborne and waterborne vehicle table?"}
+{"passage_id": "1282-0", "question_type": "lookup", "anchor": "When traveling more than 8 hours in a day, what does failing each extra hour's Constitution save give you?"}
+{"passage_id": "1282-0", "question_type": "paraphrase", "anchor": "If my party keeps marching past eight hours a day, how fast does exhaustion creep up on us?"}
+{"passage_id": "1282-0", "question_type": "descriptive", "anchor": "Can my group push a long journey for more hours each day, and what does that risk?"}
+{"passage_id": "2105-0", "question_type": "lookup", "anchor": "How many Hit Points does a Hezrou have?"}
+{"passage_id": "2105-0", "question_type": "paraphrase", "anchor": "Along with a Hezrou's cutting swipe, how much poison harm does it deal on top?"}
+{"passage_id": "2105-0", "question_type": "descriptive", "anchor": "Which large demon has three attacks per turn and a stench that poisons anyone who starts a turn close to it?"}
+{"passage_id": "2105-0", "question_type": "table", "anchor": "What bonus does a Hezrou add to Constitution saving throws?"}
+{"passage_id": "417-0", "question_type": "lookup", "anchor": "For a Sorcerer, how many sorcery points does it cost to change a spell's casting time to a bonus action?"}
+{"passage_id": "417-0", "question_type": "paraphrase", "anchor": "Can a Sorcerer speed up a spell so it takes only a bonus action, then cast a 1st-level spell that same turn?"}
+{"passage_id": "417-0", "question_type": "descriptive", "anchor": "Is there a way for a Sorcerer to make an action spell faster on their turn by spending points?"}
+{"passage_id": "1238-0", "question_type": "lookup", "anchor": "How often can a creature take a reaction before its next turn?"}
+{"passage_id": "1238-0", "question_type": "paraphrase", "anchor": "Can I use my reaction on my own turn even after spending my action and bonus action?"}
+{"passage_id": "1238-0", "question_type": "descriptive", "anchor": "Which special move triggered on another creature's turn is available to every creature?"}
+{"passage_id": "292-0", "question_type": "lookup", "anchor": "How many Focus Points does Stunning Strike cost to use?"}
+{"passage_id": "292-0", "question_type": "paraphrase", "anchor": "If my monk's Stunning Strike is resisted, how does it still slow the foe's movement?"}
+{"passage_id": "292-0", "question_type": "descriptive", "anchor": "Which monk ability lets me leave an enemy stunned for a turn, but only once each turn?"}
+{"passage_id": "1364-0", "question_type": "lookup", "anchor": "How much does a typical magic rod weigh?"}
+{"passage_id": "1364-0", "question_type": "paraphrase", "anchor": "Can I use a magic rod as my spellcasting focus?"}
+{"passage_id": "1364-0", "question_type": "descriptive", "anchor": "What magic item is a metal, wooden, or bone scepter that can serve as a wizard's focus?"}
+{"passage_id": "2184-0", "question_type": "lookup", "anchor": "What spell save DC does a Mage use when casting its spells?"}
+{"passage_id": "2184-0", "question_type": "paraphrase", "anchor": "How many times a day can a Mage cast Fly?"}
+{"passage_id": "2184-0", "question_type": "descriptive", "anchor": "Which wizard-type humanoid can use Counterspell or Shield as a reaction to someone else's spell?"}
+{"passage_id": "2184-0", "question_type": "table", "anchor": "Roughly what bonus does a Mage add to Intelligence saves?"}
+{"passage_id": "1685-0", "question_type": "lookup", "anchor": "Where in a stat block is the entry that lists a creature's multiple attacks?"}
+{"passage_id": "1685-0", "question_type": "paraphrase", "anchor": "Does a creature's multiple-attacks entry also list extra abilities it can use as part of its Attack action?"}
+{"passage_id": "1685-0", "question_type": "descriptive", "anchor": "Do some creatures get to make several attacks when they choose the Attack action?"}
+{"passage_id": "1044-0", "question_type": "lookup", "anchor": "How long does Searing Smite last once it's on a target?"}
+{"passage_id": "1044-0", "question_type": "paraphrase", "anchor": "If I cast Searing Smite with a bigger slot, how much more damage does every part of it deal?"}
+{"passage_id": "1044-0", "question_type": "descriptive", "anchor": "When can a paladin use a bonus action to add fire damage to a melee hit?"}
+{"passage_id": "1578-0", "question_type": "lookup", "anchor": "How many charges does a Ring of the Ram start with?"}
+{"passage_id": "1578-0", "question_type": "paraphrase", "anchor": "If I spend two charges from a Ring of the Ram on one hit, how much force damage does the target take?"}
+{"passage_id": "1578-0", "question_type": "descriptive", "anchor": "Which magic ring conjures a spectral head that hits a foe for force damage and pushes it back?"}
+{"passage_id": "807-0", "question_type": "lookup", "anchor": "What ability score does a Humanoid use to save against Calm Emotions?"}
+{"passage_id": "807-0", "question_type": "paraphrase", "anchor": "If I cast Calm Emotions on a crowd, could it stop them from being scared or charmed?"}
+{"passage_id": "807-0", "question_type": "descriptive", "anchor": "Which spell can make a group of humanoids indifferent toward certain creatures I pick, for up to a minute?"}
+{"passage_id": "887-1", "question_type": "lookup", "anchor": "How far away can my Find Familiar pet reappear after I temporarily dismiss it?"}
+{"passage_id": "887-1", "question_type": "paraphrase", "anchor": "If my Find Familiar gets knocked out, does it stay gone for good or can I bring it back?"}
+{"passage_id": "887-1", "question_type": "descriptive", "anchor": "Can I have two magical animal helpers at once from a single spell?"}
+{"passage_id": "2539-1", "question_type": "lookup", "anchor": "Can a Wereboar turn into a Small boar?"}
+{"passage_id": "2539-1", "question_type": "paraphrase", "anchor": "If a Wereboar changes shape, do its stats change or only its size?"}
+{"passage_id": "2539-1", "question_type": "descriptive", "anchor": "When a boar-like shapechanger takes its beast form, do the clothes and gear it's wearing change too?"}
+{"passage_id": "1045-0", "question_type": "lookup", "anchor": "How much nonliving material can the Secret Chest hold?"}
+{"passage_id": "1045-0", "question_type": "paraphrase", "anchor": "Once my Secret Chest has been hidden for 60 days, what's the daily chance its magic gives out?"}
+{"passage_id": "1045-0", "question_type": "descriptive", "anchor": "Which spell lets me stash a big trunk on another plane and summon it back with a small duplicate?"}
+{"passage_id": "2566-0", "question_type": "lookup", "anchor": "How often can an Ancient White Dragon use its Cold Breath?"}
+{"passage_id": "2566-0", "question_type": "paraphrase", "anchor": "Can an Ancient White Dragon turn a failed saving throw into a success, and how often in its lair?"}
+{"passage_id": "2566-0", "question_type": "descriptive", "anchor": "Which gargantuan cold-breathing dragon has a flying speed of 80 feet and 333 Hit Points?"}
+{"passage_id": "2566-0", "question_type": "table", "anchor": "Which bonus does an Ancient White Dragon add to Dexterity saves?"}
+{"passage_id": "1478-0", "question_type": "lookup", "anchor": "How many charges does the Gem of Brightness start with?"}
+{"passage_id": "1478-0", "question_type": "paraphrase", "anchor": "When the Gem of Brightness shoots a blinding light at a foe, how long does the blindness last if the foe fails its save?"}
+{"passage_id": "1478-0", "question_type": "descriptive", "anchor": "Which prism-shaped magic item can light up a room, blind a foe with a beam, and flare light in a cone?"}

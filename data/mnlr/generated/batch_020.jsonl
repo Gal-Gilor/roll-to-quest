@@ -1,0 +1,72 @@
+{"passage_id": "762-0", "question_type": "lookup", "anchor": "Do spell effects usually deal with targets, saving throws, or attack rolls?"}
+{"passage_id": "762-0", "question_type": "paraphrase", "anchor": "Where do I look for a spell's effects, the part that says what it really does?"}
+{"passage_id": "762-0", "question_type": "descriptive", "anchor": "What part of a spell's write-up covers its targets, saving throws, and attack rolls?"}
+{"passage_id": "755-0", "question_type": "lookup", "anchor": "If my Concentration breaks partway through a longer casting time, is the spell slot used up?"}
+{"passage_id": "755-0", "question_type": "paraphrase", "anchor": "Do I have to spend my action on every turn while a spell that takes minutes to cast is still going?"}
+{"passage_id": "755-0", "question_type": "descriptive", "anchor": "If my focus gets broken during a spell that takes minutes to cast, must I start the whole casting over?"}
+{"passage_id": "1407-0", "question_type": "lookup", "anchor": "What is the save DC for the Dexterity saving throw when the beans from a Bag of Beans explode?"}
+{"passage_id": "1407-0", "question_type": "paraphrase", "anchor": "If I empty some beans from a Bag of Beans, how badly do they hurt anyone who fails to dodge?"}
+{"passage_id": "1407-0", "question_type": "descriptive", "anchor": "Which enchanted cloth bag holds a few dried beans and turns into a plain sack once it's empty?"}
+{"passage_id": "937-0", "question_type": "lookup", "anchor": "How many Hit Points does Heal restore to its target?"}
+{"passage_id": "937-0", "question_type": "paraphrase", "anchor": "If I cast Heal using a higher-level slot, how much more health does it restore?"}
+{"passage_id": "937-0", "question_type": "descriptive", "anchor": "Which level 6 healing spell removes blindness, deafness, and poisoning from a creature I can see?"}
+{"passage_id": "344-0", "question_type": "lookup", "anchor": "How many times can I cast Hunter's Mark with Favored Enemy without expending a spell slot?"}
+{"passage_id": "344-0", "question_type": "paraphrase", "anchor": "After what kind of rest do my free Hunter's Mark casts from Favored Enemy come back?"}
+{"passage_id": "344-0", "question_type": "descriptive", "anchor": "Which Ranger feature keeps a tracking spell always prepared for me to cast?"}
+{"passage_id": "1818-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Young Bronze Dragon?"}
+{"passage_id": "1818-0", "question_type": "paraphrase", "anchor": "How fast can a Young Bronze Dragon move while flying?"}
+{"passage_id": "1818-0", "question_type": "descriptive", "anchor": "What large, lawful good metallic dragon is immune to lightning damage and can breathe underwater?"}
+{"passage_id": "1818-0", "question_type": "table", "anchor": "What Intelligence ability score does a Young Bronze Dragon have?"}
+{"passage_id": "1686-0", "question_type": "lookup", "anchor": "When a monster casts a spell of level 1 or higher, what level is it cast at unless noted otherwise?"}
+{"passage_id": "1686-0", "question_type": "paraphrase", "anchor": "How do monster spellcasters signal to me that they're casting a spell, like chanting or gesturing?"}
+{"passage_id": "1686-0", "question_type": "descriptive", "anchor": "Can a monster finish a spell that takes a full minute to cast in just one action?"}
+{"passage_id": "774-0", "question_type": "lookup", "anchor": "How many words long can a message from Animal Messenger be?"}
+{"passage_id": "774-0", "question_type": "paraphrase", "anchor": "If I cast Animal Messenger with a bigger slot, how much longer does the critter keep traveling?"}
+{"passage_id": "774-0", "question_type": "descriptive", "anchor": "What spell sends a tiny beast to carry my message to a person I describe at a place I've visited?"}
+{"passage_id": "1241-0", "question_type": "lookup", "anchor": "What is my Speed while I have the Restrained condition?"}
+{"passage_id": "1241-0", "question_type": "paraphrase", "anchor": "If I'm Restrained, do enemies find it easier or harder to hit me?"}
+{"passage_id": "1241-0", "question_type": "descriptive", "anchor": "Which status makes me unable to move and gives me disadvantage on Dexterity saving throws?"}
+{"passage_id": "1450-0", "question_type": "lookup", "anchor": "What bonus does a Defender weapon give to attack rolls and damage rolls?"}
+{"passage_id": "1450-0", "question_type": "paraphrase", "anchor": "Can I trade some of a Defender's attack bonus for a bonus to how hard I am to hit?"}
+{"passage_id": "1450-0", "question_type": "descriptive", "anchor": "How long does an Armor Class boost taken from a legendary melee weapon's attack bonus stay in effect?"}
+{"passage_id": "641-0", "question_type": "lookup", "anchor": "How far can I fall from an anchor point while using a Climber's Kit?"}
+{"passage_id": "641-0", "question_type": "paraphrase", "anchor": "What action do I use to release my Climber's Kit anchor and move farther?"}
+{"passage_id": "641-0", "question_type": "descriptive", "anchor": "What set of climbing gear comes with pitons, boot tips, gloves, and a harness?"}
+{"passage_id": "527-0", "question_type": "lookup", "anchor": "What is the walking Speed of a Human?"}
+{"passage_id": "527-0", "question_type": "paraphrase", "anchor": "After what kind of rest does a Human get Heroic Inspiration?"}
+{"passage_id": "527-0", "question_type": "descriptive", "anchor": "Which species lets me pick an Origin feat and gain proficiency in one skill of my choice?"}
+{"passage_id": "141-0", "question_type": "lookup", "anchor": "What Proficiency Bonus does a level 3 Fighter with two Rogue levels have?"}
+{"passage_id": "141-0", "question_type": "paraphrase", "anchor": "When I multiclass, is my proficiency bonus based on each class separately or my overall level?"}
+{"passage_id": "141-0", "question_type": "descriptive", "anchor": "Which table shows the training bonus my character gains as their levels go up?"}
+{"passage_id": "1458-0", "question_type": "lookup", "anchor": "What Constitution save DC does Dust of Sneezing and Choking use?"}
+{"passage_id": "1458-0", "question_type": "paraphrase", "anchor": "Are Undead, Plants, or Oozes unaffected by the Dust of Sneezing and Choking?"}
+{"passage_id": "1458-0", "question_type": "descriptive", "anchor": "What powder makes a creature sneeze uncontrollably and suffocate until it succeeds on a repeated save?"}
+{"passage_id": "5-0", "question_type": "lookup", "anchor": "What is the target number for an attack roll in a D20 test called?"}
+{"passage_id": "5-0", "question_type": "paraphrase", "anchor": "If I roll with Advantage on a D20 test, do I keep the higher die or the lower one?"}
+{"passage_id": "5-0", "question_type": "descriptive", "anchor": "What do I call the number a die roll must reach to succeed on an ability check or saving throw?"}
+{"passage_id": "597-0", "question_type": "lookup", "anchor": "What does Glassblower's Tools weigh?"}
+{"passage_id": "597-0", "question_type": "paraphrase", "anchor": "How hard is it to tell what a glass object held in the last day using Glassblower's Tools?"}
+{"passage_id": "597-0", "question_type": "descriptive", "anchor": "Which artisan's tools let me craft a glass bottle, vial, or spyglass?"}
+{"passage_id": "1615-1", "question_type": "lookup", "anchor": "How many charges does a Staff of the Magi regain each day at dawn?"}
+{"passage_id": "1615-1", "question_type": "paraphrase", "anchor": "If I use up the last charge on a Staff of the Magi, what happens on a roll of 20?"}
+{"passage_id": "1615-1", "question_type": "descriptive", "anchor": "What staff holds a set of charges for casting a list of spells like Fireball, Web, and Wall of Fire?"}
+{"passage_id": "1615-1", "question_type": "table", "anchor": "How many charges does casting Telekinesis from a Staff of the Magi cost?"}
+{"passage_id": "1289-0", "question_type": "lookup", "anchor": "When creating a background, what kind of tool should I pick for its tool proficiency?"}
+{"passage_id": "1289-0", "question_type": "paraphrase", "anchor": "Can I pick a tool proficiency that's just commonly linked to my background rather than one I use on the job?"}
+{"passage_id": "1289-0", "question_type": "descriptive", "anchor": "Which step of making a character background asks me to name one tool I'm skilled with?"}
+{"passage_id": "1649-4", "question_type": "lookup", "anchor": "What size die do I roll for the damage when a Wand of Wonder surge does nothing?"}
+{"passage_id": "1649-4", "question_type": "paraphrase", "anchor": "If a Wand of Wonder zap fizzles, does it still go off at the spot I picked?"}
+{"passage_id": "1649-4", "question_type": "descriptive", "anchor": "Which wand has a random surge that does nothing at the chosen spot but still hurts me with Psychic damage?"}
+{"passage_id": "1649-4", "question_type": "table", "anchor": "What does a Wand of Wonder do on a d100 roll of 31-35?"}
+{"passage_id": "1563-0", "question_type": "lookup", "anchor": "What save DC does a Ring of Elemental Command use for its compulsion on an Elemental?"}
+{"passage_id": "1563-0", "question_type": "paraphrase", "anchor": "If I wear a Ring of Elemental Command, do I get an edge when I hit Elementals?"}
+{"passage_id": "1563-0", "question_type": "descriptive", "anchor": "What ring can compel a nearby elemental to be charmed until my next turn if it fails a Wisdom save?"}
+{"passage_id": "1068-0", "question_type": "lookup", "anchor": "How long can Spider Climb last if I keep concentrating?"}
+{"passage_id": "1068-0", "question_type": "paraphrase", "anchor": "How many more friends can Spider Climb cover if I use a higher-level slot?"}
+{"passage_id": "1068-0", "question_type": "descriptive", "anchor": "What touch spell lets a willing friend walk up walls and across ceilings with both hands free?"}
+{"passage_id": "876-0", "question_type": "lookup", "anchor": "How big is the square area that Entangle's plants cover?"}
+{"passage_id": "876-0", "question_type": "paraphrase", "anchor": "How does a creature stuck in Entangle's plants get loose again?"}
+{"passage_id": "876-0", "question_type": "descriptive", "anchor": "What spell makes grasping plants sprout to turn the ground into Difficult Terrain and hold foes in place?"}
+{"passage_id": "1531-0", "question_type": "lookup", "anchor": "How long does Oil of Slipperiness's Freedom of Movement effect last on a creature?"}
+{"passage_id": "1531-0", "question_type": "paraphrase", "anchor": "How long does it take to smear Oil of Slipperiness on a person?"}
+{"passage_id": "1531-0", "question_type": "descriptive", "anchor": "Which sticky, black potion can be poured on the ground to make a 10-foot patch that works like grease?"}

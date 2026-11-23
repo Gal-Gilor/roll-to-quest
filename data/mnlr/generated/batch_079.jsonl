@@ -1,0 +1,84 @@
+{"passage_id": "631-0", "question_type": "lookup", "anchor": "What bonus do you get to Intelligence checks on a topic after consulting an accurate nonfiction Book about it?"}
+{"passage_id": "631-0", "question_type": "paraphrase", "anchor": "Will a Book with accurate nonfiction facts give my Arcana or History checks a boost on that topic?"}
+{"passage_id": "631-0", "question_type": "descriptive", "anchor": "What kind of reading material gives a bonus when I'm trying to recall facts about a topic from a reliable source?"}
+{"passage_id": "1230-0", "question_type": "lookup", "anchor": "What must you finish before you can use a feature again after using up its daily uses?"}
+{"passage_id": "1230-0", "question_type": "paraphrase", "anchor": "If an ability has a few uses per day, when do those uses come back?"}
+{"passage_id": "1230-0", "question_type": "descriptive", "anchor": "What's the rule for abilities I can only use a limited number of times in one day?"}
+{"passage_id": "2798-0", "question_type": "lookup", "anchor": "What is the Hawk's Challenge Rating and how much XP is it worth?"}
+{"passage_id": "2798-0", "question_type": "paraphrase", "anchor": "How much health does a Hawk have, and what dice roll is that based on?"}
+{"passage_id": "2798-0", "question_type": "descriptive", "anchor": "Which tiny beast flies quickly, has a weak talon attack, and has only 1 hit point?"}
+{"passage_id": "2798-0", "question_type": "table", "anchor": "What bonus does a Hawk add to Wisdom saving throws?"}
+{"passage_id": "1537-0", "question_type": "lookup", "anchor": "What Wisdom save DC do the Pipes of Haunting use when they frighten creatures?"}
+{"passage_id": "1537-0", "question_type": "paraphrase", "anchor": "If a creature fails the Pipes of Haunting's scare, does it get more chances to shake off the fright?"}
+{"passage_id": "1537-0", "question_type": "descriptive", "anchor": "What magic instrument plays an eerie tune that can leave nearby creatures frightened for a minute?"}
+{"passage_id": "2832-0", "question_type": "lookup", "anchor": "What is the Darkvision range of a Mastiff?"}
+{"passage_id": "2832-0", "question_type": "paraphrase", "anchor": "If a Mastiff's bite hits a Medium or smaller creature, does the victim end up on the ground?"}
+{"passage_id": "2832-0", "question_type": "descriptive", "anchor": "What guard dog moves 40 feet per turn and has about 5 hit points?"}
+{"passage_id": "2832-0", "question_type": "table", "anchor": "What Strength score does a Mastiff have?"}
+{"passage_id": "1249-0", "question_type": "lookup", "anchor": "Who decides the order of simultaneous effects when they happen on a turn?"}
+{"passage_id": "1249-0", "question_type": "paraphrase", "anchor": "When simultaneous effects hit at the start of my turn, can I choose which one goes first?"}
+{"passage_id": "1249-0", "question_type": "descriptive", "anchor": "Who gets to settle the sequence when several things go off on the same turn?"}
+{"passage_id": "233-2", "question_type": "lookup", "anchor": "How many Temporary Hit Points do I gain when I assume a Wild Shape form?"}
+{"passage_id": "233-2", "question_type": "paraphrase", "anchor": "When I turn into a Wild Shape beast, can I still cast my spells or keep my concentration going?"}
+{"passage_id": "233-2", "question_type": "descriptive", "anchor": "What druid power lets me take a beast's form while keeping my own mental scores and class abilities?"}
+{"passage_id": "464-0", "question_type": "lookup", "anchor": "What ability modifier can I use for attack and damage rolls with my bonded Pact of the Blade weapon?"}
+{"passage_id": "464-0", "question_type": "paraphrase", "anchor": "How long can my Pact of the Blade weapon stay more than 5 feet from me before the bond breaks?"}
+{"passage_id": "464-0", "question_type": "descriptive", "anchor": "What Warlock invocation lets me summon a weapon as a bonus action and use Charisma for attacks with it?"}
+{"passage_id": "1617-1", "question_type": "lookup", "anchor": "How many expended charges does the Staff of the Woodlands regain at dawn each day?"}
+{"passage_id": "1617-1", "question_type": "paraphrase", "anchor": "If I burn the final charge of my Staff of the Woodlands, is there a risk it stops working for good?"}
+{"passage_id": "1617-1", "question_type": "descriptive", "anchor": "What magic staff regains a few charges at dawn and might become an ordinary quarterstaff once its last charge is used?"}
+{"passage_id": "2447-0", "question_type": "lookup", "anchor": "What are the short and long range numbers for a Sprite's Enchanting Bow attack?"}
+{"passage_id": "2447-0", "question_type": "paraphrase", "anchor": "How much health does a Sprite start with, and how many dice make that up?"}
+{"passage_id": "2447-0", "question_type": "descriptive", "anchor": "Which tiny fey has a bow whose hit charms the target until the start of its next turn?"}
+{"passage_id": "2447-0", "question_type": "table", "anchor": "How high is a Sprite's Dexterity score?"}
+{"passage_id": "1491-1", "question_type": "lookup", "anchor": "What Dexterity save DC do creatures face when the Helm of Brilliance's gems fire beams?"}
+{"passage_id": "1491-1", "question_type": "paraphrase", "anchor": "When fire from a failed spell save hits me while wearing the Helm of Brilliance, could the helm get destroyed?"}
+{"passage_id": "1491-1", "question_type": "descriptive", "anchor": "What magic headpiece set with gems can blast nearby creatures with light if it is destroyed by fire?"}
+{"passage_id": "1505-0", "question_type": "lookup", "anchor": "What Dexterity save DC do creatures face from a Javelin of Lightning's Lightning Bolt?"}
+{"passage_id": "1505-0", "question_type": "paraphrase", "anchor": "After I throw my Javelin of Lightning as a bolt, when can I do that trick again?"}
+{"passage_id": "1505-0", "question_type": "descriptive", "anchor": "What magic throwing spear can become an electric bolt that strikes a line of creatures for 4d6 damage?"}
+{"passage_id": "850-0", "question_type": "lookup", "anchor": "How far from me can Detect Evil and Good sense creatures?"}
+{"passage_id": "850-0", "question_type": "paraphrase", "anchor": "Would a thin sheet of lead or a foot of stone stop Detect Evil and Good from sensing things?"}
+{"passage_id": "850-0", "question_type": "descriptive", "anchor": "What first-level divination spell lets a cleric or paladin sense celestials, fiends and undead within a short distance for ten minutes?"}
+{"passage_id": "1749-0", "question_type": "lookup", "anchor": "What damage type is a Bearded Devil resistant to?"}
+{"passage_id": "1749-0", "question_type": "paraphrase", "anchor": "Once a Bearded Devil's beard attack poisons me, can I still heal while it lasts?"}
+{"passage_id": "1749-0", "question_type": "descriptive", "anchor": "Which lawful evil fiend resists cold, shrugs off fire and poison, and has advantage against spells?"}
+{"passage_id": "1749-0", "question_type": "table", "anchor": "What does a Bearded Devil add to Constitution saving throws?"}
+{"passage_id": "491-0", "question_type": "lookup", "anchor": "What spell levels can I choose for Wizard's Spell Mastery?"}
+{"passage_id": "491-0", "question_type": "paraphrase", "anchor": "Can I swap out one of my Spell Mastery spells after I finish a long rest?"}
+{"passage_id": "491-0", "question_type": "descriptive", "anchor": "What top-tier wizard ability lets me cast a couple of chosen spellbook spells at will, at their lowest level?"}
+{"passage_id": "38-0", "question_type": "lookup", "anchor": "What can adventurers use Caltrops for when exploring with their adventuring equipment?"}
+{"passage_id": "38-0", "question_type": "paraphrase", "anchor": "What else is a Quarterstaff useful for, besides fighting, when it comes to adventuring equipment?"}
+{"passage_id": "38-0", "question_type": "descriptive", "anchor": "Which everyday gear helps an adventurer reach out-of-the-way spots, see what's hidden, and bypass locked doors?"}
+{"passage_id": "147-6", "question_type": "lookup", "anchor": "Which character trinkets entry is a single caltrop made from bone?"}
+{"passage_id": "147-6", "question_type": "paraphrase", "anchor": "When I roll for character trinkets, is there a result that gives me a lucky foot charm?"}
+{"passage_id": "147-6", "question_type": "descriptive", "anchor": "Which keepsake from a random character-creation roll looks like a mask made of alabaster?"}
+{"passage_id": "147-6", "question_type": "table", "anchor": "What trinket comes up on a roll of 62 when rolling for character trinkets?"}
+{"passage_id": "1196-0", "question_type": "lookup", "anchor": "What does healing mean in the rules, in terms of Hit Points?"}
+{"passage_id": "1196-0", "question_type": "paraphrase", "anchor": "Where can I read more about healing alongside damage in the rules?"}
+{"passage_id": "1196-0", "question_type": "descriptive", "anchor": "What's the rules term for the way a wounded character gets their hit points back?"}
+{"passage_id": "739-0", "question_type": "lookup", "anchor": "What proficiency options let me meet the prerequisites for scribing spell scrolls?"}
+{"passage_id": "739-0", "question_type": "paraphrase", "anchor": "When scribing spell scrolls, whose spell save DC and attack bonus does the scroll's spell use?"}
+{"passage_id": "739-0", "question_type": "descriptive", "anchor": "Is it okay to inscribe a spell on a scroll if I only know it from my spellbook but haven't prepared it today?"}
+{"passage_id": "1798-0", "question_type": "lookup", "anchor": "How many hit points does a Bone Devil have?"}
+{"passage_id": "1798-0", "question_type": "paraphrase", "anchor": "If a Bone Devil dies outside the Nine Hells, what happens to its body?"}
+{"passage_id": "1798-0", "question_type": "descriptive", "anchor": "Which large lawful evil fiend can come back from death with full health somewhere in the Nine Hells?"}
+{"passage_id": "1798-0", "question_type": "table", "anchor": "What does a Bone Devil add to Strength saving throws?"}
+{"passage_id": "1606-0", "question_type": "lookup", "anchor": "What DC do I need to beat on the ability check to cast a Spell Scroll spell above my level?"}
+{"passage_id": "1606-0", "question_type": "paraphrase", "anchor": "If I try to read a Spell Scroll with a higher-level spell than I can cast and fail, what happens to the spell?"}
+{"passage_id": "1606-0", "question_type": "descriptive", "anchor": "What magic paper holds one spell in a cipher, crumbles once cast, and works for anyone who has that spell?"}
+{"passage_id": "1606-0", "question_type": "table", "anchor": "What save DC does a Spell Scroll give its spell when the scroll holds a 7th-level spell?"}
+{"passage_id": "900-0", "question_type": "lookup", "anchor": "What is the base Fire damage dice for a Flame Blade hit?"}
+{"passage_id": "900-0", "question_type": "paraphrase", "anchor": "If I cast Flame Blade with a bigger spell slot, how much extra damage does it do?"}
+{"passage_id": "900-0", "question_type": "descriptive", "anchor": "What second-level spell conjures a fiery sword that lasts up to ten minutes and sheds bright light around it?"}
+{"passage_id": "181-17", "question_type": "lookup", "anchor": "What class feature does a Bard gain at 18th level?"}
+{"passage_id": "181-17", "question_type": "paraphrase", "anchor": "How big is the bonus a level 18 Bard adds to things they're trained in?"}
+{"passage_id": "181-17", "question_type": "descriptive", "anchor": "Which level gives a twelve-sided inspiration die and twenty prepared spells for a music-themed class?"}
+{"passage_id": "181-17", "question_type": "table", "anchor": "How many prepared spells does a Bard have at level 18?"}
+{"passage_id": "2773-0", "question_type": "lookup", "anchor": "How far can a Giant Toad's Long Jump reach with or without a running start?"}
+{"passage_id": "2773-0", "question_type": "paraphrase", "anchor": "If a Giant Toad has swallowed me, how much acid damage do I take at the end of each of its turns?"}
+{"passage_id": "2773-0", "question_type": "descriptive", "anchor": "What big amphibian can breathe underwater and air, and swallows a grappled creature whole?"}
+{"passage_id": "2773-0", "question_type": "table", "anchor": "What is a Giant Toad's Charisma score?"}
+{"passage_id": "1318-0", "question_type": "lookup", "anchor": "What are the four types of poison in the rules?"}
+{"passage_id": "1318-0", "question_type": "paraphrase", "anchor": "Does holding my breath protect me from inhaled poisons?"}
+{"passage_id": "1318-0", "question_type": "descriptive", "anchor": "Which toxic substance type can be smeared onto an object and stays dangerous until touched or washed?"}

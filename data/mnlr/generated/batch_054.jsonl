@@ -1,0 +1,77 @@
+{"passage_id": "754-0", "question_type": "lookup", "anchor": "For reaction spell casting times, what determines the trigger that causes the spell to be cast?"}
+{"passage_id": "754-0", "question_type": "paraphrase", "anchor": "Can some spells with a Bonus Action casting time also be triggered by a specific event like Reaction spells?"}
+{"passage_id": "754-0", "question_type": "descriptive", "anchor": "What part of a spell's entry says what event lets you cast it in response?"}
+{"passage_id": "1308-0", "question_type": "lookup", "anchor": "In frigid water, how many minutes can a creature endure before ill effects begin?"}
+{"passage_id": "1308-0", "question_type": "paraphrase", "anchor": "If my character resists cold damage, do I still need to roll saves when in frigid water?"}
+{"passage_id": "1308-0", "question_type": "descriptive", "anchor": "What is the save DC and exhaustion penalty for each extra minute spent in icy cold water?"}
+{"passage_id": "1210-0", "question_type": "lookup", "anchor": "What does it mean when a creature has the Indifferent attitude toward you?"}
+{"passage_id": "1210-0", "question_type": "paraphrase", "anchor": "Is Indifferent the default attitude a monster starts with toward characters?"}
+{"passage_id": "1210-0", "question_type": "descriptive", "anchor": "What attitude describes a creature that feels no pull to assist you or to get in your way?"}
+{"passage_id": "769-0", "question_type": "lookup", "anchor": "How far away can I create the acidic bubble with Acid Splash?"}
+{"passage_id": "769-0", "question_type": "paraphrase", "anchor": "At level 11, how many dice of acid damage does Acid Splash deal when a target fails its save?"}
+{"passage_id": "769-0", "question_type": "descriptive", "anchor": "What cantrip bursts an acidic bubble in a small sphere that catches creatures who fail a Dexterity save?"}
+{"passage_id": "1510-0", "question_type": "lookup", "anchor": "How far does the Mace of Terror's wave of terror reach from me?"}
+{"passage_id": "1510-0", "question_type": "paraphrase", "anchor": "After I've used all of the Mace of Terror's charges, how many does it get back at dawn?"}
+{"passage_id": "1510-0", "question_type": "descriptive", "anchor": "What magic weapon mace can frighten several nearby creatures, forcing them to flee from the wielder?"}
+{"passage_id": "1009-0", "question_type": "lookup", "anchor": "In the Plant Growth spell's Overgrowth effect, how much movement does a creature spend for each foot it moves?"}
+{"passage_id": "1009-0", "question_type": "paraphrase", "anchor": "If I spend 8 hours casting Plant Growth, how long do the plants stay enriched afterward?"}
+{"passage_id": "1009-0", "question_type": "descriptive", "anchor": "What level 3 spell makes a huge area of normal plants thick and overgrown, slowing creatures that walk through it?"}
+{"passage_id": "379-0", "question_type": "lookup", "anchor": "At which Rogue levels do I get the Ability Score Improvement feature again after level 4?"}
+{"passage_id": "379-0", "question_type": "paraphrase", "anchor": "As a Rogue, can I pick a feat I qualify for instead of the Ability Score Improvement at level 4?"}
+{"passage_id": "379-0", "question_type": "descriptive", "anchor": "What Rogue feature at level 4 lets me pick a feat or put points into my ability scores?"}
+{"passage_id": "1466-0", "question_type": "lookup", "anchor": "What damage type does an arrow fired from the Energy Bow deal on a hit?"}
+{"passage_id": "1466-0", "question_type": "paraphrase", "anchor": "If I hit someone with an Energy Bow restraint arrow, what Strength DC must they beat to break free?"}
+{"passage_id": "1466-0", "question_type": "descriptive", "anchor": "What magic bow fires golden energy arrows that can teleport a willing creature or small object to a nearby space?"}
+{"passage_id": "1336-0", "question_type": "lookup", "anchor": "What happens to a game when an adventure includes too many traps for players?"}
+{"passage_id": "1336-0", "question_type": "paraphrase", "anchor": "Are traps that players can never detect or escape from a good idea for my table?"}
+{"passage_id": "1336-0", "question_type": "descriptive", "anchor": "Which kind of trap works best for a quick distraction or a puzzle that needs fast thinking and teamwork?"}
+{"passage_id": "1601-0", "question_type": "lookup", "anchor": "What resistance does the Shield of Missile Attraction give while I'm holding it?"}
+{"passage_id": "1601-0", "question_type": "paraphrase", "anchor": "If I stop holding the Shield of Missile Attraction, does the curse on me end?"}
+{"passage_id": "1601-0", "question_type": "descriptive", "anchor": "Which cursed shield makes ranged attacks aimed at creatures near me strike me instead?"}
+{"passage_id": "235-0", "question_type": "lookup", "anchor": "For the Druid Subclass feature, which subclass is detailed after the class description?"}
+{"passage_id": "235-0", "question_type": "paraphrase", "anchor": "Once I pick my Druid subclass, do I get its features that are at my Druid level or lower?"}
+{"passage_id": "235-0", "question_type": "descriptive", "anchor": "At which Druid level do I pick a specialization that grants extra class features?"}
+{"passage_id": "2510-1", "question_type": "lookup", "anchor": "What Constitution save DC does the Vampire Spawn's Bite require?"}
+{"passage_id": "2510-1", "question_type": "paraphrase", "anchor": "When a Vampire Spawn bites me, does its necrotic damage reduce my maximum hit points?"}
+{"passage_id": "2510-1", "question_type": "descriptive", "anchor": "Which undead bloodsucker's bite can only target a creature that is willing or is grappled, incapacitated, or restrained?"}
+{"passage_id": "499-0", "question_type": "lookup", "anchor": "What modifier does Empowered Evocation let me add to a damage roll?"}
+{"passage_id": "499-0", "question_type": "paraphrase", "anchor": "Can Empowered Evocation add my Intelligence bonus to every damage roll of an evocation spell, or just one?"}
+{"passage_id": "499-0", "question_type": "descriptive", "anchor": "Which Evoker feature, gained at level 10, adds my mental ability to one damage roll?"}
+{"passage_id": "2225-0", "question_type": "lookup", "anchor": "What is the Merfolk Skirmisher's swimming speed?"}
+{"passage_id": "2225-0", "question_type": "paraphrase", "anchor": "If a Merfolk Skirmisher's spear hits me, how much does my speed drop, and until when?"}
+{"passage_id": "2225-0", "question_type": "descriptive", "anchor": "What water creature's spear magically returns to its hand right after it is thrown?"}
+{"passage_id": "2225-0", "question_type": "table", "anchor": "What does a Merfolk Skirmisher add to Wisdom saves?"}
+{"passage_id": "1806-1", "question_type": "lookup", "anchor": "How many Legendary Action uses does an Adult Brass Dragon have outside its lair?"}
+{"passage_id": "1806-1", "question_type": "paraphrase", "anchor": "Within what range can an Adult Brass Dragon's Scorching Sands affect a creature it can see?"}
+{"passage_id": "1806-1", "question_type": "descriptive", "anchor": "What legendary action lets a dragon deal 6d8 fire damage and halve a target's speed within 120 feet?"}
+{"passage_id": "128-1", "question_type": "lookup", "anchor": "When my Constitution modifier rises by 1 at a level-up, how much does my Hit Point maximum increase?"}
+{"passage_id": "128-1", "question_type": "paraphrase", "anchor": "After gaining a level, which sheet numbers do I update if my Proficiency Bonus rises?"}
+{"passage_id": "128-1", "question_type": "descriptive", "anchor": "If a feat raises my ability score to an even number, which sheet numbers change?"}
+{"passage_id": "287-0", "question_type": "lookup", "anchor": "With Deflect Attacks, how far away can I redirect a ranged attack's force to another creature?"}
+{"passage_id": "287-0", "question_type": "paraphrase", "anchor": "If my Deflect Attacks reduces a hit to 0 damage, what does redirecting the attack cost me?"}
+{"passage_id": "287-0", "question_type": "descriptive", "anchor": "What Monk feature uses a Reaction to shrink an incoming attack's damage by 1d10 plus my Dexterity modifier and Monk level?"}
+{"passage_id": "449-0", "question_type": "lookup", "anchor": "Advantage from the Eldritch Mind invocation applies to which saving throw?"}
+{"passage_id": "449-0", "question_type": "paraphrase", "anchor": "Which class can take the Eldritch Mind option?"}
+{"passage_id": "449-0", "question_type": "descriptive", "anchor": "What Warlock invocation gives an edge on saves to keep a concentration spell going?"}
+{"passage_id": "1590-2", "question_type": "lookup", "anchor": "What Wisdom save DC does the Rod of Lordly Might's Terrify property require?"}
+{"passage_id": "1590-2", "question_type": "paraphrase", "anchor": "If I use the Rod of Lordly Might's paralysis on a foe, when can I use that power again?"}
+{"passage_id": "1590-2", "question_type": "descriptive", "anchor": "What magic rod can freeze a creature I hit in melee in place, or scare every creature I can see nearby?"}
+{"passage_id": "210-0", "question_type": "lookup", "anchor": "Which Cleric Subclass is detailed after the class description?"}
+{"passage_id": "210-0", "question_type": "paraphrase", "anchor": "Once I pick a Cleric Subclass, do its features keep coming as I level up?"}
+{"passage_id": "210-0", "question_type": "descriptive", "anchor": "What's the level at which a Cleric picks a specialization that adds features?"}
+{"passage_id": "1627-0", "question_type": "lookup", "anchor": "What advantage does the Talisman of the Sphere give on Arcana checks to control a Sphere of Annihilation?"}
+{"passage_id": "1627-0", "question_type": "paraphrase", "anchor": "How far can I push a Sphere of Annihilation with the Talisman of the Sphere if my Intelligence modifier is +3?"}
+{"passage_id": "1627-0", "question_type": "descriptive", "anchor": "What magical charm helps me steer a dangerous void sphere around the battlefield, with an edge on Arcana checks?"}
+{"passage_id": "1397-0", "question_type": "lookup", "anchor": "What Constitution score does the Amulet of Health set while I wear it?"}
+{"passage_id": "1397-0", "question_type": "paraphrase", "anchor": "If my Constitution is already 19 without the Amulet of Health, does wearing it change anything?"}
+{"passage_id": "1397-0", "question_type": "descriptive", "anchor": "What magic wearable raises my toughness score to 19 while I have it on?"}
+{"passage_id": "1462-0", "question_type": "lookup", "anchor": "How far from me does an Efreeti appear when I open the Efreeti Bottle?"}
+{"passage_id": "1462-0", "question_type": "paraphrase", "anchor": "When I uncork the Efreeti Bottle, what happens to the smoke that comes out?"}
+{"passage_id": "1462-0", "question_type": "descriptive", "anchor": "What painted brass bottle releases a fire creature near me when its stopper is pulled out?"}
+{"passage_id": "473-0", "question_type": "lookup", "anchor": "For the Fiend Patron Warlock subclass, what kinds of beings can serve as the patron?"}
+{"passage_id": "473-0", "question_type": "paraphrase", "anchor": "With the Fiend Patron subclass, are my patron's goals good or evil?"}
+{"passage_id": "473-0", "question_type": "descriptive", "anchor": "What Warlock pact draws power from the Lower Planes and aims to corrupt or destroy all things?"}
+{"passage_id": "1427-0", "question_type": "lookup", "anchor": "How long does the Candle of Invocation burn before it is destroyed?"}
+{"passage_id": "1427-0", "question_type": "paraphrase", "anchor": "Can a Cleric or Druid standing in the Candle of Invocation's light cast prepared level 1 spells without slots?"}
+{"passage_id": "1427-0", "question_type": "descriptive", "anchor": "What magic candle can open a portal to an Outer Plane the first time it is lit, destroying itself?"}
+{"passage_id": "1427-0", "question_type": "table", "anchor": "On the Candle of Invocation's 1d100 Outer Plane table, which plane is in the 91-95 row?"}

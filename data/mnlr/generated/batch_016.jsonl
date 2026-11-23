@@ -1,0 +1,76 @@
+{"passage_id": "579-0", "question_type": "lookup", "anchor": "If I hit a creature with a weapon mastery that grants advantage on my next attack, until when does that advantage last?"}
+{"passage_id": "579-0", "question_type": "paraphrase", "anchor": "Does a weapon mastery need me to actually deal damage before it gives me an edge on my next swing?"}
+{"passage_id": "579-0", "question_type": "descriptive", "anchor": "Which weapon property gives me advantage on my next attack against a creature I wounded, lasting until the end of my next turn?"}
+{"passage_id": "611-0", "question_type": "lookup", "anchor": "How much does a Herbalism Kit weigh, in pounds?"}
+{"passage_id": "611-0", "question_type": "paraphrase", "anchor": "Which ability do I roll when using an Herbalism Kit to identify a plant?"}
+{"passage_id": "611-0", "question_type": "descriptive", "anchor": "Which tool kit lets me identify a plant and craft antitoxin or a Potion of Healing?"}
+{"passage_id": "605-0", "question_type": "lookup", "anchor": "How much does a set of Weaver's Tools weigh?"}
+{"passage_id": "605-0", "question_type": "paraphrase", "anchor": "Which ability score rules the checks I make with Weaver's Tools to sew or mend clothing?"}
+{"passage_id": "605-0", "question_type": "descriptive", "anchor": "Which artisan's tool set lets me mend a torn shirt or sew a tiny design?"}
+{"passage_id": "343-1", "question_type": "table", "anchor": "How many spells can a Ranger have prepared at level 4?"}
+{"passage_id": "343-1", "question_type": "lookup", "anchor": "At which Ranger level do I first gain Spellcasting?"}
+{"passage_id": "343-1", "question_type": "paraphrase", "anchor": "How many first-level spell slots does a Ranger with spellcasting get at character level 3?"}
+{"passage_id": "343-1", "question_type": "descriptive", "anchor": "Which wilderness-focused class starts casting spells at level 1 and gets the Favored Enemy feature right away?"}
+{"passage_id": "160-0", "question_type": "lookup", "anchor": "With Primal Knowledge, which five skills can use Strength checks while I'm raging?"}
+{"passage_id": "160-0", "question_type": "paraphrase", "anchor": "As a Barbarian with Primal Knowledge, do I get an extra skill proficiency at level 3?"}
+{"passage_id": "160-0", "question_type": "descriptive", "anchor": "Which Barbarian feature at level 3 lets me use Strength for Survival or Stealth checks while in my rage?"}
+{"passage_id": "1978-0", "question_type": "table", "anchor": "How much does a Frost Giant add to Constitution saves?"}
+{"passage_id": "1978-0", "question_type": "lookup", "anchor": "Which damage type is a Frost Giant immune to?"}
+{"passage_id": "1978-0", "question_type": "paraphrase", "anchor": "How fast can a Frost Giant move across the ground on its turn?"}
+{"passage_id": "1978-0", "question_type": "descriptive", "anchor": "Which cold-immune giant's bow attack slows the target's Speed by 10 feet?"}
+{"passage_id": "383-0", "question_type": "lookup", "anchor": "Under Reliable Talent, what does a d20 roll of 9 or lower become on a proficient check?"}
+{"passage_id": "383-0", "question_type": "paraphrase", "anchor": "Does Reliable Talent work on checks where I'm not proficient in the skill?"}
+{"passage_id": "383-0", "question_type": "descriptive", "anchor": "At what class level does a rogue get a feature that lets low dice rolls on proficient skills count as 10?"}
+{"passage_id": "1684-0", "question_type": "lookup", "anchor": "Can I use both the number and the dice expression for a monster's damage?"}
+{"passage_id": "1684-0", "question_type": "paraphrase", "anchor": "Who decides whether the damage number or the dice in parentheses gets used in a stat block?"}
+{"passage_id": "1684-0", "question_type": "descriptive", "anchor": "When a monster's attack shows a number and then a dice formula in brackets, which one do I use for damage?"}
+{"passage_id": "165-0", "question_type": "lookup", "anchor": "How far can I move with Instinctive Pounce when I take the Bonus Action to enter my Rage?"}
+{"passage_id": "165-0", "question_type": "paraphrase", "anchor": "Which action do I need to spend to get the Instinctive Pounce movement when I start raging?"}
+{"passage_id": "165-0", "question_type": "descriptive", "anchor": "At what Barbarian level can I scoot a chunk of my speed while I'm starting to get angry in battle?"}
+{"passage_id": "439-0", "question_type": "lookup", "anchor": "With Contact Patron, how often can I cast Contact Other Plane without a spell slot?"}
+{"passage_id": "439-0", "question_type": "paraphrase", "anchor": "When I use Contact Patron to reach my patron, do I still have to roll the spell's save?"}
+{"passage_id": "439-0", "question_type": "descriptive", "anchor": "Which warlock feature at level 9 lets me reach out to my patron directly, without a spell slot?"}
+{"passage_id": "2795-0", "question_type": "table", "anchor": "Is a Goat's Charisma modifier lower than -2?"}
+{"passage_id": "2795-0", "question_type": "lookup", "anchor": "What Challenge Rating does a Goat have?"}
+{"passage_id": "2795-0", "question_type": "paraphrase", "anchor": "How far can a Goat climb on its turn?"}
+{"passage_id": "2795-0", "question_type": "descriptive", "anchor": "Which beast with a ram attack and darkvision 60 feet has only 4 hit points?"}
+{"passage_id": "2470-1", "question_type": "lookup", "anchor": "Can a Succubus's Fly Speed be used while it is shape-shifted into a humanoid form?"}
+{"passage_id": "2470-1", "question_type": "paraphrase", "anchor": "Does a Succubus's gear change along with its appearance when it takes a humanoid shape?"}
+{"passage_id": "2470-1", "question_type": "descriptive", "anchor": "Which creature shape-shifts into a Small or Medium humanoid and loses its Fly Speed in that form?"}
+{"passage_id": "1918-1", "question_type": "lookup", "anchor": "What spell save DC does a Djinni use when it casts its spells?"}
+{"passage_id": "1918-1", "question_type": "paraphrase", "anchor": "How far away can a Djinni hit me with its Storm Bolt attack?"}
+{"passage_id": "1918-1", "question_type": "descriptive", "anchor": "Which wind spirit can conjure a whirlwind that restrains anyone who fails a Strength save inside it?"}
+{"passage_id": "1192-0", "question_type": "lookup", "anchor": "While I have the Frightened condition, what do I have Disadvantage on?"}
+{"passage_id": "1192-0", "question_type": "paraphrase", "anchor": "If I'm Frightened, can I willingly step closer to the thing scaring me?"}
+{"passage_id": "1192-0", "question_type": "descriptive", "anchor": "What status effect makes me unable to approach the monster that scares me and gives me Disadvantage on attacks?"}
+{"passage_id": "547-0", "question_type": "lookup", "anchor": "With Boon of Combat Prowess, what happens when I miss an attack roll?"}
+{"passage_id": "547-0", "question_type": "paraphrase", "anchor": "How high does my character level need to be before I can pick Boon of Combat Prowess?"}
+{"passage_id": "547-0", "question_type": "descriptive", "anchor": "Which epic feat lets me raise any one ability score by 1, up to 30, and turn a miss into a hit?"}
+{"passage_id": "1398-0", "question_type": "lookup", "anchor": "Can the Amulet of Proof against Detection and Location be targeted by Divination spells while I wear it?"}
+{"passage_id": "1398-0", "question_type": "paraphrase", "anchor": "Do I need to bond with the Amulet of Proof against Detection and Location before it works?"}
+{"passage_id": "1398-0", "question_type": "descriptive", "anchor": "Which uncommon magic necklace stops divination spells and scrying sensors from perceiving its wearer unless the wearer allows it?"}
+{"passage_id": "1216-0", "question_type": "lookup", "anchor": "Wisdom (Perception) checks to spot something in a lightly obscured area carry what penalty?"}
+{"passage_id": "1216-0", "question_type": "paraphrase", "anchor": "If a space is only lightly obscured, where should I look for the rules on dim light?"}
+{"passage_id": "1216-0", "question_type": "descriptive", "anchor": "What makes it harder to notice a creature in a murky area you can barely make out?"}
+{"passage_id": "481-5", "question_type": "table", "anchor": "How many prepared spells does a Wizard have at level 14?"}
+{"passage_id": "481-5", "question_type": "lookup", "anchor": "At which of levels 13 to 15 does a Wizard get a subclass feature?"}
+{"passage_id": "481-5", "question_type": "paraphrase", "anchor": "How many cantrips can a Wizard know at level 13?"}
+{"passage_id": "481-5", "question_type": "descriptive", "anchor": "Which wizard level gives 1 eighth-level spell slot along with 19 prepared spells?"}
+{"passage_id": "1618-0", "question_type": "lookup", "anchor": "How much Lightning damage does a Staff of Thunder and Lightning's Lightning Strike deal on a failed save?"}
+{"passage_id": "1618-0", "question_type": "paraphrase", "anchor": "When does the Staff of Thunder and Lightning's special powers recharge after I use one?"}
+{"passage_id": "1618-0", "question_type": "descriptive", "anchor": "Which magic staff can stun a creature I hit with a melee attack with a crack of thunder that is heard 300 feet away?"}
+{"passage_id": "1307-0", "question_type": "lookup", "anchor": "What is the Constitution save DC in the first hour of extreme heat without drinkable water?"}
+{"passage_id": "1307-0", "question_type": "paraphrase", "anchor": "If I'm wearing heavy armor in scorching weather without water, do I roll my heat save at a penalty?"}
+{"passage_id": "1307-0", "question_type": "descriptive", "anchor": "What happens if I'm in 100-degree heat with no drinkable water and fail my hourly save?"}
+{"passage_id": "1629-0", "question_type": "lookup", "anchor": "What minimum Strength does a Thunderous Greatclub give me while I'm attuned to it?"}
+{"passage_id": "1629-0", "question_type": "paraphrase", "anchor": "Do foes in a 30-foot cone fall prone if I smash my Thunderous Greatclub on a hard surface?"}
+{"passage_id": "1629-0", "question_type": "descriptive", "anchor": "Which magic club makes a thunderous clap in a 30-foot cone, forcing a Strength save or leaving foes prone?"}
+{"passage_id": "1668-0", "question_type": "lookup", "anchor": "How is a monster's skill bonus calculated in a stat block?"}
+{"passage_id": "1668-0", "question_type": "paraphrase", "anchor": "Which ability modifier does a monster's Stealth bonus start from, besides its proficiency bonus?"}
+{"passage_id": "1668-0", "question_type": "descriptive", "anchor": "Can a monster's bonus on checks involving stealth or perception include anything beyond its ability modifier and proficiency bonus?"}
+{"passage_id": "381-0", "question_type": "lookup", "anchor": "When does Uncanny Dodge let me halve incoming damage with a Reaction?"}
+{"passage_id": "381-0", "question_type": "paraphrase", "anchor": "Which Rogue level gets me the Uncanny Dodge feature?"}
+{"passage_id": "381-0", "question_type": "descriptive", "anchor": "What rogue ability lets me cut a hit's damage in half, rounded down, if I can see the attacker?"}
+{"passage_id": "1566-0", "question_type": "lookup", "anchor": "Does Difficult Terrain cost me extra movement while I wear the Ring of Free Action?"}
+{"passage_id": "1566-0", "question_type": "paraphrase", "anchor": "Can magic slow my Speed or leave me Paralyzed or Restrained while I wear the Ring of Free Action?"}
+{"passage_id": "1566-0", "question_type": "descriptive", "anchor": "Which magic ring lets me cross rough, cluttered ground without losing movement and keeps magic from paralyzing or restraining me?"}

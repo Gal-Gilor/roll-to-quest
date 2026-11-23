@@ -1,0 +1,78 @@
+{"passage_id": "7-0", "question_type": "lookup", "anchor": "What are ability checks named after in D&D 5E?"}
+{"passage_id": "7-0", "question_type": "paraphrase", "anchor": "When I make ability checks, does the situation decide which stat I roll with?"}
+{"passage_id": "7-0", "question_type": "descriptive", "anchor": "I keep hearing rolls named after a stat, like a Dexterity roll. How do those get their names?"}
+{"passage_id": "7-0", "question_type": "table", "anchor": "In the ability check examples, what does a Charisma check let me do?"}
+{"passage_id": "1182-0", "question_type": "lookup", "anchor": "Is the origin point of a radiating area of effect included in that area by default?"}
+{"passage_id": "1182-0", "question_type": "paraphrase", "anchor": "Does a radiating area of effect follow its creature when it moves, unless the effect is instantaneous or stationary?"}
+{"passage_id": "1182-0", "question_type": "descriptive", "anchor": "What kind of area of effect spreads in straight lines in every direction from a creature or object?"}
+{"passage_id": "1767-1", "question_type": "lookup", "anchor": "How many legendary action uses does an Adult Black Dragon have outside its lair?"}
+{"passage_id": "1767-1", "question_type": "paraphrase", "anchor": "How does an Adult Black Dragon get creatures scared of it, and which spell does that use?"}
+{"passage_id": "1767-1", "question_type": "descriptive", "anchor": "Which legendary dragon action sends a swarm of insects at a creature within 120 feet and makes it harder to keep concentrating?"}
+{"passage_id": "1892-0", "question_type": "lookup", "anchor": "Which damage types does a Couatl have resistance to?"}
+{"passage_id": "1892-0", "question_type": "paraphrase", "anchor": "If a Couatl bites me, how long am I stuck feeling poisoned?"}
+{"passage_id": "1892-0", "question_type": "descriptive", "anchor": "Is there a lawful good celestial creature whose thoughts can't be read by any means?"}
+{"passage_id": "1892-0", "question_type": "table", "anchor": "How charming is a Couatl, as an ability score?"}
+{"passage_id": "1875-0", "question_type": "lookup", "anchor": "How many hit points does a Commoner have?"}
+{"passage_id": "1875-0", "question_type": "paraphrase", "anchor": "If a Commoner tries to hit me with its club, how much damage would it do on a hit?"}
+{"passage_id": "1875-0", "question_type": "descriptive", "anchor": "Which neutral humanoid with challenge rating 0 has Advantage on checks using one trained skill?"}
+{"passage_id": "1875-0", "question_type": "table", "anchor": "What does a Commoner add to Constitution saving throws?"}
+{"passage_id": "13-0", "question_type": "lookup", "anchor": "Which two things set the DC of a saving throw caused by a spell?"}
+{"passage_id": "13-0", "question_type": "paraphrase", "anchor": "If a monster makes me roll a save, where does the number I need to beat come from?"}
+{"passage_id": "13-0", "question_type": "descriptive", "anchor": "Who decides the target number when a saving throw isn't tied to a spell or monster ability?"}
+{"passage_id": "736-0", "question_type": "lookup", "anchor": "How much raw material does brewing a healing potion cost in gold?"}
+{"passage_id": "736-0", "question_type": "paraphrase", "anchor": "What kit do I need to know how to use if I want to whip up healing potions?"}
+{"passage_id": "736-0", "question_type": "descriptive", "anchor": "How long does it take to make a magic potion that restores health with a herbalism kit?"}
+{"passage_id": "2101-0", "question_type": "lookup", "anchor": "How fast is a Hell Hound's walking speed?"}
+{"passage_id": "2101-0", "question_type": "paraphrase", "anchor": "When a Hell Hound breathes fire and I make my save, how much damage do I still take?"}
+{"passage_id": "2101-0", "question_type": "descriptive", "anchor": "Which fire-immune fiend gets a fire breath attack that recharges, and bites with fire too?"}
+{"passage_id": "2101-0", "question_type": "table", "anchor": "How wise is a Hell Hound, as an ability score?"}
+{"passage_id": "1000-0", "question_type": "lookup", "anchor": "How long does the Nondetection spell last once cast?"}
+{"passage_id": "1000-0", "question_type": "paraphrase", "anchor": "Can Nondetection hide a whole room or a huge statue from magic detection?"}
+{"passage_id": "1000-0", "question_type": "descriptive", "anchor": "What spell lets a wizard hide a willing ally from divination and scrying for eight hours?"}
+{"passage_id": "2641-0", "question_type": "lookup", "anchor": "What is the climbing speed of a Brown Bear?"}
+{"passage_id": "2641-0", "question_type": "paraphrase", "anchor": "Can a Brown Bear's claw attack knock me flat, if I'm not too big?"}
+{"passage_id": "2641-0", "question_type": "descriptive", "anchor": "Which large unaligned beast can climb at 30 feet and has darkvision out to 60 feet?"}
+{"passage_id": "2641-0", "question_type": "table", "anchor": "How smart is a Brown Bear, as an ability score?"}
+{"passage_id": "727-0", "question_type": "lookup", "anchor": "How many magic items can I attune to at one time?"}
+{"passage_id": "727-0", "question_type": "paraphrase", "anchor": "If I already have three items attuned, what happens when I try to attune a fourth?"}
+{"passage_id": "727-0", "question_type": "descriptive", "anchor": "Can I attune to two identical copies of the same magic ring at once?"}
+{"passage_id": "1313-0", "question_type": "lookup", "anchor": "What weight tolerance applies to each 10-foot square of thin ice?"}
+{"passage_id": "1313-0", "question_type": "paraphrase", "anchor": "When the ice cracks under our group, do all of us on that patch end up in the freezing water?"}
+{"passage_id": "1313-0", "question_type": "descriptive", "anchor": "Would a frozen surface crack and dump everyone into cold water if too many people stood on it?"}
+{"passage_id": "1334-0", "question_type": "lookup", "anchor": "What Constitution save DC does the truth serum poison use?"}
+{"passage_id": "1334-0", "question_type": "paraphrase", "anchor": "If I get dosed with truth serum and fail the save, how long am I unable to tell lies?"}
+{"passage_id": "1334-0", "question_type": "descriptive", "anchor": "What ingested poison forces a victim to tell only the truth if they fail a Constitution save?"}
+{"passage_id": "46-0", "question_type": "lookup", "anchor": "How many free object interactions do I get per turn in combat?"}
+{"passage_id": "46-0", "question_type": "paraphrase", "anchor": "During a fight, if I want to open two doors in one turn, what do I need for the extra one?"}
+{"passage_id": "46-0", "question_type": "descriptive", "anchor": "During a fight, when must my one free use of a door, chest, or lever happen?"}
+{"passage_id": "392-0", "question_type": "lookup", "anchor": "What Climb Speed does the Thief's Second-Story Work feature grant?"}
+{"passage_id": "392-0", "question_type": "paraphrase", "anchor": "Does Second-Story Work let a thief rogue use Dexterity instead of Strength for jumps?"}
+{"passage_id": "392-0", "question_type": "descriptive", "anchor": "Which thief rogue feature at level 3 lets me climb as fast as I walk and jump using my agility?"}
+{"passage_id": "1183-0", "question_type": "lookup", "anchor": "Where in Playing the Game can I read more about encounters' social, exploration, and combat parts?"}
+{"passage_id": "1183-0", "question_type": "paraphrase", "anchor": "If a scene in my game involves talking my way past a guard, does it count as an encounter?"}
+{"passage_id": "1183-0", "question_type": "descriptive", "anchor": "What term describes a scene of an adventure that falls under social interaction, exploration, or combat?"}
+{"passage_id": "101-0", "question_type": "lookup", "anchor": "When I take damage while I have temporary hit points, which pool loses points first?"}
+{"passage_id": "101-0", "question_type": "paraphrase", "anchor": "If a monster's hit goes past my temporary health, does the leftover damage hit my normal health?"}
+{"passage_id": "101-0", "question_type": "descriptive", "anchor": "If I have 5 extra health and take 7 damage, how many of my normal hit points do I lose?"}
+{"passage_id": "1644-0", "question_type": "lookup", "anchor": "How many charges does a Wand of Paralysis have when new?"}
+{"passage_id": "1644-0", "question_type": "paraphrase", "anchor": "If I use the last charge on my Wand of Paralysis, what's the chance it breaks?"}
+{"passage_id": "1644-0", "question_type": "descriptive", "anchor": "What magic stick fires a thin blue ray that can paralyze a creature for a minute?"}
+{"passage_id": "248-0", "question_type": "lookup", "anchor": "What condition does Nature's Ward make a Circle of the Land druid immune to?"}
+{"passage_id": "248-0", "question_type": "paraphrase", "anchor": "Does the damage resistance from Nature's Ward change depending on the land I chose?"}
+{"passage_id": "248-0", "question_type": "descriptive", "anchor": "Which land-circle druid feature at level 10 shields me against poison and a land-based damage type?"}
+{"passage_id": "248-0", "question_type": "table", "anchor": "At level 10 as a Circle of the Land druid, what resistance comes with a Polar land?"}
+{"passage_id": "537-0", "question_type": "lookup", "anchor": "How many skills or tools does the Skilled feat give me proficiency in?"}
+{"passage_id": "537-0", "question_type": "paraphrase", "anchor": "Can I take the Skilled feat more than once to get extra skill proficiencies?"}
+{"passage_id": "537-0", "question_type": "descriptive", "anchor": "What origin feat lets me pick my own skills or tools for proficiency?"}
+{"passage_id": "835-0", "question_type": "lookup", "anchor": "How far away can I cast Control Water?"}
+{"passage_id": "835-0", "question_type": "paraphrase", "anchor": "With Control Water, how high can I make standing water rise with the flood option?"}
+{"passage_id": "835-0", "question_type": "descriptive", "anchor": "Which level 4 spell lets me split a river in two, leaving a dry trench between walls of water?"}
+{"passage_id": "1500-0", "question_type": "lookup", "anchor": "How much weight can an Immovable Rod hold while it's fixed in place?"}
+{"passage_id": "1500-0", "question_type": "paraphrase", "anchor": "How hard an Athletics roll would I need to slide a locked Immovable Rod along?"}
+{"passage_id": "1500-0", "question_type": "descriptive", "anchor": "What iron pole can be pressed to lock itself in place, even when floating in midair?"}
+{"passage_id": "935-0", "question_type": "lookup", "anchor": "How many dice of Necrotic damage does Harm deal on a failed save?"}
+{"passage_id": "935-0", "question_type": "paraphrase", "anchor": "Can Harm knock a creature's maximum health down, and is there a floor on how low it goes?"}
+{"passage_id": "935-0", "question_type": "descriptive", "anchor": "Which 6th-level cleric spell can hit a creature I can see within 60 feet with necrotic magic?"}
+{"passage_id": "1624-0", "question_type": "lookup", "anchor": "What happens to my weapon dice when I hit an object with a Sword of Sharpness?"}
+{"passage_id": "1624-0", "question_type": "paraphrase", "anchor": "If I roll a 20 with a Sword of Sharpness, how much extra slashing damage do I deal?"}
+{"passage_id": "1624-0", "question_type": "descriptive", "anchor": "Which very rare magic weapon maximizes its damage dice when I hit an object?"}

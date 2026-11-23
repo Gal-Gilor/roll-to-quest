@@ -1,0 +1,83 @@
+{"passage_id": "412-0", "question_type": "lookup", "anchor": "How many Sorcery Points does Careful Spell cost to use on a spell?"}
+{"passage_id": "412-0", "question_type": "paraphrase", "anchor": "With Careful Spell, how many of my allies can I protect from a spell, and what limits that number?"}
+{"passage_id": "412-0", "question_type": "descriptive", "anchor": "What metamagic option lets me protect some creatures from a spell so they automatically pass its saving throw?"}
+{"passage_id": "468-0", "question_type": "lookup", "anchor": "What level must a Warlock reach before taking Thirsting Blade?"}
+{"passage_id": "468-0", "question_type": "paraphrase", "anchor": "Does Thirsting Blade let me attack twice with every weapon I carry, or only my pact weapon?"}
+{"passage_id": "468-0", "question_type": "descriptive", "anchor": "Which warlock invocation gives me a second swing each time I take the Attack action with my pact blade?"}
+{"passage_id": "1954-0", "question_type": "lookup", "anchor": "What is the Armor Class of an Erinyes?"}
+{"passage_id": "1954-0", "question_type": "paraphrase", "anchor": "If an Erinyes makes a saving throw against a spell, does it have an edge on that roll?"}
+{"passage_id": "1954-0", "question_type": "descriptive", "anchor": "Which devil can revive with full health in the Nine Hells after being destroyed elsewhere?"}
+{"passage_id": "1954-0", "question_type": "table", "anchor": "What does an Erinyes add to Charisma saving throws?"}
+{"passage_id": "223-0", "question_type": "lookup", "anchor": "With Blessed Healer, how many Hit Points do I regain after healing someone else?"}
+{"passage_id": "223-0", "question_type": "paraphrase", "anchor": "With Blessed Healer, do I get some of my own health back when my spells heal allies?"}
+{"passage_id": "223-0", "question_type": "descriptive", "anchor": "What Life Domain cleric feature at level 6 is about healing spells I cast on others?"}
+{"passage_id": "1597-0", "question_type": "lookup", "anchor": "What bonus does the Scimitar of Speed give to attack rolls and damage rolls?"}
+{"passage_id": "1597-0", "question_type": "paraphrase", "anchor": "Do I have to attune to Scimitar of Speed before I can get its bonuses?"}
+{"passage_id": "1597-0", "question_type": "descriptive", "anchor": "What very rare magic blade lets me make an extra attack as a Bonus Action every turn?"}
+{"passage_id": "1605-0", "question_type": "lookup", "anchor": "What happens to spell attack rolls made against me while I hold the Spellguard Shield?"}
+{"passage_id": "1605-0", "question_type": "paraphrase", "anchor": "Do I need to attune to Spellguard Shield before its effects start working?"}
+{"passage_id": "1605-0", "question_type": "descriptive", "anchor": "Which very rare shield gives me an edge on saves against spells and other magical effects?"}
+{"passage_id": "181-19", "question_type": "lookup", "anchor": "When starting as a Bard, which table lists my level 1 features?"}
+{"passage_id": "181-19", "question_type": "paraphrase", "anchor": "How high does a Bard's proficiency bonus climb by level 20?"}
+{"passage_id": "181-19", "question_type": "table", "anchor": "How many cantrips does a Bard know at level 20?"}
+{"passage_id": "181-19", "question_type": "descriptive", "anchor": "What Bard class feature unlocks at character level 20 alongside a twelve-sided Bardic Die?"}
+{"passage_id": "1007-0", "question_type": "lookup", "anchor": "How long does the casting of Planar Binding take?"}
+{"passage_id": "1007-0", "question_type": "paraphrase", "anchor": "If I cast Planar Binding with a level 7 slot, how long does the bond last?"}
+{"passage_id": "1007-0", "question_type": "descriptive", "anchor": "What spell lets a caster force a celestial, elemental, fey, or fiend into serving them, using a costly gem that gets used up?"}
+{"passage_id": "804-0", "question_type": "lookup", "anchor": "Does Blur require concentration, and how long can it last?"}
+{"passage_id": "804-0", "question_type": "paraphrase", "anchor": "Does Blur still make a foe's attacks harder if it can see me with Blindsight?"}
+{"passage_id": "804-0", "question_type": "descriptive", "anchor": "What second-level illusion makes my body look fuzzy so enemies have trouble hitting me, lasting up to a minute?"}
+{"passage_id": "2081-0", "question_type": "lookup", "anchor": "What is the range of a Grimlock's Blindsight?"}
+{"passage_id": "2081-0", "question_type": "paraphrase", "anchor": "Does a Grimlock's Bone Cudgel also hurt my mind when it lands?"}
+{"passage_id": "2081-0", "question_type": "descriptive", "anchor": "Which medium aberration hits with a bone club and senses nearby creatures with blindsight out to 30 feet?"}
+{"passage_id": "2081-0", "question_type": "table", "anchor": "How strong is a Grimlock, as its Strength ability score?"}
+{"passage_id": "75-0", "question_type": "lookup", "anchor": "How much movement does mounting a creature cost during my move?"}
+{"passage_id": "75-0", "question_type": "paraphrase", "anchor": "How close does a creature need to be for me to hop onto its back during my move?"}
+{"passage_id": "75-0", "question_type": "descriptive", "anchor": "Can I get onto a mount standing beside me as part of my movement during a turn?"}
+{"passage_id": "1213-0", "question_type": "lookup", "anchor": "What does the Invisible condition do to attack rolls made against me?"}
+{"passage_id": "1213-0", "question_type": "paraphrase", "anchor": "If I have the Invisible condition, do I get a head start on initiative when a fight begins?"}
+{"passage_id": "1213-0", "question_type": "descriptive", "anchor": "What status keeps me unaffected by effects that require seeing me, and conceals my gear?"}
+{"passage_id": "2715-0", "question_type": "lookup", "anchor": "How long can a Giant Crocodile hold its breath?"}
+{"passage_id": "2715-0", "question_type": "paraphrase", "anchor": "When a Giant Crocodile's Tail hits a Large or smaller creature, does it knock the target down?"}
+{"passage_id": "2715-0", "question_type": "descriptive", "anchor": "Which Huge unaligned beast swims at 50 feet, can clamp its jaws to restrain prey, and fights with a bite and tail?"}
+{"passage_id": "2715-0", "question_type": "table", "anchor": "What ability score does a Giant Crocodile have for Intelligence?"}
+{"passage_id": "1411-0", "question_type": "lookup", "anchor": "What Dexterity save DC does a Bead of Force impose when it explodes?"}
+{"passage_id": "1411-0", "question_type": "paraphrase", "anchor": "If I throw a Bead of Force and a foe fails to dodge it, how much force damage does that foe take?"}
+{"passage_id": "1411-0", "question_type": "descriptive", "anchor": "What small sphere can I throw 60 feet that bursts and traps creatures in a transparent wall for a minute?"}
+{"passage_id": "161-0", "question_type": "lookup", "anchor": "At which Barbarian levels do I get Ability Score Improvement again after level 4?"}
+{"passage_id": "161-0", "question_type": "paraphrase", "anchor": "Does Ability Score Improvement at Barbarian level 4 let me choose any feat I qualify for?"}
+{"passage_id": "161-0", "question_type": "descriptive", "anchor": "Which Barbarian feature from level 4 lets me raise my ability scores or take a feat, and comes back every few levels?"}
+{"passage_id": "343-5", "question_type": "lookup", "anchor": "Which ability score does Spellcasting use for Ranger spells?"}
+{"passage_id": "343-5", "question_type": "paraphrase", "anchor": "With Spellcasting as a Ranger, can I use a Druidic Focus instead of a usual spellcasting focus?"}
+{"passage_id": "343-5", "question_type": "descriptive", "anchor": "Which Ranger rule lets me swap a prepared spell for a new one after I finish a long rest?"}
+{"passage_id": "716-0", "question_type": "lookup", "anchor": "How much does the Aristocratic lifestyle cost per day?"}
+{"passage_id": "716-0", "question_type": "paraphrase", "anchor": "If I live the aristocratic life, will people notice my money and pressure me to share it?"}
+{"passage_id": "716-0", "question_type": "descriptive", "anchor": "What top-tier daily living expense covers the best of everything and might come with a supporting staff?"}
+{"passage_id": "494-5", "question_type": "lookup", "anchor": "Is Tongues one of the spells on the Wizard spell list?"}
+{"passage_id": "494-5", "question_type": "paraphrase", "anchor": "On the Wizard spell list, can I pick the spell that lets me talk with the dead?"}
+{"passage_id": "494-5", "question_type": "descriptive", "anchor": "Which Wizard spell is an Evocation spell that bursts into a fiery blast?"}
+{"passage_id": "494-5", "question_type": "table", "anchor": "What school of magic does Counterspell belong to on the Wizard spell list?"}
+{"passage_id": "1494-0", "question_type": "lookup", "anchor": "How many charges does a Helm of Teleportation start with?"}
+{"passage_id": "1494-0", "question_type": "paraphrase", "anchor": "If my Helm of Teleportation runs out of charges, how often does it refill?"}
+{"passage_id": "1494-0", "question_type": "descriptive", "anchor": "What headgear with a few charges lets me cast a long-distance travel spell once per charge?"}
+{"passage_id": "1046-0", "question_type": "lookup", "anchor": "What material component does See Invisibility require?"}
+{"passage_id": "1046-0", "question_type": "paraphrase", "anchor": "With See Invisibility, can I look into the Ethereal Plane and spot creatures there?"}
+{"passage_id": "1046-0", "question_type": "descriptive", "anchor": "What second-level divination spell lets me see creatures hidden from sight for an hour?"}
+{"passage_id": "41-0", "question_type": "lookup", "anchor": "In the rules for light, what does Darkness create for visibility?"}
+{"passage_id": "41-0", "question_type": "paraphrase", "anchor": "Under the light rules, does dawn or twilight count as bright light?"}
+{"passage_id": "41-0", "question_type": "descriptive", "anchor": "What murky, half-shadowed zone sits between sunny spots and pitch-black areas and leaves creatures lightly obscured?"}
+{"passage_id": "580-4", "question_type": "lookup", "anchor": "How much does a Blowgun weigh?"}
+{"passage_id": "580-4", "question_type": "paraphrase", "anchor": "What dice does a Hand Crossbow roll to hurt someone?"}
+{"passage_id": "580-4", "question_type": "descriptive", "anchor": "Which weapon fires arrows, is Heavy and Two-Handed, and has the Slow mastery property?"}
+{"passage_id": "580-4", "question_type": "table", "anchor": "In the weapons table, which Mastery property does the Musket have?"}
+{"passage_id": "432-0", "question_type": "lookup", "anchor": "When I multiclass into Warlock, what armor training do I gain?"}
+{"passage_id": "432-0", "question_type": "paraphrase", "anchor": "When I add Warlock as a second class, where do I find the level 1 features I get?"}
+{"passage_id": "432-0", "question_type": "descriptive", "anchor": "Which rules section tells me how many spell slots I get when I dip into a second class?"}
+{"passage_id": "127-1", "question_type": "lookup", "anchor": "How many experience points does a character need to reach level 5?"}
+{"passage_id": "127-1", "question_type": "paraphrase", "anchor": "Once my character reaches level 13, how much does its proficiency bonus grow to?"}
+{"passage_id": "127-1", "question_type": "descriptive", "anchor": "What total experience must my character accumulate before it can become a third-level adventurer?"}
+{"passage_id": "127-1", "question_type": "table", "anchor": "On the level advancement table, how many experience points does level 20 require?"}
+{"passage_id": "1404-0", "question_type": "lookup", "anchor": "What does Armor of Resistance give me while I wear it?"}
+{"passage_id": "1404-0", "question_type": "paraphrase", "anchor": "If the Dungeon Master rolls a 4 for Armor of Resistance, what kind of damage do I resist?"}
+{"passage_id": "1404-0", "question_type": "descriptive", "anchor": "What rare magic armor gives me resistance to a single damage type that my Dungeon Master picks or rolls for?"}
+{"passage_id": "1404-0", "question_type": "table", "anchor": "On the Armor of Resistance table, what damage type comes up on a roll of 10?"}

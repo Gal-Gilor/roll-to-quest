@@ -1,0 +1,83 @@
+{"passage_id": "57-0", "question_type": "lookup", "anchor": "What ability check is used when rolling Initiative?"}
+{"passage_id": "57-0", "question_type": "paraphrase", "anchor": "Does being surprised at the start of combat give me Disadvantage on my Initiative roll?"}
+{"passage_id": "57-0", "question_type": "descriptive", "anchor": "When a fight breaks out, how does the game decide which participant goes first each round?"}
+{"passage_id": "373-0", "question_type": "lookup", "anchor": "How much extra damage does a Rogue's Sneak Attack deal at level 1?"}
+{"passage_id": "373-0", "question_type": "paraphrase", "anchor": "Can a Rogue use Sneak Attack more than once in the same turn?"}
+{"passage_id": "373-0", "question_type": "descriptive", "anchor": "What Rogue ability adds an extra 1d6 damage to a creature I hit once per turn?"}
+{"passage_id": "971-0", "question_type": "lookup", "anchor": "By how many feet does the Longstrider spell raise a target's Speed?"}
+{"passage_id": "971-0", "question_type": "paraphrase", "anchor": "If I cast Longstrider with a bigger slot, how many extra creatures can I affect?"}
+{"passage_id": "971-0", "question_type": "descriptive", "anchor": "Is there a touch spell that makes an ally walk faster for an hour, and can it affect more people when upcast?"}
+{"passage_id": "1235-0", "question_type": "lookup", "anchor": "What can Proficiency let me add to a D20 Test?"}
+{"passage_id": "1235-0", "question_type": "paraphrase", "anchor": "If I have Proficiency in a skill, does that let me add my bonus to a d20 roll?"}
+{"passage_id": "1235-0", "question_type": "descriptive", "anchor": "What rule lets me add a training bonus to a d20 test when I know a weapon or tool?"}
+{"passage_id": "1152-0", "question_type": "lookup", "anchor": "Can Climb Speed be used in place of Speed to climb a vertical surface?"}
+{"passage_id": "1152-0", "question_type": "paraphrase", "anchor": "Does a Climb Speed mean climbing a wall costs no extra movement?"}
+{"passage_id": "1152-0", "question_type": "descriptive", "anchor": "Is there a movement type that lets me scale walls without paying extra movement for climbing?"}
+{"passage_id": "687-0", "question_type": "lookup", "anchor": "Which items does a Scholar's Pack include?"}
+{"passage_id": "687-0", "question_type": "paraphrase", "anchor": "How many flasks of oil are included in a Scholar's Pack?"}
+{"passage_id": "687-0", "question_type": "descriptive", "anchor": "Which pack of adventuring gear has a backpack, a book, ink, a lamp, and a tinderbox?"}
+{"passage_id": "748-0", "question_type": "lookup", "anchor": "When casting without slots, does a spell cast as a Ritual use up a slot?"}
+{"passage_id": "748-0", "question_type": "paraphrase", "anchor": "Is casting without slots possible through magic items like Spell Scrolls?"}
+{"passage_id": "748-0", "question_type": "descriptive", "anchor": "Can a character with a special ability cast a spell without a slot, and is it limited?"}
+{"passage_id": "1350-2", "question_type": "lookup", "anchor": "Which difficulty tiers does the combat encounter XP budget table list?"}
+{"passage_id": "1350-2", "question_type": "paraphrase", "anchor": "What's the XP budget for a level 18 character in a moderate fight?"}
+{"passage_id": "1350-2", "question_type": "descriptive", "anchor": "Which table tells me how many XP a fight can cost for easy, moderate, and hard fights at levels 14 to 20?"}
+{"passage_id": "1350-2", "question_type": "table", "anchor": "At level 20, what is the XP budget for a Low difficulty encounter?"}
+{"passage_id": "23-0", "question_type": "lookup", "anchor": "Is a monster's Proficiency Bonus based on its Challenge Rating?"}
+{"passage_id": "23-0", "question_type": "paraphrase", "anchor": "Does my Proficiency Bonus apply to spell attack rolls and to the DC for spells?"}
+{"passage_id": "23-0", "question_type": "descriptive", "anchor": "What bonus that rises with my level gets added to skill checks and saving throws?"}
+{"passage_id": "23-0", "question_type": "table", "anchor": "In the Proficiency Bonus table, what is the bonus for levels 13 to 16?"}
+{"passage_id": "280-0", "question_type": "lookup", "anchor": "When multiclassing into Monk, what Hit Point Die trait do I gain?"}
+{"passage_id": "280-0", "question_type": "paraphrase", "anchor": "If I add Monk to my character as a second class, which level 1 features do I get?"}
+{"passage_id": "280-0", "question_type": "descriptive", "anchor": "What do I pick up when I add a martial artist level to a character who already has another class?"}
+{"passage_id": "2777-0", "question_type": "lookup", "anchor": "How fast does a Giant Venomous Snake move on land and while swimming?"}
+{"passage_id": "2777-0", "question_type": "paraphrase", "anchor": "How much health does a Giant Venomous Snake have, and what dice make up that total?"}
+{"passage_id": "2777-0", "question_type": "descriptive", "anchor": "Which serpent bites for piercing and poison damage and has blindsight out to 10 feet?"}
+{"passage_id": "2777-0", "question_type": "table", "anchor": "What does a Giant Venomous Snake add to Dexterity saving throws?"}
+{"passage_id": "986-0", "question_type": "lookup", "anchor": "How much Force damage does Meld into Stone deal when the stone is completely destroyed?"}
+{"passage_id": "986-0", "question_type": "paraphrase", "anchor": "If the stone I'm merged into with Meld into Stone gets chipped slightly, does it hurt me?"}
+{"passage_id": "986-0", "question_type": "descriptive", "anchor": "What touch spell lets me sink into a stone wall for eight hours, unable to see outside?"}
+{"passage_id": "698-0", "question_type": "lookup", "anchor": "How many pints of water can a Waterskin hold?"}
+{"passage_id": "698-0", "question_type": "paraphrase", "anchor": "What happens to my health if I don't drink enough from my Waterskin?"}
+{"passage_id": "698-0", "question_type": "descriptive", "anchor": "What container for carrying water holds up to four pints and keeps me from dehydration?"}
+{"passage_id": "690-0", "question_type": "lookup", "anchor": "What spell save DC does a Spell Scroll use when the spell needs a saving throw?"}
+{"passage_id": "690-0", "question_type": "paraphrase", "anchor": "If I read a Spell Scroll, do I have to supply Material components for its spell?"}
+{"passage_id": "690-0", "question_type": "descriptive", "anchor": "What magic item holds a cantrip or first-level spell and disintegrates once I cast it?"}
+{"passage_id": "1485-0", "question_type": "lookup", "anchor": "How far does Darkvision extend when I wear Goggles of Night?"}
+{"passage_id": "1485-0", "question_type": "paraphrase", "anchor": "If I already see in the dark, how much do the Goggles of Night extend my range?"}
+{"passage_id": "1485-0", "question_type": "descriptive", "anchor": "What uncommon wondrous item of dark lenses lets me see in the dark?"}
+{"passage_id": "298-0", "question_type": "lookup", "anchor": "Which damage types can Deflect Energy be used against?"}
+{"passage_id": "298-0", "question_type": "paraphrase", "anchor": "Can Deflect Energy block a fire or acid attack, or only physical hits?"}
+{"passage_id": "298-0", "question_type": "descriptive", "anchor": "Which Monk ability upgrade at level 13 lets me deflect attacks of any damage type?"}
+{"passage_id": "2780-0", "question_type": "lookup", "anchor": "What is the Giant Vulture's flying speed?"}
+{"passage_id": "2780-0", "question_type": "paraphrase", "anchor": "If a Giant Vulture's Gouge hits me, will I be poisoned for a while?"}
+{"passage_id": "2780-0", "question_type": "descriptive", "anchor": "Which bird gets Advantage on attacks when one of its allies is within 5 feet of the target?"}
+{"passage_id": "2780-0", "question_type": "table", "anchor": "What Constitution score does a Giant Vulture have?"}
+{"passage_id": "311-6", "question_type": "lookup", "anchor": "What Proficiency Bonus does a Paladin reach at level 20?"}
+{"passage_id": "311-6", "question_type": "paraphrase", "anchor": "If I start a new Paladin character at level 1, which features do I get?"}
+{"passage_id": "311-6", "question_type": "descriptive", "anchor": "What holy warrior gets an Epic Boon at level 19 and has 15 prepared spells?"}
+{"passage_id": "311-6", "question_type": "table", "anchor": "How many 5th-level spell slots does a Paladin have at level 19?"}
+{"passage_id": "908-0", "question_type": "lookup", "anchor": "What is the range of the Forcecage spell?"}
+{"passage_id": "908-0", "question_type": "paraphrase", "anchor": "If a monster tries to teleport out of Forcecage, how does it get out?"}
+{"passage_id": "908-0", "question_type": "descriptive", "anchor": "What level 7 magic creates a cube of force that traps everything completely inside and can't be dispelled?"}
+{"passage_id": "1407-3", "question_type": "lookup", "anchor": "How long does a campfire from a Bag of Beans burn?"}
+{"passage_id": "1407-3", "question_type": "paraphrase", "anchor": "Can I put out a Bag of Beans' green campfire before the 24 hours are up?"}
+{"passage_id": "1407-3", "question_type": "descriptive", "anchor": "What magic bag can make green-flamed campfires or fungi sprout when I roll on its table?"}
+{"passage_id": "1407-3", "question_type": "table", "anchor": "What does a Bag of Beans produce on a d100 roll of 41 to 50?"}
+{"passage_id": "916-0", "question_type": "lookup", "anchor": "How far away can I summon a Giant Insect?"}
+{"passage_id": "916-0", "question_type": "paraphrase", "anchor": "How much more health does a Giant Insect get from a higher-level slot?"}
+{"passage_id": "916-0", "question_type": "descriptive", "anchor": "What spell summons a centipede, spider, or wasp that shares my Initiative count and acts right after me?"}
+{"passage_id": "916-0", "question_type": "table", "anchor": "In a Giant Insect's stat block, what is the Wisdom score?"}
+{"passage_id": "993-0", "question_type": "lookup", "anchor": "How large an area can Mirage Arcane alter the terrain of?"}
+{"passage_id": "993-0", "question_type": "paraphrase", "anchor": "Does Mirage Arcane let me hide or disguise creatures in the illusion?"}
+{"passage_id": "993-0", "question_type": "descriptive", "anchor": "What illusion can make open fields look and feel like a swamp for ten days?"}
+{"passage_id": "307-0", "question_type": "lookup", "anchor": "When can I use Fleet Step to take Step of the Wind after another Bonus Action?"}
+{"passage_id": "307-0", "question_type": "paraphrase", "anchor": "Can Fleet Step let me use Step of the Wind right after a different bonus action?"}
+{"passage_id": "307-0", "question_type": "descriptive", "anchor": "Which Open Hand monk ability at level 11 lets me chain an extra bonus-action movement right after another bonus action?"}
+{"passage_id": "964-0", "question_type": "lookup", "anchor": "Which conditions can Lesser Restoration end on a touched creature?"}
+{"passage_id": "964-0", "question_type": "paraphrase", "anchor": "If I'm poisoned, can Lesser Restoration get rid of it as a bonus action?"}
+{"passage_id": "964-0", "question_type": "descriptive", "anchor": "Which second-level spell can end blindness, deafness, paralysis, or poison by touch?"}
+{"passage_id": "2-0", "question_type": "lookup", "anchor": "What do the Six Abilities measure, and how many are there?"}
+{"passage_id": "2-0", "question_type": "paraphrase", "anchor": "Do the six abilities cover both physical and mental traits?"}
+{"passage_id": "2-0", "question_type": "descriptive", "anchor": "Which six traits does every character and monster have, covering things like might, agility, health, reasoning, perception and charm?"}
+{"passage_id": "2-0", "question_type": "table", "anchor": "Among the six abilities, what does Charisma measure?"}

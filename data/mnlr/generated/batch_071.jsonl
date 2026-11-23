@@ -1,0 +1,79 @@
+{"passage_id": "619-1", "question_type": "lookup", "anchor": "Does the ammunition entry in the adventuring gear table list a fixed weight?"}
+{"passage_id": "619-1", "question_type": "paraphrase", "anchor": "Does ammunition in the gear table have a set price, or is it listed as varying?"}
+{"passage_id": "619-1", "question_type": "descriptive", "anchor": "Which gear list covers backpacks, chests, bedrolls and caltrops with their weights and prices?"}
+{"passage_id": "619-1", "question_type": "table", "anchor": "How much does a Barrel weigh, and what does it cost in adventuring gear?"}
+{"passage_id": "19-0", "question_type": "lookup", "anchor": "What do Advantage and Disadvantage each represent when modifying a d20 test?"}
+{"passage_id": "19-0", "question_type": "paraphrase", "anchor": "Under the Advantage/Disadvantage rules, can I stockpile more than one Heroic Inspiration at a time?"}
+{"passage_id": "19-0", "question_type": "descriptive", "anchor": "Which playable race begins every day holding a reroll boost that can be spent on any die?"}
+{"passage_id": "400-0", "question_type": "lookup", "anchor": "Where are the Sorcerer class features that unlock at higher levels listed?"}
+{"passage_id": "400-0", "question_type": "paraphrase", "anchor": "Do Sorcerers get their class abilities at set levels, or all at once at first level?"}
+{"passage_id": "400-0", "question_type": "descriptive", "anchor": "Which list shows the spellcasting class features that a magic-born caster gains at specific levels?"}
+{"passage_id": "1159-0", "question_type": "lookup", "anchor": "Do the creature types carry any rules of their own, or do they only matter through other rules?"}
+{"passage_id": "1159-0", "question_type": "paraphrase", "anchor": "For Creature Type, what tag do most player characters usually have?"}
+{"passage_id": "1159-0", "question_type": "descriptive", "anchor": "Is there an official list of categories that every creature is tagged with, including dragons, oozes, and fey?"}
+{"passage_id": "1029-0", "question_type": "lookup", "anchor": "What is the range of Ray of Frost?"}
+{"passage_id": "1029-0", "question_type": "paraphrase", "anchor": "How much does Ray of Frost slow a target's movement, and for how long?"}
+{"passage_id": "1029-0", "question_type": "descriptive", "anchor": "What cantrip fires a freezing beam of blue-white light that can cut a foe's walking distance?"}
+{"passage_id": "1658-0", "question_type": "lookup", "anchor": "In a stat block, when should I have a monster use its Multiattack during combat?"}
+{"passage_id": "1658-0", "question_type": "paraphrase", "anchor": "For stat blocks, should a monster with a limited-use breath weapon use it early or save it up?"}
+{"passage_id": "1658-0", "question_type": "descriptive", "anchor": "What guideline tells me to have a foe use its reactions and legendary actions as often as it can during combat?"}
+{"passage_id": "1281-0", "question_type": "lookup", "anchor": "Under slower travelers, when does a group have to drop to a Slow travel pace?"}
+{"passage_id": "1281-0", "question_type": "paraphrase", "anchor": "If a companion can only move half as fast, what happens to the party's travel pace under slower travelers?"}
+{"passage_id": "1281-0", "question_type": "descriptive", "anchor": "Is the whole group forced to take the slowest travel pace when one member is badly slowed down?"}
+{"passage_id": "1211-0", "question_type": "lookup", "anchor": "With the Influence action, what default DC applies to a hesitant monster's check?"}
+{"passage_id": "1211-0", "question_type": "paraphrase", "anchor": "If I try to coax a monster with the Influence action and fail, how long before I can try the same approach again?"}
+{"passage_id": "1211-0", "question_type": "descriptive", "anchor": "When I ask a monster to do something repugnant to it, do I get any chance to change its mind with a roll?"}
+{"passage_id": "947-0", "question_type": "lookup", "anchor": "How big an area does Holy Aura cover when it emanates from me?"}
+{"passage_id": "947-0", "question_type": "paraphrase", "anchor": "How long can I keep Holy Aura going if I maintain concentration on it?"}
+{"passage_id": "947-0", "question_type": "descriptive", "anchor": "Which level 8 abjuration gives my chosen allies a boost on saving throws while foes have trouble hitting them?"}
+{"passage_id": "946-0", "question_type": "lookup", "anchor": "What saving throw does a target of Hold Person make to avoid being paralyzed?"}
+{"passage_id": "946-0", "question_type": "paraphrase", "anchor": "If I cast Hold Person with a bigger slot, how many more creatures can I hold?"}
+{"passage_id": "946-0", "question_type": "descriptive", "anchor": "Which enchantment freezes one visible humanoid in place and lets it shake off the effect with a repeated save each turn?"}
+{"passage_id": "1569-0", "question_type": "lookup", "anchor": "Does the Ring of Mind Shielding require attunement?"}
+{"passage_id": "1569-0", "question_type": "paraphrase", "anchor": "How do I make the Ring of Mind Shielding hidden from sight, and what kind of action does that take?"}
+{"passage_id": "1569-0", "question_type": "descriptive", "anchor": "What ring makes me immune to magic that tries to read my thoughts or detect whether I am lying?"}
+{"passage_id": "582-1", "question_type": "lookup", "anchor": "In the armor table, what Armor Class does Chain Mail provide?"}
+{"passage_id": "582-1", "question_type": "paraphrase", "anchor": "For armor, does Plate Armor make it harder to sneak around quietly?"}
+{"passage_id": "582-1", "question_type": "descriptive", "anchor": "Which shield adds +2 to my AC and takes an action to put on or take off?"}
+{"passage_id": "582-1", "question_type": "table", "anchor": "How heavy is Splint Armor, and what does it cost in gold?"}
+{"passage_id": "1682-0", "question_type": "lookup", "anchor": "In attack notation, what label marks an effect that happens whether the attack hits or misses?"}
+{"passage_id": "1682-0", "question_type": "paraphrase", "anchor": "In attack notation, does a monster's attack normally hit more than one target?"}
+{"passage_id": "1682-0", "question_type": "descriptive", "anchor": "In a monster's attack description, what label tells me the effect that only occurs when the attack misses?"}
+{"passage_id": "940-0", "question_type": "lookup", "anchor": "What is the casting time for Hellish Rebuke, and what triggers it?"}
+{"passage_id": "940-0", "question_type": "paraphrase", "anchor": "If I burn an enemy with Hellish Rebuke using a higher-level slot, how much extra damage do I get?"}
+{"passage_id": "940-0", "question_type": "descriptive", "anchor": "Which first-level warlock spell lets me respond to being hurt by blasting the attacker with green flames?"}
+{"passage_id": "990-0", "question_type": "lookup", "anchor": "How long does Mind Blank last once cast on a creature?"}
+{"passage_id": "990-0", "question_type": "paraphrase", "anchor": "Can Mind Blank keep a Wish spell from learning anything about the protected creature?"}
+{"passage_id": "990-0", "question_type": "descriptive", "anchor": "What eighth-level abjuration makes a willing friend immune to psychic damage and the Charmed condition for a day?"}
+{"passage_id": "1679-0", "question_type": "lookup", "anchor": "For a monster, how is its Proficiency Bonus determined?"}
+{"passage_id": "1679-0", "question_type": "paraphrase", "anchor": "Do monster proficiency bonuses show up in their saving throws and skills?"}
+{"passage_id": "1679-0", "question_type": "descriptive", "anchor": "A creature with Challenge Rating 14 adds what flat bonus to its saving throws and skill checks?"}
+{"passage_id": "1679-0", "question_type": "table", "anchor": "What Proficiency Bonus does a monster with Challenge Rating 25 to 28 have?"}
+{"passage_id": "1217-0", "question_type": "lookup", "anchor": "By default, is a Line area of effect's starting point included in it?"}
+{"passage_id": "1217-0", "question_type": "paraphrase", "anchor": "When a spell makes a Line area, who determines its length and width?"}
+{"passage_id": "1217-0", "question_type": "descriptive", "anchor": "What kind of area of effect runs in a straight path from a starting point and has a set width?"}
+{"passage_id": "759-0", "question_type": "lookup", "anchor": "For a Somatic component, must a caster use at least one hand?"}
+{"passage_id": "759-0", "question_type": "paraphrase", "anchor": "For Somatic components, do big arm motions count, or only precise finger movements?"}
+{"passage_id": "759-0", "question_type": "descriptive", "anchor": "Which spell component is hand gestures, requiring at least one of my hands free?"}
+{"passage_id": "2904-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Swarm of Bats?"}
+{"passage_id": "2904-0", "question_type": "paraphrase", "anchor": "Can a Swarm of Bats heal back its health during a fight?"}
+{"passage_id": "2904-0", "question_type": "descriptive", "anchor": "Which group of tiny flying creatures has blindsight out to 60 feet and resists physical weapon damage?"}
+{"passage_id": "2904-0", "question_type": "table", "anchor": "What is the Intelligence modifier of a Swarm of Bats?"}
+{"passage_id": "2551-1", "question_type": "lookup", "anchor": "What forms can a Werewolf shift into with its Shape-Shift bonus action?"}
+{"passage_id": "2551-1", "question_type": "paraphrase", "anchor": "Does a Werewolf's gear change along with its body when it shifts form?"}
+{"passage_id": "2551-1", "question_type": "descriptive", "anchor": "Which shapeshifting monster can turn into a Large wolf-humanoid hybrid or a Medium wolf as a bonus action?"}
+{"passage_id": "2801-0", "question_type": "lookup", "anchor": "How long can a Hippopotamus hold its breath?"}
+{"passage_id": "2801-0", "question_type": "paraphrase", "anchor": "How many bites does a Hippopotamus make in one turn with its Multiattack?"}
+{"passage_id": "2801-0", "question_type": "descriptive", "anchor": "Which large swimming beast can hold its breath for ten minutes and bite for about 16 piercing damage?"}
+{"passage_id": "2801-0", "question_type": "table", "anchor": "What does a Hippopotamus add to its Strength saves?"}
+{"passage_id": "1133-0", "question_type": "lookup", "anchor": "With the Attack action, how many attack rolls can I make?"}
+{"passage_id": "1133-0", "question_type": "paraphrase", "anchor": "During an Attack action, can I swap weapons before or after I swing?"}
+{"passage_id": "1133-0", "question_type": "descriptive", "anchor": "Can I walk to a new spot between my multiple swings if my class gives me several strikes in one action?"}
+{"passage_id": "1649-14", "question_type": "lookup", "anchor": "What saving throw DC does a Wand of Wonder's colorful light require?"}
+{"passage_id": "1649-14", "question_type": "paraphrase", "anchor": "If a Wand of Wonder's light blinds a creature, how often can it try to shake that off?"}
+{"passage_id": "1649-14", "question_type": "descriptive", "anchor": "Which random magic item effect sends out colorful shimmering light that blinds creatures around me?"}
+{"passage_id": "1649-14", "question_type": "table", "anchor": "What happens when a Wand of Wonder d100 roll lands between 78 and 82?"}
+{"passage_id": "1926-0", "question_type": "lookup", "anchor": "What DC does a Dragon Turtle's Steam Breath require for its saving throw?"}
+{"passage_id": "1926-0", "question_type": "paraphrase", "anchor": "Can a Dragon Turtle swap one of its bites for a tail attack during Multiattack?"}
+{"passage_id": "1926-0", "question_type": "descriptive", "anchor": "Which Gargantuan neutral creature swims at 50 feet and breathes a scalding cone of steam?"}
+{"passage_id": "1926-0", "question_type": "table", "anchor": "What is a Dragon Turtle's Wisdom saving throw bonus?"}

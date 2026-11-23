@@ -1,0 +1,81 @@
+{"passage_id": "1863-1", "question_type": "lookup", "anchor": "How long does the Frightened condition from a Cloaker's Moan last on a failed save?"}
+{"passage_id": "1863-1", "question_type": "paraphrase", "anchor": "Once I've resisted a Cloaker's Moan, how long am I safe from it again?"}
+{"passage_id": "1863-1", "question_type": "descriptive", "anchor": "Which creature can wail to frighten everyone within 60 feet and conjure duplicate images of itself?"}
+{"passage_id": "45-0", "question_type": "lookup", "anchor": "Under the rules for objects, does a building count as a single object like a door?"}
+{"passage_id": "45-0", "question_type": "paraphrase", "anchor": "Are a chair, a sword, and a stone all considered objects under the game's rules?"}
+{"passage_id": "45-0", "question_type": "descriptive", "anchor": "How do the game's rules define a separate, lifeless item such as a window or a book?"}
+{"passage_id": "2006-0", "question_type": "lookup", "anchor": "How many feet away from a Gibbering Mouther must a creature be to get caught by its Gibbering?"}
+{"passage_id": "2006-0", "question_type": "paraphrase", "anchor": "Do I get knocked flat if a Gibbering Mouther bites me and I'm a Medium-sized character?"}
+{"passage_id": "2006-0", "question_type": "descriptive", "anchor": "Which aberration makes the ground around it difficult to cross and babbles at nearby creatures?"}
+{"passage_id": "2006-0", "question_type": "table", "anchor": "In the Value column of a Gibbering Mouther's stat table, what Intelligence score is listed?"}
+{"passage_id": "593-0", "question_type": "lookup", "anchor": "Which ability score is used with Carpenter's Tools?"}
+{"passage_id": "593-0", "question_type": "paraphrase", "anchor": "How heavy is a set of carpenter's tools if I'm carrying it around?"}
+{"passage_id": "593-0", "question_type": "descriptive", "anchor": "Is there a woodworker's tool kit that can pry open a door or container, and what DC does that take?"}
+{"passage_id": "958-0", "question_type": "lookup", "anchor": "How long does it take to cast Instant Summons?"}
+{"passage_id": "958-0", "question_type": "paraphrase", "anchor": "If I use Instant Summons and someone else has the object, does it fly into my hand?"}
+{"passage_id": "958-0", "question_type": "descriptive", "anchor": "Which spell lets me mark a small item and later pull it to my hand from any distance by breaking a gem?"}
+{"passage_id": "1602-1", "question_type": "lookup", "anchor": "How long can the Protective Field of a Shield of the Cavalier last?"}
+{"passage_id": "1602-1", "question_type": "paraphrase", "anchor": "When does the Shield of the Cavalier recharge after I use its Protective Field?"}
+{"passage_id": "1602-1", "question_type": "descriptive", "anchor": "Is there a shield that I can use as a reaction to make a sealed bubble that protects nearby allies from area-effect attacks?"}
+{"passage_id": "243-0", "question_type": "lookup", "anchor": "In the Druid spell list, what does a C in the Special column mean?"}
+{"passage_id": "243-0", "question_type": "paraphrase", "anchor": "Among the Druid spell list cantrips, which ones need Concentration?"}
+{"passage_id": "243-0", "question_type": "descriptive", "anchor": "Where can I see the level 0 spells a nature-focused caster can pick, along with each school of magic?"}
+{"passage_id": "243-0", "question_type": "table", "anchor": "Which school is listed for Starry Wisp in the Druid spell list's cantrip table?"}
+{"passage_id": "306-0", "question_type": "lookup", "anchor": "How many uses of Wholeness of Body do I get, based on my Wisdom modifier?"}
+{"passage_id": "306-0", "question_type": "paraphrase", "anchor": "As a monk, how much health can Wholeness of Body give me when I use it?"}
+{"passage_id": "306-0", "question_type": "descriptive", "anchor": "Which monk feature lets me heal myself with a bonus action using my martial arts die?"}
+{"passage_id": "2417-0", "question_type": "lookup", "anchor": "How much damage does a Minotaur Skeleton's Slam deal on a hit?"}
+{"passage_id": "2417-0", "question_type": "paraphrase", "anchor": "Are Minotaur Skeletons more easily hurt by bashing attacks like clubs?"}
+{"passage_id": "2417-0", "question_type": "descriptive", "anchor": "Which undead brute with horns gets extra damage and can knock a target prone if it charges 20 feet first?"}
+{"passage_id": "2417-0", "question_type": "table", "anchor": "What does the MOD column show for a Minotaur Skeleton's Charisma?"}
+{"passage_id": "2382-0", "question_type": "lookup", "anchor": "Which save DC must a target beat to avoid a Sea Hag's Vile Appearance?"}
+{"passage_id": "2382-0", "question_type": "paraphrase", "anchor": "How long must I wait before I can cast a Sea Hag's Coven Magic spell again?"}
+{"passage_id": "2382-0", "question_type": "descriptive", "anchor": "Which fey monster can breathe air and water and casts spells when its coven-mates are close by?"}
+{"passage_id": "2382-0", "question_type": "table", "anchor": "Which Value is listed for Charisma on a Sea Hag's stat table?"}
+{"passage_id": "2698-0", "question_type": "lookup", "anchor": "How much piercing damage does a Giant Bat's Bite deal on a hit?"}
+{"passage_id": "2698-0", "question_type": "paraphrase", "anchor": "Is a Giant Bat faster flying or walking, and by how much?"}
+{"passage_id": "2698-0", "question_type": "descriptive", "anchor": "Which large flying animal can perceive nearby things without sight out to 120 feet?"}
+{"passage_id": "2698-0", "question_type": "table", "anchor": "The Value column of a Giant Bat's stat table lists what Constitution score?"}
+{"passage_id": "1567-0", "question_type": "lookup", "anchor": "What action do I take to turn invisible while wearing a Ring of Invisibility?"}
+{"passage_id": "1567-0", "question_type": "paraphrase", "anchor": "How do I make myself visible again after using a Ring of Invisibility?"}
+{"passage_id": "1567-0", "question_type": "descriptive", "anchor": "Which legendary ring lets me vanish, but only until I take a quick action to reappear?"}
+{"passage_id": "592-0", "question_type": "lookup", "anchor": "What DC is needed for a Calligrapher's Supplies check to guard text against forgery?"}
+{"passage_id": "592-0", "question_type": "paraphrase", "anchor": "Can I use calligrapher's supplies to make my own ink or a spell scroll?"}
+{"passage_id": "592-0", "question_type": "descriptive", "anchor": "Which artisan's kit of pens and inks lets me write with fancy flourishes that resist forgery?"}
+{"passage_id": "556-0", "question_type": "lookup", "anchor": "How close does a target need to be for a melee weapon attack?"}
+{"passage_id": "556-0", "question_type": "paraphrase", "anchor": "To use a weapon's mastery effect, do I need a class feature that unlocks it?"}
+{"passage_id": "556-0", "question_type": "descriptive", "anchor": "Which two groups does every sword, bow, and club fall into, and how do they relate to proficiency?"}
+{"passage_id": "2302-0", "question_type": "lookup", "anchor": "How many times per day can a Pit Fiend use Legendary Resistance?"}
+{"passage_id": "2302-0", "question_type": "paraphrase", "anchor": "When a Pit Fiend misses a saving throw, can it decide to succeed anyway?"}
+{"passage_id": "2302-0", "question_type": "descriptive", "anchor": "Which devil's aura frightens enemies that start their turn within 20 feet of it?"}
+{"passage_id": "2302-0", "question_type": "table", "anchor": "For the Pit Fiend's ability score table, which Intelligence score is listed in the Value column?"}
+{"passage_id": "125-0", "question_type": "lookup", "anchor": "Are the full descriptions of a class's features found in the Classes section?"}
+{"passage_id": "125-0", "question_type": "paraphrase", "anchor": "When I'm making a character, do some class abilities make me choose between options?"}
+{"passage_id": "125-0", "question_type": "descriptive", "anchor": "What character-creation step tells me to jot down the starting abilities my class gets?"}
+{"passage_id": "2928-0", "question_type": "lookup", "anchor": "How much slashing damage does a Tiger's Rend deal on a hit?"}
+{"passage_id": "2928-0", "question_type": "paraphrase", "anchor": "Can a Tiger's Rend knock down a Huge creature, like a giant?"}
+{"passage_id": "2928-0", "question_type": "descriptive", "anchor": "Which large striped cat can slip away or hide as a bonus action?"}
+{"passage_id": "2928-0", "question_type": "table", "anchor": "On a Tiger's stat table, what Strength score is listed in the Value column?"}
+{"passage_id": "401-4", "question_type": "lookup", "anchor": "How many cantrips does a Sorcerer know at level 10?"}
+{"passage_id": "401-4", "question_type": "paraphrase", "anchor": "When does a Sorcerer gain the ability to twist spells with Metamagic?"}
+{"passage_id": "401-4", "question_type": "descriptive", "anchor": "Which progression table lists sorcery points and spell slots for each class level from 10 to 12?"}
+{"passage_id": "401-4", "question_type": "table", "anchor": "In the Sorcery Points column, how many points does a Sorcerer have at level 11?"}
+{"passage_id": "497-0", "question_type": "lookup", "anchor": "If I miss a creature with a damaging cantrip, how much damage still hits it under Potent Cantrip?"}
+{"passage_id": "497-0", "question_type": "paraphrase", "anchor": "With Potent Cantrip, does a creature that resists my cantrip still suffer its side effects?"}
+{"passage_id": "497-0", "question_type": "descriptive", "anchor": "Which Wizard feature makes my damaging tricks still hurt creatures that avoid most of their effect?"}
+{"passage_id": "1649-9", "question_type": "lookup", "anchor": "Rolling 56-60 on the d100 and a 2 on the d4, what does a Wand of Wonder produce?"}
+{"passage_id": "1649-9", "question_type": "paraphrase", "anchor": "How long does a creature summoned by a Wand of Wonder stick around?"}
+{"passage_id": "1649-9", "question_type": "descriptive", "anchor": "Which random magic-item effect conjures a temporary creature near the spot I targeted that disappears after an hour?"}
+{"passage_id": "1649-9", "question_type": "table", "anchor": "Looking at the d100 table, what happens for a Wand of Wonder roll of 56-60?"}
+{"passage_id": "1467-0", "question_type": "lookup", "anchor": "How far does the smoke from an Eversmoking Bottle spread at its largest?"}
+{"passage_id": "1467-0", "question_type": "paraphrase", "anchor": "If I close an Eversmoking Bottle, how long before the cloud finally clears on its own?"}
+{"passage_id": "1467-0", "question_type": "descriptive", "anchor": "Which uncommon wondrous item releases a thick smoke that blocks sight, and a strong wind can disperse it?"}
+{"passage_id": "1436-0", "question_type": "lookup", "anchor": "How many charges does a Cloak of Invisibility have?"}
+{"passage_id": "1436-0", "question_type": "paraphrase", "anchor": "Can I cancel the invisibility from a Cloak of Invisibility early without spending an action?"}
+{"passage_id": "1436-0", "question_type": "descriptive", "anchor": "Which legendary garment lets me turn unseen for an hour by pulling up its hood, a limited number of times?"}
+{"passage_id": "1647-0", "question_type": "lookup", "anchor": "Does a Wand of the War Mage require attunement, and by whom?"}
+{"passage_id": "1647-0", "question_type": "paraphrase", "anchor": "When I make a spell attack from behind a low wall, does the Wand of the War Mage cancel the cover?"}
+{"passage_id": "1647-0", "question_type": "descriptive", "anchor": "What spellcaster's item adds to my spell attack rolls, with the bonus growing as its rarity rises?"}
+{"passage_id": "1058-0", "question_type": "lookup", "anchor": "What is the largest size an image from Silent Image can be?"}
+{"passage_id": "1058-0", "question_type": "paraphrase", "anchor": "Would a creature that walks into my Silent Image know it's fake?"}
+{"passage_id": "1058-0", "question_type": "descriptive", "anchor": "Which first-level illusion conjures a purely visual copy of an object or creature that I can later move around?"}

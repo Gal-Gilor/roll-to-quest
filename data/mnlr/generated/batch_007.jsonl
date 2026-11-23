@@ -1,0 +1,78 @@
+{"passage_id": "2140-0", "question_type": "lookup", "anchor": "How many Hit Points does an Imp have?"}
+{"passage_id": "2140-0", "question_type": "paraphrase", "anchor": "Does an Imp have an edge when it tries to resist spells and other magic?"}
+{"passage_id": "2140-0", "question_type": "descriptive", "anchor": "What small devil can turn into a rat, a raven, or a spider and is invisible?"}
+{"passage_id": "2140-0", "question_type": "table", "anchor": "What is an Imp's Dexterity saving throw bonus?"}
+{"passage_id": "255-0", "question_type": "lookup", "anchor": "Can I replace my Fighting Style feat with a different one when I gain a Fighter level?"}
+{"passage_id": "255-0", "question_type": "paraphrase", "anchor": "As a level 1 Fighter, do I get to pick a Fighting Style combat perk?"}
+{"passage_id": "255-0", "question_type": "descriptive", "anchor": "Which martial class ability lets me choose a combat specialty right at the start, and swap it later?"}
+{"passage_id": "1185-0", "question_type": "lookup", "anchor": "How many feet is my Speed reduced by for each Exhaustion level?"}
+{"passage_id": "1185-0", "question_type": "paraphrase", "anchor": "If I have Exhaustion at level 3, how much do my d20 rolls drop by?"}
+{"passage_id": "1185-0", "question_type": "descriptive", "anchor": "Which stacking condition kills a creature at six levels and eases by one level after each Long Rest?"}
+{"passage_id": "1095-0", "question_type": "lookup", "anchor": "What is the maximum distance between the two trees when I use Tree Stride?"}
+{"passage_id": "1095-0", "question_type": "paraphrase", "anchor": "Can I hop between trees twice in one turn with Tree Stride?"}
+{"passage_id": "1095-0", "question_type": "descriptive", "anchor": "Which druid or ranger spell lets me step into a tree and come out of another one far away?"}
+{"passage_id": "1383-0", "question_type": "lookup", "anchor": "How often must I have a magic item's spells prepared while I'm crafting it?"}
+{"passage_id": "1383-0", "question_type": "paraphrase", "anchor": "If I'm crafting a wand that casts spells, do I have to have those spells prepared?"}
+{"passage_id": "1466-1", "question_type": "lookup", "anchor": "How long does the ladder created by an Energy Bow's Energy Ladder stay before disappearing?"}
+{"passage_id": "1466-1", "question_type": "paraphrase", "anchor": "How far away from me can an Energy Bow aim its ladder arrows at a wall?"}
+{"passage_id": "1466-1", "question_type": "descriptive", "anchor": "Which magic bow fires a volley of energy arrows that turn into rungs sticking out of a wall, forming a temporary climbing ladder?"}
+{"passage_id": "102-0", "question_type": "lookup", "anchor": "Besides being used up, what else ends Temporary Hit Points?"}
+{"passage_id": "102-0", "question_type": "paraphrase", "anchor": "Do my temp hit points wear off after a short rest?"}
+{"passage_id": "102-0", "question_type": "descriptive", "anchor": "How long does a buffer of extra health last when it gets worn down by damage?"}
+{"passage_id": "135-0", "question_type": "lookup", "anchor": "How much XP does a character start with if the GM begins them at level 10?"}
+{"passage_id": "135-0", "question_type": "paraphrase", "anchor": "If the GM lets me start at a high level, do I still go through the normal character creation steps?"}
+{"passage_id": "135-0", "question_type": "descriptive", "anchor": "After a character passes 355,000 XP, how often can a GM give bonus feats?"}
+{"passage_id": "904-0", "question_type": "lookup", "anchor": "How much weight can a Floating Disk hold?"}
+{"passage_id": "904-0", "question_type": "paraphrase", "anchor": "How far can I get from my Floating Disk before the spell ends for good?"}
+{"passage_id": "904-0", "question_type": "descriptive", "anchor": "What wizard spell makes a flat, round platform of force that hangs three feet off the ground and carries heavy loads?"}
+{"passage_id": "780-0", "question_type": "lookup", "anchor": "Which creatures are not blocked by the Antilife Shell's barrier?"}
+{"passage_id": "780-0", "question_type": "paraphrase", "anchor": "Can a creature with a bow or reach weapon attack me through an Antilife Shell aura?"}
+{"passage_id": "780-0", "question_type": "descriptive", "anchor": "What druid spell ends the moment I move so that a monster is forced to pass through its protective aura?"}
+{"passage_id": "370-0", "question_type": "lookup", "anchor": "Which tool proficiency do I gain when I become a Rogue as a multiclass character?"}
+{"passage_id": "370-0", "question_type": "paraphrase", "anchor": "If I take a level in Rogue as a second class, do I get the first-level Rogue features?"}
+{"passage_id": "370-0", "question_type": "descriptive", "anchor": "When I multiclass into a sneaky class, which hit die and skill choice do I get?"}
+{"passage_id": "380-0", "question_type": "lookup", "anchor": "How many Sneak Attack damage dice does the Cunning Strike Poison effect cost?"}
+{"passage_id": "380-0", "question_type": "paraphrase", "anchor": "When I use Cunning Strike to Trip a foe, what must it succeed on to avoid falling prone?"}
+{"passage_id": "380-0", "question_type": "descriptive", "anchor": "As a rogue, can I move half my speed right after an attack without drawing free attacks from enemies?"}
+{"passage_id": "1585-0", "question_type": "lookup", "anchor": "What level version of Magic Missile does the Robe of Stars cast when I expend one of its stars?"}
+{"passage_id": "1585-0", "question_type": "paraphrase", "anchor": "How many of the Robe of Stars' stars come back each day at sunset?"}
+{"passage_id": "1585-0", "question_type": "descriptive", "anchor": "What star-embroidered garment lets me step into the Astral Plane and bring everything I'm carrying?"}
+{"passage_id": "860-0", "question_type": "lookup", "anchor": "How far ahead in time can the event I ask about with Divination be?"}
+{"passage_id": "860-0", "question_type": "paraphrase", "anchor": "If I cast Divination a second time before my next long rest, what is the chance I get no answer?"}
+{"passage_id": "860-0", "question_type": "descriptive", "anchor": "What spell lets me ask a god or divine servant one question, with the answer possibly a cryptic rhyme, and costs incense?"}
+{"passage_id": "1388-0", "question_type": "lookup", "anchor": "Can I simply choose a sentient magic item's alignment instead of rolling on the table?"}
+{"passage_id": "1388-0", "question_type": "paraphrase", "anchor": "Does a talking magic item have to have a moral outlook at all?"}
+{"passage_id": "1388-0", "question_type": "descriptive", "anchor": "What talking enchanted item's moral leaning might come from who made it or what it is?"}
+{"passage_id": "1388-0", "question_type": "table", "anchor": "What alignment does a sentient magic item get on a d100 roll of 60?"}
+{"passage_id": "511-0", "question_type": "lookup", "anchor": "Which feat comes with the Criminal background?"}
+{"passage_id": "511-0", "question_type": "paraphrase", "anchor": "If I pick the Criminal background, what two skills do I become proficient in?"}
+{"passage_id": "511-0", "question_type": "descriptive", "anchor": "Which background lets me choose between a bundle of daggers, thieves' tools and a crowbar, or 50 gold?"}
+{"passage_id": "360-1", "question_type": "lookup", "anchor": "Which school of magic is Darkvision in on the Ranger spell list?"}
+{"passage_id": "360-1", "question_type": "paraphrase", "anchor": "Which spells on a Ranger's list belong to the protective, warding school of magic?"}
+{"passage_id": "360-1", "question_type": "descriptive", "anchor": "Which class's spell options include Animal Messenger, Barkskin and Spike Growth?"}
+{"passage_id": "360-1", "question_type": "table", "anchor": "What is the Special column entry for Silence on the Ranger spell list?"}
+{"passage_id": "311-2", "question_type": "lookup", "anchor": "Which class feature does a Paladin gain at level 9?"}
+{"passage_id": "311-2", "question_type": "paraphrase", "anchor": "At what Paladin level do I get to boost my ability scores?"}
+{"passage_id": "311-2", "question_type": "descriptive", "anchor": "At which holy-warrior level do I get nine prepared spells and a Proficiency Bonus of +4?"}
+{"passage_id": "311-2", "question_type": "table", "anchor": "How many level 2 spell slots does a Paladin have at level 8?"}
+{"passage_id": "519-0", "question_type": "lookup", "anchor": "Do I get every special trait listed for my species, or only some of them?"}
+{"passage_id": "519-0", "question_type": "paraphrase", "anchor": "Are some of a species' traits a choice from a few options rather than automatic?"}
+{"passage_id": "519-0", "question_type": "descriptive", "anchor": "What unique abilities come from my character's body or magical origin when I pick their heritage?"}
+{"passage_id": "961-0", "question_type": "lookup", "anchor": "How far can a creature jump each turn under the Jump spell?"}
+{"passage_id": "961-0", "question_type": "paraphrase", "anchor": "If I cast Jump with a bigger spell slot, how many more friends can I boost?"}
+{"passage_id": "961-0", "question_type": "descriptive", "anchor": "What first-level spell takes a bonus action to cast and needs a grasshopper's hind leg as a material?"}
+{"passage_id": "348-0", "question_type": "lookup", "anchor": "Which Ranger subclass is described right after the class's own description?"}
+{"passage_id": "348-0", "question_type": "paraphrase", "anchor": "At Ranger level 3, do I get to pick a specialty path, and then keep getting its perks as I level up?"}
+{"passage_id": "348-0", "question_type": "descriptive", "anchor": "Which third-level pick for a woodland fighter lets me choose a specialty that unlocks features as I climb levels?"}
+{"passage_id": "1269-0", "question_type": "lookup", "anchor": "Does Tremorsense count as a form of sight for rules purposes?"}
+{"passage_id": "1269-0", "question_type": "paraphrase", "anchor": "Can my Tremorsense sense a monster through the floor if we're both touching the same ground or water?"}
+{"passage_id": "1269-0", "question_type": "descriptive", "anchor": "What sense lets a creature pinpoint nearby creatures or moving things by feeling vibrations through the ground, walls or water?"}
+{"passage_id": "377-0", "question_type": "lookup", "anchor": "Which Rogue subclass is described right after the class's own description?"}
+{"passage_id": "377-0", "question_type": "paraphrase", "anchor": "When my rogue hits level 3, do I pick a specialty path that adds perks as I keep leveling?"}
+{"passage_id": "377-0", "question_type": "descriptive", "anchor": "At what level does a rogue choose a specialization that grants extra features at set levels?"}
+{"passage_id": "1447-0", "question_type": "lookup", "anchor": "How many attacks does the Dancing Sword make before it flies back to me?"}
+{"passage_id": "1447-0", "question_type": "paraphrase", "anchor": "Can I use a bonus action to move my Dancing Sword to another spot while it's floating?"}
+{"passage_id": "1447-0", "question_type": "descriptive", "anchor": "What enchanted blade can I toss into the air so it hovers and strikes foes on its own, then returns to my hand?"}
+{"passage_id": "197-0", "question_type": "lookup", "anchor": "Where do members of the Bard's College of Lore gather to share their knowledge?"}
+{"passage_id": "197-0", "question_type": "paraphrase", "anchor": "What kinds of sources does a College of Lore bard gather spells and secrets from?"}
+{"passage_id": "197-0", "question_type": "descriptive", "anchor": "Which bardic tradition is known for scholars who expose corruption and mock self-important officials?"}

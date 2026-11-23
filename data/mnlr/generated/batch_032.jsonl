@@ -1,0 +1,84 @@
+{"passage_id": "1189-0", "question_type": "lookup", "anchor": "What happens to a creature in flight if its Fly Speed is reduced to 0?"}
+{"passage_id": "1189-0", "question_type": "paraphrase", "anchor": "If my character gets Incapacitated while in the air, do they fall out of the sky?"}
+{"passage_id": "1189-0", "question_type": "descriptive", "anchor": "What rule says a creature in the air can stay aloft if it can hover, even when knocked down?"}
+{"passage_id": "1138-0", "question_type": "lookup", "anchor": "Can a creature with Blindsight sense an Invisible creature within its range?"}
+{"passage_id": "1138-0", "question_type": "paraphrase", "anchor": "If I'm Blinded but have Blindsight, can I still see a monster hiding behind total cover?"}
+{"passage_id": "1138-0", "question_type": "descriptive", "anchor": "What sense lets a creature perceive things nearby without using its eyes, even in darkness?"}
+{"passage_id": "1789-1", "question_type": "lookup", "anchor": "How many legendary action uses does an Adult Blue Dragon have when it is in its lair?"}
+{"passage_id": "1789-1", "question_type": "paraphrase", "anchor": "When does an Adult Blue Dragon get its used legendary actions back?"}
+{"passage_id": "1789-1", "question_type": "descriptive", "anchor": "Which legendary option makes a dragon cast Invisibility on itself and then fly partway?"}
+{"passage_id": "2450-0", "question_type": "lookup", "anchor": "How many Hit Points does a Spy have?"}
+{"passage_id": "2450-0", "question_type": "paraphrase", "anchor": "How fast can a Spy climb up a sheer wall?"}
+{"passage_id": "2450-0", "question_type": "descriptive", "anchor": "Which neutral humanoid has a bonus action that lets it Dash, Disengage, or Hide?"}
+{"passage_id": "2450-0", "question_type": "table", "anchor": "What does a Spy add to Charisma saves?"}
+{"passage_id": "389-0", "question_type": "lookup", "anchor": "How long must a Rogue wait to use Stroke of Luck again after using it?"}
+{"passage_id": "389-0", "question_type": "paraphrase", "anchor": "If my Rogue misses a roll, can Stroke of Luck bump the result up to a 20?"}
+{"passage_id": "389-0", "question_type": "descriptive", "anchor": "What level 20 Rogue capstone lets you turn a failed d20 roll into a 20?"}
+{"passage_id": "1048-0", "question_type": "lookup", "anchor": "What material component does the Sending spell require?"}
+{"passage_id": "1048-0", "question_type": "paraphrase", "anchor": "If I cast Sending to reach someone on another plane, how likely is the message to get lost?"}
+{"passage_id": "1048-0", "question_type": "descriptive", "anchor": "What spell lets me send a short telepathic message of 25 words or fewer to someone I have met?"}
+{"passage_id": "1335-0", "question_type": "lookup", "anchor": "What Constitution save DC does the sample injury poison priced at 1,200 GP require?"}
+{"passage_id": "1335-0", "question_type": "paraphrase", "anchor": "If a poison that costs 1,200 GP gets me and I fail, how much Poison damage do I take?"}
+{"passage_id": "1335-0", "question_type": "descriptive", "anchor": "What injury poison makes a creature roll Constitution against DC 14 and take 7d6 Poison damage on a failed save?"}
+{"passage_id": "848-0", "question_type": "lookup", "anchor": "What is the range of Delayed Blast Fireball?"}
+{"passage_id": "848-0", "question_type": "paraphrase", "anchor": "If I upcast Delayed Blast Fireball with a level 9 slot, how much does its base damage go up?"}
+{"passage_id": "848-0", "question_type": "descriptive", "anchor": "What level 7 spell makes a glowing bead that explodes in a 20-foot sphere and grows more damaging each turn?"}
+{"passage_id": "233-1", "question_type": "lookup", "anchor": "Does Wild Shape let a Druid keep its memories and ability to speak?"}
+{"passage_id": "233-1", "question_type": "paraphrase", "anchor": "Can my Druid turn into a flying animal with Wild Shape at 8th level?"}
+{"passage_id": "233-1", "question_type": "descriptive", "anchor": "What druid feature lets me turn into an animal I know, with a limit on how strong that animal can be?"}
+{"passage_id": "233-1", "question_type": "table", "anchor": "How many Wild Shape forms can a Druid know at level 4?"}
+{"passage_id": "396-0", "question_type": "lookup", "anchor": "What is a Sorcerer's primary ability?"}
+{"passage_id": "396-0", "question_type": "paraphrase", "anchor": "Which two kinds of saves does a Sorcerer get proficiency in?"}
+{"passage_id": "396-0", "question_type": "descriptive", "anchor": "Which class relies on Charisma, rolls a d6 for hit points, and wields only simple weapons?"}
+{"passage_id": "396-0", "question_type": "table", "anchor": "In the Starting Equipment row, how much gold does option B give a Sorcerer?"}
+{"passage_id": "2547-0", "question_type": "lookup", "anchor": "How many Hit Points does a Weretiger have?"}
+{"passage_id": "2547-0", "question_type": "paraphrase", "anchor": "If a Weretiger's bite gets a humanoid and it fails the Constitution save, what happens?"}
+{"passage_id": "2547-0", "question_type": "descriptive", "anchor": "Which lycanthrope monster can move without provoking Opportunity Attacks and then try to Hide as a bonus action?"}
+{"passage_id": "2547-0", "question_type": "table", "anchor": "What does a Weretiger add to Dexterity saves?"}
+{"passage_id": "1745-0", "question_type": "lookup", "anchor": "What is a Basilisk's walking Speed in feet?"}
+{"passage_id": "1745-0", "question_type": "paraphrase", "anchor": "If a Basilisk's Petrifying Gaze gets me and I fail, what's the first condition I'd get?"}
+{"passage_id": "1745-0", "question_type": "descriptive", "anchor": "What monster's gaze can turn a creature to stone after two failed saves within a 30-foot cone?"}
+{"passage_id": "1745-0", "question_type": "table", "anchor": "How smart is a Basilisk, as an Intelligence score?"}
+{"passage_id": "1562-0", "question_type": "lookup", "anchor": "How long must I wait before summoning a djinni again with a Ring of Djinni Summoning?"}
+{"passage_id": "1562-0", "question_type": "paraphrase", "anchor": "If the djinni summoned by my Ring of Djinni Summoning dies, does the ring keep working?"}
+{"passage_id": "1562-0", "question_type": "descriptive", "anchor": "What legendary ring lets its wearer call a genie from the Elemental Plane of Air that obeys commands?"}
+{"passage_id": "484-2", "question_type": "lookup", "anchor": "Under Wizard Spellcasting, how much gold does it cost to copy a new spell into my spellbook per spell level?"}
+{"passage_id": "484-2", "question_type": "paraphrase", "anchor": "How long does it take and what does it cost to copy one of my Wizard spells into a backup book?"}
+{"passage_id": "484-2", "question_type": "descriptive", "anchor": "What wizard procedure lets me rebuild my spellbook after losing it, by transcribing the spells I have prepared?"}
+{"passage_id": "1190-0", "question_type": "lookup", "anchor": "What three things end a creature's time in the air when it has a flying speed?"}
+{"passage_id": "1190-0", "question_type": "paraphrase", "anchor": "Can a character with a flying speed actually cover ground by moving through the air?"}
+{"passage_id": "1190-0", "question_type": "descriptive", "anchor": "What movement rating lets a creature travel through the sky instead of walking?"}
+{"passage_id": "455-0", "question_type": "lookup", "anchor": "What Warlock level is needed for the invocation that lets a named creature drop to 1 Hit Point instead of dying?"}
+{"passage_id": "455-0", "question_type": "paraphrase", "anchor": "How can I erase a creature's name from the Book of Shadows page I made with my invocation?"}
+{"passage_id": "455-0", "question_type": "descriptive", "anchor": "How many creatures can be written on the protective page of my Book of Shadows, and what stat sets that number?"}
+{"passage_id": "107-0", "question_type": "lookup", "anchor": "What is the third step when making a new character?"}
+{"passage_id": "107-0", "question_type": "paraphrase", "anchor": "When making a character, what two things make up the origin step?"}
+{"passage_id": "107-0", "question_type": "descriptive", "anchor": "What step in building a character is about picking a moral compass?"}
+{"passage_id": "1140-0", "question_type": "lookup", "anchor": "How many bonus actions can I take in a single turn?"}
+{"passage_id": "1140-0", "question_type": "paraphrase", "anchor": "Can I use a bonus action on the same turn I take my regular action?"}
+{"passage_id": "1140-0", "question_type": "descriptive", "anchor": "Do I automatically get a second, quick action each turn, or only when a rule explicitly grants one?"}
+{"passage_id": "2221-0", "question_type": "lookup", "anchor": "How many Hit Points does a Steam Mephit have?"}
+{"passage_id": "2221-0", "question_type": "paraphrase", "anchor": "If I'm underwater and a Steam Mephit's steam burns me, do I resist the fire damage?"}
+{"passage_id": "2221-0", "question_type": "descriptive", "anchor": "Which small neutral evil elemental has attacks against it made with Disadvantage unless it is Incapacitated?"}
+{"passage_id": "2221-0", "question_type": "table", "anchor": "What is a Steam Mephit's Strength modifier?"}
+{"passage_id": "1649-2", "question_type": "lookup", "anchor": "What condition does a Wand of Wonder give me when its 21-25 result does nothing?"}
+{"passage_id": "1649-2", "question_type": "paraphrase", "anchor": "If my Wand of Wonder zap does nothing at the spot I aimed for, what do I end up believing?"}
+{"passage_id": "1649-2", "question_type": "descriptive", "anchor": "What wand gives random magical effects from a d100 table, sometimes with no effect at all?"}
+{"passage_id": "1649-2", "question_type": "table", "anchor": "On a Wand of Wonder's 1d100 table, which roll range produces the result where nothing happens?"}
+{"passage_id": "596-0", "question_type": "lookup", "anchor": "How much does Cook's Utensils weigh?"}
+{"passage_id": "596-0", "question_type": "paraphrase", "anchor": "With Cook's Utensils, what's the DC to tell that food has gone bad or been poisoned?"}
+{"passage_id": "596-0", "question_type": "descriptive", "anchor": "What cooking kit lets you check food for poison, make it taste better, and craft rations?"}
+{"passage_id": "58-0", "question_type": "lookup", "anchor": "How many actions can I take on my turn in combat?"}
+{"passage_id": "58-0", "question_type": "paraphrase", "anchor": "If I want to open a chest and pull a lever on my turn, does the second one cost my action?"}
+{"passage_id": "58-0", "question_type": "descriptive", "anchor": "In a fight, can I talk to my allies briefly during my turn without spending an action?"}
+{"passage_id": "1171-0", "question_type": "lookup", "anchor": "How much extra movement does the Dash action give me?"}
+{"passage_id": "1171-0", "question_type": "paraphrase", "anchor": "When I use Dash, can I use my flying speed instead of my normal walking speed?"}
+{"passage_id": "1171-0", "question_type": "descriptive", "anchor": "What combat action gives me extra movement equal to my Speed for the turn, after any penalties apply?"}
+{"passage_id": "2361-0", "question_type": "lookup", "anchor": "How fast can a Rust Monster move on the ground?"}
+{"passage_id": "2361-0", "question_type": "paraphrase", "anchor": "If a Rust Monster's Antennae makes my metal armor worse, what spell can undo that penalty?"}
+{"passage_id": "2361-0", "question_type": "descriptive", "anchor": "Which monstrosity can pinpoint nonmagical metal within 30 feet and destroy a 1-foot cube of it by touch?"}
+{"passage_id": "2361-0", "question_type": "table", "anchor": "How weak is a Rust Monster's Charisma score?"}
+{"passage_id": "1723-0", "question_type": "lookup", "anchor": "How many Hit Points does an Axe Beak have?"}
+{"passage_id": "1723-0", "question_type": "paraphrase", "anchor": "How well armored is an Axe Beak, so how hard is it to land a hit?"}
+{"passage_id": "1723-0", "question_type": "descriptive", "anchor": "Which large monstrosity has a 50-foot Speed and a beak attack that deals slashing damage?"}
+{"passage_id": "1723-0", "question_type": "table", "anchor": "What does an Axe Beak add to Constitution saves?"}

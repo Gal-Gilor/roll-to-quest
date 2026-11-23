@@ -1,0 +1,84 @@
+{"passage_id": "175-0", "question_type": "lookup", "anchor": "How many d6s do I roll for the extra damage from the Barbarian's Frenzy feature?"}
+{"passage_id": "175-0", "question_type": "paraphrase", "anchor": "With Frenzy, is the extra damage from a Reckless Attack the same type as my weapon's damage?"}
+{"passage_id": "175-0", "question_type": "descriptive", "anchor": "What Barbarian ability adds bonus damage to my first hit each turn when I go all-out attacking while raging?"}
+{"passage_id": "1387-0", "question_type": "lookup", "anchor": "How do I roll the ability scores for a sentient magic item when I don't pick them myself?"}
+{"passage_id": "1387-0", "question_type": "paraphrase", "anchor": "Which three ability scores does a magic item with its own mind have?"}
+{"passage_id": "1387-0", "question_type": "descriptive", "anchor": "What's a magic item that thinks for itself, and how do I roll its mental stats?"}
+{"passage_id": "10-0", "question_type": "lookup", "anchor": "Can I choose to fail a saving throw without rolling the die?"}
+{"passage_id": "10-0", "question_type": "paraphrase", "anchor": "After I make a saving throw against a spell, where do I find out what happens?"}
+{"passage_id": "10-0", "question_type": "descriptive", "anchor": "What's the roll my character makes to dodge a fiery blast or shrug off a mind-invading spell?"}
+{"passage_id": "1606-1", "question_type": "lookup", "anchor": "What DC does copying a Spell Scroll into a spellbook require on the Intelligence (Arcana) check?"}
+{"passage_id": "1606-1", "question_type": "paraphrase", "anchor": "If I fail copying a Spell Scroll into my spellbook, do I still keep the scroll?"}
+{"passage_id": "1606-1", "question_type": "descriptive", "anchor": "Can a wizard transfer a spell from a magical paper roll into their book, and what happens to the paper afterward?"}
+{"passage_id": "2920-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Swarm of Ravens?"}
+{"passage_id": "2920-0", "question_type": "paraphrase", "anchor": "How fast can a Swarm of Ravens fly, compared with how fast it moves on the ground?"}
+{"passage_id": "2920-0", "question_type": "descriptive", "anchor": "Which tiny bird-like group can squeeze through any opening a small bird fits through and deafen foes?"}
+{"passage_id": "2920-0", "question_type": "table", "anchor": "What is the Charisma save value in a Swarm of Ravens' ability table?"}
+{"passage_id": "196-4", "question_type": "lookup", "anchor": "Which school of magic does the Bard spell Legend Lore belong to?"}
+{"passage_id": "196-4", "question_type": "paraphrase", "anchor": "What kind of magic is the Bard's Raise Dead, the spell that brings someone back from death?"}
+{"passage_id": "196-4", "question_type": "descriptive", "anchor": "Where can I look up every spell a bard can learn, with each spell's school of magic and any special notes?"}
+{"passage_id": "196-4", "question_type": "table", "anchor": "In the Bard level 6 spell table, what school of magic is Heroes' Feast?"}
+{"passage_id": "1053-0", "question_type": "lookup", "anchor": "What is the range of the Shield of Faith spell?"}
+{"passage_id": "1053-0", "question_type": "paraphrase", "anchor": "If I cast Shield of Faith on an ally, how much does it boost their armor?"}
+{"passage_id": "1053-0", "question_type": "descriptive", "anchor": "Which first-level Cleric or Paladin spell gives a chosen creature a shimmering field that adds to its armor?"}
+{"passage_id": "1179-0", "question_type": "lookup", "anchor": "When I have Disadvantage on a D20 Test, which of the two d20 rolls do I use?"}
+{"passage_id": "1179-0", "question_type": "paraphrase", "anchor": "If I have both advantage and disadvantage on the same roll, do they cancel out?"}
+{"passage_id": "1179-0", "question_type": "descriptive", "anchor": "If two separate effects both make my d20 roll harder, do the penalties stack?"}
+{"passage_id": "653-0", "question_type": "lookup", "anchor": "What DC does the Dexterity (Acrobatics) check need when I throw a Grappling Hook at a ledge?"}
+{"passage_id": "653-0", "question_type": "paraphrase", "anchor": "How far away can I toss a Grappling Hook and still have it catch on a railing?"}
+{"passage_id": "653-0", "question_type": "descriptive", "anchor": "What piece of adventuring gear can I throw at a ledge so it catches, letting me climb a tied-on rope?"}
+{"passage_id": "79-0", "question_type": "lookup", "anchor": "Does a melee attack with a weapon underwater get Disadvantage if the weapon deals Piercing damage?"}
+{"passage_id": "79-0", "question_type": "paraphrase", "anchor": "If I fire a ranged weapon underwater at something beyond its normal range, do I automatically miss?"}
+{"passage_id": "79-0", "question_type": "descriptive", "anchor": "When I swing a club at a creature while underwater and I can't swim, what penalty applies to my attack roll?"}
+{"passage_id": "924-0", "question_type": "lookup", "anchor": "How many berries does the Goodberry spell create when cast?"}
+{"passage_id": "924-0", "question_type": "paraphrase", "anchor": "If I cast Goodberry and eat one berry, how much health does it give me?"}
+{"passage_id": "924-0", "question_type": "descriptive", "anchor": "What first-level spell that Druids and Rangers can cast conjures magical berries that sustain you for a day?"}
+{"passage_id": "1883-0", "question_type": "lookup", "anchor": "What is the Armor Class of an Adult Copper Dragon?"}
+{"passage_id": "1883-0", "question_type": "paraphrase", "anchor": "How many times per day can an Adult Copper Dragon turn a failed saving throw into a success?"}
+{"passage_id": "1883-0", "question_type": "descriptive", "anchor": "What huge metallic dragon's acid breath covers a 60-foot-long, 5-foot-wide line?"}
+{"passage_id": "1883-0", "question_type": "table", "anchor": "In an Adult Copper Dragon's ability table, what value is in the Wisdom saving throw column?"}
+{"passage_id": "2481-0", "question_type": "lookup", "anchor": "What are the normal and long ranges of a Tough's Heavy Crossbow?"}
+{"passage_id": "2481-0", "question_type": "paraphrase", "anchor": "How much health does a Tough start with?"}
+{"passage_id": "2481-0", "question_type": "descriptive", "anchor": "Which humanoid gets Advantage on attacks when one of its allies is within 5 feet of the target?"}
+{"passage_id": "2481-0", "question_type": "table", "anchor": "In a Tough's ability score table, what value is listed for Constitution?"}
+{"passage_id": "1472-1", "question_type": "lookup", "anchor": "How long can the Ebony Fly form of a Figurine of Wondrous Power stay as a Giant Fly?"}
+{"passage_id": "1472-1", "question_type": "paraphrase", "anchor": "After I use the Ebony Fly from a Figurine of Wondrous Power, how long before I can use it again?"}
+{"passage_id": "1472-1", "question_type": "descriptive", "anchor": "Which carved statuette transforms into a giant horsefly you can ride?"}
+{"passage_id": "1472-1", "question_type": "table", "anchor": "What Strength score does the Giant Fly stat block from a Figurine of Wondrous Power have?"}
+{"passage_id": "337-0", "question_type": "lookup", "anchor": "How long does Holy Nimbus last after I activate it as a Bonus Action?"}
+{"passage_id": "337-0", "question_type": "paraphrase", "anchor": "With Holy Nimbus, how much radiant damage do foes take when they start their turn in my aura?"}
+{"passage_id": "337-0", "question_type": "descriptive", "anchor": "Which Oath of Devotion feature gives me Advantage on saves forced by fiends and undead?"}
+{"passage_id": "1454-0", "question_type": "lookup", "anchor": "How much does Dragon Scale Mail add to my Armor Class while I wear it?"}
+{"passage_id": "1454-0", "question_type": "paraphrase", "anchor": "Does wearing Dragon Scale Mail give me an edge on saves against a dragon's breath attacks?"}
+{"passage_id": "1454-0", "question_type": "descriptive", "anchor": "What scaled armor from a dragon's hide lets me sense the nearest same-type dragon within 30 miles?"}
+{"passage_id": "1454-0", "question_type": "table", "anchor": "What damage resistance does Dragon Scale Mail give if it's made from a Green dragon?"}
+{"passage_id": "294-0", "question_type": "lookup", "anchor": "Under what condition do I lose the benefit of Evasion?"}
+{"passage_id": "294-0", "question_type": "paraphrase", "anchor": "With Evasion, how much damage do I take when I fail a Dexterity save for half damage?"}
+{"passage_id": "294-0", "question_type": "descriptive", "anchor": "What Monk feature lets me take no damage from a Dexterity-based effect I dodge successfully?"}
+{"passage_id": "112-0", "question_type": "lookup", "anchor": "How many skills does my character's background make me proficient in?"}
+{"passage_id": "112-0", "question_type": "paraphrase", "anchor": "Where do I write down the feat my character gets from their background?"}
+{"passage_id": "112-0", "question_type": "descriptive", "anchor": "Which background suits a new character whose primary ability is Dexterity, according to the character creation chart?"}
+{"passage_id": "112-0", "question_type": "table", "anchor": "Which background does the Ability Scores and Backgrounds table list for Wisdom?"}
+{"passage_id": "1043-1", "question_type": "lookup", "anchor": "What size is the luminous orb that Scrying's sensor looks like to something that can see it?"}
+{"passage_id": "1043-1", "question_type": "paraphrase", "anchor": "When I cast Scrying on a spot I've seen instead of a creature, does the sensor follow anything?"}
+{"passage_id": "1043-1", "question_type": "descriptive", "anchor": "Which spell creates a hidden sensor that follows a target and lets me see and hear through it when they fail a save?"}
+{"passage_id": "1135-0", "question_type": "lookup", "anchor": "What starting attitudes can a monster have toward a player character?"}
+{"passage_id": "1135-0", "question_type": "paraphrase", "anchor": "Besides Friendly, Hostile, and Indifferent, what other glossary term relates to a monster's attitude?"}
+{"passage_id": "1135-0", "question_type": "descriptive", "anchor": "Which rules term describes how a non-player creature initially feels about my adventurer when we first meet?"}
+{"passage_id": "1587-0", "question_type": "lookup", "anchor": "How many Mirror patches does a Robe of Useful Items come with?"}
+{"passage_id": "1587-0", "question_type": "paraphrase", "anchor": "How do I pull a patch off a Robe of Useful Items so it turns into the thing it shows?"}
+{"passage_id": "1587-0", "question_type": "descriptive", "anchor": "What enchanted cloak covered in fabric patches can turn each patch into a real object, and what happens when they're all gone?"}
+{"passage_id": "1587-0", "question_type": "table", "anchor": "What patch does a roll of 60 to 68 on the Robe of Useful Items' d100 table give?"}
+{"passage_id": "1879-0", "question_type": "lookup", "anchor": "How many hit points does a Copper Dragon Wyrmling have?"}
+{"passage_id": "1879-0", "question_type": "paraphrase", "anchor": "How fast can a Copper Dragon Wyrmling fly?"}
+{"passage_id": "1879-0", "question_type": "descriptive", "anchor": "What young metallic dragon's acid breath hits a 20-foot-long, 5-foot-wide line?"}
+{"passage_id": "1879-0", "question_type": "table", "anchor": "In a Copper Dragon Wyrmling's ability table, what Dexterity score is listed?"}
+{"passage_id": "390-0", "question_type": "lookup", "anchor": "What kind of adventuring does the Thief subclass for Rogues focus on, besides agility and stealth?"}
+{"passage_id": "390-0", "question_type": "paraphrase", "anchor": "Does the Rogue Thief subclass make my character sneakier and more nimble?"}
+{"passage_id": "390-0", "question_type": "descriptive", "anchor": "Which rogue subclass blends burglar, treasure hunter, and explorer into one adventurer?"}
+{"passage_id": "725-0", "question_type": "lookup", "anchor": "What do I get from a magic item that requires Attunement if I'm not attuned to it?"}
+{"passage_id": "725-0", "question_type": "paraphrase", "anchor": "If a magic shield needs attunement and I don't bond with it, does it still block like a normal shield?"}
+{"passage_id": "725-0", "question_type": "descriptive", "anchor": "What's the term for the bond a creature must form with a special item before its magic works?"}
+{"passage_id": "2062-1", "question_type": "lookup", "anchor": "How many Legendary Action uses does an Adult Green Dragon have outside its lair?"}
+{"passage_id": "2062-1", "question_type": "paraphrase", "anchor": "When can an Adult Green Dragon use a Legendary Action, relative to another creature's turn?"}
+{"passage_id": "2062-1", "question_type": "descriptive", "anchor": "What legendary dragon action creates a 20-foot poisonous cloud that lowers a foe's AC on a failed Constitution save?"}

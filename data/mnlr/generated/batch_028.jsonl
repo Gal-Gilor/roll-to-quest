@@ -1,0 +1,70 @@
+{"passage_id": "1167-0", "question_type": "lookup", "anchor": "How much damage from one attack gets past a Damage Threshold?"}
+{"passage_id": "1167-0", "question_type": "paraphrase", "anchor": "If a monster's Damage Threshold is 20, does a 15-damage hit reduce its health at all?"}
+{"passage_id": "1167-0", "question_type": "descriptive", "anchor": "Why do some tough monsters take no harm from lots of weak hits, even though they get struck?"}
+{"passage_id": "806-0", "question_type": "lookup", "anchor": "How far away can I choose the point for Call Lightning to strike?"}
+{"passage_id": "806-0", "question_type": "paraphrase", "anchor": "If I'm outdoors in a storm, can Call Lightning take control of that storm instead of making a new one?"}
+{"passage_id": "806-0", "question_type": "descriptive", "anchor": "What druid spell makes a storm cloud overhead and zaps a point I can see with lightning, dealing 3d10 damage?"}
+{"passage_id": "1642-0", "question_type": "lookup", "anchor": "How many charges does a Wand of Magic Detection hold?"}
+{"passage_id": "1642-0", "question_type": "paraphrase", "anchor": "Does a Wand of Magic Detection get its charges back on its own, and how many per day?"}
+{"passage_id": "1642-0", "question_type": "descriptive", "anchor": "What uncommon wand lets me use one of its charges to cast a spell that detects magic while I hold it?"}
+{"passage_id": "1233-0", "question_type": "lookup", "anchor": "What do I have disadvantage on while affected by the Poisoned condition?"}
+{"passage_id": "1233-0", "question_type": "descriptive", "anchor": "What negative condition makes me roll with disadvantage on attack rolls and ability checks?"}
+{"passage_id": "128-0", "question_type": "lookup", "anchor": "When leveling up, what is the least Hit Points I can add when I roll my new Hit Die?"}
+{"passage_id": "128-0", "question_type": "paraphrase", "anchor": "When I level up, do I get an extra die for Hit Points, or can I just take a fixed amount?"}
+{"passage_id": "128-0", "question_type": "descriptive", "anchor": "Which class do most characters keep advancing in when they gain a new level?"}
+{"passage_id": "128-0", "question_type": "table", "anchor": "When leveling up, what fixed Hit Points per level does a Wizard get?"}
+{"passage_id": "1426-0", "question_type": "lookup", "anchor": "What Fly Speed does a Broom of Flying have?"}
+{"passage_id": "1426-0", "question_type": "paraphrase", "anchor": "If I load a Broom of Flying with more than 200 pounds, how fast can it fly?"}
+{"passage_id": "1426-0", "question_type": "descriptive", "anchor": "What flying item lets me send it alone to a place within a mile, then recall it with a command word?"}
+{"passage_id": "424-0", "question_type": "lookup", "anchor": "How much does my Hit Point maximum increase from Draconic Resilience at level 3?"}
+{"passage_id": "424-0", "question_type": "paraphrase", "anchor": "When I'm not wearing armor, how is my Armor Class calculated with Draconic Resilience?"}
+{"passage_id": "424-0", "question_type": "descriptive", "anchor": "What sorcerer feature gives me scales and extra health while I'm not wearing armor, growing a bit with each level?"}
+{"passage_id": "1493-0", "question_type": "lookup", "anchor": "What range does a Helm of Telepathy give its wearer for telepathy?"}
+{"passage_id": "1493-0", "question_type": "paraphrase", "anchor": "How often can my Helm of Telepathy cast Suggestion or Detect Thoughts before it needs to reset?"}
+{"passage_id": "1493-0", "question_type": "descriptive", "anchor": "What uncommon helmet lets its wearer communicate mentally with creatures up to 30 feet away?"}
+{"passage_id": "24-0", "question_type": "lookup", "anchor": "Can I add my proficiency bonus twice to a check if I'm proficient in both skills it uses?"}
+{"passage_id": "24-0", "question_type": "paraphrase", "anchor": "If a feature doubles my proficiency bonus, can another effect double it again on the same roll?"}
+{"passage_id": "24-0", "question_type": "descriptive", "anchor": "Does being trained in two related skills give me a bigger bonus when making a Charisma check?"}
+{"passage_id": "1465-0", "question_type": "lookup", "anchor": "How much does Elven Chain raise my Armor Class while I wear it?"}
+{"passage_id": "1465-0", "question_type": "paraphrase", "anchor": "If I'm not trained with heavy armor, am I still considered trained when wearing Elven Chain?"}
+{"passage_id": "1465-0", "question_type": "descriptive", "anchor": "What rare chain armor gives a +1 bonus to Armor Class and doesn't need heavy armor training?"}
+{"passage_id": "877-0", "question_type": "lookup", "anchor": "What ability do targets of Enthrall use for their saving throw?"}
+{"passage_id": "877-0", "question_type": "paraphrase", "anchor": "How much does Enthrall lower a target's Perception checks when it fails the save?"}
+{"passage_id": "877-0", "question_type": "descriptive", "anchor": "What enchantment spell uses a distracting string of words to hold creatures' attention within 60 feet?"}
+{"passage_id": "2379-0", "question_type": "lookup", "anchor": "What range does a Scout's longbow have, in normal and long range?"}
+{"passage_id": "2379-0", "question_type": "paraphrase", "anchor": "How much health does a Scout start with, in dice terms?"}
+{"passage_id": "2379-0", "question_type": "descriptive", "anchor": "What neutral humanoid fighter armed with a shortsword and longbow has Passive Perception 15?"}
+{"passage_id": "2379-0", "question_type": "table", "anchor": "What bonus does a Scout add to Dexterity saving throws?"}
+{"passage_id": "2322-0", "question_type": "lookup", "anchor": "What Grapple escape DC applies to a Purple Worm's bite?"}
+{"passage_id": "2322-0", "question_type": "paraphrase", "anchor": "How much acid damage does a creature swallowed by a Purple Worm take each turn?"}
+{"passage_id": "2322-0", "question_type": "descriptive", "anchor": "What giant burrowing monster leaves a 10-foot-wide tunnel behind as it digs through solid rock?"}
+{"passage_id": "2322-0", "question_type": "table", "anchor": "What Wisdom saving throw bonus does a Purple Worm have?"}
+{"passage_id": "771-0", "question_type": "lookup", "anchor": "How far away can I cast Alarm from?"}
+{"passage_id": "771-0", "question_type": "paraphrase", "anchor": "Can I tell my Alarm to ignore certain creatures so it doesn't go off for them?"}
+{"passage_id": "771-0", "question_type": "descriptive", "anchor": "What ward either sounds like a handbell or sends a mental ping to wake me when someone enters a guarded door?"}
+{"passage_id": "314-0", "question_type": "lookup", "anchor": "How many Hit Points can Lay On Hands restore in total?"}
+{"passage_id": "314-0", "question_type": "paraphrase", "anchor": "How many points from the Lay On Hands pool does removing the Poisoned condition cost?"}
+{"passage_id": "314-0", "question_type": "descriptive", "anchor": "What paladin ability lets me touch someone as a bonus action to heal them from a pool that refreshes after a long rest?"}
+{"passage_id": "1410-1", "question_type": "table", "anchor": "If a Bag of Tricks lands on a 5 on its d8 roll, what creature appears?"}
+{"passage_id": "1276-0", "question_type": "lookup", "anchor": "Which weapon categories must an object belong to in order to count as a weapon?"}
+{"passage_id": "1276-0", "question_type": "descriptive", "anchor": "Which kind of item counts as arms in the rules if it's in the simple or martial groups?"}
+{"passage_id": "634-0", "question_type": "lookup", "anchor": "How many days of rations are included in a Burglar's Pack?"}
+{"passage_id": "634-0", "question_type": "paraphrase", "anchor": "Does the Burglar's Pack include a lantern and something to start a fire with?"}
+{"passage_id": "634-0", "question_type": "descriptive", "anchor": "What adventuring kit with a crowbar, rope, and ball bearings costs 16 gold?"}
+{"passage_id": "346-0", "question_type": "lookup", "anchor": "How many languages can I choose to know from the Deft Explorer feature?"}
+{"passage_id": "346-0", "question_type": "paraphrase", "anchor": "At level 2 as a Ranger, can Deft Explorer make me especially skilled in a skill I already know?"}
+{"passage_id": "612-0", "question_type": "lookup", "anchor": "What does a lute cost as a Musical Instrument, and how much does it weigh?"}
+{"passage_id": "612-0", "question_type": "paraphrase", "anchor": "Which ability check and DC do I need to play a known tune on a Musical Instrument?"}
+{"passage_id": "612-0", "question_type": "descriptive", "anchor": "Which kind of tool lets me improvise a new song with a DC 15 check?"}
+{"passage_id": "1536-0", "question_type": "lookup", "anchor": "How long does the charmed effect last after I drink a Philter of Love?"}
+{"passage_id": "1536-0", "question_type": "paraphrase", "anchor": "After drinking a Philter of Love, how soon do I need to see a creature for the effect to kick in?"}
+{"passage_id": "1536-0", "question_type": "descriptive", "anchor": "What uncommon potion has a heart-shaped bubble and charms the next creature I see?"}
+{"passage_id": "577-0", "question_type": "lookup", "anchor": "How far can the weapon mastery that slows a creature reduce its Speed?"}
+{"passage_id": "577-0", "question_type": "paraphrase", "anchor": "If I hit the same creature several times with weapons that slow, does its speed keep dropping?"}
+{"passage_id": "577-0", "question_type": "descriptive", "anchor": "What weapon mastery lets a hit that deals damage cut a creature's movement until the start of my next turn?"}
+{"passage_id": "1050-0", "question_type": "lookup", "anchor": "How many Temporary Hit Points do I gain when I cast Shapechange?"}
+{"passage_id": "1050-0", "question_type": "paraphrase", "anchor": "When I turn into a beast using Shapechange, do I keep my intelligence, personality, and ability to talk?"}
+{"passage_id": "1050-0", "question_type": "descriptive", "anchor": "What druid or wizard spell turns me into a creature I've seen before, but not a construct or undead?"}
+{"passage_id": "888-1", "question_type": "lookup", "anchor": "How far can a Find Steed teleport with its Fey Step?"}
+{"passage_id": "888-1", "question_type": "paraphrase", "anchor": "How much health can my Find Steed's Healing Touch restore to someone within 5 feet?"}
+{"passage_id": "888-1", "question_type": "descriptive", "anchor": "What mount ability makes an enemy I can see within 60 feet frightened until the end of my next turn?"}

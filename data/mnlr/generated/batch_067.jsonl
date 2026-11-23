@@ -1,0 +1,81 @@
+{"passage_id": "108-0", "question_type": "lookup", "anchor": "When choosing a class, where can I find the details of each class?"}
+{"passage_id": "108-0", "question_type": "paraphrase", "anchor": "Do I need to write down my chosen class on my character sheet during creation?"}
+{"passage_id": "108-0", "question_type": "descriptive", "anchor": "What's the first step when making a new character, the one where you pick a class?"}
+{"passage_id": "108-0", "question_type": "table", "anchor": "In the Class Overview table, which primary ability does the Paladin class use?"}
+{"passage_id": "606-0", "question_type": "lookup", "anchor": "How much does a set of Woodcarver's Tools weigh in pounds?"}
+{"passage_id": "606-0", "question_type": "paraphrase", "anchor": "What stat do I roll with when using Woodcarver's Tools to carve a pattern in wood?"}
+{"passage_id": "606-0", "question_type": "descriptive", "anchor": "Which artisan's kit do I need to carve a pattern in wood, and what can it craft?"}
+{"passage_id": "1391-0", "question_type": "lookup", "anchor": "What happens to a sentient item's cooperation if its wielder strays from its special purpose?"}
+{"passage_id": "1391-0", "question_type": "paraphrase", "anchor": "For a sentient magic item's goal, can I choose it myself or roll on a table?"}
+{"passage_id": "1391-0", "question_type": "descriptive", "anchor": "How do I give an intelligent magic item one goal it pursues above everything else?"}
+{"passage_id": "510-0", "question_type": "lookup", "anchor": "Which skill proficiencies does the Acolyte background give?"}
+{"passage_id": "510-0", "question_type": "paraphrase", "anchor": "For the Acolyte background, can I skip the gear bundle and take gold instead, and how much?"}
+{"passage_id": "510-0", "question_type": "descriptive", "anchor": "Is there a background that grants Insight and Religion plus a free Cleric magic feat?"}
+{"passage_id": "428-0", "question_type": "lookup", "anchor": "Using Dragon Companion, can I cast Summon Dragon without a Material component?"}
+{"passage_id": "428-0", "question_type": "paraphrase", "anchor": "After using Dragon Companion to cast Summon Dragon for free, when do I get that free cast back?"}
+{"passage_id": "428-0", "question_type": "descriptive", "anchor": "As a Sorcerer, can I change a dragon summoning so it lasts only a minute and doesn't need concentration?"}
+{"passage_id": "224-0", "question_type": "lookup", "anchor": "With Supreme Healing, what number do I use for each healing die instead of rolling?"}
+{"passage_id": "224-0", "question_type": "paraphrase", "anchor": "Does Supreme Healing also boost heals from my divine channeling, not just from spells?"}
+{"passage_id": "224-0", "question_type": "descriptive", "anchor": "At what cleric level do my healing spells always restore the maximum on each die under the Life Domain?"}
+{"passage_id": "1651-0", "question_type": "lookup", "anchor": "Does the Weapon of Warning's alarm wake someone sleeping under magical sleep when combat begins?"}
+{"passage_id": "1651-0", "question_type": "paraphrase", "anchor": "How close do my friends have to stand to get the Weapon of Warning's initiative edge?"}
+{"passage_id": "1651-0", "question_type": "descriptive", "anchor": "Which uncommon magic weapon wakes sleeping allies when combat begins and gives them advantage on initiative?"}
+{"passage_id": "1883-1", "question_type": "lookup", "anchor": "How many legendary action uses does an Adult Copper Dragon get when it's in its lair?"}
+{"passage_id": "1883-1", "question_type": "paraphrase", "anchor": "When an Adult Copper Dragon's spell targets me, what number must I beat to resist?"}
+{"passage_id": "1883-1", "question_type": "descriptive", "anchor": "What dragon can cast Greater Restoration once per day and blasts with psychic damage when using its Giggling Magic?"}
+{"passage_id": "121-0", "question_type": "lookup", "anchor": "When working out ability modifiers at character creation, what do I write next to each score?"}
+{"passage_id": "121-0", "question_type": "paraphrase", "anchor": "What's the bonus or penalty for a 3 when I go through ability modifiers at character creation?"}
+{"passage_id": "121-0", "question_type": "table", "anchor": "On the Ability Scores and Modifiers table, which score values give a +2 modifier?"}
+{"passage_id": "121-0", "question_type": "descriptive", "anchor": "After assigning my character's ability scores, how do I work out each one's modifier?"}
+{"passage_id": "710-0", "question_type": "lookup", "anchor": "How much does the lifestyle where you survive on chance and charity cost?"}
+{"passage_id": "710-0", "question_type": "paraphrase", "anchor": "Living on chance and charity, how do people keep going day to day?"}
+{"passage_id": "710-0", "question_type": "descriptive", "anchor": "Which free lifestyle has me sleeping outside and facing natural dangers, relying on luck and kindness?"}
+{"passage_id": "2932-0", "question_type": "lookup", "anchor": "What is the Armor Class of a Triceratops?"}
+{"passage_id": "2932-0", "question_type": "paraphrase", "anchor": "If a Triceratops charges 20 feet straight at me and its Gore hits, do I end up knocked down?"}
+{"passage_id": "2932-0", "question_type": "descriptive", "anchor": "What Huge dinosaur beast has two Gore attacks, a challenge rating of 5, and 114 hit points?"}
+{"passage_id": "2932-0", "question_type": "table", "anchor": "In the Triceratops stat table, what Intelligence score does it have?"}
+{"passage_id": "711-0", "question_type": "lookup", "anchor": "How much does the bare-minimum lifestyle cost each day in silver pieces?"}
+{"passage_id": "711-0", "question_type": "paraphrase", "anchor": "Living on the bare minimum, what kinds of dangers do I face from illness and crooks?"}
+{"passage_id": "711-0", "question_type": "descriptive", "anchor": "Which lifestyle means I spend only the bare minimum on basic necessities?"}
+{"passage_id": "763-0", "question_type": "lookup", "anchor": "Under the rules for spell targets, can a caster target a creature behind Total Cover?"}
+{"passage_id": "763-0", "question_type": "paraphrase", "anchor": "Do I keep my spell slot if I pick a target a spell can't affect?"}
+{"passage_id": "763-0", "question_type": "descriptive", "anchor": "Can I choose myself as the target of a spell that lets me pick any creature?"}
+{"passage_id": "1463-0", "question_type": "lookup", "anchor": "How long does the elemental from an Elemental Gem last before it disappears?"}
+{"passage_id": "1463-0", "question_type": "paraphrase", "anchor": "After I smash an Elemental Gem, can I order the elemental around, and when does it act?"}
+{"passage_id": "1463-0", "question_type": "descriptive", "anchor": "Which uncommon wondrous gem can be broken with a Utilize action to summon a helper elemental?"}
+{"passage_id": "1463-0", "question_type": "table", "anchor": "For an Elemental Gem, which elemental is summoned by a yellow diamond?"}
+{"passage_id": "545-0", "question_type": "lookup", "anchor": "What's the prerequisite for the Two-Weapon Fighting feat?"}
+{"passage_id": "545-0", "question_type": "paraphrase", "anchor": "With Two-Weapon Fighting, can I add my ability modifier to the damage of my off-hand swing?"}
+{"passage_id": "545-0", "question_type": "descriptive", "anchor": "Which feat helps a character who fights with two light weapons, as a fighting style choice?"}
+{"passage_id": "1553-0", "question_type": "lookup", "anchor": "How many years does drinking a Potion of Longevity take off my physical age?"}
+{"passage_id": "1553-0", "question_type": "paraphrase", "anchor": "If I drink another Potion of Longevity later on, is there a chance it ages me instead?"}
+{"passage_id": "1553-0", "question_type": "descriptive", "anchor": "Which very rare potion has a tiny beating heart suspended in amber liquid that vanishes when opened?"}
+{"passage_id": "472-3", "question_type": "lookup", "anchor": "What is the highest spell level covered by the Warlock Spell List?"}
+{"passage_id": "472-3", "question_type": "paraphrase", "anchor": "What type of magic is Etherealness on the Warlock Spell List?"}
+{"passage_id": "472-3", "question_type": "descriptive", "anchor": "Which spell level has Befuddlement, Demiplane and Glibness among its options for a warlock?"}
+{"passage_id": "472-3", "question_type": "table", "anchor": "On the Warlock Spell List's level 9 table, what school is True Polymorph from?"}
+{"passage_id": "936-0", "question_type": "lookup", "anchor": "What material component does the Haste spell require?"}
+{"passage_id": "936-0", "question_type": "paraphrase", "anchor": "After Haste wears off, can my ally move at all on their next turn?"}
+{"passage_id": "936-0", "question_type": "descriptive", "anchor": "What spell doubles someone's walking speed and gives them an extra action each turn, for up to a minute?"}
+{"passage_id": "1720-0", "question_type": "lookup", "anchor": "How many feet per turn does an Awakened Tree move?"}
+{"passage_id": "1720-0", "question_type": "paraphrase", "anchor": "Does fire do extra harm to an Awakened Tree?"}
+{"passage_id": "1720-0", "question_type": "descriptive", "anchor": "What huge plant creature has a Slam attack that deals 3d6 plus 4 bludgeoning damage with 10-foot reach?"}
+{"passage_id": "1720-0", "question_type": "table", "anchor": "What does an Awakened Tree add to Strength saves?"}
+{"passage_id": "603-0", "question_type": "lookup", "anchor": "How much does Smith's Tools weigh?"}
+{"passage_id": "603-0", "question_type": "paraphrase", "anchor": "If I use Smith's Tools to pry open a stuck door, how hard is the check?"}
+{"passage_id": "603-0", "question_type": "descriptive", "anchor": "Which artisan's tools let me craft heavy armor and iron spikes, using Strength?"}
+{"passage_id": "460-0", "question_type": "lookup", "anchor": "What warlock level do I need before I can take the invocation that lets me cast Alter Self without a spell slot?"}
+{"passage_id": "460-0", "question_type": "paraphrase", "anchor": "Can my warlock use Alter Self with no spell slot cost once they have the Master of Myriad Forms invocation?"}
+{"passage_id": "460-0", "question_type": "descriptive", "anchor": "Is there a warlock invocation I can pick at level 5 that lets me cast a spell for free, without a spell slot?"}
+{"passage_id": "1085-0", "question_type": "lookup", "anchor": "How far away can I target something with Telekinesis?"}
+{"passage_id": "1085-0", "question_type": "paraphrase", "anchor": "When I yank a creature with Telekinesis, does it stay stuck in place until my next turn?"}
+{"passage_id": "1085-0", "question_type": "descriptive", "anchor": "Which spell lets a caster move objects by thought, and can someone holding an item resist me pulling it away?"}
+{"passage_id": "963-0", "question_type": "lookup", "anchor": "How long does it take to cast Legend Lore?"}
+{"passage_id": "963-0", "question_type": "paraphrase", "anchor": "If I ask Legend Lore about something nobody has heard of, what do I hear and does it work?"}
+{"passage_id": "963-0", "question_type": "descriptive", "anchor": "What divination spell gives a summary of a famous person or object's lore, and gets more detailed the more I already know?"}
+{"passage_id": "1821-1", "question_type": "lookup", "anchor": "What spell attack bonus does an Adult Bronze Dragon have?"}
+{"passage_id": "1821-1", "question_type": "paraphrase", "anchor": "If I fail to resist an Adult Bronze Dragon's thunder blast, how much damage do I take and am I deafened?"}
+{"passage_id": "1821-1", "question_type": "descriptive", "anchor": "Which dragon can cast Speak with Animals at will and read minds once per day?"}
+{"passage_id": "324-0", "question_type": "lookup", "anchor": "How far does the Aura of Protection extend from me?"}
+{"passage_id": "324-0", "question_type": "paraphrase", "anchor": "If I'm knocked out, does my Aura of Protection keep helping my friends?"}
+{"passage_id": "324-0", "question_type": "descriptive", "anchor": "As a paladin, how do I give nearby allies a bonus to saving throws equal to my Charisma modifier?"}

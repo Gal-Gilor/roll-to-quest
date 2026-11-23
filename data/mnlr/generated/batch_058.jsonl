@@ -1,0 +1,81 @@
+{"passage_id": "685-0", "question_type": "lookup", "anchor": "What DC must I beat on a Dexterity (Sleight of Hand) check to tie a knot with Rope?"}
+{"passage_id": "685-0", "question_type": "paraphrase", "anchor": "Which roll would let a strong character snap a Rope apart?"}
+{"passage_id": "685-0", "question_type": "descriptive", "anchor": "If I tie up a creature's legs with cord, what condition does it get, and how does it wriggle free?"}
+{"passage_id": "367-0", "question_type": "lookup", "anchor": "Which armor types does a Rogue gain training with?"}
+{"passage_id": "367-0", "question_type": "paraphrase", "anchor": "What kind of die do I roll for my health each time I level up as a Rogue?"}
+{"passage_id": "367-0", "question_type": "descriptive", "anchor": "Which class relies on Dexterity, picks four skills from a long list, and can use finesse weapons?"}
+{"passage_id": "367-0", "question_type": "table", "anchor": "In a Rogue's core traits, what do the Weapon Proficiencies say besides simple weapons?"}
+{"passage_id": "2587-0", "question_type": "lookup", "anchor": "What Armor Class does a Wraith have?"}
+{"passage_id": "2587-0", "question_type": "paraphrase", "anchor": "Can a Wraith zip through the air at a good clip?"}
+{"passage_id": "2587-0", "question_type": "descriptive", "anchor": "Which undead creature can move through other creatures and objects and lowers a victim's maximum Hit Points with its touch?"}
+{"passage_id": "2587-0", "question_type": "table", "anchor": "How high is a Wraith's Constitution ability score?"}
+{"passage_id": "580-3", "question_type": "lookup", "anchor": "Which weapon mastery property does the Whip have?"}
+{"passage_id": "580-3", "question_type": "paraphrase", "anchor": "How hard does a War Pick hit when it connects?"}
+{"passage_id": "580-3", "question_type": "descriptive", "anchor": "Is there a light, finesse, curved blade with slashing damage and Nick mastery?"}
+{"passage_id": "580-3", "question_type": "table", "anchor": "What does a Trident cost and how much does it weigh?"}
+{"passage_id": "1446-0", "question_type": "lookup", "anchor": "What Constitution save DC does a Dagger of Venom's poison use?"}
+{"passage_id": "1446-0", "question_type": "paraphrase", "anchor": "How soon can the Dagger of Venom be used to poison a blade again after I've done it once?"}
+{"passage_id": "1446-0", "question_type": "descriptive", "anchor": "Which rare magic dagger lets me coat its blade with poison as a Bonus Action?"}
+{"passage_id": "17-0", "question_type": "lookup", "anchor": "How is a creature's base Armor Class calculated?"}
+{"passage_id": "17-0", "question_type": "paraphrase", "anchor": "If two features both change how my Armor Class is worked out, can I stack them?"}
+{"passage_id": "17-0", "question_type": "descriptive", "anchor": "Where does a monster's defense number come from, versus how a player character gets theirs?"}
+{"passage_id": "763-1", "question_type": "lookup", "anchor": "What does an invalid spell target seem to do when a spell normally has no effect on a creature that saves?"}
+{"passage_id": "763-1", "question_type": "paraphrase", "anchor": "Does an invalid spell target give away any clue that it's immune to my spell?"}
+{"passage_id": "763-1", "question_type": "descriptive", "anchor": "When a spell does nothing to a creature that isn't a valid target, what does the caster notice?"}
+{"passage_id": "694-0", "question_type": "lookup", "anchor": "How much does a Tent cost to buy?"}
+{"passage_id": "694-0", "question_type": "paraphrase", "anchor": "Is there room for three friends to crash in one Tent?"}
+{"passage_id": "694-0", "question_type": "descriptive", "anchor": "What portable camping shelter sleeps up to two Small or Medium travelers?"}
+{"passage_id": "113-0", "question_type": "lookup", "anchor": "Can I spend coins I gain while choosing starting equipment right away?"}
+{"passage_id": "113-0", "question_type": "paraphrase", "anchor": "Where does my starting gear come from: my class, my background, or both?"}
+{"passage_id": "113-0", "question_type": "descriptive", "anchor": "When building my new hero, where do I write down the gear I picked and the coins I have left?"}
+{"passage_id": "1005-0", "question_type": "lookup", "anchor": "How far away can I cast Phantom Steed?"}
+{"passage_id": "1005-0", "question_type": "paraphrase", "anchor": "Once I'm mounted on a Phantom Steed, how fast can it run?"}
+{"passage_id": "1005-0", "question_type": "descriptive", "anchor": "Which illusion spell conjures a big horse-like mount, usable as a ritual, that lasts for an hour?"}
+{"passage_id": "1368-0", "question_type": "lookup", "anchor": "If a magic weapon's description doesn't name a weapon type, who decides what it is?"}
+{"passage_id": "1368-0", "question_type": "paraphrase", "anchor": "Do arrows fired from a magic bow count as magical for rules purposes?"}
+{"passage_id": "1368-0", "question_type": "descriptive", "anchor": "Must a magical sword or bow always be of one specific kind, or can its kind be left open?"}
+{"passage_id": "679-0", "question_type": "lookup", "anchor": "How many silver pieces does a Pouch cost?"}
+{"passage_id": "679-0", "question_type": "paraphrase", "anchor": "Is there a weight limit on what I can stuff in a Pouch?"}
+{"passage_id": "679-0", "question_type": "descriptive", "anchor": "What small container costs 5 silver and holds up to 6 pounds of stuff?"}
+{"passage_id": "2852-0", "question_type": "lookup", "anchor": "What is a Piranha's swimming speed?"}
+{"passage_id": "2852-0", "question_type": "paraphrase", "anchor": "Can a Piranha breathe air if it gets pulled onto land?"}
+{"passage_id": "2852-0", "question_type": "descriptive", "anchor": "Which tiny swimming beast gets advantage on its bite against a target that's already hurt?"}
+{"passage_id": "2852-0", "question_type": "table", "anchor": "How much does a Piranha add to Strength saves?"}
+{"passage_id": "2075-0", "question_type": "lookup", "anchor": "How many Hit Points does a Grick have?"}
+{"passage_id": "2075-0", "question_type": "paraphrase", "anchor": "When a Grick grabs me with its tentacles, how hard is it to wriggle free?"}
+{"passage_id": "2075-0", "question_type": "descriptive", "anchor": "Which Medium aberration makes a beak attack and a tentacle attack in one turn?"}
+{"passage_id": "2075-0", "question_type": "table", "anchor": "What does a Grick add to Wisdom saves?"}
+{"passage_id": "447-0", "question_type": "lookup", "anchor": "What level must a Warlock be to take Devil's Sight?"}
+{"passage_id": "447-0", "question_type": "paraphrase", "anchor": "How far out can Devil's Sight let me see through darkness?"}
+{"passage_id": "447-0", "question_type": "descriptive", "anchor": "Which warlock power lets me see normally in dim light and darkness, whether magical or not?"}
+{"passage_id": "1608-0", "question_type": "lookup", "anchor": "How many charges does a Staff of Charming hold when new?"}
+{"passage_id": "1608-0", "question_type": "paraphrase", "anchor": "If I use the last charge on my Staff of Charming, what's the chance it crumbles?"}
+{"passage_id": "1608-0", "question_type": "descriptive", "anchor": "What rare staff can turn a failed save against an enchantment that targets only me into a success once until the next dawn?"}
+{"passage_id": "647-0", "question_type": "lookup", "anchor": "How much does a Diplomat's Pack cost?"}
+{"passage_id": "647-0", "question_type": "paraphrase", "anchor": "Does a Diplomat's Pack come with paper and parchment, and how many sheets of each?"}
+{"passage_id": "647-0", "question_type": "descriptive", "anchor": "What adventuring kit includes a chest, fine clothes, perfume and a tinderbox?"}
+{"passage_id": "1214-0", "question_type": "lookup", "anchor": "What are the two kinds of jumping in the rules?"}
+{"passage_id": "1214-0", "question_type": "paraphrase", "anchor": "Where do I look up the specifics of a long jump?"}
+{"passage_id": "1214-0", "question_type": "descriptive", "anchor": "When my character leaps, does the game ask for a horizontal or vertical version of the leap?"}
+{"passage_id": "532-0", "question_type": "lookup", "anchor": "Can I take a feat more than once if its description doesn't say it's repeatable?"}
+{"passage_id": "532-0", "question_type": "paraphrase", "anchor": "If a feature lets me take a feat, do I still have to meet the feat's requirements?"}
+{"passage_id": "532-0", "question_type": "descriptive", "anchor": "When a rule tells me to choose a feat from a specific group, where must that group be written?"}
+{"passage_id": "1457-0", "question_type": "lookup", "anchor": "How many pinches of dust does a Dust of Dryness hold?"}
+{"passage_id": "1457-0", "question_type": "paraphrase", "anchor": "Is there a size limit on the water one pinch can turn into a pellet?"}
+{"passage_id": "1457-0", "question_type": "descriptive", "anchor": "What powder can I sprinkle on a watery elemental to deal necrotic damage?"}
+{"passage_id": "1121-0", "question_type": "lookup", "anchor": "What kinds of tags can appear in brackets after a glossary entry's name?"}
+{"passage_id": "1121-0", "question_type": "paraphrase", "anchor": "If the glossary doesn't list an old term from an earlier edition, where should I look?"}
+{"passage_id": "1121-0", "question_type": "descriptive", "anchor": "In a rule that says what happens to 'you', who or what is that 'you'?"}
+{"passage_id": "247-0", "question_type": "lookup", "anchor": "Using Natural Recovery, how many spell-slot levels can a level 6 Druid get back on a Short Rest?"}
+{"passage_id": "247-0", "question_type": "paraphrase", "anchor": "With Natural Recovery, how long must I rest before I can cast a Circle spell free again?"}
+{"passage_id": "247-0", "question_type": "descriptive", "anchor": "Which level 6 Druid ability lets me regain some spell slots after a brief rest?"}
+{"passage_id": "781-0", "question_type": "lookup", "anchor": "What material component does Antimagic Field need?"}
+{"passage_id": "781-0", "question_type": "paraphrase", "anchor": "If I'm standing inside Antimagic Field, can I teleport out of the bubble?"}
+{"passage_id": "781-0", "question_type": "descriptive", "anchor": "Which level 8 spell makes a 10-foot bubble around me where spells and magic items stop working?"}
+{"passage_id": "2637-0", "question_type": "lookup", "anchor": "What is a Boar's Speed?"}
+{"passage_id": "2637-0", "question_type": "paraphrase", "anchor": "When a Boar runs at me from far away and gores me, does it knock me down?"}
+{"passage_id": "2637-0", "question_type": "descriptive", "anchor": "Which wild pig gets advantage on attacks once it's badly wounded?"}
+{"passage_id": "2637-0", "question_type": "table", "anchor": "How smart is a Boar, as an Intelligence score?"}
+{"passage_id": "536-0", "question_type": "lookup", "anchor": "How often can Savage Attacker let me reroll my weapon damage dice?"}
+{"passage_id": "536-0", "question_type": "paraphrase", "anchor": "Does Savage Attacker let me add my two damage rolls together, or pick one?"}
+{"passage_id": "536-0", "question_type": "descriptive", "anchor": "Which origin feat lets me roll my weapon's damage dice twice and use either result?"}

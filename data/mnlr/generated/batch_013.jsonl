@@ -1,0 +1,85 @@
+{"passage_id": "410-0", "question_type": "lookup", "anchor": "With Arcane Apotheosis, how many Metamagic options can I use each turn without spending Sorcery Points?"}
+{"passage_id": "410-0", "question_type": "paraphrase", "anchor": "With Arcane Apotheosis, can my level 20 Sorcerer use metamagic tweaks each turn while Innate Sorcery is on without paying points?"}
+{"passage_id": "410-0", "question_type": "descriptive", "anchor": "Which level 20 Sorcerer power lets me use metamagic freely while Innate Sorcery is running?"}
+{"passage_id": "1730-1", "question_type": "lookup", "anchor": "How far can a Balor's Flame Whip pull a Huge or smaller target toward it?"}
+{"passage_id": "1730-1", "question_type": "paraphrase", "anchor": "If a Balor's Lightning Blade hits me, when can I use my reaction again?"}
+{"passage_id": "1730-1", "question_type": "descriptive", "anchor": "Which demon has a whip that yanks foes up to 25 feet and knocks them prone?"}
+{"passage_id": "329-0", "question_type": "lookup", "anchor": "After the Aura Expansion feature at level 18, how big is the Paladin's Aura of Protection?"}
+{"passage_id": "329-0", "question_type": "paraphrase", "anchor": "Does the Aura Expansion feature change the reach of my Paladin's protective aura at level 18?"}
+{"passage_id": "329-0", "question_type": "descriptive", "anchor": "At what level does a Paladin's protective aura grow to a 30-foot Emanation?"}
+{"passage_id": "170-0", "question_type": "lookup", "anchor": "At Barbarian level 17, how much extra damage does Improved Brutal Strike add to a Brutal Strike?"}
+{"passage_id": "170-0", "question_type": "paraphrase", "anchor": "With Improved Brutal Strike, can my Barbarian use two different Brutal Strike effects each time they use the feature?"}
+{"passage_id": "170-0", "question_type": "descriptive", "anchor": "Which level 17 Barbarian upgrade lets me use two different strike effects at once?"}
+{"passage_id": "115-0", "question_type": "lookup", "anchor": "During character creation, does the step about imagining your past ask whether your character grew up with a pet?"}
+{"passage_id": "115-0", "question_type": "paraphrase", "anchor": "When I work out my character's backstory from their background and species, what questions should I answer?"}
+{"passage_id": "115-0", "question_type": "descriptive", "anchor": "Which character creation step has me think about a childhood best friend and whether my character joined a guild or religion?"}
+{"passage_id": "588-0", "question_type": "lookup", "anchor": "With tool proficiency, what bonus do I add to ability checks made with a tool I'm proficient with?"}
+{"passage_id": "588-0", "question_type": "paraphrase", "anchor": "With tool proficiency, if I'm also skilled in the related skill, do I get Advantage on the check?"}
+{"passage_id": "588-0", "question_type": "descriptive", "anchor": "Do monsters need special training with tools, or do their stat blocks already grant proficiency with any tool they use?"}
+{"passage_id": "243-3", "question_type": "lookup", "anchor": "Which spells on the Druid spell list belong to the Conjuration school?"}
+{"passage_id": "243-3", "question_type": "paraphrase", "anchor": "Does the Druid spell list have a spell that brings the dead back to life, and what school is it from?"}
+{"passage_id": "243-3", "question_type": "descriptive", "anchor": "Which Druid spells are Evocation spells, such as Daylight and Wind Wall?"}
+{"passage_id": "243-3", "question_type": "table", "anchor": "In the Druid spell list table, which school is the Plant Growth row listed under?"}
+{"passage_id": "331-2", "question_type": "lookup", "anchor": "Which spells on the Paladin spell list belong to the Abjuration school?"}
+{"passage_id": "331-2", "question_type": "paraphrase", "anchor": "Does the Paladin spell list include a spell that brings the dead back to life, and what school is it?"}
+{"passage_id": "331-2", "question_type": "descriptive", "anchor": "Which spell on a Paladin's list belongs to the Enchantment school?"}
+{"passage_id": "331-2", "question_type": "table", "anchor": "In the Paladin spell list table, what does the Special column show for Dispel Evil and Good?"}
+{"passage_id": "67-0", "question_type": "lookup", "anchor": "With cover, how much does Three-Quarters Cover add to AC and Dexterity saving throws?"}
+{"passage_id": "67-0", "question_type": "paraphrase", "anchor": "If I'm behind two sources of cover, do their bonuses stack, or does only the best one count?"}
+{"passage_id": "67-0", "question_type": "descriptive", "anchor": "If an object covers the whole target, can an attacker still aim directly at it?"}
+{"passage_id": "67-0", "question_type": "table", "anchor": "In the Cover table, what kind of object offers Total cover in the Offered By column?"}
+{"passage_id": "2475-2", "question_type": "lookup", "anchor": "How many Legendary Action uses does the Tarrasque have, and when do they refresh?"}
+{"passage_id": "2475-2", "question_type": "paraphrase", "anchor": "Do creatures caught in the Tarrasque's shockwave lose Concentration and fall prone?"}
+{"passage_id": "2475-2", "question_type": "descriptive", "anchor": "Which legendary move lets a giant monster move its full Speed and then blast a 60-foot wave?"}
+{"passage_id": "147-9", "question_type": "lookup", "anchor": "In the character creation trinkets table, what item comes up on a roll of 89?"}
+{"passage_id": "147-9", "question_type": "paraphrase", "anchor": "If I roll 98 on the random trinket list for my character, what do I get?"}
+{"passage_id": "147-9", "question_type": "descriptive", "anchor": "Which random item is a tiny mechanical crab or spider that moves when nobody is watching?"}
+{"passage_id": "147-9", "question_type": "table", "anchor": "On the character creation trinkets table, what is in the Trinket column for a roll of 91?"}
+{"passage_id": "884-0", "question_type": "lookup", "anchor": "With False Life cast using a first-level slot, how many Temporary Hit Points do I gain?"}
+{"passage_id": "884-0", "question_type": "paraphrase", "anchor": "If I cast False Life with a higher-level spell slot, how much extra temporary health do I get?"}
+{"passage_id": "884-0", "question_type": "descriptive", "anchor": "What first-level Sorcerer and Wizard spell takes one Action to cast and lasts instantaneously?"}
+{"passage_id": "1649-13", "question_type": "lookup", "anchor": "How long do leaves from a Wand of Wonder stay on a creature before they fall off?"}
+{"passage_id": "1649-13", "question_type": "paraphrase", "anchor": "Which creature do leaves from a Wand of Wonder sprout from, when I target a point?"}
+{"passage_id": "1649-13", "question_type": "descriptive", "anchor": "Which random wand effect covers a creature in leaves that dry out and drop after a day?"}
+{"passage_id": "1649-13", "question_type": "table", "anchor": "In the Wand of Wonder table, what is the Effect for the 73-77 row?"}
+{"passage_id": "929-1", "question_type": "lookup", "anchor": "With Guards and Wards, how many corridors can get Dancing Lights?"}
+{"passage_id": "929-1", "question_type": "paraphrase", "anchor": "If someone tears down the webs on my warded stairs in Guards and Wards, how soon do they regrow?"}
+{"passage_id": "929-1", "question_type": "descriptive", "anchor": "Which spell can fill stairs with webs and place a mental suggestion on a square that anyone entering receives?"}
+{"passage_id": "1483-0", "question_type": "lookup", "anchor": "How big a bonus do Gloves of Swimming and Climbing give to Athletics checks to climb or swim?"}
+{"passage_id": "1483-0", "question_type": "paraphrase", "anchor": "Do Gloves of Swimming and Climbing give me a swim speed equal to my normal Speed?"}
+{"passage_id": "1483-0", "question_type": "descriptive", "anchor": "Which uncommon glove needs attunement and gives me climbing and swimming speeds equal to my Speed?"}
+{"passage_id": "1649-8", "question_type": "lookup", "anchor": "If a Wand of Wonder enlarge effect targets someone who can't be affected by Enlarge/Reduce, who becomes the target instead?"}
+{"passage_id": "1649-8", "question_type": "paraphrase", "anchor": "Does a Wand of Wonder roll that makes the closest creature grow work like the Enlarge/Reduce spell?"}
+{"passage_id": "1649-8", "question_type": "descriptive", "anchor": "Is there a random magic wand effect that enlarges the nearest creature, and who else could it land on?"}
+{"passage_id": "1649-8", "question_type": "table", "anchor": "In the Wand of Wonder table, what is the Effect for the 51-55 row?"}
+{"passage_id": "1127-0", "question_type": "lookup", "anchor": "In the rules glossary, what is an Adventure made up of?"}
+{"passage_id": "1127-0", "question_type": "paraphrase", "anchor": "Is the story in an Adventure written in advance, or does it come out of playing the encounters?"}
+{"passage_id": "1127-0", "question_type": "descriptive", "anchor": "What rules term describes a sequence of encounters that a group plays through to tell a story?"}
+{"passage_id": "1479-0", "question_type": "lookup", "anchor": "How far does Truesight reach when I peer through a Gem of Seeing?"}
+{"passage_id": "1479-0", "question_type": "paraphrase", "anchor": "When does a Gem of Seeing recharge, and how many charges does it get back?"}
+{"passage_id": "1479-0", "question_type": "descriptive", "anchor": "Which rare gem gives me Truesight for ten minutes when I spend a Magic action?"}
+{"passage_id": "1498-0", "question_type": "lookup", "anchor": "How many hours a day can a horse travel with Horseshoes of a Zephyr without gaining Exhaustion?"}
+{"passage_id": "1498-0", "question_type": "paraphrase", "anchor": "Do Horseshoes of a Zephyr let my horse cross lava or water without sinking?"}
+{"passage_id": "1498-0", "question_type": "descriptive", "anchor": "What magic shoes for a horse let it float above the ground and leave no tracks?"}
+{"passage_id": "1678-0", "question_type": "lookup", "anchor": "How many Experience Points is a monster with Challenge Rating 5 worth?"}
+{"passage_id": "1678-0", "question_type": "paraphrase", "anchor": "If a monster is summoned by a spell, how many XP do I get for beating it?"}
+{"passage_id": "1678-0", "question_type": "descriptive", "anchor": "For a monster with a challenge rating of zero, what range of XP is awarded?"}
+{"passage_id": "1678-0", "question_type": "table", "anchor": "In the Experience Points by Challenge Rating table, how many XP is a Challenge Rating of one-quarter worth?"}
+{"passage_id": "136-0", "question_type": "lookup", "anchor": "For a character starting at level 11 to 16, how many Uncommon magic items does the higher-level starting equipment table give?"}
+{"passage_id": "136-0", "question_type": "paraphrase", "anchor": "If my GM lets me start at level 3, do I get extra gold on top of normal starting equipment?"}
+{"passage_id": "136-0", "question_type": "descriptive", "anchor": "Who decides whether my character starts with more than the normal gear for level 1?"}
+{"passage_id": "136-0", "question_type": "table", "anchor": "In the starting equipment at higher levels table, what equipment and money does a character starting at level 17 get?"}
+{"passage_id": "1315-0", "question_type": "lookup", "anchor": "Which ability score do fear effects usually test with a saving throw?"}
+{"passage_id": "1315-0", "question_type": "paraphrase", "anchor": "Under fear effects, if I'm Frightened, do I get another save at the end of each turn?"}
+{"passage_id": "1315-0", "question_type": "descriptive", "anchor": "How hard is the save against a harmless but terrifying apparition appearing when a sarcophagus opens?"}
+{"passage_id": "1315-0", "question_type": "table", "anchor": "In the Sample Fear DCs table, what save DC applies when a portal to the Abyss opens?"}
+{"passage_id": "2594-0", "question_type": "lookup", "anchor": "How much piercing damage does a Xorn's Bite do on a hit?"}
+{"passage_id": "2594-0", "question_type": "paraphrase", "anchor": "Can a Xorn dig through rock and dirt without leaving a tunnel behind?"}
+{"passage_id": "2594-0", "question_type": "descriptive", "anchor": "Which medium elemental can sense precious metals and gems within 60 feet of itself?"}
+{"passage_id": "2594-0", "question_type": "table", "anchor": "In the Xorn's ability table, what is the Save column for Constitution?"}
+{"passage_id": "62-0", "question_type": "lookup", "anchor": "When splitting your movement in a turn, can I use some of it before and after an action?"}
+{"passage_id": "62-0", "question_type": "paraphrase", "anchor": "Splitting my movement, if my Speed is 30 feet, can I walk 10 feet, attack, then walk 20?"}
+{"passage_id": "62-0", "question_type": "descriptive", "anchor": "Can I move around my bonus action or reaction in the same turn too?"}
+{"passage_id": "488-0", "question_type": "lookup", "anchor": "At level 3, which example Wizard subclass is detailed after the class description?"}
+{"passage_id": "488-0", "question_type": "paraphrase", "anchor": "Once I pick my Wizard subclass at level 3, do I keep getting its features as I level up?"}
+{"passage_id": "488-0", "question_type": "descriptive", "anchor": "Which level 3 Wizard choice lets me pick a specialization that grants features as I level up?"}

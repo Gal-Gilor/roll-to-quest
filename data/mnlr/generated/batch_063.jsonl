@@ -1,0 +1,77 @@
+{"passage_id": "1076-0", "question_type": "lookup", "anchor": "How large is the radius of the cloud that Storm of Vengeance creates?"}
+{"passage_id": "1076-0", "question_type": "paraphrase", "anchor": "If I cast Storm of Vengeance, how much damage do the hailstones do on the fourth turn?"}
+{"passage_id": "1076-0", "question_type": "descriptive", "anchor": "Which high-level spell calls down a cloud that rains acid and hail and throws lightning bolts over several turns?"}
+{"passage_id": "798-0", "question_type": "lookup", "anchor": "Does the ground covered by Black Tentacles count as Difficult Terrain?"}
+{"passage_id": "798-0", "question_type": "paraphrase", "anchor": "How can a creature caught in Black Tentacles get itself free of the grip?"}
+{"passage_id": "798-0", "question_type": "descriptive", "anchor": "Which spell fills a square patch of ground with writhing dark limbs that hold creatures in place and slow their movement?"}
+{"passage_id": "252-0", "question_type": "lookup", "anchor": "What features does a Fighter receive at level 1, besides the core traits?"}
+{"passage_id": "252-0", "question_type": "paraphrase", "anchor": "As a brand-new first-level Fighter, which traits do I automatically get from the core list?"}
+{"passage_id": "252-0", "question_type": "descriptive", "anchor": "When a new character takes up the martial class at level 1, which traits and features do they get?"}
+{"passage_id": "204-0", "question_type": "lookup", "anchor": "Where are a Cleric's first-level features listed?"}
+{"passage_id": "204-0", "question_type": "paraphrase", "anchor": "As a brand-new Cleric, which traits and features do I gain right away?"}
+{"passage_id": "204-0", "question_type": "descriptive", "anchor": "Which divine spellcasting class gets Spellcasting and Divine Order at level 1?"}
+{"passage_id": "204-0", "question_type": "table", "anchor": "How many spells can a Cleric prepare at character level 1?"}
+{"passage_id": "551-0", "question_type": "lookup", "anchor": "When casting with a level 1-4 slot under Boon of Spell Recall, what die roll saves the slot?"}
+{"passage_id": "551-0", "question_type": "paraphrase", "anchor": "With Boon of Spell Recall, is there a chance a low-level slot isn't used up when I cast a spell with it?"}
+{"passage_id": "551-0", "question_type": "descriptive", "anchor": "Which epic feat lets a high-level caster get a chance to keep a spell slot when casting, and boosts a spellcasting ability score?"}
+{"passage_id": "2322-1", "question_type": "lookup", "anchor": "What Constitution save DC must a Purple Worm meet to keep from regurgitating swallowed creatures?"}
+{"passage_id": "2322-1", "question_type": "paraphrase", "anchor": "How much damage from inside a Purple Worm in a single turn forces it to roll to spit out what it swallowed?"}
+{"passage_id": "2322-1", "question_type": "descriptive", "anchor": "When a giant worm that has swallowed people is slain, how far can the victims crawl out of its corpse?"}
+{"passage_id": "787-0", "question_type": "lookup", "anchor": "How long does an Arcanist's Magic Aura illusion last by default?"}
+{"passage_id": "787-0", "question_type": "paraphrase", "anchor": "If I cast Arcanist's Magic Aura on the same target 30 days in a row, how long does it last?"}
+{"passage_id": "787-0", "question_type": "descriptive", "anchor": "Which second-level illusion can make a magic item look nonmagical to detection spells?"}
+{"passage_id": "995-0", "question_type": "lookup", "anchor": "How far can Mislead's illusory double move with a Magic action?"}
+{"passage_id": "995-0", "question_type": "paraphrase", "anchor": "If I swing at something while using Mislead, do I stay invisible?"}
+{"passage_id": "995-0", "question_type": "descriptive", "anchor": "Which level 5 illusion makes a duplicate of me appear while I turn invisible, letting me see and hear through the copy?"}
+{"passage_id": "1529-0", "question_type": "lookup", "anchor": "How long does the Etherealness effect from Oil of Etherealness last?"}
+{"passage_id": "1529-0", "question_type": "paraphrase", "anchor": "How long does it take to apply Oil of Etherealness to a creature and its gear?"}
+{"passage_id": "1529-0", "question_type": "descriptive", "anchor": "What potion coats a creature in cloudy gray oil so it becomes ethereal for an hour?"}
+{"passage_id": "1590-1", "question_type": "lookup", "anchor": "What bonus does the Rod of Lordly Might give to Strength (Athletics) checks when it becomes a battering ram?"}
+{"passage_id": "1590-1", "question_type": "paraphrase", "anchor": "How much weight can the Rod of Lordly Might hold when it's stretched into a climbing pole?"}
+{"passage_id": "1590-1", "question_type": "descriptive", "anchor": "Which magic rod can drain necrotic energy from a creature I hit in melee, usable again after dawn?"}
+{"passage_id": "1195-0", "question_type": "lookup", "anchor": "What does the rules glossary say a hazard is?"}
+{"passage_id": "1195-0", "question_type": "paraphrase", "anchor": "Besides the hazard entry, what other glossary terms cover dangers like falling and suffocating?"}
+{"passage_id": "1195-0", "question_type": "descriptive", "anchor": "What glossary term means an environmental danger, with related entries for falling and suffocation?"}
+{"passage_id": "1907-0", "question_type": "lookup", "anchor": "How high is a Darkmantle's Armor Class?"}
+{"passage_id": "1907-0", "question_type": "paraphrase", "anchor": "How much health does a Darkmantle start a fight with?"}
+{"passage_id": "1907-0", "question_type": "descriptive", "anchor": "Which small flying creature can attach to a victim, cover it, and leave it blinded and suffocating?"}
+{"passage_id": "1907-0", "question_type": "table", "anchor": "How much does a Darkmantle add to its Wisdom saving throws?"}
+{"passage_id": "415-0", "question_type": "lookup", "anchor": "How much does it cost in Sorcery Points to use Extended Spell?"}
+{"passage_id": "415-0", "question_type": "paraphrase", "anchor": "With Extended Spell, what's the longest a spell's duration can be stretched?"}
+{"passage_id": "415-0", "question_type": "descriptive", "anchor": "Which sorcerer option lets me double a long-lasting spell's duration and gives Advantage on saves to keep Concentration?"}
+{"passage_id": "1649-17", "question_type": "lookup", "anchor": "When a Wand of Wonder casts Polymorph, how is the new form chosen?"}
+{"passage_id": "1649-17", "question_type": "paraphrase", "anchor": "Could a Wand of Wonder roll turn the nearest foe into a frog or a bear?"}
+{"passage_id": "1649-17", "question_type": "descriptive", "anchor": "Which random wand effect polymorphs the creature closest to a chosen spot into a bear, wasp, or frog?"}
+{"passage_id": "1649-17", "question_type": "table", "anchor": "On a Wand of Wonder d100 roll of 93 to 97, which spell is cast and on which creature?"}
+{"passage_id": "1087-1", "question_type": "lookup", "anchor": "How much Force damage does each creature take from a Teleport mishap?"}
+{"passage_id": "1087-1", "question_type": "paraphrase", "anchor": "When a Teleport goes badly and drops me in a look-alike spot, where exactly do I end up?"}
+{"passage_id": "1087-1", "question_type": "descriptive", "anchor": "Which travel spell can misfire and drop my group in a lookalike room, hurting each of us with Force damage?"}
+{"passage_id": "1084-0", "question_type": "lookup", "anchor": "How large an area can a Symbol glyph cover?"}
+{"passage_id": "1084-0", "question_type": "paraphrase", "anchor": "How much does the diamond dust for a Symbol cost, and is it used up when I cast it?"}
+{"passage_id": "1084-0", "question_type": "descriptive", "anchor": "Which seventh-level spell hides a trap glyph in a book or chest that can make creatures sleep or be stunned?"}
+{"passage_id": "1273-0", "question_type": "lookup", "anchor": "When is a space considered unoccupied in the game rules?"}
+{"passage_id": "1273-0", "question_type": "paraphrase", "anchor": "Is an empty square with a crate partly in it still counted as an unoccupied space?"}
+{"passage_id": "1273-0", "question_type": "descriptive", "anchor": "What condition has to hold for a square to count as empty, based on creatures and objects in it?"}
+{"passage_id": "2466-0", "question_type": "lookup", "anchor": "How many attacks can a Storm Giant make with its Multiattack?"}
+{"passage_id": "2466-0", "question_type": "paraphrase", "anchor": "How much damage does a Storm Giant's long-range lightning bolt deal on a hit?"}
+{"passage_id": "2466-0", "question_type": "descriptive", "anchor": "Which huge giant can breathe water as well as air and calls down a lightning cylinder that recharges on a 5 or 6?"}
+{"passage_id": "2466-0", "question_type": "table", "anchor": "Is a Storm Giant's Charisma modifier higher than +3?"}
+{"passage_id": "2420-1", "question_type": "lookup", "anchor": "How many times per day can a Solar use Divine Aid?"}
+{"passage_id": "2420-1", "question_type": "paraphrase", "anchor": "How many extra moves does a Solar get to use right after another creature's turn?"}
+{"passage_id": "2420-1", "question_type": "descriptive", "anchor": "Which creature with legendary actions can teleport up to 60 feet and then burst in radiant light?"}
+{"passage_id": "462-0", "question_type": "lookup", "anchor": "At what Warlock level can I take the One with Shadows invocation?"}
+{"passage_id": "462-0", "question_type": "paraphrase", "anchor": "With One with Shadows, can I turn myself invisible in dim light without using a spell slot?"}
+{"passage_id": "462-0", "question_type": "descriptive", "anchor": "Which eldritch invocation lets a Warlock cast Invisibility on itself without a spell slot while in dim light?"}
+{"passage_id": "2602-0", "question_type": "lookup", "anchor": "How many Hit Points does an Ogre Zombie have?"}
+{"passage_id": "2602-0", "question_type": "paraphrase", "anchor": "When I drop an Ogre Zombie to zero health, how does it try to get back up?"}
+{"passage_id": "2602-0", "question_type": "descriptive", "anchor": "Which large undead creature can survive at 1 Hit Point after a Constitution save, unless the damage was radiant or a critical hit?"}
+{"passage_id": "2602-0", "question_type": "table", "anchor": "How nimble is an Ogre Zombie, as a Dexterity score?"}
+{"passage_id": "74-0", "question_type": "lookup", "anchor": "What size must a mount be compared to its rider in mounted combat?"}
+{"passage_id": "74-0", "question_type": "paraphrase", "anchor": "Can I use a creature the same size as me as a mount in combat?"}
+{"passage_id": "74-0", "question_type": "descriptive", "anchor": "What rules cover letting a big willing creature carry a rider into a fight?"}
+{"passage_id": "143-0", "question_type": "lookup", "anchor": "Which class features get special rules when you multiclass, like Extra Attack and Spellcasting?"}
+{"passage_id": "143-0", "question_type": "paraphrase", "anchor": "If I take a new level in a class while multiclassing, do I still get that class's features for that level?"}
+{"passage_id": "143-0", "question_type": "descriptive", "anchor": "If I mix classes, are there special rules for the abilities that give me a different way to figure my armor class?"}
+{"passage_id": "1616-0", "question_type": "lookup", "anchor": "How long must I wait before using the Staff of the Python's property again after reverting the snake?"}
+{"passage_id": "1616-0", "question_type": "paraphrase", "anchor": "If the snake from the Staff of the Python drops to zero Hit Points, what happens to the staff?"}
+{"passage_id": "1616-0", "question_type": "descriptive", "anchor": "Which magic staff can be thrown to become a giant snake that I mentally control and that acts right after my turn?"}
