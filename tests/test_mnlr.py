@@ -4,6 +4,7 @@ from src.mnlr.assembly import apply_verdicts
 from src.mnlr.assembly import split_by_section
 from src.mnlr.passages import MAX_PASSAGE_CHARS
 from src.mnlr.passages import Passage
+from src.mnlr.passages import compact_tables
 from src.mnlr.passages import drop_near_duplicates
 from src.mnlr.passages import entity_name
 from src.mnlr.passages import extract_passages
@@ -238,3 +239,35 @@ def test_apply_verdicts_keeps_easy_rows_and_accepted_hard_rows():
     kept = apply_verdicts(rows, {1: "accept", 2: "reject"}, hard_rank=4)
 
     assert kept == [rows[0], rows[1]]
+
+
+def test_compact_tables_removes_padding_and_shortens_delimiters():
+    table = (
+        "Intro text  stays   as is.\n"
+        "| Level | Spell Slots Level 1 |  Notes |\n"
+        "|-------|:-------------------:|-------:|\n"
+        "| 5     | 4                   |        |"
+    )
+
+    assert compact_tables(table) == (
+        "Intro text  stays   as is.\n"
+        "| Level | Spell Slots Level 1 | Notes |\n"
+        "| - | :-: | -: |\n"
+        "| 5 | 4 | |"
+    )
+
+
+def test_extract_passages_compacts_tables_without_changing_ids():
+    rows = "\n".join(f"| {i:<5} | {'x' * 40:<60} |" for i in range(40))
+    content = f"| Level | Text {' ' * 55} |\n|-------|{'-' * 62}|\n{rows}"
+    graph = nx.DiGraph()
+    graph.add_node(
+        "1", label="Class", header="Wizard", breadcrumb="Classes > Wizard", content=content
+    )
+
+    passages = extract_passages(graph)
+
+    assert [p.passage_id for p in passages] == [
+        f"1-{i}" for i in range(len(split_text(content)))
+    ]
+    assert all("  " not in p.text and "--" not in p.text for p in passages)

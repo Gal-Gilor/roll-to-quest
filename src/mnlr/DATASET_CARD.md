@@ -27,7 +27,7 @@ configs:
 
 Question-passage pairs from the Dungeons & Dragons 5th Edition System Reference Document v5.2.1, for training and evaluating embedding models with MultipleNegativesRankingLoss.
 
-The passages come from the SRD Markdown, split into sections by header with [markdown-chunkify](https://github.com/Gal-Gilor/markdown-chunkify). An entry keeps its subsections, so a monster's passage holds its whole stat block with its traits and actions. Entries longer than about 400 tokens are split into passages on paragraph boundaries, and tables keep their header rows in every piece.
+The passages come from the SRD Markdown, split into sections by header with [markdown-chunkify](https://github.com/Gal-Gilor/markdown-chunkify). An entry keeps its subsections, so a monster's passage holds its whole stat block with its traits and actions. Entries longer than 1,600 characters are split into passages on paragraph boundaries, and tables keep their header rows in every piece. Table cells are written without padding (`| 5 | +3 |`, with delimiter rows `| - |`). With the `bge-small-en-v1.5` tokenizer, passages have a median of 145 tokens, and 4 of the 2,202 are over 512 tokens (the longest is 522), so a model with a 512-token input loses the end of those 4.
 
 ## Size
 
